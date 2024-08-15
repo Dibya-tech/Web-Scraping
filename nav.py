@@ -17,8 +17,6 @@ chrome_options.add_argument("--incognito")
 # chrome_options.add_argument("--no-sandbox")
 # chrome_options.add_argument("--disable-extensions")
 
-
-
 def links_iterator(filter,filter_tag):
     driver = webdriver.Chrome(chrome_options)
     # Open the GDACS website
@@ -125,7 +123,8 @@ def filterWiseFunCall():
     
 def main():
     filterWiseFunCall()
-    os.system("shutdown /s /t 1") 
+    # Shutdown system
+    # os.system("shutdown /s /t 1") 
     
 if __name__ == "__main__":
     main()
