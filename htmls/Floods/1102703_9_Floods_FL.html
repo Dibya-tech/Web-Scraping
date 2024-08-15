@@ -1,0 +1,1114 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Overall Green Flood alert  in Philippines from 14 Jun 2024 01:00 UTC to 10 Jul 2024 01:00 UTC
+</title><link href="../Content/bootstrap.min.css" rel="stylesheet" /><link href="../Styles/gdacs_2.0.css" rel="stylesheet" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" media="(min-width: 768px) and (max-width: 991px)" href="../Styles/gdacs_device_2.0.css" /><link rel="stylesheet" media="(max-width: 768px)" href="../Styles/gdacs_minidevice_2.0.css" />
+    <script src="https://webtools.europa.eu/load.js" type="text/javascript"></script>
+    <script type="application/json">
+    {
+        "utility":"analytics",
+        "siteID":"770a3ada-ebea-420b-923a-c6490acb21ab",
+        "sitePath":["www.gdacs.org"],
+        "instance":"ec",
+        "mode":"manual"
+    }
+    </script>
+	<script type="application/json">
+	{
+		"utility" : "cck",
+		"url": {
+			"en": "https://my.ec.europa.eu/cookie-policy_en",
+			"de": "https://my.ec.europa.eu/de/cookie-policy"
+		}
+	}
+	</script>
+    <script type="text/javascript" src="/Scripts/jquery-3.6.4.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="/Scripts/Alertlevels/DetailedTable.js"></script>
+<!--    <script type="text/javascript" src="/Scripts/adaptivecard/InformCard.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards/dist/adaptivecards.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptive-expressions@4.12.0/lib/browser.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards-templating/dist/adaptivecards-templating.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
+-->
+    
+    <link rel="stylesheet" href="../scripts/openlayers/3.20.1/ol.css" type="text/css" />
+    <link rel="stylesheet" href="../scripts/openlayers/layerswitcher/ol3-layerswitcher.css" />
+    <link rel="stylesheet" href="../Styles/gdacs_mapstyle.css" />
+    <link rel="stylesheet" href="../Content/themes/base/jquery-ui.min.css" />
+    <link rel="stylesheet" href="../Content/all.css" />
+    <link rel="stylesheet" href="../Styles/timeline_style.css" />
+    <script type="text/javascript" src="../scripts/openlayers/3.20.1/ol.js"></script>
+    <script type="text/javascript" src="../scripts/openlayers/layerswitcher/ol3-layerswitcher.js"></script>
+    <script type="text/javascript" src="../Scripts/FusionCharts/FusionCharts.js"></script>
+    
+    <script type="text/javascript" src="../Scripts/jquery-ui-1.13.2.min.js"></script>
+    <script type="text/javascript" src="../Scripts/highcharts/6.1.3/highcharts.js"></script>
+    <script type="text/javascript" src="../Scripts/Report/highcharts_graph.js"></script>
+
+
+
+   <style type="text/css">
+        .navbar-header{color: #9bc1ce; background-color:#69A7C3; }
+        .navbar-footer{color: #9bc1ce; background-color:transparent;border:none; border-bottom:none;border-color:transparent; }
+        .navbar-report{color: #6d9baf; border-bottom:1px solid; border-color:#6d9baf;min-height: 40px;margin-bottom:15px}
+        .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{color: #ffffff; text-decoration: underline;}
+        .navbar-light .navbar-nav .nav-link{color:#c5d5d8}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {background-color:transparent;text-decoration:underline;color:white;}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .activereport > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.activereport {background-color:transparent;text-decoration:underline;color:#125172;margin: 0px 20px 0 15px}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .report-link> .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.report-link {color: #6d9baf;margin: 0px 20px 0 15px}
+        .report-link {color: #6d9baf;}
+        #footer_home {background-color:#125172;}
+       /*.device-toggler.navbar-toggler .navbar-toggler-icon {
+             background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(75, 255, 0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+        }
+
+    .device-toggler.navbar-toggler {
+      border-color: rgb(75, 255, 0);
+    }
+
+    .device-toggler.navbar-toggler:focus {
+      outline-color: rgb(75, 255, 0);
+    }*/
+    </style>
+    <link href="../Styles/gdacs_2.0_bootstrap4to5.css" rel="stylesheet" />
+	<script type ="text/javascript">
+        $(function () {
+            $('table.generic tr.main_tit').data("current", "main_tit");
+            $('table.generic tr.main_tit').on('click', function () {
+                changeColor(this);
+            });
+        });
+        function changeColor(x) {
+            var _current = $(x).data("current");
+            if (_current == "main_tit") {
+                $(x).data('current', 'main_tit_highlighted');
+                $(".main_tit").css("background-color", "#083c53");
+                $(".generic").css("color", "#000000");
+            }
+            else {
+                $(x).data('current', 'main_tit');
+                $(".main_tit").css("background-color", "#a3b8c1");
+                $(".generic").css("color", "#666666");
+            }
+        }
+
+    </script>
+            
+<!-- Piwik 
+   <script type="text/javascript">
+       if ($wt.cookie.consent.is.choiceMade() && $wt.cookie.consent.is.allAccepted()) {
+           var _paq = _paq || [];
+           /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+           _paq.push(['trackPageView']);
+           _paq.push(['enableLinkTracking']);
+           (function () {
+               var u = "//stats.jrc.ec.europa.eu/";
+               _paq.push(['setTrackerUrl', u + 'piwik.php']);
+               _paq.push(['setSiteId', '319']);
+               var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+               g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore(g, s);
+           })();
+       }
+   </script>
+ End Piwik Code -->
+</head>
+<body>
+    <div id="wrapper_anniversary">
+            
+            <div id="header" class="container-fluid">
+            <div id="top_menu">
+                <style>
+                    @media screen (min-width: 992px) {#main_alert_content .navbar-expand-lg {height:40px;}}
+                </style>
+                <div class="container">
+                    <div class="float-end gdacs_top_menu_content"><a href="../admin" target="_blank">admin</a></div>
+                    <div class="float-end gdacs_top_menu_content"><a href="../gdacsregister" target="_blank">register/login</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/contactus.aspx" >contact us</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/termofuse.aspx" >term of use</a></div>
+                </div>
+            </div>
+            <div id="heading" class="container">
+                <div id="rowhead" class="row">
+                    <div id="gd_logo" class="col-lg-3 gdacs_logo">
+						<img id="gdacs_logo_image" src="../images/gdacs_logo_ecs_medium3.png" />
+					</div>
+                    <div id="gd_statement" class="col-lg-6 gdacs_statement d-none d-lg-block"> GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters.</div>
+                    <div id="gd_uneu" class="col-lg-3 gdacs_uneu d-none d-lg-block">
+						<img src="../images/un_eu.png" />
+					</div>
+                </div>
+            </div>
+            
+        </div>
+        <div id="nopadding" class="container">
+            
+            <div id="topmenu" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-header navbar-fixed-top">
+
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="https://www.gdacs.org/Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>                      
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT</a>
+                    </div>
+                  </div>
+                                                <a class="nav-item nav-link" href="https://www.gdacs.org/anniversary.aspx" style="padding: 0 0 0 0">
+                                <img src="../images/gdacs_20th/gdacs_20_banner.png" alt="Gdacs 20th Anniversary" />
+                            </a>
+                </nav>
+            </div>
+            
+            <div class="row">
+                <div class="report_title col-lg-12" style="margin-left: 15px;">
+                    <span id="ctl00_masterReportTitle"><div id="alert_FL_Green_title_big" ><div class="alert_title">Overall Green alert Flood </div><div class="d-none d-md-block alert_subtitle"> in Philippines</div></div></span>
+                </div>
+            </div>
+            
+            <div id="" class="">
+                <div class="row alert_contents_menu">
+                    <div class="col-lg-12">
+                        <nav id="#eventMenu" class="navbar navbar-expand-lg navbar-light navbar-report">
+                            <button class="navbar-toggler" style="font-size:16px; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavReport" aria-controls="navbarNavReport" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                                DETAILS
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarNavReport">
+                                <ul class="navbar-nav">
+                                    <li class="nav item report-link"><a class="nav-link " href="/report.aspx?eventid=1102703&episodeid=9&eventtype=FL">Summary</a></li><li class="nav item activereport"><a class="nav-link " href="/Floods/report.aspx?eventid=1102703&episodeid=9&eventtype=FL">Impact</a></li><li class="nav item report-link"><a class="nav-link " href="/media.aspx?eventid=1102703&episodeid=9&eventtype=FL">Media</a></li><li class="nav item report-link"><a class="nav-link " href="/resources.aspx?eventid=1102703&episodeid=9&eventtype=FL">Resources</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        
+
+
+                    </div>
+                </div>
+                <form name="aspnetForm" method="post" action="./report.aspx?eventid=1102703&amp;episodeid=9&amp;eventtype=FL" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="95B5FB9B" />
+                    
+    <style>
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            border-bottom: 1px dotted black;
+        }
+
+            .tooltip .tooltiptext {
+                visibility: hidden;
+                width: 120px;
+                background-color: black;
+                color: #fff;
+                text-align: center;
+                border-radius: 6px;
+                padding: 5px 0;
+                position: absolute;
+                z-index: 1;
+                bottom: 100%;
+                left: 50%;
+                margin-left: -60px;
+                /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+                opacity: 0;
+                transition: opacity 1s;
+            }
+
+            .tooltip:hover .tooltiptext {
+                visibility: visible;
+                opacity: 1;
+            }
+    </style>
+    <div class="row alert_contents_first">
+        <div class="col-lg-12">
+            <div class="row">
+                
+                <div class="col-lg-6">
+                    <div id="alert_summary_left">
+                        <h2>Flood impact summary</h2>
+                        <p class="p_summary">This flood is expected to have a <b>low</b> humanitarian impact based on the magnitude and the affected population and their vulnerability.</p><table class="summary"><tr><td>GDACS ID: </td><td class="cell_value_summary">1102703</td></tr><tr><td>Deaths: </td><td class="cell_value_summary">1</td></tr><tr><td>Displaced: </td><td class="cell_value_summary">840</td></tr><tr><td>Region: </td><td class="cell_value_summary">Sultan Kudarat</td></tr><tr><td>Countries: </td><td class="cell_value_summary">Philippines</td></tr><tr><td>From - To </td><td class="cell_value_summary">14 Jun - 10 Jul</td></tr><tr><td>Known identifiers for this event: </td><td class="cell_value_summary"></td></tr></table>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div id="alertbar">
+                        <h2>GDACS Score</h2>
+                        <!--<iframe src="" width="100%" height="120" scrolling="no" frameBorder="0"></iframe>-->
+                        <div id="alertscorebar" class="scorebar"></div>
+                        <div class="map_half_caption">
+                            For more info on GDACS alert score click <a href="../Knowledge/models_fl.aspx" target="_blank">here</a>. 
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <h2>Impact Assessement as of  12-07-2024</h2>
+            </div>
+            <div class="col-lg-12">
+                <div id="sendaiA">    <table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes"    style="width: 100 %; border-collapse:separate; border-spacing: 2px; ">       <tr class="main_tit" width="100%">         <th align="left" width="25%">SENDAI Indicator A</th>         <th width="10%">N</th>         <th width="25%">Country</th>         <th width="30%">Location</th>         <th width="10%">Info</th>       </tr> <tr >         <td>death</td>         <td>1</td>         <td>Philippines</td>         <td>Carmen</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Carmen, Cebu, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>missing</td>         <td>6</td>         <td>Philippines</td>         <td>Carmen</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="6 [people] Missing people in Carmen, Cebu, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> </table></div>
+            </div>
+            <div class="col-lg-12">
+                <div id="sendaIB">   <table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes"    style="width: 100 %; border-collapse:separate; border-spacing: 2px; ">       <tr class="main_tit" width="100%">         <th align="left" width="25%">SENDAI Indicator B</th>         <th width="10%">N</th>         <th width="25%">Country</th>         <th width="30%">Location</th>         <th width="10%">Info</th>       </tr> <tr >         <td>affected</td>         <td>735</td>         <td>Philippines</td>         <td>Roseller Lim</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="735 [people] Affected in Roseller Lim, Zamboanga Sibugay, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>24548</td>         <td>Philippines</td>         <td>Bangsamoro Autonomous Region in Muslim Mindanao</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="24,548 [people] Affected in Bangsamoro Autonomous Region in Muslim Mindanao, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>300</td>         <td>Philippines</td>         <td>Kabacan</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="300 [people] Affected in Kabacan, Cotabato, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>1399</td>         <td>Philippines</td>         <td>Lambayong</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1,399 [people] Affected in Lambayong, Sultan Kudarat, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>379</td>         <td>Philippines</td>         <td>Davao del Sur</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="379 [people] Affected in Davao del Sur, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>1</td>         <td>Philippines</td>         <td>Davao del Sur</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Missing people in Davao del Sur, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>10680</td>         <td>Philippines</td>         <td>Sultan Kudarat</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="10,680 [people] Affected in Sultan Kudarat, Maguindanao, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>280</td>         <td>Philippines</td>         <td>Lugta</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="280 [people] Evacuated in Lugta, Laua-an, Antique, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>175</td>         <td>Philippines</td>         <td>Davao del Sur</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="175 [people] Evacuated in Davao del Sur, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>385</td>         <td>Philippines</td>         <td>San Roque</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="385 [people] Evacuated in San Roque, Barangay San Jose Gusu, Zamboanga City, Zamboanga del Sur, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>10</td>         <td>Philippines</td>         <td>Carmen</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="10 [people] Rescued in Carmen, Cebu, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> </table></div>
+            </div>
+            <div class="col-lg-12">
+                <div id="sendaiC" >    <table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes"    style="width: 100 %; border-collapse:separate; border-spacing: 2px; ">       <tr class="main_tit" width="100%">         <th align="left" width="25%">SENDAI Indicator C</th>         <th width="10%">N</th>         <th width="25%">Country</th>         <th width="30%">Location</th>         <th width="10%">Info</th>       </tr> <tr >         <td>houses</td>         <td>10</td>         <td>Philippines</td>         <td>San Roque</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="10 [Buildings] Buildings damaged in San Roque, Barangay San Jose Gusu, Zamboanga City, Zamboanga del Sur, Philippines" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> </table></div>
+            </div>
+            <div class="col-lg-12">
+                
+            </div>
+            <div id="sectionsatellite" class="row section_report">
+                <div id="contentRainfall" class="col-lg-12">
+                    <h2>Satellite Observation</h2>
+                    <div id="mapcontainer">
+                        <div id="map" class="main_report_map"></div>
+                        <div id="popup" class="ol-popup">
+                            <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+                            <div id="popup-content"></div>
+                        </div>
+                        
+                        
+                        <div class="col-lg-12 row">
+                            
+
+                            
+                            <div id="map_report_caption" class="col-lg-6" style="text-align: left; padding-top: 5px; margin-top: 0px;">
+                                Satellite-based Flood extent provided by GLOFAS
+                            </div>
+                            <div class="col-lg-6">
+
+                                <div class="col-lg-12" style="text-align: right; padding-top: 5px; margin-top: 0px;">
+                                    Overall of the satellite-based flooded area from / to :  2024-06-07 / 2024-07-17 &nbsp;
+                                <input type="checkbox" id="gfmoverall" checked>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <br />
+            <section class="cd-horizontal-timeline">
+                <div class="timeline" style="max-width: 1100px;">
+                    <div class="events-wrapper">
+                        <div class="events" style="width: 100%">
+                            <a href="#0" id="1" class="itemdate" data-date="07/06/2024 00:00" data-oid="1">Friday 07/06</a><a href="#0" id="2" class="itemdate" data-date="08/06/2024 00:00" data-oid="2">Saturday 08/06</a><a href="#0" id="3" class="itemdate" data-date="09/06/2024 00:00" data-oid="3">Sunday 09/06</a><a href="#0" id="4" class="itemdate" data-date="10/06/2024 00:00" data-oid="4">Monday 10/06</a><a href="#0" id="5" class="itemdate" data-date="11/06/2024 00:00" data-oid="5">Tuesday 11/06</a><a href="#0" id="6" class="itemdate" data-date="12/06/2024 00:00" data-oid="6">Wednesday 12/06</a><a href="#0" id="7" class="itemdate" data-date="13/06/2024 00:00" data-oid="7">Thursday 13/06</a><a href="#0" id="8" class="itemdate" data-date="14/06/2024 00:00" data-oid="8">Friday 14/06</a><a href="#0" id="9" class="itemdate" data-date="15/06/2024 00:00" data-oid="9">Saturday 15/06</a><a href="#0" id="10" class="itemdate" data-date="16/06/2024 00:00" data-oid="10">Sunday 16/06</a><a href="#0" id="11" class="itemdate" data-date="17/06/2024 00:00" data-oid="11">Monday 17/06</a><a href="#0" id="12" class="itemdate" data-date="18/06/2024 00:00" data-oid="12">Tuesday 18/06</a><a href="#0" id="13" class="itemdate" data-date="19/06/2024 00:00" data-oid="13">Wednesday 19/06</a><a href="#0" id="14" class="itemdate" data-date="20/06/2024 00:00" data-oid="14">Thursday 20/06</a><a href="#0" id="15" class="itemdate" data-date="21/06/2024 00:00" data-oid="15">Friday 21/06</a><a href="#0" id="16" class="itemdate" data-date="22/06/2024 00:00" data-oid="16">Saturday 22/06</a><a href="#0" id="17" class="itemdate" data-date="23/06/2024 00:00" data-oid="17">Sunday 23/06</a><a href="#0" id="18" class="itemdate" data-date="24/06/2024 00:00" data-oid="18">Monday 24/06</a><a href="#0" id="19" class="itemdate" data-date="25/06/2024 00:00" data-oid="19">Tuesday 25/06</a><a href="#0" id="20" class="itemdate" data-date="26/06/2024 00:00" data-oid="20">Wednesday 26/06</a><a href="#0" id="21" class="itemdate" data-date="27/06/2024 00:00" data-oid="21">Thursday 27/06</a><a href="#0" id="22" class="itemdate" data-date="28/06/2024 00:00" data-oid="22">Friday 28/06</a><a href="#0" id="23" class="itemdate" data-date="29/06/2024 00:00" data-oid="23">Saturday 29/06</a><a href="#0" id="24" class="itemdate" data-date="30/06/2024 00:00" data-oid="24">Sunday 30/06</a><a href="#0" id="25" class="itemdate" data-date="01/07/2024 00:00" data-oid="25">Monday 01/07</a><a href="#0" id="26" class="itemdate" data-date="02/07/2024 00:00" data-oid="26">Tuesday 02/07</a><a href="#0" id="27" class="itemdate" data-date="03/07/2024 00:00" data-oid="27">Wednesday 03/07</a><a href="#0" id="28" class="itemdate" data-date="04/07/2024 00:00" data-oid="28">Thursday 04/07</a><a href="#0" id="29" class="itemdate" data-date="05/07/2024 00:00" data-oid="29">Friday 05/07</a><a href="#0" id="30" class="itemdate" data-date="06/07/2024 00:00" data-oid="30">Saturday 06/07</a><a href="#0" id="31" class="itemdate" data-date="07/07/2024 00:00" data-oid="31">Sunday 07/07</a><a href="#0" id="32" class="itemdate" data-date="08/07/2024 00:00" data-oid="32">Monday 08/07</a><a href="#0" id="33" class="itemdate" data-date="09/07/2024 00:00" data-oid="33">Tuesday 09/07</a><a href="#0" id="34" class="itemdate" data-date="10/07/2024 00:00" data-oid="34">Wednesday 10/07</a><a href="#0" id="35" class="itemdate" data-date="11/07/2024 00:00" data-oid="35">Thursday 11/07</a><a href="#0" id="36" class="itemdate" data-date="12/07/2024 00:00" data-oid="36">Friday 12/07</a><a href="#0" id="37" class="itemdate" data-date="13/07/2024 00:00" data-oid="37">Saturday 13/07</a><a href="#0" id="38" class="itemdate" data-date="14/07/2024 00:00" data-oid="38">Sunday 14/07</a><a href="#0" id="39" class="itemdate" data-date="15/07/2024 00:00" data-oid="39">Monday 15/07</a><a href="#0" id="40" class="itemdate" data-date="16/07/2024 00:00" data-oid="40">Tuesday 16/07</a><a href="#0" id="41" class="itemdate selected" data-date="17/07/2024 00:00" data-oid="41">Wednesday 17/07</a>
+                            <span class="filling-line" aria-hidden="true"></span>
+                        </div>
+                        <!-- .events -->
+                    </div>
+                    <!-- .events-wrapper -->
+
+                    <div id="Floods" class="cd-timeline-navigation">
+                        <a href="#0" class="prev inactive">Prev</a>
+                        <a href="#0" class="next">Next</a>
+                    </div>
+                    <!-- .cd-timeline-navigation -->
+                </div>
+                <!-- .timeline -->
+            </section>
+            <div class="row section_report">
+                <div id="contentNews" class="col-lg-12">
+                    <h2>Timeline of revisions</h2>
+                    <p class="'p_summary">For accessing reports of previous advisories, please click on the advisory number in the table below.</p>
+                    <div>
+	<table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes" width="100%">
+		<tr class="main_tit">
+			<th scope="col">ID</th><th scope="col">Alert Color</th><th scope="col">Population affected</th><th scope="col">Start Date</th><th scope="col">End Date</th><th scope="col">Source</th>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl02_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=1&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl02_labelEpisode">1</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl02_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl02_lepisodeFromDate">14 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl02_lepisodeToDate">16 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl02_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl03_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=2&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl03_labelEpisode">2</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl03_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl03_lepisodeFromDate">19 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl03_lepisodeToDate">21 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl03_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl04_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=3&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl04_labelEpisode">3</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl04_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl04_lepisodeFromDate">18 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl04_lepisodeToDate">20 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl04_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl05_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=4&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl05_labelEpisode">4</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl05_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 385 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl05_lepisodeFromDate">26 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl05_lepisodeToDate">30 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl05_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl06_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=5&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl06_labelEpisode">5</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl06_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl06_lepisodeFromDate">26 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl06_lepisodeToDate">30 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl06_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl07_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=6&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl07_labelEpisode">6</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl07_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 175 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl07_lepisodeFromDate">30 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl07_lepisodeToDate">02 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl07_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl08_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=7&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl08_labelEpisode">7</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl08_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>1 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl08_lepisodeFromDate">08 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl08_lepisodeToDate">09 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl08_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl09_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=8&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl09_labelEpisode">8</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl09_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 280 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl09_lepisodeFromDate">07 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl09_lepisodeToDate">10 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl09_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl10_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102703&amp;episodeid=9&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl10_labelEpisode">9</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl10_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl10_lepisodeFromDate">08 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl10_lepisodeToDate">10 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl10_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr>
+	</table>
+</div>
+                </div>
+            </div>
+            <div class="row">
+                <div id="contentResources" class="col-lg-12">
+                    <h3>Flood polygons </h3>
+                    <p class="p_summary">This polygon (translucent blue with a blue border) is drawn by the analysts recording the flood event. It is meant to include all the areas reported as affected, by official source or the media. It does not represent the area actually under water.</p>
+                    <h3>Microwave flood detection </h3>
+                    <p class="p_summary">
+                        Flooded area, as detected in microwaves by the Global Flood Detection System of the JRC, based on NASA TRMM/GPM observations. This system has a rather low resolution (of 5-10km) but is not affected by clouds.<br />
+                        For more details, see <a href="http://www.unisdr.org/files/9622_LBNA23303ENC002.pdf" target="_blank">http://www.unisdr.org/files/9622_LBNA23303ENC002.pdf</a>.
+                        <br />
+                        The areas with a flood signal along the coast are an artefact of the system and should not be considered.
+                    </p>
+                    <h3>Optical Flood detection</h3>
+                    <p class="p_summary">Flooded area as detected in optical wavelengths by NASA/MODIS, known as "MODIS Flood Product". Data are made available by NASA GSFC Flood Mapping Project, <a href="http://oas.gsfc.nasa.gov/floodmap/index.html" target="_blank">http://oas.gsfc.nasa.gov/floodmap/index.html</a>. Resolution of 250m, heavily affected by cloud cover. </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var reportShowAlertBar = true;
+        var reportFromDate = '2024-06-07';
+        var reportToDate = '2024-07-17';
+        var reportEventtype = 'FL';
+        var reportShowRain = true;
+        var reportShowCloud = false;
+        var reportCloudTemplate = '';
+        var reportRainTemplate = 'https://www.gdacs.org/contentdata/img/rain/[yyyy]/[mm]/[yyyy][mm][dd].png';
+        var reportLon = 124.2919201;
+        var reportLat =7.271093;
+        var reportLayerToShow = '';
+        var reportWMSRDRI = '';
+        var reportZoomLevel =6;
+        var reportModisTemplate ='https://www.gdacs.org/contentdata/resources/FL/1102703/modis_flood_download_[yyyy][mm][dd].kml';
+        var reportGFDSTemplate ='';
+        var reportJsonLayer = 'https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=FL&eventid=1102703&episodeid=9&polygontype=Affected';
+        var reportAlertscore = 0.5;
+
+        var reportWMSCloud = '';
+        var reportWMSRain = '';
+        var reportWMSPopDensity = 'https://arcgis.jrc.ec.europa.eu/server/rest/services/ecml/ghs_pop_e2015_r2019a_4326_9ss/MapServer';
+        var reportWMSRDRI = '';
+
+        var reportJsonLayerGFM_Observed = 'https://geoserver.gfm.eodc.eu/geoserver/gfm/wms?service=WMS&version=1.1.0&request=GetMap&layers=gfm%3Aobserved_flood_extent_footprint%2Cgfm%3Aobserved_flood_extent&TIME=7/10/2024 1:00:00 AM&bbox=-180.0%2C-90.0%2C180.0%2C90.0&width=768&height=384&srs=EPSG%3A4326&styles=&format=application%2Fopenlayers3';
+        var reportFloodsTemplate = 'https://geoserver.gfm.eodc.eu/geoserver/gfm/wms?service=WMS&version=1.1.0&request=GetMap&layers=gfm%3Aobserved_flood_extent_footprint%2Cgfm%3Aobserved_flood_extent&TIME=[yyyy]-[mm]-[dd]T00%3a00%3a00Z&bbox=-180.0%2C-90.0%2C180.0%2C90.0&width=768&height=384&srs=EPSG%3A4326&styles=&format=application%2Fopenlayers3';
+        var reportGFMTemplate = 'https://arcgis.jrc.ec.europa.eu/server/rest/services/ecml/gdacs_flood/MapServer/export?layerDefs=0:eventid=1102703%20AND%20referencedateint=[yyyy][mm][dd]';
+        var reportOverallGFM = 'https://arcgis.jrc.ec.europa.eu/server/rest/services/ecml/gdacs_flood/MapServer/export?layerDefs=0:eventid%3D1102703';
+        var reportShowGFDS = true;
+        var reportShowPopDensity = false;
+        var reportHasMaps = false;
+        var reportShakeLayer = '';
+        var reportJsonLayerPopulation = '';
+        var reportJsonLayerOverAll = '';
+        var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+        var reportJsonNppLayer = '';
+
+        //Timeline variable
+        var countDateSlot = 0;
+        var countTimelineSlot = 0;
+        var currentPosition = 0;
+        var timelineTotWidth;
+
+        var chkOverAll = false;
+
+        var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+            return new bootstrap.Popover(popoverTriggerEl)
+        })
+        //var popover = new bootstrap.Popover(document.querySelector('.example-popover'), {
+        //    container: 'body'
+        //})
+
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+        $(function () {
+
+
+            if (!reportShowAlertBar) {
+                $("#alertbar").remove();
+            }
+
+            // Script for score bar
+            if (reportEventtype == "TC") {
+                reportAlertScoreBar("#alertscorebar", reportAlertscore, reportCurrentAlertscore);
+            }
+            else {
+
+                reportAlertScoreBar("#alertscorebar", reportAlertscore);
+                if (reportAlertscore == -1)
+                    $("#alertscorebar").remove();
+            }
+
+            chkOverAll = true;
+
+            ////alert((endDate-startDate));
+            ////alert((endDate-startDate).getTime());
+            ////Slider for maps
+            //$("#slider_rain_date").slider({
+            //    value: Math.floor((endDate.getTime() - startDate.getTime()) / 86400000),
+            //    min: Math.floor((startDate.getTime() - startDate.getTime()) / 86400000),
+            //    max: Math.floor((endDate.getTime() - startDate.getTime()) / 86400000),
+            //    step: 1,
+            //    slide: function (event, ui) {
+            //        stepDate = (new Date(startDate.getTime() + parseInt(ui.value * 86400000)));
+            //        $("#labelRainDate").text(stepDate.toDateString());
+            //        setTime();
+            //        chkOverAll = true;
+            //        if (chkOverAll == true) {
+            //            document.getElementById("gfmoverall").checked = false;
+            //            setVisibleGFM(false);
+            //            chkOverAll = false;
+            //        }
+
+            //    }
+
+
+            //});
+            //$("#labelRainDate").text(endDate.toDateString());
+
+            $('.itemdate').on('click', function (e) {
+                chkOverAll = true;
+                setTimeline(e.currentTarget.dataset.date);
+
+                if (chkOverAll == true) {
+                    document.getElementById("gfmoverall").checked = false;
+                    setVisibleGFM(false);
+                    chkOverAll = false;
+                }
+            });
+
+            $("#gfmoverall").change(function () {
+                setVisibleGFM(this.checked);
+            });
+
+        });
+
+
+
+        ////Insert new Timeline 
+        function setTimeline(date) {
+            $(".itemdate").each(function (index, value) {
+                if (value.dataset.date == date) {
+                    var oid = value.dataset.oid;
+                    currentPosition = index;
+                    stepDate = (new Date(startDate.getTime() + parseInt(index * 86400000)));
+                    setTime();
+                }
+            });
+
+            var timelines = $('.cd-horizontal-timeline'),
+                eventsMinDistance = 80;
+
+            (timelines.length > 0) && initTimeline(timelines);
+
+            function initTimeline(timelines) {
+                timelines.each(function () {
+                    var timeline = $(this),
+                        timelineComponents = {};
+                    //cache timeline components 
+                    timelineComponents['timelineWrapper'] = timeline.find('.events-wrapper');
+                    timelineComponents['eventsWrapper'] = timelineComponents['timelineWrapper'].children('.events');
+                    timelineComponents['fillingLine'] = timelineComponents['eventsWrapper'].children('.filling-line');
+                    timelineComponents['timelineEvents'] = timelineComponents['eventsWrapper'].find('a');
+                    timelineComponents['timelineDates'] = parseDate2(timelineComponents['timelineEvents']);
+                    timelineComponents['eventsMinLapse'] = minLapse(timelineComponents['timelineDates']);
+                    timelineComponents['timelineNavigation'] = timeline.find('.cd-timeline-navigation');
+                    timelineComponents['eventsContent'] = timeline.children('.events-content');
+
+
+                    //assign a left postion to the single events along the timeline
+                    //setDatePosition(timelineComponents, eventsMinDistance);
+                    //assign a width to the timeline
+                    //var timelineTotWidth = setTimelineWidth(timelineComponents, eventsMinDistance);
+                    //if (timelineTotWidth < 1000)
+                    //    timelineTotWidth = 1000;
+                    //the timeline has been initialize - show it
+                    //timeline.addClass('loaded');
+                    timelineComponents['timelineEvents'].removeClass('selected');
+                    timelineComponents['timelineEvents'].eq(currentPosition).addClass('selected');
+
+                    //Set timeline position on last component
+                    updateFilling(timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents['fillingLine'], timelineTotWidth);
+                    if (currentPosition > countTimelineSlot)
+                        updateTimelinePosition('next', timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents, timelineTotWidth);
+                    else
+                        updateTimelinePosition('prev', timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents, timelineTotWidth);
+
+                    countTimelineSlot = currentPosition;
+                });
+            };
+        }
+
+
+
+        /*        if (reportTimeForestFire == true) {*/
+        var timelines = $('.cd-horizontal-timeline'),
+            eventsMinDistance = 80;
+
+        (timelines.length > 0) && initTimeline(timelines);
+
+        function initTimeline(timelines) {
+            timelines.each(function () {
+                var timeline = $(this),
+                    timelineComponents = {};
+                //cache timeline components 
+                timelineComponents['timelineWrapper'] = timeline.find('.events-wrapper');
+                timelineComponents['eventsWrapper'] = timelineComponents['timelineWrapper'].children('.events');
+                timelineComponents['fillingLine'] = timelineComponents['eventsWrapper'].children('.filling-line');
+                timelineComponents['timelineEvents'] = timelineComponents['eventsWrapper'].find('a');
+                timelineComponents['timelineDates'] = parseDate2(timelineComponents['timelineEvents']);
+                timelineComponents['eventsMinLapse'] = minLapse(timelineComponents['timelineDates']);
+                timelineComponents['timelineNavigation'] = timeline.find('.cd-timeline-navigation');
+                timelineComponents['eventsContent'] = timeline.children('.events-content');
+
+
+                //assign a left postion to the single events along the timeline
+                setDatePosition(timelineComponents, eventsMinDistance);
+                //assign a width to the timeline
+                timelineTotWidth = setTimelineWidth(timelineComponents, eventsMinDistance);
+                //if (timelineTotWidth < 1000)
+                //    timelineTotWidth = 1000;
+                //the timeline has been initialize - show it
+                timeline.addClass('loaded');
+
+                //Set timeline position on last component
+                updateFilling(timelineComponents['timelineEvents'].eq(timelineComponents['timelineDates'].length - 1), timelineComponents['fillingLine'], timelineTotWidth);
+                updateTimelinePosition('next', timelineComponents['timelineEvents'].eq(timelineComponents['timelineDates'].length - 1), timelineComponents, timelineTotWidth);
+
+                //detect click on the next arrow
+                timelineComponents['timelineNavigation'].on('click', '.next', function (event) {
+                    event.preventDefault();
+                    updateSlide(timelineComponents, timelineTotWidth, 'next');
+                });
+                //detect click on the prev arrow
+                timelineComponents['timelineNavigation'].on('click', '.prev', function (event) {
+                    event.preventDefault();
+                    updateSlide(timelineComponents, timelineTotWidth, 'prev');
+                });
+                //detect click on the a single event - show new event content
+                timelineComponents['eventsWrapper'].on('click', 'a', function (event) {
+                    event.preventDefault();
+                    timelineComponents['timelineEvents'].removeClass('selected');
+                    $(this).addClass('selected');
+                    updateOlderEvents($(this));
+                    updateFilling($(this), timelineComponents['fillingLine'], timelineTotWidth);
+                    updateVisibleContent($(this), timelineComponents['eventsContent']);
+                });
+
+                //on swipe, show next/prev event content
+                timelineComponents['eventsContent'].on('swipeleft', function () {
+                    var mq = checkMQ();
+                    (mq == 'mobile') && showNewContent(timelineComponents, timelineTotWidth, 'next');
+                });
+                timelineComponents['eventsContent'].on('swiperight', function () {
+                    var mq = checkMQ();
+                    (mq == 'mobile') && showNewContent(timelineComponents, timelineTotWidth, 'prev');
+                });
+
+                //keyboard navigation
+                $(document).keyup(function (event) {
+                    if (event.which == '37' && elementInViewport(timeline.get(0))) {
+                        showNewContent(timelineComponents, timelineTotWidth, 'prev');
+                    } else if (event.which == '39' && elementInViewport(timeline.get(0))) {
+                        showNewContent(timelineComponents, timelineTotWidth, 'next');
+                    }
+                });
+            });
+        }
+
+        function updateSlide(timelineComponents, timelineTotWidth, string) {
+            //retrieve translateX value of timelineComponents['eventsWrapper']
+            var translateValue = getTranslateValue(timelineComponents['eventsWrapper']),
+                wrapperWidth = Number(timelineComponents['timelineWrapper'].css('width').replace('px', ''));
+            //translate the timeline to the left('next')/right('prev') 
+            (string == 'next')
+                ? translateTimeline(timelineComponents, translateValue - wrapperWidth + eventsMinDistance, wrapperWidth - timelineTotWidth)
+                : translateTimeline(timelineComponents, translateValue + wrapperWidth - eventsMinDistance);
+        }
+
+        function showNewContent(timelineComponents, timelineTotWidth, string) {
+            //go from one event to the next/previous one
+            var visibleContent = timelineComponents['eventsContent'].find('.selected'),
+                newContent = (string == 'next') ? visibleContent.next() : visibleContent.prev();
+
+            if (newContent.length > 0) { //if there's a next/prev event - show it
+                var selectedDate = timelineComponents['eventsWrapper'].find('.selected'),
+                    newEvent = (string == 'next') ? selectedDate.parent('li').next('li').children('a') : selectedDate.parent('li').prev('li').children('a');
+
+                updateFilling(newEvent, timelineComponents['fillingLine'], timelineTotWidth);
+                updateVisibleContent(newEvent, timelineComponents['eventsContent']);
+                newEvent.addClass('selected');
+                selectedDate.removeClass('selected');
+                updateOlderEvents(newEvent);
+                updateTimelinePosition(string, newEvent, timelineComponents, timelineTotWidth);
+            }
+        }
+
+        function updateTimelinePosition(string, event, timelineComponents, timelineTotWidth) {
+            //translate timeline to the left/right according to the position of the selected event
+            var eventStyle = window.getComputedStyle(event.get(0), null),
+                eventLeft = Number(eventStyle.getPropertyValue("left").replace('px', '')),
+                timelineWidth = Number(timelineComponents['timelineWrapper'].css('width').replace('px', '')),
+                timelineTotWidth = Number(timelineComponents['eventsWrapper'].css('width').replace('px', ''));
+            var timelineTranslate = getTranslateValue(timelineComponents['eventsWrapper']);
+
+            if ((string == 'next' && eventLeft > timelineWidth - timelineTranslate) || (string == 'prev' && eventLeft < - timelineTranslate)) {
+                translateTimeline(timelineComponents, - eventLeft + timelineWidth / 2, timelineWidth - timelineTotWidth);
+            }
+        }
+
+        function translateTimeline(timelineComponents, value, totWidth) {
+            var eventsWrapper = timelineComponents['eventsWrapper'].get(0);
+            value = (value > 0) ? 0 : value; //only negative translate value
+            value = (!(typeof totWidth === 'undefined') && value < totWidth) ? totWidth : value; //do not translate more than timeline width
+            setTransformValue(eventsWrapper, 'translateX', value + 'px');
+            //update navigation arrows visibility
+            (value == 0) ? timelineComponents['timelineNavigation'].find('.prev').addClass('inactive') : timelineComponents['timelineNavigation'].find('.prev').removeClass('inactive');
+            (value == totWidth) ? timelineComponents['timelineNavigation'].find('.next').addClass('inactive') : timelineComponents['timelineNavigation'].find('.next').removeClass('inactive');
+        }
+
+        function updateFilling(selectedEvent, filling, totWidth) {
+            //change .filling-line length according to the selected event
+            var eventStyle = window.getComputedStyle(selectedEvent.get(0), null),
+                eventLeft = eventStyle.getPropertyValue("left"),
+                eventWidth = eventStyle.getPropertyValue("width");
+            eventLeft = Number(eventLeft.replace('px', '')) + Number(eventWidth.replace('px', '')) / 2;
+            var scaleValue = eventLeft / totWidth;
+            setTransformValue(filling.get(0), 'scaleX', scaleValue);
+        }
+
+        function setDatePosition(timelineComponents, min) {
+            //var distance = daydiff(timelineComponents['timelineDates'][0], timelineComponents['timelineDates'][i]),
+            var distance = 0;
+            for (i = 0; i < timelineComponents['timelineDates'].length; i++) {
+                if (i == 0) {
+                    distance = 1000000,
+                        distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);;
+                    timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px');
+                }
+                else {
+                    var datediff = daydiff(timelineComponents['timelineDates'][i - 1], timelineComponents['timelineDates'][i]);
+                    if (datediff > 400000000) {
+                        distance += 8280000,
+                            distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);
+                        timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px') / 2;
+                        countDateSlot += 2;
+                    }
+                    else {
+                        distance += 4140000,
+                            distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);
+                        timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px') / 2;
+                        countDateSlot++;
+                    }
+
+                }
+
+            }
+        }
+
+        function setTimelineWidth(timelineComponents, width) {
+            //var timeSpan = daydiff(timelineComponents['timelineDates'][0], timelineComponents['timelineDates'][timelineComponents['timelineDates'].length - 1]),
+            var timeSpan = (countDateSlot * 4140000) - 8280000,
+                timeSpanNorm = timeSpan / timelineComponents['eventsMinLapse'],
+                timeSpanNorm = Math.round(timeSpanNorm) + 4,
+                totalWidth = timeSpanNorm * width;
+            timelineComponents['eventsWrapper'].css('width', totalWidth + 'px');
+            updateFilling(timelineComponents['timelineEvents'].eq(0), timelineComponents['fillingLine'], totalWidth);
+            return totalWidth;
+        }
+
+        function updateVisibleContent(event, eventsContent) {
+            var eventDate = event.data('date'),
+                visibleContent = eventsContent.find('.selected'),
+                selectedContent = eventsContent.find('[data-date="' + eventDate + '"]'),
+                selectedContentHeight = selectedContent.height();
+
+            if (selectedContent.index() > visibleContent.index()) {
+                var classEnetering = 'selected enter-right',
+                    classLeaving = 'leave-left';
+            } else {
+                var classEnetering = 'selected enter-left',
+                    classLeaving = 'leave-right';
+            }
+
+            selectedContent.attr('class', classEnetering);
+            visibleContent.attr('class', classLeaving).one('webkitAnimationEnd oanimationend msAnimationEnd animationend', function () {
+                visibleContent.removeClass('leave-right leave-left');
+                selectedContent.removeClass('enter-left enter-right');
+            });
+            eventsContent.css('height', selectedContentHeight + 'px');
+        }
+
+        function updateOlderEvents(event) {
+            event.parent('li').prevAll('li').children('a').addClass('older-event').end().end().nextAll('li').children('a').removeClass('older-event');
+        }
+
+        function getTranslateValue(timeline) {
+            var timelineStyle = window.getComputedStyle(timeline.get(0), null),
+                timelineTranslate = timelineStyle.getPropertyValue("-webkit-transform") ||
+                    timelineStyle.getPropertyValue("-moz-transform") ||
+                    timelineStyle.getPropertyValue("-ms-transform") ||
+                    timelineStyle.getPropertyValue("-o-transform") ||
+                    timelineStyle.getPropertyValue("transform");
+
+            if (timelineTranslate.indexOf('(') >= 0) {
+                var timelineTranslate = timelineTranslate.split('(')[1];
+                timelineTranslate = timelineTranslate.split(')')[0];
+                timelineTranslate = timelineTranslate.split(',');
+                var translateValue = timelineTranslate[4];
+            } else {
+                var translateValue = 0;
+            }
+
+            return Number(translateValue);
+        }
+
+        function setTransformValue(element, property, value) {
+            element.style["-webkit-transform"] = property + "(" + value + ")";
+            element.style["-moz-transform"] = property + "(" + value + ")";
+            element.style["-ms-transform"] = property + "(" + value + ")";
+            element.style["-o-transform"] = property + "(" + value + ")";
+            element.style["transform"] = property + "(" + value + ")";
+        }
+
+        //based on http://stackoverflow.com/questions/542938/how-do-i-get-the-number-of-days-between-two-dates-in-javascript
+        function parseDate(events) {
+            var dateArrays = [];
+            events.each(function () {
+                var dateComp = $(this).data('date').split('/'),
+                    newDate = new Date(dateComp[2], dateComp[1] - 1, dateComp[0]);
+                dateArrays.push(newDate);
+            });
+            return dateArrays;
+        }
+
+        function parseDate2(events) {
+            var dateArrays = [];
+            events.each(function () {
+                var singleDate = $(this),
+                    dateComp = singleDate.data("date").split(" ");
+                if (dateComp.length > 1) {
+                    //both DD/MM/YEAR and time are provided
+                    var dayComp = dateComp[0].split("/"),
+                        timeComp = dateComp[1].split(":");
+                } else if (dateComp[0].indexOf(":") >= 0) {
+                    //only time is provide
+                    var dayComp = ["2000", "0", "0"],
+                        timeComp = dateComp[0].split(":");
+                } else {
+                    //only DD/MM/YEAR
+                    var dayComp = dateComp[0].split("/"),
+                        timeComp = ["0", "0"];
+                }
+                var newDate = new Date(
+                    dayComp[2],
+                    dayComp[1] - 1,
+                    dayComp[0],
+                    timeComp[0],
+                    timeComp[1]
+                );
+                dateArrays.push(newDate);
+            });
+            return dateArrays;
+        }
+
+        function daydiff(first, second) {
+            return Math.round(second - first);
+        }
+
+        function minLapse(dates) {
+            //determine the minimum distance among events
+            var dateDistances = [];
+            for (i = 1; i < dates.length; i++) {
+                var distance = daydiff(dates[i - 1], dates[i]);
+                dateDistances.push(4140000);
+            }
+            return Math.min.apply(null, dateDistances);
+        }
+
+        /*
+              How to tell if a DOM element is visible in the current viewport?
+              http://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
+          */
+        function elementInViewport(el) {
+            var top = el.offsetTop;
+            var left = el.offsetLeft;
+            var width = el.offsetWidth;
+            var height = el.offsetHeight;
+
+            while (el.offsetParent) {
+                el = el.offsetParent;
+                top += el.offsetTop;
+                left += el.offsetLeft;
+            }
+
+            return (
+                top < window.pageYOffset + window.innerHeight &&
+                left < window.pageXOffset + window.innerWidth &&
+                top + height > window.pageYOffset &&
+                left + width > window.pageXOffset
+            );
+        }
+
+        function checkMQ() {
+            //check if mobile or desktop device
+            return window
+                .getComputedStyle(
+                    document.querySelector(".cd-horizontal-timeline"),
+                    "::before"
+                )
+                .getPropertyValue("content")
+                .replace(/'/g, "")
+                .replace(/"/g, "");
+        }
+/*        }*/
+
+
+    </script>
+    <script type="text/javascript" src="../Scripts/GdacsMap/reportmap.js"></script>
+
+                </form>
+            </div><!-- end main_alert_content-->
+            
+
+            <div id="footer_home" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-footer col-12">
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkupFooter">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="../Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT GDACS</a>
+                    </div>
+                  </div>
+                </nav>
+                <div id="footer_disclaimer" class="col-12">
+                    <!--<div class="float-left gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/brexit-content-disclaimer" target="_blank">Brexit content disclaimer</a></div>-->
+                    <div class="float-end gdacs_bottom_menu_content" ><a href="../About/cookies.aspx" target="_blank" >cookies</a></div>
+                    <p><b><span class="gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/legal-notice_en" target="_blank" >Disclaimer</a></span></b><br />
+                    While we try everything to ensure accuracy, this information is purely indicative and should not be used for any decision making without alternate sources of information. 
+                    <br />The JRC is not responsible for any damage or loss resulting from the use of the information presented on this website.
+                    <br />The designations employed and the presentation of material on the map do not imply the expression of any opinion whatsoever on the part of the European Union concerning the legal status of any country, territory or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+                    </p>
+                </div>
+                <div id="footer_logo" class="d-none d-lg-block col-lg-12">
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ec.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ocha.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unitar.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unosat.png" width="90" height="70"  alt=""/></div>
+                </div>
+	        </div>
+                                
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    $(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#meteorological").remove();
+            $("#secondary_cyclone_source").remove();
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+    });
+
+    $(window).resize(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#nopadding").addClass('container').removeClass('container-fluid');
+            $("#tab_responsive").removeClass('table table-responsive');
+            $("#cities").removeClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '15px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+        if (window.innerWidth < 768) {
+            $("#legend").remove();
+            $("#meteorological").remove();
+            $("#alert_sources_minitabs").after("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 0px;\"><div class=\"sources_\"> <p class=\"p_summary\" style=\"padding-left: 0px;\"><p class=\"col-lg-4\" style=\"color: #6d9baf;text-decoration: none;font-weight: bold;\">Meteorological source</p>:</p><br/><br/></div>" +
+                "<br/><div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><br/><br/><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#meteorological").remove();
+            $("#section1").before("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 15px;\"><div class=\"sources_\"> <p class=\"p_summary\"><a href=\"*\">Meteorological source</a>:</p></div>" +
+                "<div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+        }
+
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+            $("#labelRainDate").attr("style", "width: 440px;float: left;text-align: center;font-weight: bold;");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+
+        }
+
+
+    });
+
+</script>
+
+<!--
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-298127-1");
+pageTracker._setDomainName(".gdacs.org");
+pageTracker._setLocalRemoteServerMode();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+-->
+</body>
+</html>

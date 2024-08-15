@@ -40,7 +40,7 @@ date_field.send_keys("2023-01-01")
 
 # Enter filters
 check_box = wait.until(
-    EC.element_to_be_clickable((By.XPATH, '//input[@id="inputChFl"]'))
+    EC.element_to_be_clickable((By.XPATH, '//input[@id="inputChTs"]'))
 )
 check_box.click()
 

@@ -1,0 +1,1378 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Overall Green Flood alert  in United States from 29 Apr 2024 01:00 UTC to 13 Aug 2024 01:00 UTC
+</title><link href="../Content/bootstrap.min.css" rel="stylesheet" /><link href="../Styles/gdacs_2.0.css" rel="stylesheet" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" media="(min-width: 768px) and (max-width: 991px)" href="../Styles/gdacs_device_2.0.css" /><link rel="stylesheet" media="(max-width: 768px)" href="../Styles/gdacs_minidevice_2.0.css" />
+    <script src="https://webtools.europa.eu/load.js" type="text/javascript"></script>
+    <script type="application/json">
+    {
+        "utility":"analytics",
+        "siteID":"770a3ada-ebea-420b-923a-c6490acb21ab",
+        "sitePath":["www.gdacs.org"],
+        "instance":"ec",
+        "mode":"manual"
+    }
+    </script>
+	<script type="application/json">
+	{
+		"utility" : "cck",
+		"url": {
+			"en": "https://my.ec.europa.eu/cookie-policy_en",
+			"de": "https://my.ec.europa.eu/de/cookie-policy"
+		}
+	}
+	</script>
+    <script type="text/javascript" src="/Scripts/jquery-3.6.4.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="/Scripts/Alertlevels/DetailedTable.js"></script>
+<!--    <script type="text/javascript" src="/Scripts/adaptivecard/InformCard.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards/dist/adaptivecards.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptive-expressions@4.12.0/lib/browser.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards-templating/dist/adaptivecards-templating.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
+-->
+    
+    <link rel="stylesheet" href="../scripts/openlayers/3.20.1/ol.css" type="text/css" />
+    <link rel="stylesheet" href="../scripts/openlayers/layerswitcher/ol3-layerswitcher.css" />
+    <link rel="stylesheet" href="../Styles/gdacs_mapstyle.css" />
+    <link rel="stylesheet" href="../Content/themes/base/jquery-ui.min.css" />
+    <link rel="stylesheet" href="../Content/all.css" />
+    <link rel="stylesheet" href="../Styles/timeline_style.css" />
+    <script type="text/javascript" src="../scripts/openlayers/3.20.1/ol.js"></script>
+    <script type="text/javascript" src="../scripts/openlayers/layerswitcher/ol3-layerswitcher.js"></script>
+    <script type="text/javascript" src="../Scripts/FusionCharts/FusionCharts.js"></script>
+    
+    <script type="text/javascript" src="../Scripts/jquery-ui-1.13.2.min.js"></script>
+    <script type="text/javascript" src="../Scripts/highcharts/6.1.3/highcharts.js"></script>
+    <script type="text/javascript" src="../Scripts/Report/highcharts_graph.js"></script>
+
+
+
+   <style type="text/css">
+        .navbar-header{color: #9bc1ce; background-color:#69A7C3; }
+        .navbar-footer{color: #9bc1ce; background-color:transparent;border:none; border-bottom:none;border-color:transparent; }
+        .navbar-report{color: #6d9baf; border-bottom:1px solid; border-color:#6d9baf;min-height: 40px;margin-bottom:15px}
+        .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{color: #ffffff; text-decoration: underline;}
+        .navbar-light .navbar-nav .nav-link{color:#c5d5d8}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {background-color:transparent;text-decoration:underline;color:white;}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .activereport > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.activereport {background-color:transparent;text-decoration:underline;color:#125172;margin: 0px 20px 0 15px}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .report-link> .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.report-link {color: #6d9baf;margin: 0px 20px 0 15px}
+        .report-link {color: #6d9baf;}
+        #footer_home {background-color:#125172;}
+       /*.device-toggler.navbar-toggler .navbar-toggler-icon {
+             background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(75, 255, 0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+        }
+
+    .device-toggler.navbar-toggler {
+      border-color: rgb(75, 255, 0);
+    }
+
+    .device-toggler.navbar-toggler:focus {
+      outline-color: rgb(75, 255, 0);
+    }*/
+    </style>
+    <link href="../Styles/gdacs_2.0_bootstrap4to5.css" rel="stylesheet" />
+	<script type ="text/javascript">
+        $(function () {
+            $('table.generic tr.main_tit').data("current", "main_tit");
+            $('table.generic tr.main_tit').on('click', function () {
+                changeColor(this);
+            });
+        });
+        function changeColor(x) {
+            var _current = $(x).data("current");
+            if (_current == "main_tit") {
+                $(x).data('current', 'main_tit_highlighted');
+                $(".main_tit").css("background-color", "#083c53");
+                $(".generic").css("color", "#000000");
+            }
+            else {
+                $(x).data('current', 'main_tit');
+                $(".main_tit").css("background-color", "#a3b8c1");
+                $(".generic").css("color", "#666666");
+            }
+        }
+
+    </script>
+            
+<!-- Piwik 
+   <script type="text/javascript">
+       if ($wt.cookie.consent.is.choiceMade() && $wt.cookie.consent.is.allAccepted()) {
+           var _paq = _paq || [];
+           /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+           _paq.push(['trackPageView']);
+           _paq.push(['enableLinkTracking']);
+           (function () {
+               var u = "//stats.jrc.ec.europa.eu/";
+               _paq.push(['setTrackerUrl', u + 'piwik.php']);
+               _paq.push(['setSiteId', '319']);
+               var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+               g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore(g, s);
+           })();
+       }
+   </script>
+ End Piwik Code -->
+</head>
+<body>
+    <div id="wrapper_anniversary">
+            
+            <div id="header" class="container-fluid">
+            <div id="top_menu">
+                <style>
+                    @media screen (min-width: 992px) {#main_alert_content .navbar-expand-lg {height:40px;}}
+                </style>
+                <div class="container">
+                    <div class="float-end gdacs_top_menu_content"><a href="../admin" target="_blank">admin</a></div>
+                    <div class="float-end gdacs_top_menu_content"><a href="../gdacsregister" target="_blank">register/login</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/contactus.aspx" >contact us</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/termofuse.aspx" >term of use</a></div>
+                </div>
+            </div>
+            <div id="heading" class="container">
+                <div id="rowhead" class="row">
+                    <div id="gd_logo" class="col-lg-3 gdacs_logo">
+						<img id="gdacs_logo_image" src="../images/gdacs_logo_ecs_medium3.png" />
+					</div>
+                    <div id="gd_statement" class="col-lg-6 gdacs_statement d-none d-lg-block"> GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters.</div>
+                    <div id="gd_uneu" class="col-lg-3 gdacs_uneu d-none d-lg-block">
+						<img src="../images/un_eu.png" />
+					</div>
+                </div>
+            </div>
+            
+        </div>
+        <div id="nopadding" class="container">
+            
+            <div id="topmenu" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-header navbar-fixed-top">
+
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="https://www.gdacs.org/Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>                      
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT</a>
+                    </div>
+                  </div>
+                                                <a class="nav-item nav-link" href="https://www.gdacs.org/anniversary.aspx" style="padding: 0 0 0 0">
+                                <img src="../images/gdacs_20th/gdacs_20_banner.png" alt="Gdacs 20th Anniversary" />
+                            </a>
+                </nav>
+            </div>
+            
+            <div class="row">
+                <div class="report_title col-lg-12" style="margin-left: 15px;">
+                    <span id="ctl00_masterReportTitle"><div id="alert_FL_Green_title_big" ><div class="alert_title">Overall Green alert Flood </div><div class="d-none d-md-block alert_subtitle"> in United States</div></div></span>
+                </div>
+            </div>
+            
+            <div id="" class="">
+                <div class="row alert_contents_menu">
+                    <div class="col-lg-12">
+                        <nav id="#eventMenu" class="navbar navbar-expand-lg navbar-light navbar-report">
+                            <button class="navbar-toggler" style="font-size:16px; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavReport" aria-controls="navbarNavReport" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                                DETAILS
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarNavReport">
+                                <ul class="navbar-nav">
+                                    <li class="nav item report-link"><a class="nav-link " href="/report.aspx?eventid=1102594&episodeid=31&eventtype=FL">Summary</a></li><li class="nav item activereport"><a class="nav-link " href="/Floods/report.aspx?eventid=1102594&episodeid=31&eventtype=FL">Impact</a></li><li class="nav item report-link"><a class="nav-link " href="/media.aspx?eventid=1102594&episodeid=31&eventtype=FL">Media</a></li><li class="nav item report-link"><a class="nav-link " href="/resources.aspx?eventid=1102594&episodeid=31&eventtype=FL">Resources</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        
+
+
+                    </div>
+                </div>
+                <form name="aspnetForm" method="post" action="./report.aspx?eventid=1102594&amp;episodeid=31&amp;eventtype=FL" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="95B5FB9B" />
+                    
+    <style>
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            border-bottom: 1px dotted black;
+        }
+
+            .tooltip .tooltiptext {
+                visibility: hidden;
+                width: 120px;
+                background-color: black;
+                color: #fff;
+                text-align: center;
+                border-radius: 6px;
+                padding: 5px 0;
+                position: absolute;
+                z-index: 1;
+                bottom: 100%;
+                left: 50%;
+                margin-left: -60px;
+                /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+                opacity: 0;
+                transition: opacity 1s;
+            }
+
+            .tooltip:hover .tooltiptext {
+                visibility: visible;
+                opacity: 1;
+            }
+    </style>
+    <div class="row alert_contents_first">
+        <div class="col-lg-12">
+            <div class="row">
+                
+                <div class="col-lg-6">
+                    <div id="alert_summary_left">
+                        <h2>Flood impact summary</h2>
+                        <p class="p_summary">This flood is expected to have a <b>low</b> humanitarian impact based on the magnitude and the affected population and their vulnerability.</p><table class="summary"><tr><td>GDACS ID: </td><td class="cell_value_summary">1102594</td></tr><tr><td>Deaths: </td><td class="cell_value_summary">11</td></tr><tr><td>Displaced: </td><td class="cell_value_summary">1436</td></tr><tr><td>Region: </td><td class="cell_value_summary">Oklahoma City</td></tr><tr><td>Countries: </td><td class="cell_value_summary">United States</td></tr><tr><td>From - To </td><td class="cell_value_summary">29 Apr - 13 Aug</td></tr><tr><td>Known identifiers for this event: </td><td class="cell_value_summary"></td></tr></table>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div id="alertbar">
+                        <h2>GDACS Score</h2>
+                        <!--<iframe src="" width="100%" height="120" scrolling="no" frameBorder="0"></iframe>-->
+                        <div id="alertscorebar" class="scorebar"></div>
+                        <div class="map_half_caption">
+                            For more info on GDACS alert score click <a href="../Knowledge/models_fl.aspx" target="_blank">here</a>. 
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <h2>Impact Assessement as of  12-08-2024</h2>
+            </div>
+            <div class="col-lg-12">
+                <div id="sendaiA">    <table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes"    style="width: 100 %; border-collapse:separate; border-spacing: 2px; ">       <tr class="main_tit" width="100%">         <th align="left" width="25%">SENDAI Indicator A</th>         <th width="10%">N</th>         <th width="25%">Country</th>         <th width="30%">Location</th>         <th width="10%">Info</th>       </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Manchester</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Island Creek Road, Manchester, OH, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Greeley</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Greeley, CO, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Albuquerque</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Albuquerque, NM, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Rillito River</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Rillito River, Arizona, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Houston</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Houston, TX, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>2</td>         <td>United States</td>         <td>Fort Bend County</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="2 [people] Fatalities in Fort Bend County, TX, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Peacham</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Peacham, VT, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Lyndonville</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Lyndonville, Lyndon, VT, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Rockford</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Rockford, IL, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>death</td>         <td>1</td>         <td>United States</td>         <td>Tampa Bypass Canal</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Fatalities in Tampa Bypass Canal, Hillsborough County, FL, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> </table></div>
+            </div>
+            <div class="col-lg-12">
+                <div id="sendaIB">   <table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes"    style="width: 100 %; border-collapse:separate; border-spacing: 2px; ">       <tr class="main_tit" width="100%">         <th align="left" width="25%">SENDAI Indicator B</th>         <th width="10%">N</th>         <th width="25%">Country</th>         <th width="30%">Location</th>         <th width="10%">Info</th>       </tr> <tr >         <td>affected</td>         <td>300</td>         <td>United States</td>         <td>Bethel</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="300 [people] Affected in Bethel, AK, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>1</td>         <td>United States</td>         <td>Greeley</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Injured in Greeley, CO, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>45</td>         <td>United States</td>         <td>Sarasota County</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="45 [interventions] Firefighter interventions in Sarasota County, FL, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>20</td>         <td>United States</td>         <td>East Lansing</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="20 [Vehicles ] Vehicles damaged in East Lansing, MI, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>120</td>         <td>United States</td>         <td>Rockford</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="120 [interventions] Firefighter interventions in Rockford, IL, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>5</td>         <td>United States</td>         <td>Savannah</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="5 [Vehicles] Vehicles damaged in Savannah, GA, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>affected</td>         <td>300000</td>         <td>United States</td>         <td>Georgia</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="300 000 customers were without power across Florida and Georgia." style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>67</td>         <td>United States</td>         <td>Juneau</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="67 [people] Evacuated in Juneau, AK, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>200</td>         <td>United States</td>         <td>Manawa</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="200 [people] Evacuated in Manawa, WI, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>86</td>         <td>United States</td>         <td>Yellville</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="86 [people] Evacuated in Yellville, AR, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>40</td>         <td>United States</td>         <td>Flippin</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="40 [people] Evacuated in Flippin, AR, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>35</td>         <td>United States</td>         <td>Greenbrier</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="35 [people] Evacuated in Greenbrier, AR, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>50</td>         <td>United States</td>         <td>Mountain View</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="50 [people] Evacuated in Mountain View, AR, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>50</td>         <td>United States</td>         <td>Juneau</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="50 [people] Evacuated in Juneau, AK, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>200</td>         <td>United States</td>         <td>Ruidoso</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="200 [people] Evacuated in Ruidoso, NM, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>8</td>         <td>United States</td>         <td>Greeley</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="8 [people] Evacuated in Greeley, CO, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>200</td>         <td>United States</td>         <td>Livingston</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="200 [people] Evacuated in Livingston, Texas, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>displaced</td>         <td>500</td>         <td>United States</td>         <td>Sarasota County</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="500 [people] Evacuated in Sarasota County, FL, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>1</td>         <td>United States</td>         <td>Warren</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Rescued in Warren, TX, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>10</td>         <td>United States</td>         <td>Greeley</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="10 [people] Rescued in Greeley, CO, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>14</td>         <td>United States</td>         <td>Leshara</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="14 [people] Rescued in Leshara, NE, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>20</td>         <td>United States</td>         <td>Omaha</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="20 [people] Rescued in Omaha, NE, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>10</td>         <td>United States</td>         <td>Shreveport</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="10 [people] Rescued in Shreveport, LA, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>10</td>         <td>United States</td>         <td>Waco</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="10 [people] Rescued in Waco, TX, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>11</td>         <td>United States</td>         <td>Erin</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="11 [people] Rescued in Erin, TN, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>6</td>         <td>United States</td>         <td>Oklahoma City</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="6 [people] Rescued in Oklahoma City, OK, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>20</td>         <td>United States</td>         <td>Harford County</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="20 [people] Rescued in Harford County, MD, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>2</td>         <td>United States</td>         <td>Fair Grove</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="2 [people] Rescued in Fair Grove, MO, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>1</td>         <td>United States</td>         <td>Morgan</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [people] Rescued in Morgan, MO, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>6</td>         <td>United States</td>         <td>Radar</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="6 [people] Rescued in Radar, MO, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>2</td>         <td>United States</td>         <td>Albuquerque</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="2 [people] Rescued in Albuquerque, NM, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>15</td>         <td>United States</td>         <td>Tucson</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="15 [people] Rescued in Tucson, AZ, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>3</td>         <td>United States</td>         <td>Fairfield</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="3 [people] Rescued in Fairfield, CT, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>25</td>         <td>United States</td>         <td>Houston</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="25 [people] Rescued in Houston, TX, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>25</td>         <td>United States</td>         <td>Harris County</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="25 [people] Rescued in Harris County, TX, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>20</td>         <td>United States</td>         <td>Littleton</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="20 [people] Rescued in Littleton, NH, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>118</td>         <td>United States</td>         <td>Vermont</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="118 [people] Rescued in Vermont, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>20</td>         <td>United States</td>         <td>Northeast Ohio</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="20 [people] Rescued in Northeast Ohio, OH, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>15</td>         <td>United States</td>         <td>Oklahoma City</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="15 [people] Rescued in Oklahoma City, OK, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>24</td>         <td>United States</td>         <td>Vermont</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="24 [people] Rescued in Vermont, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>rescued</td>         <td>12</td>         <td>United States</td>         <td>Rockford</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="12 [people] Rescued in Rockford, IL, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> </table></div>
+            </div>
+            <div class="col-lg-12">
+                <div id="sendaiC" >    <table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes"    style="width: 100 %; border-collapse:separate; border-spacing: 2px; ">       <tr class="main_tit" width="100%">         <th align="left" width="25%">SENDAI Indicator C</th>         <th width="10%">N</th>         <th width="25%">Country</th>         <th width="30%">Location</th>         <th width="10%">Info</th>       </tr> <tr >         <td>houses</td>         <td>10</td>         <td>United States</td>         <td>Kaneohe</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="10 [] Buildings damaged in Kaneohe, Hawaii, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>houses damaged</td>         <td>1</td>         <td>United States</td>         <td>East Lansing</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [Buildings ] Buildings damaged in East Lansing, MI, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>houses damaged</td>         <td>30</td>         <td>United States</td>         <td>Corpus Christi</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="Houses flooded in the coastal areas of Texas" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>houses damaged</td>         <td>100</td>         <td>United States</td>         <td>Juneau</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="100 [Buildings] Buildings damaged in Juneau, AK, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> <tr >         <td>houses destroyed</td>         <td>1</td>         <td>United States</td>         <td>Junction City</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="1 [buildings] Buildings destroyed in Junction City, KS, USA" style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> </table></div>
+            </div>
+            <div class="col-lg-12">
+                <div id="sendaID">   <table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes"    style="width: 100 %; border-collapse:separate; border-spacing: 2px; ">       <tr class="main_tit" width="100%">         <th align="left" width="25%">SENDAI Indicator D</th>         <th width="10%">N</th>         <th width="25%">Country</th>         <th width="30%">Location</th>         <th width="10%">Info</th>       </tr> <tr >         <td>transport</td>         <td>25</td>         <td>United States</td>         <td>Manhattan</td>         <td><button type ="button" data-toggle="popover"  title="Further Information" data-placement="top" data-bs-toggle="popover" title="Further Information" data-bs-content="Heavy rainfall caused damage to roads and grounding of flights in New York area." style="background-color:white;"><img src="..//images/gdacs_icons/satellite_neutral_grid.png" alt="info"></button></td>      </tr> </table></div>
+            </div>
+            <div id="sectionsatellite" class="row section_report">
+                <div id="contentRainfall" class="col-lg-12">
+                    <h2>Satellite Observation</h2>
+                    <div id="mapcontainer">
+                        <div id="map" class="main_report_map"></div>
+                        <div id="popup" class="ol-popup">
+                            <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+                            <div id="popup-content"></div>
+                        </div>
+                        
+                        
+                        <div class="col-lg-12 row">
+                            
+
+                            
+                            <div id="map_report_caption" class="col-lg-6" style="text-align: left; padding-top: 5px; margin-top: 0px;">
+                                Satellite-based Flood extent provided by GLOFAS
+                            </div>
+                            <div class="col-lg-6">
+
+                                <div class="col-lg-12" style="text-align: right; padding-top: 5px; margin-top: 0px;">
+                                    Overall of the satellite-based flooded area from / to :  2024-04-22 / 2024-08-14 &nbsp;
+                                <input type="checkbox" id="gfmoverall" checked>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <br />
+            <section class="cd-horizontal-timeline">
+                <div class="timeline" style="max-width: 1100px;">
+                    <div class="events-wrapper">
+                        <div class="events" style="width: 100%">
+                            <a href="#0" id="1" class="itemdate" data-date="22/04/2024 00:00" data-oid="1">Monday 22/04</a><a href="#0" id="2" class="itemdate" data-date="23/04/2024 00:00" data-oid="2">Tuesday 23/04</a><a href="#0" id="3" class="itemdate" data-date="24/04/2024 00:00" data-oid="3">Wednesday 24/04</a><a href="#0" id="4" class="itemdate" data-date="25/04/2024 00:00" data-oid="4">Thursday 25/04</a><a href="#0" id="5" class="itemdate" data-date="26/04/2024 00:00" data-oid="5">Friday 26/04</a><a href="#0" id="6" class="itemdate" data-date="27/04/2024 00:00" data-oid="6">Saturday 27/04</a><a href="#0" id="7" class="itemdate" data-date="28/04/2024 00:00" data-oid="7">Sunday 28/04</a><a href="#0" id="8" class="itemdate" data-date="29/04/2024 00:00" data-oid="8">Monday 29/04</a><a href="#0" id="9" class="itemdate" data-date="30/04/2024 00:00" data-oid="9">Tuesday 30/04</a><a href="#0" id="10" class="itemdate" data-date="01/05/2024 00:00" data-oid="10">Wednesday 01/05</a><a href="#0" id="11" class="itemdate" data-date="02/05/2024 00:00" data-oid="11">Thursday 02/05</a><a href="#0" id="12" class="itemdate" data-date="03/05/2024 00:00" data-oid="12">Friday 03/05</a><a href="#0" id="13" class="itemdate" data-date="04/05/2024 00:00" data-oid="13">Saturday 04/05</a><a href="#0" id="14" class="itemdate" data-date="05/05/2024 00:00" data-oid="14">Sunday 05/05</a><a href="#0" id="15" class="itemdate" data-date="06/05/2024 00:00" data-oid="15">Monday 06/05</a><a href="#0" id="16" class="itemdate" data-date="07/05/2024 00:00" data-oid="16">Tuesday 07/05</a><a href="#0" id="17" class="itemdate" data-date="08/05/2024 00:00" data-oid="17">Wednesday 08/05</a><a href="#0" id="18" class="itemdate" data-date="09/05/2024 00:00" data-oid="18">Thursday 09/05</a><a href="#0" id="19" class="itemdate" data-date="10/05/2024 00:00" data-oid="19">Friday 10/05</a><a href="#0" id="20" class="itemdate" data-date="11/05/2024 00:00" data-oid="20">Saturday 11/05</a><a href="#0" id="21" class="itemdate" data-date="12/05/2024 00:00" data-oid="21">Sunday 12/05</a><a href="#0" id="22" class="itemdate" data-date="13/05/2024 00:00" data-oid="22">Monday 13/05</a><a href="#0" id="23" class="itemdate" data-date="14/05/2024 00:00" data-oid="23">Tuesday 14/05</a><a href="#0" id="24" class="itemdate" data-date="15/05/2024 00:00" data-oid="24">Wednesday 15/05</a><a href="#0" id="25" class="itemdate" data-date="16/05/2024 00:00" data-oid="25">Thursday 16/05</a><a href="#0" id="26" class="itemdate" data-date="17/05/2024 00:00" data-oid="26">Friday 17/05</a><a href="#0" id="27" class="itemdate" data-date="18/05/2024 00:00" data-oid="27">Saturday 18/05</a><a href="#0" id="28" class="itemdate" data-date="19/05/2024 00:00" data-oid="28">Sunday 19/05</a><a href="#0" id="29" class="itemdate" data-date="20/05/2024 00:00" data-oid="29">Monday 20/05</a><a href="#0" id="30" class="itemdate" data-date="21/05/2024 00:00" data-oid="30">Tuesday 21/05</a><a href="#0" id="31" class="itemdate" data-date="22/05/2024 00:00" data-oid="31">Wednesday 22/05</a><a href="#0" id="32" class="itemdate" data-date="23/05/2024 00:00" data-oid="32">Thursday 23/05</a><a href="#0" id="33" class="itemdate" data-date="24/05/2024 00:00" data-oid="33">Friday 24/05</a><a href="#0" id="34" class="itemdate" data-date="25/05/2024 00:00" data-oid="34">Saturday 25/05</a><a href="#0" id="35" class="itemdate" data-date="26/05/2024 00:00" data-oid="35">Sunday 26/05</a><a href="#0" id="36" class="itemdate" data-date="27/05/2024 00:00" data-oid="36">Monday 27/05</a><a href="#0" id="37" class="itemdate" data-date="28/05/2024 00:00" data-oid="37">Tuesday 28/05</a><a href="#0" id="38" class="itemdate" data-date="29/05/2024 00:00" data-oid="38">Wednesday 29/05</a><a href="#0" id="39" class="itemdate" data-date="30/05/2024 00:00" data-oid="39">Thursday 30/05</a><a href="#0" id="40" class="itemdate" data-date="31/05/2024 00:00" data-oid="40">Friday 31/05</a><a href="#0" id="41" class="itemdate" data-date="01/06/2024 00:00" data-oid="41">Saturday 01/06</a><a href="#0" id="42" class="itemdate" data-date="02/06/2024 00:00" data-oid="42">Sunday 02/06</a><a href="#0" id="43" class="itemdate" data-date="03/06/2024 00:00" data-oid="43">Monday 03/06</a><a href="#0" id="44" class="itemdate" data-date="04/06/2024 00:00" data-oid="44">Tuesday 04/06</a><a href="#0" id="45" class="itemdate" data-date="05/06/2024 00:00" data-oid="45">Wednesday 05/06</a><a href="#0" id="46" class="itemdate" data-date="06/06/2024 00:00" data-oid="46">Thursday 06/06</a><a href="#0" id="47" class="itemdate" data-date="07/06/2024 00:00" data-oid="47">Friday 07/06</a><a href="#0" id="48" class="itemdate" data-date="08/06/2024 00:00" data-oid="48">Saturday 08/06</a><a href="#0" id="49" class="itemdate" data-date="09/06/2024 00:00" data-oid="49">Sunday 09/06</a><a href="#0" id="50" class="itemdate" data-date="10/06/2024 00:00" data-oid="50">Monday 10/06</a><a href="#0" id="51" class="itemdate" data-date="11/06/2024 00:00" data-oid="51">Tuesday 11/06</a><a href="#0" id="52" class="itemdate" data-date="12/06/2024 00:00" data-oid="52">Wednesday 12/06</a><a href="#0" id="53" class="itemdate" data-date="13/06/2024 00:00" data-oid="53">Thursday 13/06</a><a href="#0" id="54" class="itemdate" data-date="14/06/2024 00:00" data-oid="54">Friday 14/06</a><a href="#0" id="55" class="itemdate" data-date="15/06/2024 00:00" data-oid="55">Saturday 15/06</a><a href="#0" id="56" class="itemdate" data-date="16/06/2024 00:00" data-oid="56">Sunday 16/06</a><a href="#0" id="57" class="itemdate" data-date="17/06/2024 00:00" data-oid="57">Monday 17/06</a><a href="#0" id="58" class="itemdate" data-date="18/06/2024 00:00" data-oid="58">Tuesday 18/06</a><a href="#0" id="59" class="itemdate" data-date="19/06/2024 00:00" data-oid="59">Wednesday 19/06</a><a href="#0" id="60" class="itemdate" data-date="20/06/2024 00:00" data-oid="60">Thursday 20/06</a><a href="#0" id="61" class="itemdate" data-date="21/06/2024 00:00" data-oid="61">Friday 21/06</a><a href="#0" id="62" class="itemdate" data-date="22/06/2024 00:00" data-oid="62">Saturday 22/06</a><a href="#0" id="63" class="itemdate" data-date="23/06/2024 00:00" data-oid="63">Sunday 23/06</a><a href="#0" id="64" class="itemdate" data-date="24/06/2024 00:00" data-oid="64">Monday 24/06</a><a href="#0" id="65" class="itemdate" data-date="25/06/2024 00:00" data-oid="65">Tuesday 25/06</a><a href="#0" id="66" class="itemdate" data-date="26/06/2024 00:00" data-oid="66">Wednesday 26/06</a><a href="#0" id="67" class="itemdate" data-date="27/06/2024 00:00" data-oid="67">Thursday 27/06</a><a href="#0" id="68" class="itemdate" data-date="28/06/2024 00:00" data-oid="68">Friday 28/06</a><a href="#0" id="69" class="itemdate" data-date="29/06/2024 00:00" data-oid="69">Saturday 29/06</a><a href="#0" id="70" class="itemdate" data-date="30/06/2024 00:00" data-oid="70">Sunday 30/06</a><a href="#0" id="71" class="itemdate" data-date="01/07/2024 00:00" data-oid="71">Monday 01/07</a><a href="#0" id="72" class="itemdate" data-date="02/07/2024 00:00" data-oid="72">Tuesday 02/07</a><a href="#0" id="73" class="itemdate" data-date="03/07/2024 00:00" data-oid="73">Wednesday 03/07</a><a href="#0" id="74" class="itemdate" data-date="04/07/2024 00:00" data-oid="74">Thursday 04/07</a><a href="#0" id="75" class="itemdate" data-date="05/07/2024 00:00" data-oid="75">Friday 05/07</a><a href="#0" id="76" class="itemdate" data-date="06/07/2024 00:00" data-oid="76">Saturday 06/07</a><a href="#0" id="77" class="itemdate" data-date="07/07/2024 00:00" data-oid="77">Sunday 07/07</a><a href="#0" id="78" class="itemdate" data-date="08/07/2024 00:00" data-oid="78">Monday 08/07</a><a href="#0" id="79" class="itemdate" data-date="09/07/2024 00:00" data-oid="79">Tuesday 09/07</a><a href="#0" id="80" class="itemdate" data-date="10/07/2024 00:00" data-oid="80">Wednesday 10/07</a><a href="#0" id="81" class="itemdate" data-date="11/07/2024 00:00" data-oid="81">Thursday 11/07</a><a href="#0" id="82" class="itemdate" data-date="12/07/2024 00:00" data-oid="82">Friday 12/07</a><a href="#0" id="83" class="itemdate" data-date="13/07/2024 00:00" data-oid="83">Saturday 13/07</a><a href="#0" id="84" class="itemdate" data-date="14/07/2024 00:00" data-oid="84">Sunday 14/07</a><a href="#0" id="85" class="itemdate" data-date="15/07/2024 00:00" data-oid="85">Monday 15/07</a><a href="#0" id="86" class="itemdate" data-date="16/07/2024 00:00" data-oid="86">Tuesday 16/07</a><a href="#0" id="87" class="itemdate" data-date="17/07/2024 00:00" data-oid="87">Wednesday 17/07</a><a href="#0" id="88" class="itemdate" data-date="18/07/2024 00:00" data-oid="88">Thursday 18/07</a><a href="#0" id="89" class="itemdate" data-date="19/07/2024 00:00" data-oid="89">Friday 19/07</a><a href="#0" id="90" class="itemdate" data-date="20/07/2024 00:00" data-oid="90">Saturday 20/07</a><a href="#0" id="91" class="itemdate" data-date="21/07/2024 00:00" data-oid="91">Sunday 21/07</a><a href="#0" id="92" class="itemdate" data-date="22/07/2024 00:00" data-oid="92">Monday 22/07</a><a href="#0" id="93" class="itemdate" data-date="23/07/2024 00:00" data-oid="93">Tuesday 23/07</a><a href="#0" id="94" class="itemdate" data-date="24/07/2024 00:00" data-oid="94">Wednesday 24/07</a><a href="#0" id="95" class="itemdate" data-date="25/07/2024 00:00" data-oid="95">Thursday 25/07</a><a href="#0" id="96" class="itemdate" data-date="26/07/2024 00:00" data-oid="96">Friday 26/07</a><a href="#0" id="97" class="itemdate" data-date="27/07/2024 00:00" data-oid="97">Saturday 27/07</a><a href="#0" id="98" class="itemdate" data-date="28/07/2024 00:00" data-oid="98">Sunday 28/07</a><a href="#0" id="99" class="itemdate" data-date="29/07/2024 00:00" data-oid="99">Monday 29/07</a><a href="#0" id="100" class="itemdate" data-date="30/07/2024 00:00" data-oid="100">Tuesday 30/07</a><a href="#0" id="101" class="itemdate" data-date="31/07/2024 00:00" data-oid="101">Wednesday 31/07</a><a href="#0" id="102" class="itemdate" data-date="01/08/2024 00:00" data-oid="102">Thursday 01/08</a><a href="#0" id="103" class="itemdate" data-date="02/08/2024 00:00" data-oid="103">Friday 02/08</a><a href="#0" id="104" class="itemdate" data-date="03/08/2024 00:00" data-oid="104">Saturday 03/08</a><a href="#0" id="105" class="itemdate" data-date="04/08/2024 00:00" data-oid="105">Sunday 04/08</a><a href="#0" id="106" class="itemdate" data-date="05/08/2024 00:00" data-oid="106">Monday 05/08</a><a href="#0" id="107" class="itemdate" data-date="06/08/2024 00:00" data-oid="107">Tuesday 06/08</a><a href="#0" id="108" class="itemdate" data-date="07/08/2024 00:00" data-oid="108">Wednesday 07/08</a><a href="#0" id="109" class="itemdate" data-date="08/08/2024 00:00" data-oid="109">Thursday 08/08</a><a href="#0" id="110" class="itemdate" data-date="09/08/2024 00:00" data-oid="110">Friday 09/08</a><a href="#0" id="111" class="itemdate" data-date="10/08/2024 00:00" data-oid="111">Saturday 10/08</a><a href="#0" id="112" class="itemdate" data-date="11/08/2024 00:00" data-oid="112">Sunday 11/08</a><a href="#0" id="113" class="itemdate" data-date="12/08/2024 00:00" data-oid="113">Monday 12/08</a><a href="#0" id="114" class="itemdate" data-date="13/08/2024 00:00" data-oid="114">Tuesday 13/08</a><a href="#0" id="115" class="itemdate selected" data-date="14/08/2024 00:00" data-oid="115">Wednesday 14/08</a>
+                            <span class="filling-line" aria-hidden="true"></span>
+                        </div>
+                        <!-- .events -->
+                    </div>
+                    <!-- .events-wrapper -->
+
+                    <div id="Floods" class="cd-timeline-navigation">
+                        <a href="#0" class="prev inactive">Prev</a>
+                        <a href="#0" class="next">Next</a>
+                    </div>
+                    <!-- .cd-timeline-navigation -->
+                </div>
+                <!-- .timeline -->
+            </section>
+            <div class="row section_report">
+                <div id="contentNews" class="col-lg-12">
+                    <h2>Timeline of revisions</h2>
+                    <p class="'p_summary">For accessing reports of previous advisories, please click on the advisory number in the table below.</p>
+                    <div>
+	<table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes" width="100%">
+		<tr class="main_tit">
+			<th scope="col">ID</th><th scope="col">Alert Color</th><th scope="col">Population affected</th><th scope="col">Start Date</th><th scope="col">End Date</th><th scope="col">Source</th>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl02_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=1&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl02_labelEpisode">1</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl02_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 200 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl02_lepisodeFromDate">29 Apr 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl02_lepisodeToDate">01 May 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl02_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl03_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=2&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl03_labelEpisode">2</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl03_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>1 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl03_lepisodeFromDate">05 May 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl03_lepisodeToDate">06 May 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl03_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl04_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=3&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl04_labelEpisode">3</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl04_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl04_lepisodeFromDate">09 May 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl04_lepisodeToDate">11 May 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl04_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl05_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=4&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl05_labelEpisode">4</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl05_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl05_lepisodeFromDate">13 May 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl05_lepisodeToDate">15 May 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl05_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl06_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=5&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl06_labelEpisode">5</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl06_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl06_lepisodeFromDate">21 May 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl06_lepisodeToDate">23 May 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl06_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl07_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=6&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl07_labelEpisode">6</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl07_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl07_lepisodeFromDate">22 May 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl07_lepisodeToDate">25 May 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl07_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl08_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=7&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl08_labelEpisode">7</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl08_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>1 deaths and 8 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl08_lepisodeFromDate">28 May 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl08_lepisodeToDate">29 May 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl08_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl09_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=8&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl09_labelEpisode">8</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl09_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl09_lepisodeFromDate">03 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl09_lepisodeToDate">04 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl09_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl10_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=9&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl10_labelEpisode">9</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl10_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl10_lepisodeFromDate">05 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl10_lepisodeToDate">07 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl10_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl11_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=10&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl11_labelEpisode">10</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl11_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl11_lepisodeFromDate">08 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl11_lepisodeToDate">10 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl11_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl12_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=11&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl12_labelEpisode">11</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl12_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>1 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl12_lepisodeFromDate">09 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl12_lepisodeToDate">10 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl12_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl13_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=12&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl13_labelEpisode">12</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl13_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl13_lepisodeFromDate">11 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl13_lepisodeToDate">13 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl13_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl14_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=13&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl14_labelEpisode">13</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl14_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl14_lepisodeFromDate">17 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl14_lepisodeToDate">18 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl14_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl15_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=14&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl15_labelEpisode">14</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl15_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl15_lepisodeFromDate">14 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl15_lepisodeToDate">15 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl15_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl16_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=15&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl16_labelEpisode">15</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl16_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 200 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl16_lepisodeFromDate">19 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl16_lepisodeToDate">21 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl16_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl17_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=16&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl17_labelEpisode">16</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl17_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl17_lepisodeFromDate">19 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl17_lepisodeToDate">21 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl17_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl18_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=17&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl18_labelEpisode">17</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl18_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>1 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl18_lepisodeFromDate">21 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl18_lepisodeToDate">23 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl18_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl19_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=18&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl19_labelEpisode">18</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl19_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl19_lepisodeFromDate">28 Jun 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl19_lepisodeToDate">30 Jun 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl19_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl20_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=19&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl20_labelEpisode">19</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl20_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 200 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl20_lepisodeFromDate">05 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl20_lepisodeToDate">07 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl20_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl21_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=20&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl21_labelEpisode">20</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl21_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>3 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl21_lepisodeFromDate">08 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl21_lepisodeToDate">10 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl21_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl22_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=21&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl22_labelEpisode">21</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl22_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>2 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl22_lepisodeFromDate">10 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl22_lepisodeToDate">12 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl22_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl23_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=22&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl23_labelEpisode">22</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl23_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>1 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl23_lepisodeFromDate">13 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl23_lepisodeToDate">15 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl23_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl24_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=23&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl24_labelEpisode">23</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl24_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 211 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl24_lepisodeFromDate">17 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl24_lepisodeToDate">19 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl24_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl25_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=24&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl25_labelEpisode">24</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl25_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 50 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl25_lepisodeFromDate">14 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl25_lepisodeToDate">16 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl25_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl26_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=25&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl26_labelEpisode">25</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl26_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl26_lepisodeFromDate">20 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl26_lepisodeToDate">23 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl26_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl27_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=26&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl27_labelEpisode">26</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl27_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl27_lepisodeFromDate">29 Jul 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl27_lepisodeToDate">31 Jul 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl27_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl28_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=27&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl28_labelEpisode">27</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl28_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>1 deaths and 500 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl28_lepisodeFromDate">05 Aug 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl28_lepisodeToDate">07 Aug 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl28_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl29_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=28&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl29_labelEpisode">28</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl29_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths and 67 displaced </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl29_lepisodeFromDate">05 Aug 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl29_lepisodeToDate">07 Aug 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl29_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl30_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=29&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl30_labelEpisode">29</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl30_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl30_lepisodeFromDate">06 Aug 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl30_lepisodeToDate">08 Aug 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl30_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl31_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=30&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl31_labelEpisode">30</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl31_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl31_lepisodeFromDate">08 Aug 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl31_lepisodeToDate">10 Aug 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl31_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr><tr>
+			<td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl32_hyperLinkEpisode" CommandName="SingleClick" href="https://www.gdacs.org/Floods/report.aspx?eventid=1102594&amp;episodeid=31&amp;eventtype=FL&amp;detail=true"><span id="ctl00_CPH_GridViewEpisodes_ctl32_labelEpisode">31</span></a>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl32_labelImageAlertColor"><img src='../images/gdacs_icons/alerts/Green/FL.png' width='30' style='margin:4px;' align='center' /></span>
+                                </td><td>0 deaths </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl32_lepisodeFromDate">11 Aug 2024</span>
+                                </td><td>
+                                    <span id="ctl00_CPH_GridViewEpisodes_ctl32_lepisodeToDate">13 Aug 2024</span>
+                                </td><td>
+                                    <a id="ctl00_CPH_GridViewEpisodes_ctl32_SourceId" title="FloodList provided by Copernicus GLOFAS" data-toggle="tooltip" data-placement="top">GLOFAS</a>
+                                </td>
+		</tr>
+	</table>
+</div>
+                </div>
+            </div>
+            <div class="row">
+                <div id="contentResources" class="col-lg-12">
+                    <h3>Flood polygons </h3>
+                    <p class="p_summary">This polygon (translucent blue with a blue border) is drawn by the analysts recording the flood event. It is meant to include all the areas reported as affected, by official source or the media. It does not represent the area actually under water.</p>
+                    <h3>Microwave flood detection </h3>
+                    <p class="p_summary">
+                        Flooded area, as detected in microwaves by the Global Flood Detection System of the JRC, based on NASA TRMM/GPM observations. This system has a rather low resolution (of 5-10km) but is not affected by clouds.<br />
+                        For more details, see <a href="http://www.unisdr.org/files/9622_LBNA23303ENC002.pdf" target="_blank">http://www.unisdr.org/files/9622_LBNA23303ENC002.pdf</a>.
+                        <br />
+                        The areas with a flood signal along the coast are an artefact of the system and should not be considered.
+                    </p>
+                    <h3>Optical Flood detection</h3>
+                    <p class="p_summary">Flooded area as detected in optical wavelengths by NASA/MODIS, known as "MODIS Flood Product". Data are made available by NASA GSFC Flood Mapping Project, <a href="http://oas.gsfc.nasa.gov/floodmap/index.html" target="_blank">http://oas.gsfc.nasa.gov/floodmap/index.html</a>. Resolution of 250m, heavily affected by cloud cover. </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var reportShowAlertBar = true;
+        var reportFromDate = '2024-04-22';
+        var reportToDate = '2024-08-14';
+        var reportEventtype = 'FL';
+        var reportShowRain = true;
+        var reportShowCloud = false;
+        var reportCloudTemplate = '';
+        var reportRainTemplate = 'https://www.gdacs.org/contentdata/img/rain/[yyyy]/[mm]/[yyyy][mm][dd].png';
+        var reportLon = -97.5170536;
+        var reportLat =35.4729886;
+        var reportLayerToShow = '';
+        var reportWMSRDRI = '';
+        var reportZoomLevel =6;
+        var reportModisTemplate ='https://www.gdacs.org/contentdata/resources/FL/1102594/modis_flood_download_[yyyy][mm][dd].kml';
+        var reportGFDSTemplate ='';
+        var reportJsonLayer = 'https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=FL&eventid=1102594&episodeid=31&polygontype=Affected';
+        var reportAlertscore = 0.5;
+
+        var reportWMSCloud = '';
+        var reportWMSRain = '';
+        var reportWMSPopDensity = 'https://arcgis.jrc.ec.europa.eu/server/rest/services/ecml/ghs_pop_e2015_r2019a_4326_9ss/MapServer';
+        var reportWMSRDRI = '';
+
+        var reportJsonLayerGFM_Observed = 'https://geoserver.gfm.eodc.eu/geoserver/gfm/wms?service=WMS&version=1.1.0&request=GetMap&layers=gfm%3Aobserved_flood_extent_footprint%2Cgfm%3Aobserved_flood_extent&TIME=8/13/2024 1:00:00 AM&bbox=-180.0%2C-90.0%2C180.0%2C90.0&width=768&height=384&srs=EPSG%3A4326&styles=&format=application%2Fopenlayers3';
+        var reportFloodsTemplate = 'https://geoserver.gfm.eodc.eu/geoserver/gfm/wms?service=WMS&version=1.1.0&request=GetMap&layers=gfm%3Aobserved_flood_extent_footprint%2Cgfm%3Aobserved_flood_extent&TIME=[yyyy]-[mm]-[dd]T00%3a00%3a00Z&bbox=-180.0%2C-90.0%2C180.0%2C90.0&width=768&height=384&srs=EPSG%3A4326&styles=&format=application%2Fopenlayers3';
+        var reportGFMTemplate = 'https://arcgis.jrc.ec.europa.eu/server/rest/services/ecml/gdacs_flood/MapServer/export?layerDefs=0:eventid=1102594%20AND%20referencedateint=[yyyy][mm][dd]';
+        var reportOverallGFM = 'https://arcgis.jrc.ec.europa.eu/server/rest/services/ecml/gdacs_flood/MapServer/export?layerDefs=0:eventid%3D1102594';
+        var reportShowGFDS = true;
+        var reportShowPopDensity = false;
+        var reportHasMaps = false;
+        var reportShakeLayer = '';
+        var reportJsonLayerPopulation = '';
+        var reportJsonLayerOverAll = '';
+        var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+        var reportJsonNppLayer = '';
+
+        //Timeline variable
+        var countDateSlot = 0;
+        var countTimelineSlot = 0;
+        var currentPosition = 0;
+        var timelineTotWidth;
+
+        var chkOverAll = false;
+
+        var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+            return new bootstrap.Popover(popoverTriggerEl)
+        })
+        //var popover = new bootstrap.Popover(document.querySelector('.example-popover'), {
+        //    container: 'body'
+        //})
+
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+        $(function () {
+
+
+            if (!reportShowAlertBar) {
+                $("#alertbar").remove();
+            }
+
+            // Script for score bar
+            if (reportEventtype == "TC") {
+                reportAlertScoreBar("#alertscorebar", reportAlertscore, reportCurrentAlertscore);
+            }
+            else {
+
+                reportAlertScoreBar("#alertscorebar", reportAlertscore);
+                if (reportAlertscore == -1)
+                    $("#alertscorebar").remove();
+            }
+
+            chkOverAll = true;
+
+            ////alert((endDate-startDate));
+            ////alert((endDate-startDate).getTime());
+            ////Slider for maps
+            //$("#slider_rain_date").slider({
+            //    value: Math.floor((endDate.getTime() - startDate.getTime()) / 86400000),
+            //    min: Math.floor((startDate.getTime() - startDate.getTime()) / 86400000),
+            //    max: Math.floor((endDate.getTime() - startDate.getTime()) / 86400000),
+            //    step: 1,
+            //    slide: function (event, ui) {
+            //        stepDate = (new Date(startDate.getTime() + parseInt(ui.value * 86400000)));
+            //        $("#labelRainDate").text(stepDate.toDateString());
+            //        setTime();
+            //        chkOverAll = true;
+            //        if (chkOverAll == true) {
+            //            document.getElementById("gfmoverall").checked = false;
+            //            setVisibleGFM(false);
+            //            chkOverAll = false;
+            //        }
+
+            //    }
+
+
+            //});
+            //$("#labelRainDate").text(endDate.toDateString());
+
+            $('.itemdate').on('click', function (e) {
+                chkOverAll = true;
+                setTimeline(e.currentTarget.dataset.date);
+
+                if (chkOverAll == true) {
+                    document.getElementById("gfmoverall").checked = false;
+                    setVisibleGFM(false);
+                    chkOverAll = false;
+                }
+            });
+
+            $("#gfmoverall").change(function () {
+                setVisibleGFM(this.checked);
+            });
+
+        });
+
+
+
+        ////Insert new Timeline 
+        function setTimeline(date) {
+            $(".itemdate").each(function (index, value) {
+                if (value.dataset.date == date) {
+                    var oid = value.dataset.oid;
+                    currentPosition = index;
+                    stepDate = (new Date(startDate.getTime() + parseInt(index * 86400000)));
+                    setTime();
+                }
+            });
+
+            var timelines = $('.cd-horizontal-timeline'),
+                eventsMinDistance = 80;
+
+            (timelines.length > 0) && initTimeline(timelines);
+
+            function initTimeline(timelines) {
+                timelines.each(function () {
+                    var timeline = $(this),
+                        timelineComponents = {};
+                    //cache timeline components 
+                    timelineComponents['timelineWrapper'] = timeline.find('.events-wrapper');
+                    timelineComponents['eventsWrapper'] = timelineComponents['timelineWrapper'].children('.events');
+                    timelineComponents['fillingLine'] = timelineComponents['eventsWrapper'].children('.filling-line');
+                    timelineComponents['timelineEvents'] = timelineComponents['eventsWrapper'].find('a');
+                    timelineComponents['timelineDates'] = parseDate2(timelineComponents['timelineEvents']);
+                    timelineComponents['eventsMinLapse'] = minLapse(timelineComponents['timelineDates']);
+                    timelineComponents['timelineNavigation'] = timeline.find('.cd-timeline-navigation');
+                    timelineComponents['eventsContent'] = timeline.children('.events-content');
+
+
+                    //assign a left postion to the single events along the timeline
+                    //setDatePosition(timelineComponents, eventsMinDistance);
+                    //assign a width to the timeline
+                    //var timelineTotWidth = setTimelineWidth(timelineComponents, eventsMinDistance);
+                    //if (timelineTotWidth < 1000)
+                    //    timelineTotWidth = 1000;
+                    //the timeline has been initialize - show it
+                    //timeline.addClass('loaded');
+                    timelineComponents['timelineEvents'].removeClass('selected');
+                    timelineComponents['timelineEvents'].eq(currentPosition).addClass('selected');
+
+                    //Set timeline position on last component
+                    updateFilling(timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents['fillingLine'], timelineTotWidth);
+                    if (currentPosition > countTimelineSlot)
+                        updateTimelinePosition('next', timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents, timelineTotWidth);
+                    else
+                        updateTimelinePosition('prev', timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents, timelineTotWidth);
+
+                    countTimelineSlot = currentPosition;
+                });
+            };
+        }
+
+
+
+        /*        if (reportTimeForestFire == true) {*/
+        var timelines = $('.cd-horizontal-timeline'),
+            eventsMinDistance = 80;
+
+        (timelines.length > 0) && initTimeline(timelines);
+
+        function initTimeline(timelines) {
+            timelines.each(function () {
+                var timeline = $(this),
+                    timelineComponents = {};
+                //cache timeline components 
+                timelineComponents['timelineWrapper'] = timeline.find('.events-wrapper');
+                timelineComponents['eventsWrapper'] = timelineComponents['timelineWrapper'].children('.events');
+                timelineComponents['fillingLine'] = timelineComponents['eventsWrapper'].children('.filling-line');
+                timelineComponents['timelineEvents'] = timelineComponents['eventsWrapper'].find('a');
+                timelineComponents['timelineDates'] = parseDate2(timelineComponents['timelineEvents']);
+                timelineComponents['eventsMinLapse'] = minLapse(timelineComponents['timelineDates']);
+                timelineComponents['timelineNavigation'] = timeline.find('.cd-timeline-navigation');
+                timelineComponents['eventsContent'] = timeline.children('.events-content');
+
+
+                //assign a left postion to the single events along the timeline
+                setDatePosition(timelineComponents, eventsMinDistance);
+                //assign a width to the timeline
+                timelineTotWidth = setTimelineWidth(timelineComponents, eventsMinDistance);
+                //if (timelineTotWidth < 1000)
+                //    timelineTotWidth = 1000;
+                //the timeline has been initialize - show it
+                timeline.addClass('loaded');
+
+                //Set timeline position on last component
+                updateFilling(timelineComponents['timelineEvents'].eq(timelineComponents['timelineDates'].length - 1), timelineComponents['fillingLine'], timelineTotWidth);
+                updateTimelinePosition('next', timelineComponents['timelineEvents'].eq(timelineComponents['timelineDates'].length - 1), timelineComponents, timelineTotWidth);
+
+                //detect click on the next arrow
+                timelineComponents['timelineNavigation'].on('click', '.next', function (event) {
+                    event.preventDefault();
+                    updateSlide(timelineComponents, timelineTotWidth, 'next');
+                });
+                //detect click on the prev arrow
+                timelineComponents['timelineNavigation'].on('click', '.prev', function (event) {
+                    event.preventDefault();
+                    updateSlide(timelineComponents, timelineTotWidth, 'prev');
+                });
+                //detect click on the a single event - show new event content
+                timelineComponents['eventsWrapper'].on('click', 'a', function (event) {
+                    event.preventDefault();
+                    timelineComponents['timelineEvents'].removeClass('selected');
+                    $(this).addClass('selected');
+                    updateOlderEvents($(this));
+                    updateFilling($(this), timelineComponents['fillingLine'], timelineTotWidth);
+                    updateVisibleContent($(this), timelineComponents['eventsContent']);
+                });
+
+                //on swipe, show next/prev event content
+                timelineComponents['eventsContent'].on('swipeleft', function () {
+                    var mq = checkMQ();
+                    (mq == 'mobile') && showNewContent(timelineComponents, timelineTotWidth, 'next');
+                });
+                timelineComponents['eventsContent'].on('swiperight', function () {
+                    var mq = checkMQ();
+                    (mq == 'mobile') && showNewContent(timelineComponents, timelineTotWidth, 'prev');
+                });
+
+                //keyboard navigation
+                $(document).keyup(function (event) {
+                    if (event.which == '37' && elementInViewport(timeline.get(0))) {
+                        showNewContent(timelineComponents, timelineTotWidth, 'prev');
+                    } else if (event.which == '39' && elementInViewport(timeline.get(0))) {
+                        showNewContent(timelineComponents, timelineTotWidth, 'next');
+                    }
+                });
+            });
+        }
+
+        function updateSlide(timelineComponents, timelineTotWidth, string) {
+            //retrieve translateX value of timelineComponents['eventsWrapper']
+            var translateValue = getTranslateValue(timelineComponents['eventsWrapper']),
+                wrapperWidth = Number(timelineComponents['timelineWrapper'].css('width').replace('px', ''));
+            //translate the timeline to the left('next')/right('prev') 
+            (string == 'next')
+                ? translateTimeline(timelineComponents, translateValue - wrapperWidth + eventsMinDistance, wrapperWidth - timelineTotWidth)
+                : translateTimeline(timelineComponents, translateValue + wrapperWidth - eventsMinDistance);
+        }
+
+        function showNewContent(timelineComponents, timelineTotWidth, string) {
+            //go from one event to the next/previous one
+            var visibleContent = timelineComponents['eventsContent'].find('.selected'),
+                newContent = (string == 'next') ? visibleContent.next() : visibleContent.prev();
+
+            if (newContent.length > 0) { //if there's a next/prev event - show it
+                var selectedDate = timelineComponents['eventsWrapper'].find('.selected'),
+                    newEvent = (string == 'next') ? selectedDate.parent('li').next('li').children('a') : selectedDate.parent('li').prev('li').children('a');
+
+                updateFilling(newEvent, timelineComponents['fillingLine'], timelineTotWidth);
+                updateVisibleContent(newEvent, timelineComponents['eventsContent']);
+                newEvent.addClass('selected');
+                selectedDate.removeClass('selected');
+                updateOlderEvents(newEvent);
+                updateTimelinePosition(string, newEvent, timelineComponents, timelineTotWidth);
+            }
+        }
+
+        function updateTimelinePosition(string, event, timelineComponents, timelineTotWidth) {
+            //translate timeline to the left/right according to the position of the selected event
+            var eventStyle = window.getComputedStyle(event.get(0), null),
+                eventLeft = Number(eventStyle.getPropertyValue("left").replace('px', '')),
+                timelineWidth = Number(timelineComponents['timelineWrapper'].css('width').replace('px', '')),
+                timelineTotWidth = Number(timelineComponents['eventsWrapper'].css('width').replace('px', ''));
+            var timelineTranslate = getTranslateValue(timelineComponents['eventsWrapper']);
+
+            if ((string == 'next' && eventLeft > timelineWidth - timelineTranslate) || (string == 'prev' && eventLeft < - timelineTranslate)) {
+                translateTimeline(timelineComponents, - eventLeft + timelineWidth / 2, timelineWidth - timelineTotWidth);
+            }
+        }
+
+        function translateTimeline(timelineComponents, value, totWidth) {
+            var eventsWrapper = timelineComponents['eventsWrapper'].get(0);
+            value = (value > 0) ? 0 : value; //only negative translate value
+            value = (!(typeof totWidth === 'undefined') && value < totWidth) ? totWidth : value; //do not translate more than timeline width
+            setTransformValue(eventsWrapper, 'translateX', value + 'px');
+            //update navigation arrows visibility
+            (value == 0) ? timelineComponents['timelineNavigation'].find('.prev').addClass('inactive') : timelineComponents['timelineNavigation'].find('.prev').removeClass('inactive');
+            (value == totWidth) ? timelineComponents['timelineNavigation'].find('.next').addClass('inactive') : timelineComponents['timelineNavigation'].find('.next').removeClass('inactive');
+        }
+
+        function updateFilling(selectedEvent, filling, totWidth) {
+            //change .filling-line length according to the selected event
+            var eventStyle = window.getComputedStyle(selectedEvent.get(0), null),
+                eventLeft = eventStyle.getPropertyValue("left"),
+                eventWidth = eventStyle.getPropertyValue("width");
+            eventLeft = Number(eventLeft.replace('px', '')) + Number(eventWidth.replace('px', '')) / 2;
+            var scaleValue = eventLeft / totWidth;
+            setTransformValue(filling.get(0), 'scaleX', scaleValue);
+        }
+
+        function setDatePosition(timelineComponents, min) {
+            //var distance = daydiff(timelineComponents['timelineDates'][0], timelineComponents['timelineDates'][i]),
+            var distance = 0;
+            for (i = 0; i < timelineComponents['timelineDates'].length; i++) {
+                if (i == 0) {
+                    distance = 1000000,
+                        distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);;
+                    timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px');
+                }
+                else {
+                    var datediff = daydiff(timelineComponents['timelineDates'][i - 1], timelineComponents['timelineDates'][i]);
+                    if (datediff > 400000000) {
+                        distance += 8280000,
+                            distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);
+                        timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px') / 2;
+                        countDateSlot += 2;
+                    }
+                    else {
+                        distance += 4140000,
+                            distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);
+                        timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px') / 2;
+                        countDateSlot++;
+                    }
+
+                }
+
+            }
+        }
+
+        function setTimelineWidth(timelineComponents, width) {
+            //var timeSpan = daydiff(timelineComponents['timelineDates'][0], timelineComponents['timelineDates'][timelineComponents['timelineDates'].length - 1]),
+            var timeSpan = (countDateSlot * 4140000) - 8280000,
+                timeSpanNorm = timeSpan / timelineComponents['eventsMinLapse'],
+                timeSpanNorm = Math.round(timeSpanNorm) + 4,
+                totalWidth = timeSpanNorm * width;
+            timelineComponents['eventsWrapper'].css('width', totalWidth + 'px');
+            updateFilling(timelineComponents['timelineEvents'].eq(0), timelineComponents['fillingLine'], totalWidth);
+            return totalWidth;
+        }
+
+        function updateVisibleContent(event, eventsContent) {
+            var eventDate = event.data('date'),
+                visibleContent = eventsContent.find('.selected'),
+                selectedContent = eventsContent.find('[data-date="' + eventDate + '"]'),
+                selectedContentHeight = selectedContent.height();
+
+            if (selectedContent.index() > visibleContent.index()) {
+                var classEnetering = 'selected enter-right',
+                    classLeaving = 'leave-left';
+            } else {
+                var classEnetering = 'selected enter-left',
+                    classLeaving = 'leave-right';
+            }
+
+            selectedContent.attr('class', classEnetering);
+            visibleContent.attr('class', classLeaving).one('webkitAnimationEnd oanimationend msAnimationEnd animationend', function () {
+                visibleContent.removeClass('leave-right leave-left');
+                selectedContent.removeClass('enter-left enter-right');
+            });
+            eventsContent.css('height', selectedContentHeight + 'px');
+        }
+
+        function updateOlderEvents(event) {
+            event.parent('li').prevAll('li').children('a').addClass('older-event').end().end().nextAll('li').children('a').removeClass('older-event');
+        }
+
+        function getTranslateValue(timeline) {
+            var timelineStyle = window.getComputedStyle(timeline.get(0), null),
+                timelineTranslate = timelineStyle.getPropertyValue("-webkit-transform") ||
+                    timelineStyle.getPropertyValue("-moz-transform") ||
+                    timelineStyle.getPropertyValue("-ms-transform") ||
+                    timelineStyle.getPropertyValue("-o-transform") ||
+                    timelineStyle.getPropertyValue("transform");
+
+            if (timelineTranslate.indexOf('(') >= 0) {
+                var timelineTranslate = timelineTranslate.split('(')[1];
+                timelineTranslate = timelineTranslate.split(')')[0];
+                timelineTranslate = timelineTranslate.split(',');
+                var translateValue = timelineTranslate[4];
+            } else {
+                var translateValue = 0;
+            }
+
+            return Number(translateValue);
+        }
+
+        function setTransformValue(element, property, value) {
+            element.style["-webkit-transform"] = property + "(" + value + ")";
+            element.style["-moz-transform"] = property + "(" + value + ")";
+            element.style["-ms-transform"] = property + "(" + value + ")";
+            element.style["-o-transform"] = property + "(" + value + ")";
+            element.style["transform"] = property + "(" + value + ")";
+        }
+
+        //based on http://stackoverflow.com/questions/542938/how-do-i-get-the-number-of-days-between-two-dates-in-javascript
+        function parseDate(events) {
+            var dateArrays = [];
+            events.each(function () {
+                var dateComp = $(this).data('date').split('/'),
+                    newDate = new Date(dateComp[2], dateComp[1] - 1, dateComp[0]);
+                dateArrays.push(newDate);
+            });
+            return dateArrays;
+        }
+
+        function parseDate2(events) {
+            var dateArrays = [];
+            events.each(function () {
+                var singleDate = $(this),
+                    dateComp = singleDate.data("date").split(" ");
+                if (dateComp.length > 1) {
+                    //both DD/MM/YEAR and time are provided
+                    var dayComp = dateComp[0].split("/"),
+                        timeComp = dateComp[1].split(":");
+                } else if (dateComp[0].indexOf(":") >= 0) {
+                    //only time is provide
+                    var dayComp = ["2000", "0", "0"],
+                        timeComp = dateComp[0].split(":");
+                } else {
+                    //only DD/MM/YEAR
+                    var dayComp = dateComp[0].split("/"),
+                        timeComp = ["0", "0"];
+                }
+                var newDate = new Date(
+                    dayComp[2],
+                    dayComp[1] - 1,
+                    dayComp[0],
+                    timeComp[0],
+                    timeComp[1]
+                );
+                dateArrays.push(newDate);
+            });
+            return dateArrays;
+        }
+
+        function daydiff(first, second) {
+            return Math.round(second - first);
+        }
+
+        function minLapse(dates) {
+            //determine the minimum distance among events
+            var dateDistances = [];
+            for (i = 1; i < dates.length; i++) {
+                var distance = daydiff(dates[i - 1], dates[i]);
+                dateDistances.push(4140000);
+            }
+            return Math.min.apply(null, dateDistances);
+        }
+
+        /*
+              How to tell if a DOM element is visible in the current viewport?
+              http://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
+          */
+        function elementInViewport(el) {
+            var top = el.offsetTop;
+            var left = el.offsetLeft;
+            var width = el.offsetWidth;
+            var height = el.offsetHeight;
+
+            while (el.offsetParent) {
+                el = el.offsetParent;
+                top += el.offsetTop;
+                left += el.offsetLeft;
+            }
+
+            return (
+                top < window.pageYOffset + window.innerHeight &&
+                left < window.pageXOffset + window.innerWidth &&
+                top + height > window.pageYOffset &&
+                left + width > window.pageXOffset
+            );
+        }
+
+        function checkMQ() {
+            //check if mobile or desktop device
+            return window
+                .getComputedStyle(
+                    document.querySelector(".cd-horizontal-timeline"),
+                    "::before"
+                )
+                .getPropertyValue("content")
+                .replace(/'/g, "")
+                .replace(/"/g, "");
+        }
+/*        }*/
+
+
+    </script>
+    <script type="text/javascript" src="../Scripts/GdacsMap/reportmap.js"></script>
+
+                </form>
+            </div><!-- end main_alert_content-->
+            
+
+            <div id="footer_home" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-footer col-12">
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkupFooter">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="../Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT GDACS</a>
+                    </div>
+                  </div>
+                </nav>
+                <div id="footer_disclaimer" class="col-12">
+                    <!--<div class="float-left gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/brexit-content-disclaimer" target="_blank">Brexit content disclaimer</a></div>-->
+                    <div class="float-end gdacs_bottom_menu_content" ><a href="../About/cookies.aspx" target="_blank" >cookies</a></div>
+                    <p><b><span class="gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/legal-notice_en" target="_blank" >Disclaimer</a></span></b><br />
+                    While we try everything to ensure accuracy, this information is purely indicative and should not be used for any decision making without alternate sources of information. 
+                    <br />The JRC is not responsible for any damage or loss resulting from the use of the information presented on this website.
+                    <br />The designations employed and the presentation of material on the map do not imply the expression of any opinion whatsoever on the part of the European Union concerning the legal status of any country, territory or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+                    </p>
+                </div>
+                <div id="footer_logo" class="d-none d-lg-block col-lg-12">
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ec.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ocha.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unitar.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unosat.png" width="90" height="70"  alt=""/></div>
+                </div>
+	        </div>
+                                
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    $(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#meteorological").remove();
+            $("#secondary_cyclone_source").remove();
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+    });
+
+    $(window).resize(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#nopadding").addClass('container').removeClass('container-fluid');
+            $("#tab_responsive").removeClass('table table-responsive');
+            $("#cities").removeClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '15px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+        if (window.innerWidth < 768) {
+            $("#legend").remove();
+            $("#meteorological").remove();
+            $("#alert_sources_minitabs").after("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 0px;\"><div class=\"sources_\"> <p class=\"p_summary\" style=\"padding-left: 0px;\"><p class=\"col-lg-4\" style=\"color: #6d9baf;text-decoration: none;font-weight: bold;\">Meteorological source</p>:</p><br/><br/></div>" +
+                "<br/><div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><br/><br/><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#meteorological").remove();
+            $("#section1").before("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 15px;\"><div class=\"sources_\"> <p class=\"p_summary\"><a href=\"*\">Meteorological source</a>:</p></div>" +
+                "<div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+        }
+
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+            $("#labelRainDate").attr("style", "width: 440px;float: left;text-align: center;font-weight: bold;");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+
+        }
+
+
+    });
+
+</script>
+
+<!--
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-298127-1");
+pageTracker._setDomainName(".gdacs.org");
+pageTracker._setLocalRemoteServerMode();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+-->
+</body>
+</html>

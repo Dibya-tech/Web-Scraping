@@ -1,0 +1,895 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Overall Orange Drought alert  for Zambezi Basin-2024 in Angola, Democratic Republic of Congo, Mozambique, Namibia, Zambia, Zimbabwe from 21 Dec 2023 00:00 UTC to 14 Aug 2024 00:00 UTC
+</title><link href="../Content/bootstrap.min.css" rel="stylesheet" /><link href="../Styles/gdacs_2.0.css" rel="stylesheet" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" media="(min-width: 768px) and (max-width: 991px)" href="../Styles/gdacs_device_2.0.css" /><link rel="stylesheet" media="(max-width: 768px)" href="../Styles/gdacs_minidevice_2.0.css" />
+    <script src="https://webtools.europa.eu/load.js" type="text/javascript"></script>
+    <script type="application/json">
+    {
+        "utility":"analytics",
+        "siteID":"770a3ada-ebea-420b-923a-c6490acb21ab",
+        "sitePath":["www.gdacs.org"],
+        "instance":"ec",
+        "mode":"manual"
+    }
+    </script>
+	<script type="application/json">
+	{
+		"utility" : "cck",
+		"url": {
+			"en": "https://my.ec.europa.eu/cookie-policy_en",
+			"de": "https://my.ec.europa.eu/de/cookie-policy"
+		}
+	}
+	</script>
+    <script type="text/javascript" src="/Scripts/jquery-3.6.4.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="/Scripts/Alertlevels/DetailedTable.js"></script>
+<!--    <script type="text/javascript" src="/Scripts/adaptivecard/InformCard.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards/dist/adaptivecards.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptive-expressions@4.12.0/lib/browser.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards-templating/dist/adaptivecards-templating.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
+-->
+    
+
+    <script type="text/javascript"  src="../Scripts/highcharts/5.0.14/highcharts.js"></script>
+    <script type="text/javascript"  src="../Scripts/Report/highcharts_graph.js"></script>
+  <style type="text/css">
+    .popover {
+          border: 1px solid black;
+          max-width:none;
+  }    
+  </style>
+
+
+
+   <style type="text/css">
+        .navbar-header{color: #9bc1ce; background-color:#69A7C3; }
+        .navbar-footer{color: #9bc1ce; background-color:transparent;border:none; border-bottom:none;border-color:transparent; }
+        .navbar-report{color: #6d9baf; border-bottom:1px solid; border-color:#6d9baf;min-height: 40px;margin-bottom:15px}
+        .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{color: #ffffff; text-decoration: underline;}
+        .navbar-light .navbar-nav .nav-link{color:#c5d5d8}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {background-color:transparent;text-decoration:underline;color:white;}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .activereport > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.activereport {background-color:transparent;text-decoration:underline;color:#125172;margin: 0px 20px 0 15px}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .report-link> .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.report-link {color: #6d9baf;margin: 0px 20px 0 15px}
+        .report-link {color: #6d9baf;}
+        #footer_home {background-color:#125172;}
+       /*.device-toggler.navbar-toggler .navbar-toggler-icon {
+             background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(75, 255, 0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+        }
+
+    .device-toggler.navbar-toggler {
+      border-color: rgb(75, 255, 0);
+    }
+
+    .device-toggler.navbar-toggler:focus {
+      outline-color: rgb(75, 255, 0);
+    }*/
+    </style>
+    <link href="../Styles/gdacs_2.0_bootstrap4to5.css" rel="stylesheet" />
+	<script type ="text/javascript">
+        $(function () {
+            $('table.generic tr.main_tit').data("current", "main_tit");
+            $('table.generic tr.main_tit').on('click', function () {
+                changeColor(this);
+            });
+        });
+        function changeColor(x) {
+            var _current = $(x).data("current");
+            if (_current == "main_tit") {
+                $(x).data('current', 'main_tit_highlighted');
+                $(".main_tit").css("background-color", "#083c53");
+                $(".generic").css("color", "#000000");
+            }
+            else {
+                $(x).data('current', 'main_tit');
+                $(".main_tit").css("background-color", "#a3b8c1");
+                $(".generic").css("color", "#666666");
+            }
+        }
+
+    </script>
+            
+<!-- Piwik 
+   <script type="text/javascript">
+       if ($wt.cookie.consent.is.choiceMade() && $wt.cookie.consent.is.allAccepted()) {
+           var _paq = _paq || [];
+           /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+           _paq.push(['trackPageView']);
+           _paq.push(['enableLinkTracking']);
+           (function () {
+               var u = "//stats.jrc.ec.europa.eu/";
+               _paq.push(['setTrackerUrl', u + 'piwik.php']);
+               _paq.push(['setSiteId', '319']);
+               var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+               g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore(g, s);
+           })();
+       }
+   </script>
+ End Piwik Code -->
+</head>
+<body>
+    <div id="wrapper_anniversary">
+            
+            <div id="header" class="container-fluid">
+            <div id="top_menu">
+                <style>
+                    @media screen (min-width: 992px) {#main_alert_content .navbar-expand-lg {height:40px;}}
+                </style>
+                <div class="container">
+                    <div class="float-end gdacs_top_menu_content"><a href="../admin" target="_blank">admin</a></div>
+                    <div class="float-end gdacs_top_menu_content"><a href="../gdacsregister" target="_blank">register/login</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/contactus.aspx" >contact us</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/termofuse.aspx" >term of use</a></div>
+                </div>
+            </div>
+            <div id="heading" class="container">
+                <div id="rowhead" class="row">
+                    <div id="gd_logo" class="col-lg-3 gdacs_logo">
+						<img id="gdacs_logo_image" src="../images/gdacs_logo_ecs_medium3.png" />
+					</div>
+                    <div id="gd_statement" class="col-lg-6 gdacs_statement d-none d-lg-block"> GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters.</div>
+                    <div id="gd_uneu" class="col-lg-3 gdacs_uneu d-none d-lg-block">
+						<img src="../images/un_eu.png" />
+					</div>
+                </div>
+            </div>
+            
+        </div>
+        <div id="nopadding" class="container">
+            
+            <div id="topmenu" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-header navbar-fixed-top">
+
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="https://www.gdacs.org/Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>                      
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT</a>
+                    </div>
+                  </div>
+                                                <a class="nav-item nav-link" href="https://www.gdacs.org/anniversary.aspx" style="padding: 0 0 0 0">
+                                <img src="../images/gdacs_20th/gdacs_20_banner.png" alt="Gdacs 20th Anniversary" />
+                            </a>
+                </nav>
+            </div>
+            
+            <div class="row">
+                <div class="report_title col-lg-12" style="margin-left: 15px;">
+                    <span id="ctl00_masterReportTitle"><div id="alert_DR_Orange_title_big" ><div class="alert_title">Overall Orange alert Drought  for Zambezi Basin-2024</div><div class="d-none d-md-block alert_subtitle"> in Angola, Democratic Republic of Congo, Mozambique, Namibia, Zambia, Zimbabwe</div></div></span>
+                </div>
+            </div>
+            
+            <div id="" class="">
+                <div class="row alert_contents_menu">
+                    <div class="col-lg-12">
+                        <nav id="#eventMenu" class="navbar navbar-expand-lg navbar-light navbar-report">
+                            <button class="navbar-toggler" style="font-size:16px; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavReport" aria-controls="navbarNavReport" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                                DETAILS
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarNavReport">
+                                <ul class="navbar-nav">
+                                    <li class="nav item report-link"><a class="nav-link " href="/report.aspx?eventid=1016878&episodeid=19&eventtype=DR">Summary</a></li><li class="nav item activereport"><a class="nav-link " href="/Droughts/report.aspx?eventtype=DR&eventid=1016878&episodeid=19">Impact</a></li><li class="nav item report-link"><a class="nav-link " href="/documentmaps_IP.aspx?eventid=1016878&eventtype=DR">Maps & Reports</a></li><li class="nav item report-link"><a class="nav-link " href="/media.aspx?eventid=1016878&episodeid=19&eventtype=DR">Media</a></li><li class="nav item report-link"><a class="nav-link " href="/resources.aspx?eventid=1016878&episodeid=19&eventtype=DR">Resources</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        
+
+
+                    </div>
+                </div>
+                <form name="aspnetForm" method="post" action="./report.aspx?eventid=1016878&amp;episodeid=19&amp;eventtype=DR" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9514DA4F" />
+                    
+    <div class="row alert_contents_first">
+        <div class="col-lg-12">
+            <div class="row ">
+                
+                <div class="col-lg-6">
+                    <div id="alert_summary_left"><h2>Event summary</h2>
+                    <p class="p_summary">Mild to severe impacts to people and to one or more sectors of the economy.</p><table class="summary"><tr><td>Name: </td><td class="cell_value_summary">Zambezi Basin-2024</td></tr><tr><td>Countries: </td><td class="cell_value_summary">Angola, Democratic Republic of Congo, Mozambique, Namibia, Zambia, Zimbabwe</td></tr><tr><td>Start Date: </td><td class="cell_value_summary">End of Dec 2023  </td></tr><tr><td>Duration: </td><td class="cell_value_summary">237 days</td></tr><tr><td>Impact: </td><td class="cell_value_summary">Medium impact for agricultural drought in 236519 km2</td></tr><tr><td>More info: </td><td class="cell_value_summary"><a href="https://drought.emergency.copernicus.eu/tumbo/gdo/map?id=2001&bbox=20,-21.001,35,-12" target="blank">Global Drought Observatory<a/></td></tr></table>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div id="alertbar">
+                        <h2>GDACS Score</h2>
+                        <div id="alertscorebar" class="scorebar"></div>
+                        <div class="map_half_caption">
+                        <!--
+                            GDACS alert score for Earthquake is 0.5 (GREEN Alert), 1.5 (ORANGE Alert), 2.5 (RED Alert)<br>
+                            -->
+
+           	            For more info on GDACS alert score click <a href="../Knowledge/models_eq.aspx" target="_blank">here</a>. 
+
+                        </div>
+                        
+                        <div class="map_half_caption">
+                            Maximum expected impact using different data sources.
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="row  section_report">
+                <div id="imageStatic" class="col-lg-6">
+
+                </div>
+                <div id="imageAfterShock" class="col-lg-6">
+                </div>
+            </div>
+            <div class="row  section_report">
+                <div id="contentNews" class="col-lg-12" >
+                    <h2>Episode Timeline</h2>
+                            <div>
+	<table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes" width="100%">
+		<tr class="main_tit">
+			<th scope="col">ID</th><th scope="col">Alert</th><th scope="col">Score</th><th scope="col">Date</th><th scope="col">Description impact</th><th scope="col">Source</th>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl02_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=1"><span id="ctl00_CPH_GridViewEpisodes_ctl02_labelEpisode">1</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl02_labelImageAlertColor"><img class="popalert" id="1" title="Low" src='https://www.gdacs.org/images/gdacs_icons/alerts/GREEN/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl02_labelAlertScore">0.5</span>
+                                        </td><td>
+                                    20&nbsp;Jan&nbsp;2024 00:00
+                                    </td><td>
+                                    Minor impact for agricultural drought in 35727 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl03_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=2"><span id="ctl00_CPH_GridViewEpisodes_ctl03_labelEpisode">2</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl03_labelImageAlertColor"><img class="popalert" id="2" title="Low" src='https://www.gdacs.org/images/gdacs_icons/alerts/GREEN/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl03_labelAlertScore">0.75</span>
+                                        </td><td>
+                                    30&nbsp;Jan&nbsp;2024 00:00
+                                    </td><td>
+                                    Minor impact for agricultural drought in 35727 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl04_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=3"><span id="ctl00_CPH_GridViewEpisodes_ctl04_labelEpisode">3</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl04_labelImageAlertColor"><img class="popalert" id="3" title="Low" src='https://www.gdacs.org/images/gdacs_icons/alerts/GREEN/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl04_labelAlertScore">0.75</span>
+                                        </td><td>
+                                    10&nbsp;Feb&nbsp;2024 00:00
+                                    </td><td>
+                                    Minor impact for agricultural drought in 47600 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl05_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=4"><span id="ctl00_CPH_GridViewEpisodes_ctl05_labelEpisode">4</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl05_labelImageAlertColor"><img class="popalert" id="4" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl05_labelAlertScore">1</span>
+                                        </td><td>
+                                    20&nbsp;Feb&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 418342 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl06_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=5"><span id="ctl00_CPH_GridViewEpisodes_ctl06_labelEpisode">5</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl06_labelImageAlertColor"><img class="popalert" id="5" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl06_labelAlertScore">1</span>
+                                        </td><td>
+                                    01&nbsp;Mar&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 513218 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl07_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=6"><span id="ctl00_CPH_GridViewEpisodes_ctl07_labelEpisode">6</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl07_labelImageAlertColor"><img class="popalert" id="6" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl07_labelAlertScore">1.25</span>
+                                        </td><td>
+                                    10&nbsp;Mar&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1392434 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl08_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=7"><span id="ctl00_CPH_GridViewEpisodes_ctl08_labelEpisode">7</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl08_labelImageAlertColor"><img class="popalert" id="7" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl08_labelAlertScore">1.25</span>
+                                        </td><td>
+                                    20&nbsp;Mar&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1473935 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl09_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=8"><span id="ctl00_CPH_GridViewEpisodes_ctl09_labelEpisode">8</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl09_labelImageAlertColor"><img class="popalert" id="8" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl09_labelAlertScore">1.5</span>
+                                        </td><td>
+                                    30&nbsp;Mar&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1401510 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl10_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=9"><span id="ctl00_CPH_GridViewEpisodes_ctl10_labelEpisode">9</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl10_labelImageAlertColor"><img class="popalert" id="9" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl10_labelAlertScore">1.5</span>
+                                        </td><td>
+                                    10&nbsp;Apr&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1708280 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl11_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=10"><span id="ctl00_CPH_GridViewEpisodes_ctl11_labelEpisode">10</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl11_labelImageAlertColor"><img class="popalert" id="10" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl11_labelAlertScore">1.75</span>
+                                        </td><td>
+                                    20&nbsp;Apr&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1743376 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl12_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=11"><span id="ctl00_CPH_GridViewEpisodes_ctl12_labelEpisode">11</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl12_labelImageAlertColor"><img class="popalert" id="11" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl12_labelAlertScore">1.75</span>
+                                        </td><td>
+                                    30&nbsp;Apr&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1452920 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl13_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=12"><span id="ctl00_CPH_GridViewEpisodes_ctl13_labelEpisode">12</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl13_labelImageAlertColor"><img class="popalert" id="12" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl13_labelAlertScore">1.75</span>
+                                        </td><td>
+                                    10&nbsp;May&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1700725 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl14_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=13"><span id="ctl00_CPH_GridViewEpisodes_ctl14_labelEpisode">13</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl14_labelImageAlertColor"><img class="popalert" id="13" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl14_labelAlertScore">1.75</span>
+                                        </td><td>
+                                    20&nbsp;May&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1700725 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl15_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=14"><span id="ctl00_CPH_GridViewEpisodes_ctl15_labelEpisode">14</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl15_labelImageAlertColor"><img class="popalert" id="14" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl15_labelAlertScore">1.75</span>
+                                        </td><td>
+                                    30&nbsp;May&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 956959 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl16_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=15"><span id="ctl00_CPH_GridViewEpisodes_ctl16_labelEpisode">15</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl16_labelImageAlertColor"><img class="popalert" id="15" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl16_labelAlertScore">1.75</span>
+                                        </td><td>
+                                    10&nbsp;Jun&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1102518 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl17_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=16"><span id="ctl00_CPH_GridViewEpisodes_ctl17_labelEpisode">16</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl17_labelImageAlertColor"><img class="popalert" id="16" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl17_labelAlertScore">1.75</span>
+                                        </td><td>
+                                    20&nbsp;Jun&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 1327309 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl18_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=17"><span id="ctl00_CPH_GridViewEpisodes_ctl18_labelEpisode">17</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl18_labelImageAlertColor"><img class="popalert" id="17" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl18_labelAlertScore">1.5</span>
+                                        </td><td>
+                                    30&nbsp;Jun&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 344598 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl19_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=18"><span id="ctl00_CPH_GridViewEpisodes_ctl19_labelEpisode">18</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl19_labelImageAlertColor"><img class="popalert" id="18" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl19_labelAlertScore">1.25</span>
+                                        </td><td>
+                                    10&nbsp;Jul&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 344598 km2
+                                    </td><td>GDO</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl20_hyperLinkEpisode" href="https://www.gdacs.org/Droughts/report.aspx?eventtype=DR&amp;eventid=1016878&amp;episodeid=19"><span id="ctl00_CPH_GridViewEpisodes_ctl20_labelEpisode">19</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl20_labelImageAlertColor"><img class="popalert" id="19" title="Medium" src='https://www.gdacs.org/images/gdacs_icons/alerts/ORANGE/DR.png' width='30' style='margin:4px;' align='left' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl20_labelAlertScore">1.25</span>
+                                        </td><td>
+                                    14&nbsp;Aug&nbsp;2024 00:00
+                                    </td><td>
+                                    Medium impact for agricultural drought in 236519 km2
+                                    </td><td>GDO</td>
+		</tr>
+	</table>
+</div>            
+
+                </div>
+            </div>
+
+            <div class="row  section_report">
+                <div id="contentAdmin" class="col-lg-12">
+                    <h2>Affected Countries</h2>
+                    <div id="countries">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Country</th>
+    </tr>
+    <tr>
+      <td>Angola</td>
+    </tr>
+    <tr>
+      <td>Democratic Republic of the Congo</td>
+    </tr>
+    <tr>
+      <td>Mozambique</td>
+    </tr>
+    <tr>
+      <td>Namibia</td>
+    </tr>
+    <tr>
+      <td>Zambia</td>
+    </tr>
+    <tr>
+      <td>Zimbabwe</td>
+    </tr>
+  </table>
+</div>
+                                <br />
+            <br />
+                    <h2>Affected ARU (Administrative Reporting Unit)</h2>
+                    <div id="aru">
+  <table class="generic">
+    <tr class="main_tit">
+      <th width="10%">RDrI-Agri</th>
+      <th width="45%">Name</th>
+      <th width="45%">Country</th>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=20.512872960217&amp;lat=-17.471548830336&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Cuando Cubango</a></td>
+      <td style="text-align:left; padding-left:5px;">Angola</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Medium</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=29.430923977721&amp;lat=-12.65046014294&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Katanga</a></td>
+      <td style="text-align:left; padding-left:5px;">Democratic Republic of the Congo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=34.111207943611&amp;lat=-17.488636524237&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Manica</a></td>
+      <td style="text-align:left; padding-left:5px;">Mozambique</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=34.593089435098&amp;lat=-17.515862786479&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Sofala</a></td>
+      <td style="text-align:left; padding-left:5px;">Mozambique</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=32.967564200604&amp;lat=-17.077128071066&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Tete</a></td>
+      <td style="text-align:left; padding-left:5px;">Mozambique</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=20.297268247159&amp;lat=-17.949931266885&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Kavango</a></td>
+      <td style="text-align:left; padding-left:5px;">Namibia</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - High</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=28&amp;lat=-14&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Central</a></td>
+      <td style="text-align:left; padding-left:5px;">Zambia</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - High</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=27.515035210036&amp;lat=-13.381412603196&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Copperbelt</a></td>
+      <td style="text-align:left; padding-left:5px;">Zambia</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Medium</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=30.623712182066&amp;lat=-13.9581568489&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Eastern</a></td>
+      <td style="text-align:left; padding-left:5px;">Zambia</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Medium</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=28.912805188449&amp;lat=-12.093366068741&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Luapula</a></td>
+      <td style="text-align:left; padding-left:5px;">Zambia</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - High</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=27.040694257945&amp;lat=-13.063992026004&amp;date=2024-07-11" title="Show on map" target="gdacsmap">North-Western</a></td>
+      <td style="text-align:left; padding-left:5px;">Zambia</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Medium</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=30.666587866835&amp;lat=-12.347682994125&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Northern</a></td>
+      <td style="text-align:left; padding-left:5px;">Zambia</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=30.99654955231&amp;lat=-18.000420748704&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Harare</a></td>
+      <td style="text-align:left; padding-left:5px;">Zimbabwe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=31.909316867915&amp;lat=-18.525582277746&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Manicaland</a></td>
+      <td style="text-align:left; padding-left:5px;">Zimbabwe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=31.36721613767&amp;lat=-17.259961181467&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Mashonaland Central</a></td>
+      <td style="text-align:left; padding-left:5px;">Zimbabwe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=30.379238316145&amp;lat=-18.391724838372&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Mashonaland West</a></td>
+      <td style="text-align:left; padding-left:5px;">Zimbabwe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=32.140538192202&amp;lat=-20.43381241414&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Masvingo</a></td>
+      <td style="text-align:left; padding-left:5px;">Zimbabwe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Medium</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=27.999446126309&amp;lat=-18.310462122517&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Midlands</a></td>
+      <td style="text-align:left; padding-left:5px;">Zimbabwe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Medium</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=27.499934869906&amp;lat=-18.500216456813&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Matabeleland North</a></td>
+      <td style="text-align:left; padding-left:5px;">Zimbabwe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; padding-left:5px;"><img src="https://www.gdacs.org/images/gdacs_icons/alerts/Grey/DR.png" width="30"> - Low</td>
+      <td style="text-align:left; padding-left:5px;"><a href="http://drought.emergency.copernicus.eu/tumbo/gdo/report?&amp;lon=30.845746772527&amp;lat=-18.552255852402&amp;date=2024-07-11" title="Show on map" target="gdacsmap">Mashonaland East</a></td>
+      <td style="text-align:left; padding-left:5px;">Zimbabwe</td>
+    </tr>
+  </table>
+</div>
+                </div>
+        
+            </div>
+            <div class="row ">
+                <div class="section_report">
+                    <div id="contentResources" class="col-lg-12">
+                        <h2>More information</h2>
+                        <p class="p_summary">For a full list of available products related to this event, please refer to the <a href="../resources.aspx?eventtype=DR&eventid=1016878&episodeid=19">GDACS Resources page</a>.</p>
+                    </div>
+                </div>
+                <div id="popContent" style="display:none"></div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script type="text/javascript">
+        var baseURL ='https://www.gdacs.org/';
+        var reportImagePop ='';
+        var reportShowAlertBar = true;
+        var stepIndex = 5;
+        var scatterData = [];
+        var jPopData = [];
+        var jPopLegend = [];
+        var reportAlertscore = 1.2;
+
+        var stepIndex = 5;
+        var arrayPopover =[{"key":"0","value":""}];
+        //Function to hid/show the table line
+        function assignStyleLines (idSection){
+            var rowCount = $(idSection+' tr').length;
+            $(idSection+' tr' ).each(function( index ) {
+                if (index>0)
+                    $( this ).css("display","none");
+            });
+            $(idSection+' tr').slice(1, stepIndex+1).slideDown();
+            
+        }
+
+        function showRows(idSection){
+            var vis = $(idSection + ' tr:hidden').last().index();
+            $(idSection + ' tr:hidden').slice(0, stepIndex).slideDown();
+        }
+
+        function hideRows(idSection){
+            var vis = $(idSection + ' tr:hidden').first().index();
+            if (vis < 0)
+                vis = $(idSection + ' tr').length;
+            if ((vis-stepIndex)>6)
+                $(idSection + ' tr').slice(vis-stepIndex,vis+1 ).slideUp();
+            else
+                $(idSection + ' tr').slice(stepIndex+1,vis+1).slideUp();
+        }
+
+
+        $(function () {
+            if (reportImagePop != "") {
+                $('#imageStatic').html('<img id="imgPop" width="100%" padding-top:"15px" src="' + reportImagePop + '" />');
+            }
+            if (!reportShowAlertBar) {
+                $("#alertbar").remove();
+            }
+            /*
+            $('.popalert').each(function(i,e) {
+                var _id = $(e).attr('id');
+                var _urldetail=baseURL+"Earthquakes/alertleveldetail.aspx?episodeid="+_id;
+                buildDetailAlert(_urldetail,_id);
+                $('#'+_id).popover(({html: true,content:function(){
+                    var result =  arrayPopover.find(function (item) { return item.key == _id; });
+                    if (result!=null)
+                        return result.value;
+                    else
+                        return "No detail";
+                }, placement: "right"}));
+            });
+            */
+
+
+
+            //$('.popalert').popover(({title: "Header", content: "Blabla", placement: "top"}));
+
+            assignStyleLines("#aru");
+            if (stepIndex<$('#aru tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div class="button_item_left"><img id="moreAru" src="../images/down_arrow.png"></div>'+
+                            '<div class="button_item_right"><img id="lessAru" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+
+                $("#aru").append(r);
+                $('#moreAru').on('click',function(){
+                    showRows("#aru");
+                });
+                $('#lessAru').on('click',function(){
+                    hideRows("#aru");
+                })
+            }
+
+            assignStyleLines("#countries");
+            if (stepIndex<$('#countries tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div  class="button_item_left"><img id="moreCountries" src="../images/down_arrow.png"></div>'+
+                            '<div  class="button_item_right"><img id="lessCountries" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+
+                $("#countries").append(r);
+                $('#moreCountries').on('click',function(){
+                    showRows("#countries");
+                });
+                $('#lessCountries').on('click',function(){
+                    hideRows("#countries");
+                })
+            }
+
+            // Script for score bar
+            reportAlertScoreBar("#alertscorebar",reportAlertscore);
+            earthquakeScatter('containerScatter',scatterData);
+            earthquakePopBar('containerPopGraph','Population near epicenter',jPopLegend,jPopData);
+        });
+
+
+    </script>
+    
+
+                </form>
+            </div><!-- end main_alert_content-->
+            
+
+            <div id="footer_home" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-footer col-12">
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkupFooter">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="../Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT GDACS</a>
+                    </div>
+                  </div>
+                </nav>
+                <div id="footer_disclaimer" class="col-12">
+                    <!--<div class="float-left gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/brexit-content-disclaimer" target="_blank">Brexit content disclaimer</a></div>-->
+                    <div class="float-end gdacs_bottom_menu_content" ><a href="../About/cookies.aspx" target="_blank" >cookies</a></div>
+                    <p><b><span class="gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/legal-notice_en" target="_blank" >Disclaimer</a></span></b><br />
+                    While we try everything to ensure accuracy, this information is purely indicative and should not be used for any decision making without alternate sources of information. 
+                    <br />The JRC is not responsible for any damage or loss resulting from the use of the information presented on this website.
+                    <br />The designations employed and the presentation of material on the map do not imply the expression of any opinion whatsoever on the part of the European Union concerning the legal status of any country, territory or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+                    </p>
+                </div>
+                <div id="footer_logo" class="d-none d-lg-block col-lg-12">
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ec.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ocha.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unitar.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unosat.png" width="90" height="70"  alt=""/></div>
+                </div>
+	        </div>
+                                
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    $(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#meteorological").remove();
+            $("#secondary_cyclone_source").remove();
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+    });
+
+    $(window).resize(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#nopadding").addClass('container').removeClass('container-fluid');
+            $("#tab_responsive").removeClass('table table-responsive');
+            $("#cities").removeClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '15px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+        if (window.innerWidth < 768) {
+            $("#legend").remove();
+            $("#meteorological").remove();
+            $("#alert_sources_minitabs").after("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 0px;\"><div class=\"sources_\"> <p class=\"p_summary\" style=\"padding-left: 0px;\"><p class=\"col-lg-4\" style=\"color: #6d9baf;text-decoration: none;font-weight: bold;\">Meteorological source</p>:</p><br/><br/></div>" +
+                "<br/><div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><br/><br/><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#meteorological").remove();
+            $("#section1").before("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 15px;\"><div class=\"sources_\"> <p class=\"p_summary\"><a href=\"*\">Meteorological source</a>:</p></div>" +
+                "<div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+        }
+
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+            $("#labelRainDate").attr("style", "width: 440px;float: left;text-align: center;font-weight: bold;");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+
+        }
+
+
+    });
+
+</script>
+
+<!--
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-298127-1");
+pageTracker._setDomainName(".gdacs.org");
+pageTracker._setLocalRemoteServerMode();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+-->
+</body>
+</html>

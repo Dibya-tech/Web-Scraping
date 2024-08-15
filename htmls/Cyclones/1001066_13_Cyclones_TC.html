@@ -1,0 +1,5915 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Overall Orange Tropical Cyclone alert  for ALBERTO-24 in Guatemala, Mexico, United States, Belize from 17 Jun 2024 21:00 UTC to 20 Jun 2024 21:00 UTC
+</title><link href="../Content/bootstrap.min.css" rel="stylesheet" /><link href="../Styles/gdacs_2.0.css" rel="stylesheet" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" media="(min-width: 768px) and (max-width: 991px)" href="../Styles/gdacs_device_2.0.css" /><link rel="stylesheet" media="(max-width: 768px)" href="../Styles/gdacs_minidevice_2.0.css" />
+    <script src="https://webtools.europa.eu/load.js" type="text/javascript"></script>
+    <script type="application/json">
+    {
+        "utility":"analytics",
+        "siteID":"770a3ada-ebea-420b-923a-c6490acb21ab",
+        "sitePath":["www.gdacs.org"],
+        "instance":"ec",
+        "mode":"manual"
+    }
+    </script>
+	<script type="application/json">
+	{
+		"utility" : "cck",
+		"url": {
+			"en": "https://my.ec.europa.eu/cookie-policy_en",
+			"de": "https://my.ec.europa.eu/de/cookie-policy"
+		}
+	}
+	</script>
+    <script type="text/javascript" src="/Scripts/jquery-3.6.4.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="/Scripts/Alertlevels/DetailedTable.js"></script>
+<!--    <script type="text/javascript" src="/Scripts/adaptivecard/InformCard.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards/dist/adaptivecards.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptive-expressions@4.12.0/lib/browser.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards-templating/dist/adaptivecards-templating.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
+-->
+    
+
+    <link rel="stylesheet" href="../scripts/openlayers/3.20.1/ol.css" type="text/css" />
+    <link rel="stylesheet" href="../scripts/openlayers/layerswitcher/ol3-layerswitcher.css" />
+    <link rel="stylesheet" href="../Styles/gdacs_mapstyle.css" />
+    <link rel="stylesheet" href="../Content/themes/base/jquery-ui.min.css"  />
+    <link rel="stylesheet" href="../Content/all.css" />
+    <script type="text/javascript" src="../scripts/openlayers/3.20.1/ol.js"></script>
+    <script type="text/javascript" src="../scripts/openlayers/layerswitcher/ol3-layerswitcher.js"></script>
+    <script type="text/javascript" src="../Scripts/jquery-ui-1.13.2.min.js"></script>
+    <script type="text/javascript" src="../Scripts/highcharts/6.1.3/highcharts.js"></script>
+    <script type="text/javascript" src="../Scripts/Report/highcharts_graph.js"></script>
+    
+    <style type="text/css">
+        #selectBulletin {vertical-align:top;padding-left:5px;}
+        #contentDropdowns {vertical-align:top; max-height:200px;overflow-y:scroll}
+            #contentDropdowns .dropdown-item {color:#125172;font-weight: 500;}
+    </style>
+
+
+
+   <style type="text/css">
+        .navbar-header{color: #9bc1ce; background-color:#69A7C3; }
+        .navbar-footer{color: #9bc1ce; background-color:transparent;border:none; border-bottom:none;border-color:transparent; }
+        .navbar-report{color: #6d9baf; border-bottom:1px solid; border-color:#6d9baf;min-height: 40px;margin-bottom:15px}
+        .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{color: #ffffff; text-decoration: underline;}
+        .navbar-light .navbar-nav .nav-link{color:#c5d5d8}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {background-color:transparent;text-decoration:underline;color:white;}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .activereport > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.activereport {background-color:transparent;text-decoration:underline;color:#125172;margin: 0px 20px 0 15px}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .report-link> .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.report-link {color: #6d9baf;margin: 0px 20px 0 15px}
+        .report-link {color: #6d9baf;}
+        #footer_home {background-color:#125172;}
+       /*.device-toggler.navbar-toggler .navbar-toggler-icon {
+             background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(75, 255, 0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+        }
+
+    .device-toggler.navbar-toggler {
+      border-color: rgb(75, 255, 0);
+    }
+
+    .device-toggler.navbar-toggler:focus {
+      outline-color: rgb(75, 255, 0);
+    }*/
+    </style>
+    <link href="../Styles/gdacs_2.0_bootstrap4to5.css" rel="stylesheet" />
+	<script type ="text/javascript">
+        $(function () {
+            $('table.generic tr.main_tit').data("current", "main_tit");
+            $('table.generic tr.main_tit').on('click', function () {
+                changeColor(this);
+            });
+        });
+        function changeColor(x) {
+            var _current = $(x).data("current");
+            if (_current == "main_tit") {
+                $(x).data('current', 'main_tit_highlighted');
+                $(".main_tit").css("background-color", "#083c53");
+                $(".generic").css("color", "#000000");
+            }
+            else {
+                $(x).data('current', 'main_tit');
+                $(".main_tit").css("background-color", "#a3b8c1");
+                $(".generic").css("color", "#666666");
+            }
+        }
+
+    </script>
+            
+<!-- Piwik 
+   <script type="text/javascript">
+       if ($wt.cookie.consent.is.choiceMade() && $wt.cookie.consent.is.allAccepted()) {
+           var _paq = _paq || [];
+           /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+           _paq.push(['trackPageView']);
+           _paq.push(['enableLinkTracking']);
+           (function () {
+               var u = "//stats.jrc.ec.europa.eu/";
+               _paq.push(['setTrackerUrl', u + 'piwik.php']);
+               _paq.push(['setSiteId', '319']);
+               var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+               g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore(g, s);
+           })();
+       }
+   </script>
+ End Piwik Code -->
+</head>
+<body>
+    <div id="wrapper_anniversary">
+            
+            <div id="header" class="container-fluid">
+            <div id="top_menu">
+                <style>
+                    @media screen (min-width: 992px) {#main_alert_content .navbar-expand-lg {height:40px;}}
+                </style>
+                <div class="container">
+                    <div class="float-end gdacs_top_menu_content"><a href="../admin" target="_blank">admin</a></div>
+                    <div class="float-end gdacs_top_menu_content"><a href="../gdacsregister" target="_blank">register/login</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/contactus.aspx" >contact us</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/termofuse.aspx" >term of use</a></div>
+                </div>
+            </div>
+            <div id="heading" class="container">
+                <div id="rowhead" class="row">
+                    <div id="gd_logo" class="col-lg-3 gdacs_logo">
+						<img id="gdacs_logo_image" src="../images/gdacs_logo_ecs_medium3.png" />
+					</div>
+                    <div id="gd_statement" class="col-lg-6 gdacs_statement d-none d-lg-block"> GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters.</div>
+                    <div id="gd_uneu" class="col-lg-3 gdacs_uneu d-none d-lg-block">
+						<img src="../images/un_eu.png" />
+					</div>
+                </div>
+            </div>
+            
+        </div>
+        <div id="nopadding" class="container">
+            
+            <div id="topmenu" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-header navbar-fixed-top">
+
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="https://www.gdacs.org/Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>                      
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT</a>
+                    </div>
+                  </div>
+                                                <a class="nav-item nav-link" href="https://www.gdacs.org/anniversary.aspx" style="padding: 0 0 0 0">
+                                <img src="../images/gdacs_20th/gdacs_20_banner.png" alt="Gdacs 20th Anniversary" />
+                            </a>
+                </nav>
+            </div>
+            
+            <div class="row">
+                <div class="report_title col-lg-12" style="margin-left: 15px;">
+                    <span id="ctl00_masterReportTitle"><div id="alert_TC_Orange_title_big" ><div class="alert_title">Overall Orange alert Tropical Cyclone  for ALBERTO-24</div><div class="d-none d-md-block alert_subtitle"> in Guatemala, Mexico, United States, Belize</div></div></span>
+                </div>
+            </div>
+            
+            <div id="" class="">
+                <div class="row alert_contents_menu">
+                    <div class="col-lg-12">
+                        <nav id="#eventMenu" class="navbar navbar-expand-lg navbar-light navbar-report">
+                            <button class="navbar-toggler" style="font-size:16px; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavReport" aria-controls="navbarNavReport" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                                DETAILS
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarNavReport">
+                                <ul class="navbar-nav">
+                                    <li class="nav item report-link"><a class="nav-link " href="/report.aspx?eventid=1001066&episodeid=13&eventtype=TC">Summary</a></li><li class="nav item activereport"><a class="nav-link " href="/Cyclones/report.aspx?eventid=1001066&episodeid=13&eventtype=TC">Impact</a></li><li class="nav item report-link"><a class="nav-link " href="/meteo.aspx?eventid=1001066&episodeid=13&eventtype=TC">Meteo</a></li><li class="nav item report-link"><a class="nav-link " href="/gts.aspx?eventid=1001066&eventtype=TC">GTS</a></li><li class="nav item report-link"><a class="nav-link " href="/media.aspx?eventid=1001066&episodeid=13&eventtype=TC">Media</a></li><li class="nav item report-link"><a class="nav-link " href="/resources.aspx?eventid=1001066&episodeid=13&eventtype=TC&sourceid=NOAA">Resources</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        
+
+
+                    </div>
+                </div>
+                <form name="aspnetForm" method="post" action="./report.aspx?eventid=1001066&amp;episodeid=13&amp;eventtype=TC" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="maWlhH6YD5kqlmoql52B9V1IlSzw8Hmf0x+1MsFKatKA1IY2EA14hu28mCKXz+Vjk/1FA0p9dX9NFzxBOuZZkG6AL6GBq9fKHjYo/vNAGUgHuz8ixiJw/uLR5sth9MJzf7Z2OsNaT8Lpp7lGqm8STJ+BCCa360g1NdcKIGNXNNudkdu1p3RLbNm9xjQTvvVqE05qwVErMPNEJXnZN6CK+Xps/s3t/IQ2KUfkm1Nt3EcSeJ+hzeW3XagYnOo/BLrUWziP++p19wooR1LVdRhbDsuL9WWRyqntK3oPiV5MOUHJSOWDCieJSFUFMxbYDXhZNQ0VshbaTYDFTQ71NNOTERuX+xZZcfyWv4m7hmHJoka0+7y8iv8NbHL69OwSr2dEqMVcVVNx92IjtRpXUbddx7sGJtBFKOCDGnru5ej64F5wqD6DusnGd0T2m+Rz14At2EpteUULS4B+1rp+1Hie69McpSv30li32xls/Xnx4294OeEbaZxF/jlZlU3XZoeFFPJ9gb5scP2TR1uN3FxhYAc5AxNnIrGimKEKdWQojpRDr7IaO8WP4VzuwueteFRukEclU+fV8tWSn1VYwxLAOgygXonXl6qvrqbu8AgLmwllTw2nTqBHubMM+fXQYdRR" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FFC37019" />
+                    
+    <div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog" style="max-width:1000px">
+        <div class="modal-content">              
+          <div class="modal-body">
+      	    <button type="button" class="close" data-bs-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            <img src="" class="imagepreview" style="width: 100%;" >
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row alert_contents_first">
+        <div class="col-lg-12">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="alert_sources_minitabs">
+                        <div class="bulletin">
+                            <!--startSubMenu-->
+                            <div class="alert_title_current">20&nbsp;Jun&nbsp;2024 21 UTC<div class="dropdown float-end"> <img class="dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded ="false" id="selectBulletin" width="28" height="16" src="../images/drop_arrow.png"/> <div id="contentDropdowns" class="dropdown-menu scrollable-menu" aria-labelledby="selectBulletin">   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-20 21:00:00&sourceid=NOAA">20 Jun 2024 21 UTC 13</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-20 15:00:00&sourceid=NOAA">20 Jun 2024 15 UTC 12</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-20 09:00:00&sourceid=NOAA">20 Jun 2024 09 UTC 11</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-20 03:00:00&sourceid=NOAA">20 Jun 2024 03 UTC 10</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-19 21:00:00&sourceid=NOAA">19 Jun 2024 21 UTC 9</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-19 15:00:00&sourceid=NOAA">19 Jun 2024 15 UTC 8</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-19 09:00:00&sourceid=NOAA">19 Jun 2024 09 UTC 7</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-19 03:00:00&sourceid=NOAA">19 Jun 2024 03 UTC 6</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-18 21:00:00&sourceid=NOAA">18 Jun 2024 21 UTC 5</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-18 15:00:00&sourceid=NOAA">18 Jun 2024 15 UTC 4</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-18 09:00:00&sourceid=NOAA">18 Jun 2024 09 UTC 3</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-18 03:00:00&sourceid=NOAA">18 Jun 2024 03 UTC 2</a>   <a class="dropdown-item" href="https://www.gdacs.org/Cyclones/report.aspx?eventtype=TC&eventid=1001066&episodedate=2024-06-17 21:00:00&sourceid=NOAA">17 Jun 2024 21 UTC 1</a> </div></div><!--div list bulletin--><div class="clearfix"></div></div>
+                            <!--endSubMenu-->
+                        </div>
+                    </div>
+                    <span id="ctl00_CPH_labelAdditionaDescription"><div class="p_summary_small ">click on <img src="../images/drop_arrow.png" width="14" height="8" /> to select bulletin time</div></span>
+                </div>
+                <div id="menuSourceCol" class="col-lg-1" style="padding-left: 0px;">
+                    <div class="sources_">
+                        <p class="p_summary"><a href="../Knowledge/models_tc.aspx"><span style="font-size:12px">Meteorological source</span></a>:</p>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="sources_">
+                        <div class="main_cyclone_source" style="width:auto"><ul class="nav nav-pills"><li ><div class=""><div class="sources_minitabs_multi_sel" >GDACS NOAA</div></div></li></ul><div class="p_summary_extrasmall" style="margin-left:10px;margin-bottom:5px;margin-top:5px;text-align:center">Impact Single TC</div></div>
+                        <div class="secondary_cyclone_source_additional" style="vertical-align:top"><ul class="nav nav-pills"><li ><div class=""><div class="sources_minitabs_multi" ><a href="https://www.gdacs.org/Cyclones/report_source.aspx?eventtype=TC&eventid=1001066&system=GFS">GFS</a></div></div></li><li ><div class=""><div class="sources_minitabs_multi" ><a href="https://www.gdacs.org/Cyclones/report_source.aspx?eventtype=TC&eventid=1001066&system=HWRF">HWRF</a></div></div></li><li ><div class=""><div class="sources_minitabs_multi" ><a href="https://www.gdacs.org/Cyclones/report_source.aspx?eventtype=TC&eventid=1001066&system=ECMWF">ECMWF</a></div></div></li></ul><div class="p_summary_extrasmall" style="margin-left:10px;margin-bottom:5px;margin-top:5px">Impact based on all weather systems in the area</div></div>
+                    </div>
+                    
+                </div>
+
+
+                <!--
+                <div id="menuSourceCol" class="col-lg-2">
+                    <div class="alert_sources_minitabs">
+                        <div class="bulletin">
+                             <ul class="nav nav-pills"><li ><div class=""><div class="sources_minitabs_multi_sel" >GDACS NOAA</div></div></li></ul><div class="p_summary_extrasmall" style="margin-left:10px;margin-bottom:5px;margin-top:5px;text-align:center">Impact Single TC</div>
+                        </div>
+                    </div>
+                    <span id="ctl00_CPH_labelMenuSourceDescription"></span>
+                </div>
+
+                <div class="col-lg-2">
+                    <div class="sources_">
+                        <p class="p_summary"><a href="../Knowledge/models_tc.aspx">Meteorological source</a>:</p>
+                    </div>
+                </div>
+                <div id="meteodefSourceCol" class="col-lg-5">
+                        <ul class="nav nav-pills"><li ><div class=""><div class="sources_minitabs_multi" ><a href="https://www.gdacs.org/Cyclones/report_source.aspx?eventtype=TC&eventid=1001066&system=GFS">GFS</a></div></div></li><li ><div class=""><div class="sources_minitabs_multi" ><a href="https://www.gdacs.org/Cyclones/report_source.aspx?eventtype=TC&eventid=1001066&system=HWRF">HWRF</a></div></div></li><li ><div class=""><div class="sources_minitabs_multi" ><a href="https://www.gdacs.org/Cyclones/report_source.aspx?eventtype=TC&eventid=1001066&system=ECMWF">ECMWF</a></div></div></li></ul><div class="p_summary_extrasmall" style="margin-left:10px;margin-bottom:5px;margin-top:5px">Impact based on all weather systems in the area</div>
+                </div>
+                -->
+            </div>
+            <div class="row ">
+                <div class="col-lg-12">
+                    <div class="hr_thin_text_low_margin"></div>
+                </div>
+            </div>
+            <div class="row ">
+                <div class="col-lg-12">
+                
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div id="alert_summary_left"><h2>Impact <div style="float:right;width:85%;margin-top:1px"><ul class="nav nav-pills"></ul></div></h2>
+                            <p class="p_summary">Tropical Cyclone <b>ALBERTO-24</b> can have a medium humanitarian impact based on the maximum sustained wind speed,exposed population and vulnerability.</p><table class="summary"><tr><td>Meteorological source </td><td class="cell_value_summary">GDACS</td></tr><tr><td>Exposed countries </td><td class="cell_value_summary">Guatemala, Mexico, United States, Belize</td></tr><tr><td>Exposed population </td><td class="cell_value_summary">No people<span style="font-weight:normal"> in Category 1 or higher</span></td></tr><tr><td>Maximum wind speed </td><td class="cell_value_summary">83 km/h</td></tr><tr><td>Maximum storm surge </td><td class="cell_value_summary">0.7 m<span style="font-weight:normal"> (20 Jun 11:00 UTC)</span></td></tr><tr><td>Vulnerability </td><td class="cell_value_summary">High (Guatemala)</td></tr><tr><td>Landfall </td><td class="cell_value_summary"><span style="font-weight:normal">between<br/>20 Jun 2024 09:00 - 20 Jun 2024 15:00</span><br/><span style="font-weight:normal">in</span> Mexico</td></tr></table>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div id="alertbar">
+                                <h2>GDACS Score</h2>
+                                <div id="alertscorebar" class="scorebar"></div>
+                                <div class="map_half_caption">
+                                    GDACS alert score for Tropical Cyclones is 0.5 (GREEN Alert), 1.5 (ORANGE Alert), 2.5 (RED Alert)<br>
+                                    <!--GDACS alert score for Earthquake is 0.5 (GREEN Alert), 1.5 (ORANGE Alert), 2.5 (RED Alert)<br>-->
+           	                        For more info on GDACS alert score click <a href="https://www.gdacs.org/Knowledge/models_tc.aspx" target="_blank">here</a>. 
+                                </div>
+                                <table class="matrix"><tr>      <td>&nbsp;</td>      <td class="cell_type_matrix"><a href="#WIND">Wind </a></td>      <td class="cell_type_matrix"><a href="#STORMSURGE">Storm surge</a></td>      <td class="cell_type_matrix"><a href="#RAIN">Rainfall</a></td>      <td class="cell_matrix_gdacs">GDACS score</td></tr><tr>      <td class="cell_source_current_matrix"> Current</td>      <td class="cell_values_current_matrix">46 km/h</td>      <td class="cell_values_current_matrix">0.7 m</td>      <td class="cell_values_current_matrix">n.a.</td>      <td class="cell_green_current_matrix">0.5</td></tr><tr>      <td class="cell_source_matrix"> Overall</td>      <td class="cell_values_matrix">83 km/h</td>      <td class="cell_values_matrix">0.7 m</td>      <td class="cell_values_matrix">n.a.</td>      <td class="cell_orange_matrix">1.5</td></tr><tr>      <td colspan="5"><p class="p_summary_small">Maximum winds, storm surge, rainfall (<b>Current</b>: over the next 72 h, <b>Overall</b>: entire TC track) based on GDACS impact</p> </td></tr></table>
+                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                             
+                            
+                        </div>
+                        
+						
+                    </div>
+                </div>
+             </div>
+        </div>
+    </div>
+    <div class="row alert_contents section_report">
+        <div class="col-lg-12">
+            <div class="row">
+                <div class="col-lg-12">
+                <div class="toplink_div"><a href="#">TOP</a></div>
+                <h2 id="wind"><a name="WIND">Wind <div style="float:right;width:85%;margin-top:1px"><ul class="nav nav-pills"></ul></div></a></h2>
+                <div class="alert_WI_source_blu">46 km/h Current Max.</div><p class="p_summary"><p class="p_summary">
+      Up to 98.6 million people
+      
+        in Tropical Storm strength or higher
+      
+        (see <a href="http://www.gdacs.org/Knowledge/models_tc.aspx?#CLASSIFICATION" target="_blank">SSHS</a>)
+      </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div id="sectionImage1" class="col-lg-6">
+                    
+                        </div>
+
+                        <div id="sectionImage2" class="col-lg-6">
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="table table-responsive">
+                            <h3><a name="IMPACT_TIMELINE">Impact Timeline <div style="float:right;width:85%;margin-top:1px"><ul class="nav nav-pills"></ul></div></a></h3>
+                             <div id="impactTimeline">   <table class="generic">       <tr class="main_tit">         <th width="4%">Alert</th>         <th width="3%">N°</th>         <th width="12%">Date (UTC)</th>         <th width="10%">Max Winds (km/h) </th>         <th width="20%">Population in<br/>Tropical Storm or higher</th>         <th width="19%">Population in<br/>Cat 1. or higher</th>         <th width="38%">Countries</th>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Green/TC.png" alt="Green" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=1&eventtype=TC&sourceid=NOAA">1</a></td>         <td>17 Jun 2024 21:00</td>         <td>74</td>         <td>43.4 million</td>         <td>No people</td>         <td>Mexico, Guatemala, United States</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Orange/TC.png" alt="Orange" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=2&eventtype=TC&sourceid=NOAA">2</a></td>         <td>18 Jun 2024 03:00</td>         <td>65</td>         <td>49.4 million</td>         <td>No people</td>         <td>Mexico, Guatemala, United States</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Orange/TC.png" alt="Orange" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=3&eventtype=TC&sourceid=NOAA">3</a></td>         <td>18 Jun 2024 09:00</td>         <td>65</td>         <td>72.4 million</td>         <td>No people</td>         <td>Mexico, Guatemala, United States</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Green/TC.png" alt="Green" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=4&eventtype=TC&sourceid=NOAA">4</a></td>         <td>18 Jun 2024 15:00</td>         <td>83</td>         <td>99.7 million</td>         <td>No people</td>         <td>Mexico, Guatemala, United States</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Orange/TC.png" alt="Orange" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=5&eventtype=TC&sourceid=NOAA">5</a></td>         <td>18 Jun 2024 21:00</td>         <td>65</td>         <td>105.3 million</td>         <td>No people</td>         <td>Mexico, Guatemala, Belize, United States</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Orange/TC.png" alt="Orange" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=6&eventtype=TC&sourceid=NOAA">6</a></td>         <td>19 Jun 2024 03:00</td>         <td>65</td>         <td>107 million</td>         <td>No people</td>         <td>Mexico, Guatemala, United States, Belize</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Orange/TC.png" alt="Orange" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=7&eventtype=TC&sourceid=NOAA">7</a></td>         <td>19 Jun 2024 09:00</td>         <td>65</td>         <td>100.8 million</td>         <td>No people</td>         <td>Mexico, Guatemala, United States, Belize</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Orange/TC.png" alt="Orange" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=8&eventtype=TC&sourceid=NOAA">8</a></td>         <td>19 Jun 2024 15:00</td>         <td>65</td>         <td>95.2 million</td>         <td>No people</td>         <td>Mexico, Guatemala, United States, Belize</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Orange/TC.png" alt="Orange" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=9&eventtype=TC&sourceid=NOAA">9</a></td>         <td>19 Jun 2024 21:00</td>         <td>65</td>         <td>103.3 million</td>         <td>No people</td>         <td>Mexico, Guatemala, United States, Belize</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Orange/TC.png" alt="Orange" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=10&eventtype=TC&sourceid=NOAA">10</a></td>         <td>20 Jun 2024 03:00</td>         <td>83</td>         <td>105 million</td>         <td>No people</td>         <td>Guatemala, Mexico, United States, Belize</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Green/TC.png" alt="Green" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=11&eventtype=TC&sourceid=NOAA">11</a></td>         <td>20 Jun 2024 09:00</td>         <td>83</td>         <td>99 million</td>         <td>No people</td>         <td>Guatemala, Mexico, United States, Belize</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Green/TC.png" alt="Green" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=12&eventtype=TC&sourceid=NOAA">12</a></td>         <td>20 Jun 2024 15:00</td>         <td>56</td>         <td>98.6 million</td>         <td>No people</td>         <td>Guatemala, Mexico, United States, Belize</td>       </tr> <tr >         <td><img src="/images/gdacs_icons/alerts/Green/TC.png" alt="Green" style="width:30px;height:30px;"></td>         <td><a href="report.aspx?eventid=1001066&episodeid=13&eventtype=TC&sourceid=NOAA">13</a></td>         <td>20 Jun 2024 21:00</td>         <td>46</td>         <td>98.6 million</td>         <td>No people</td>         <td>Guatemala, Mexico, United States, Belize</td>       </tr> </table></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="table table-responsive">
+                            <h3><a name="BULLETIN_TIMELINE">Bulletin Timeline <div style="float:right;width:85%;margin-top:1px"><ul class="nav nav-pills"></ul></div></a></h3>
+                             <div id="bulletinTimeline">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Alert</th>
+      <th>N°</th>
+      <th>Date (UTC)</th>
+      <th>
+            Category
+            <br>(SSHS)
+          </th>
+      <th>
+            Max winds<br>(km/h)
+            </th>
+      <th>
+            Population in<br>Cat.1 or higher
+          </th>
+      <th>
+            Population in<br>Tropical Storm<br>or higher
+          </th>
+      <th>Location (lat, lon)</th>
+      <th>Countries</th>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/GREEN/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="GREEN"></div>
+      </td>
+      <td>1</td>
+      <td>17 Jun 2024 21:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>10.6 million people
+      </td>
+      <td>20.3,
+            -93.2</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/ORANGE/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="ORANGE"></div>
+      </td>
+      <td>2</td>
+      <td>18 Jun 2024 03:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>17 million people
+      </td>
+      <td>20.8,
+            -93</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/ORANGE/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="ORANGE"></div>
+      </td>
+      <td>3</td>
+      <td>18 Jun 2024 09:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>16.4 million people
+      </td>
+      <td>21.3,
+            -93</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/GREEN/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="GREEN"></div>
+      </td>
+      <td>4</td>
+      <td>18 Jun 2024 15:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>73.2 million people
+      </td>
+      <td>21.8,
+            -92.7</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/ORANGE/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="ORANGE"></div>
+      </td>
+      <td>5</td>
+      <td>18 Jun 2024 21:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>86.4 million people
+      </td>
+      <td>22.1,
+            -92.7</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/ORANGE/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="ORANGE"></div>
+      </td>
+      <td>6</td>
+      <td>19 Jun 2024 03:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>90.6 million people
+      </td>
+      <td>22.5,
+            -93</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/ORANGE/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="ORANGE"></div>
+      </td>
+      <td>7</td>
+      <td>19 Jun 2024 09:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>75.3 million people
+      </td>
+      <td>22.7,
+            -93.8</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/ORANGE/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="ORANGE"></div>
+      </td>
+      <td>8</td>
+      <td>19 Jun 2024 15:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>91.2 million people
+      </td>
+      <td>22.2,
+            -95</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/ORANGE/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="ORANGE"></div>
+      </td>
+      <td>9</td>
+      <td>19 Jun 2024 21:00</td>
+      <td>Tropical storm</td>
+      <td><b>65</b></td>
+      <td>
+        no people
+      </td>
+      <td>87.1 million people
+      </td>
+      <td>21.9,
+            -95.3</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/ORANGE/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="ORANGE"></div>
+      </td>
+      <td>10</td>
+      <td>20 Jun 2024 03:00</td>
+      <td>Tropical storm</td>
+      <td><b>83</b></td>
+      <td>
+        no people
+      </td>
+      <td>102.5 million people
+      </td>
+      <td>21.5,
+            -95.9</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/GREEN/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="GREEN"></div>
+      </td>
+      <td>11</td>
+      <td>20 Jun 2024 09:00</td>
+      <td>Tropical storm</td>
+      <td><b>83</b></td>
+      <td>
+        no people
+      </td>
+      <td>65.7 million people
+      </td>
+      <td>22.3,
+            -97.3</td>
+      <td>
+      </td>
+    </tr>
+    <tr class="">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/GREEN/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="GREEN"></div>
+      </td>
+      <td>12</td>
+      <td>20 Jun 2024 15:00</td>
+      <td>Tropical depression</td>
+      <td><b>56</b></td>
+      <td>
+        no people
+      </td>
+      <td>
+        no people
+      </td>
+      <td>22.3,
+            -99.4</td>
+      <td>Mexico</td>
+    </tr>
+    <tr class="currenttrack">
+      <td>
+        <div id="alertcolor_image_" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom"><img src="&#xD;&#xA;          /images/gdacs_icons/alerts/GREEN/TC.png&#xD;&#xA;        " style="width:30px;height:30px;" alt="GREEN"></div>
+      </td>
+      <td>13</td>
+      <td>20 Jun 2024 21:00</td>
+      <td>Tropical depression</td>
+      <td><b>46</b></td>
+      <td>
+        no people
+      </td>
+      <td>
+        no people
+      </td>
+      <td>22.3,
+            -102</td>
+      <td>Mexico</td>
+    </tr>
+  </table>
+</div>
+                            </div>
+			                <div id="containerLegend">
+			                    <div id="containerLegendLeft" style="float:left;">
+                                    
+                                    <div>
+				                        <div class="currenttrack" style="height:16px;width:16px;float:left;"></div>
+				                        <div style="padding-left:20px">Actual track of the current bulletin</div>
+			                        </div>
+			                        <div>
+				                        <div class="alertdecreased" style="height:16px;width:16px;float:left;"></div>
+				                        <div style="padding-left:20px">The alert  for forecast greater than 3 days is limited to Orange level.</div>
+			                        </div>
+                                </div>
+			                    <div id="containerLegendRigth" style="float:right">
+                                    Download: 
+                                    <a href="https://www.gdacs.org/kml.aspx?profile=archive&eventid=1001066&eventtype=TC&sourceid=NOAA" title="Download Kml " target="_blank"><i class="fas fa-globe-americas" style="color:#608BA2;display:inline-block;font-size:15px"></i></a>
+                                    <a href="https://www.gdacs.org/contentdata/resources/TC/1001066/geojson_1001066_13.geojson" title="Download geojson structure" target="_blank"><i class="fas fa-globe" style="color:#608BA2;display:inline-block;font-size:15px"></i></a>
+                                    <a href="https://www.gdacs.org/contentdata/resources/TC/1001066/NOAA/13/all_inpData.txt" title="Download track" target="_blank"><i class="fas fa-route" style="color:#608BA2;display:inline-block;font-size:15px"></i></a>
+                                    
+                                </div>
+                            </div> 
+                            
+
+                        </div>
+                    </div>
+                    <div id="sectionImpactWind" class="row ">
+
+                        <div id="contentImpact" class="col-lg-12">
+                            <br />
+                            <div id="containerHighCharts" style="width:100%;height:400px"></div>
+                        <br /><br />
+                        <h2>Exposed population - <a href="../aoi.aspx?eventtype=TC&eventid=1001066">AoIs</a></h2>
+                        <p class="p_summary ">Exposed population in the potential affected countries, provinces and populated places</p>
+                        <h3>Countries</h3><div id="countries">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Country</th>
+      <th>Population in Tropical Storm or higher strength</th>
+    </tr>
+    <tr>
+      <td>Mexico</td>
+      <td>95.5 million people
+      </td>
+    </tr>
+    <tr>
+      <td>United States</td>
+      <td>2 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Guatemala</td>
+      <td>430000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Belize</td>
+      <td>140000 people
+      </td>
+    </tr>
+  </table>
+</div><h3>Provinces</h3><div id="provinces">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Region Province</th>
+      <th>Country</th>
+      <th>Population in Tropical Storm or higher strength</th>
+    </tr>
+    <tr>
+      <td>Zacatecas</td>
+      <td>Mexico</td>
+      <td>1 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Aguascalientes</td>
+      <td>Mexico</td>
+      <td>1.3 million people
+      </td>
+    </tr>
+    <tr>
+      <td>San Luis Potosi</td>
+      <td>Mexico</td>
+      <td>2.9 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>1.4 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>6.4 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Nuevo Leon</td>
+      <td>Mexico</td>
+      <td>5.2 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Tamaulipas</td>
+      <td>Mexico</td>
+      <td>3.1 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Michoacan</td>
+      <td>Mexico</td>
+      <td>4.8 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Queretaro</td>
+      <td>Mexico</td>
+      <td>2.2 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Coahuila</td>
+      <td>Mexico</td>
+      <td>890000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Hidalgo</td>
+      <td>Mexico</td>
+      <td>3.4 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Mexico</td>
+      <td>Mexico</td>
+      <td>17 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Veracruz</td>
+      <td>Mexico</td>
+      <td>8.5 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Guerrero</td>
+      <td>Mexico</td>
+      <td>3.8 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Distrito Federal</td>
+      <td>Mexico</td>
+      <td>7.4 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Puebla</td>
+      <td>Mexico</td>
+      <td>6.3 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Morelos</td>
+      <td>Mexico</td>
+      <td>2 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Tlaxcala</td>
+      <td>Mexico</td>
+      <td>1.4 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Texas</td>
+      <td>United States</td>
+      <td>2 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Oaxaca</td>
+      <td>Mexico</td>
+      <td>4.5 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Tabasco</td>
+      <td>Mexico</td>
+      <td>2.6 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Chiapas</td>
+      <td>Mexico</td>
+      <td>4.7 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Campeche</td>
+      <td>Mexico</td>
+      <td>860000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Yucatan</td>
+      <td>Mexico</td>
+      <td>2.2 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Peten</td>
+      <td>Guatemala</td>
+      <td>430000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Quintana Roo</td>
+      <td>Mexico</td>
+      <td>1.6 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Orange Walk</td>
+      <td>Belize</td>
+      <td>45000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Cayo</td>
+      <td>Belize</td>
+      <td>42000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Corozal</td>
+      <td>Belize</td>
+      <td>44000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Belize</td>
+      <td>Belize</td>
+      <td>6800 people
+      </td>
+    </tr>
+  </table>
+</div>
+                        <h3>Populated places</h3><div id="cities">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Name</th>
+      <th>Region Province</th>
+      <th>Country</th>
+      <th>City class</th>
+      <th>Population</th>
+    </tr>
+    <tr>
+      <td>Ojo Caliente</td>
+      <td>Zacatecas</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>18000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Salinas de Hidalgo</td>
+      <td>San Luis Potosí</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Aguascalientes</td>
+      <td>Aguascalientes</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>650000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Zacatecas</td>
+      <td>Zacatecas</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>120000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Encarnación de Díaz</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Lagos de Moreno</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>84000 people
+      </td>
+    </tr>
+    <tr>
+      <td>San Luis Potosí</td>
+      <td>San Luis Potosí</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>650000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Teocaltiche</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>22000 people
+      </td>
+    </tr>
+    <tr>
+      <td>San Felipe</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>26000 people
+      </td>
+    </tr>
+    <tr>
+      <td>San Juan de los Lagos</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>45000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Ville de Reyes</td>
+      <td>San Luis Potosi</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>León</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>900000 people
+      </td>
+    </tr>
+    <tr>
+      <td>San Francisco del Rincón</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>65000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Santa María del Río</td>
+      <td>San Luis Potosí</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>12000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Yahualica</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>15000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Guanajuato</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>77000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Silao</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>65000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Dolorez Hidalgo</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Ciudad Manuel Doblado</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Cerritos</td>
+      <td>San Luis Potosí</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>13000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Arandas</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>43000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tepatitlan</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>76000 people
+      </td>
+    </tr>
+    <tr>
+      <td>San Luis de la Paz</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>47000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Irapuato</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>340000 people
+      </td>
+    </tr>
+    <tr>
+      <td>San Miguel de Allende</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Atotonilco el Alto</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>27000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Degollado</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>11000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Salamanca</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>140000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Pénjamo</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>32000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Rioverde</td>
+      <td>San Luis Potosi</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>47000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Juventino Rosas</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>38000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Cedral</td>
+      <td>San Luis Potosí</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>9400 people
+      </td>
+    </tr>
+    <tr>
+      <td>La Piedad</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>69000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Yurécuaro</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>20000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Valle de Santiago</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>60000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Cortazar</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>55000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Ocotlán</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>78000 people
+      </td>
+    </tr>
+    <tr>
+      <td>La Barca</td>
+      <td>Jalisco</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>34000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Celaya</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>300000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tierra Blanca</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Apasfo El Grande</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Cárdenas</td>
+      <td>San Luis Potosí</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>15000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tula</td>
+      <td>Tamaulipas</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>8900 people
+      </td>
+    </tr>
+    <tr>
+      <td>Ciudad del Maíz</td>
+      <td>San Luis Potosí</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>8100 people
+      </td>
+    </tr>
+    <tr>
+      <td>Puruándiro</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>28000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Querétaro</td>
+      <td>Querétaro de Arteaga</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>560000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Moroleón</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>40000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tarimoro</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>13000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Zamora</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>120000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Salvatierra</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>33000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Sauhayo</td>
+      <td>Michoacan de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Jiquilpan</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>26000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Acámbaro</td>
+      <td>Guanajuato</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>55000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Cotija</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>14000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Morelia</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>590000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Ciudad Valles</td>
+      <td>San Luis Potosí</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>110000 people
+      </td>
+    </tr>
+    <tr>
+      <td>San Juan Del Rio</td>
+      <td>Hidalgo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>110000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Pátzcuaro</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>48000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Ciudada Mante</td>
+      <td>Tamaulipas</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Uruapan</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>240000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Polotitlan</td>
+      <td>México</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Ciudad Victoria</td>
+      <td>Tamaulipas</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>El Oro</td>
+      <td>México</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>6700 people
+      </td>
+    </tr>
+    <tr>
+      <td>Ario de Rosales</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Tacambaro</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>21000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Apatzingan</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>94000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Saltillo</td>
+      <td>Coahuila de Zaragoza</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>620000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Zitácuaro</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>76000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tula</td>
+      <td>Hidalgo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Linares</td>
+      <td>Nuevo León</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>57000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tempoal</td>
+      <td>Veracruz</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>12000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tepeji</td>
+      <td>Hidalgo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>33000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Actopan</td>
+      <td>Hidalgo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>26000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Montemorelos</td>
+      <td>Nuevo León</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>38000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Platón Sánchez</td>
+      <td>Veracruz</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>10000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Pánuco</td>
+      <td>Veracruz</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>34000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Cuauhtemoc</td>
+      <td>Tamaulipas</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>5600 people
+      </td>
+    </tr>
+    <tr>
+      <td>Santa Catarina</td>
+      <td>Nuevo León</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>250000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Zumpango</td>
+      <td>México</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>47000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Monterrey</td>
+      <td>Nuevo León</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>1.1 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Toluca</td>
+      <td>México</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>500000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Pachuca</td>
+      <td>Hidalgo</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>320000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Guadalupe</td>
+      <td>Nuevo León</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>720000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Abasolo</td>
+      <td>Tamaulipas</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>6700 people
+      </td>
+    </tr>
+    <tr>
+      <td>Huetamo</td>
+      <td>Michoacán de Ocampo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>22000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Coacalco</td>
+      <td>México</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>310000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tlalnepantla</td>
+      <td>México</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>710000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tampico</td>
+      <td>Tamaulipas</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>310000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tenango de Arista</td>
+      <td>México</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>21000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tenancingo</td>
+      <td>Mexico</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>34000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Ciudad de México</td>
+      <td>Distrito Federal</td>
+      <td>Mexico</td>
+      <td>Capital</td>
+      <td>8.5 million people
+      </td>
+    </tr>
+    <tr>
+      <td>Coyuca de Catalán</td>
+      <td>Guerrero</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Chalico</td>
+      <td>Mexico</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Apan</td>
+      <td>Hidalgo</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>26000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Cuernavaca</td>
+      <td>Morelos</td>
+      <td>Mexico</td>
+      <td>Major city</td>
+      <td>340000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Álamo</td>
+      <td>Veracruz</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>23000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Xiocotepec de Juarez</td>
+      <td>Puebla</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td>Tepoztlán</td>
+      <td>Morelos</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>15000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Tlalmanalco</td>
+      <td>México</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>15000 people
+      </td>
+    </tr>
+    <tr>
+      <td>Taxco</td>
+      <td>Guerrero</td>
+      <td>Mexico</td>
+      <td>City</td>
+      <td>53000 people
+      </td>
+    </tr>
+  </table>
+</div>
+                        <h2>Critical infrastructure</h2>
+                        <p class ="p_summary">Airports, ports, nuclear plants and hydrodams at risk, if affected, are listed below.</p>
+                        <h3>Airports</h3><div id="airports">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Name</th>
+      <th>IATA Code</th>
+      <th>Elevation (m)</th>
+      <th>Usage</th>
+      <th>Runway type</th>
+      <th>IFR</th>
+      <th>Runway Length (ft)</th>
+    </tr>
+    <tr>
+      <td>Aguascalientes</td>
+      <td><a href="http://www.theairdb.com/airport/AGU.html">AGU</a></td>
+      <td>1863</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>9800</td>
+    </tr>
+    <tr>
+      <td>Zacatecas</td>
+      <td><a href="http://www.theairdb.com/airport/ZCL.html">ZCL</a></td>
+      <td>2140</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>9800</td>
+    </tr>
+    <tr>
+      <td>San Luis Potosi</td>
+      <td><a href="http://www.theairdb.com/airport/SLP.html">SLP</a></td>
+      <td>1850</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>9800</td>
+    </tr>
+    <tr>
+      <td>San Carlos</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1837</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Del Bajio</td>
+      <td><a href="http://www.theairdb.com/airport/BJX.html">BJX</a></td>
+      <td>1835</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>11400</td>
+    </tr>
+    <tr>
+      <td>Los Infantes</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1978</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>No</td>
+      <td>4000</td>
+    </tr>
+    <tr>
+      <td>Irapuato</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1725</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Matehuala</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1560</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Rio Verde</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1000</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Celaya</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1740</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>No</td>
+      <td>6300</td>
+    </tr>
+    <tr>
+      <td>Ocotlan</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1525</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Venustiano Carranza</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1554</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Intercontinental de Queretaro</td>
+      <td><a href="http://www.theairdb.com/airport/QRO.html">QRO</a></td>
+      <td>1969</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>6200</td>
+    </tr>
+    <tr>
+      <td>Zamora</td>
+      <td><a href="http://www.theairdb.com/airport/ZMM.html">ZMM</a></td>
+      <td>1567</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>No</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>Jaujilla</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1950</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Morelia</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1833</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>General Francisco J Mujica</td>
+      <td><a href="http://www.theairdb.com/airport/MLM.html">MLM</a></td>
+      <td>0</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>11100</td>
+    </tr>
+    <tr>
+      <td>Cuauhtemoc</td>
+      <td><a href="http://www.theairdb.com/airport/MMC.html">MMC</a></td>
+      <td>104</td>
+      <td>Civ.</td>
+      <td>Unpaved</td>
+      <td>No</td>
+      <td>3900</td>
+    </tr>
+    <tr>
+      <td>San Ricardo Ranch</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>329</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Cementos Mexicanos</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>92</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Xicotencatl</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>115</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Uruapan</td>
+      <td><a href="http://www.theairdb.com/airport/UPN.html">UPN</a></td>
+      <td>1593</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>7800</td>
+    </tr>
+    <tr>
+      <td>Tamuin</td>
+      <td><a href="http://www.theairdb.com/airport/TSL.html">TSL</a></td>
+      <td>50</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>4500</td>
+    </tr>
+    <tr>
+      <td>Ixmiquilpan</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1700</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Ciudad Victoria</td>
+      <td><a href="http://www.theairdb.com/airport/CVM.html">CVM</a></td>
+      <td>235</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>7200</td>
+    </tr>
+    <tr>
+      <td>Pablo L Sidar</td>
+      <td><a href="http://www.theairdb.com/airport/AZG.html">AZG</a></td>
+      <td>315</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Ebano</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>50</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>La Retama Southwest</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>608</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Saltillo</td>
+      <td><a href="http://www.theairdb.com/airport/SLW.html">SLW</a></td>
+      <td>1402</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>9700</td>
+    </tr>
+    <tr>
+      <td>Atizapan</td>
+      <td><a href="http://www.theairdb.com/airport/AZP.html">AZP</a></td>
+      <td>2475</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Pachuca</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>2316</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>No</td>
+      <td>5900</td>
+    </tr>
+    <tr>
+      <td>Uruapan</td>
+      <td><a href="http://www.theairdb.com/airport/TLC.html">TLC</a></td>
+      <td>2575</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>13700</td>
+    </tr>
+    <tr>
+      <td>Nuevo Dolores</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>146</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Tizayuca</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>2316</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Santa Lucia</td>
+      <td><a href="http://www.theairdb.com/airport/NLU.html">NLU</a></td>
+      <td>2240</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>La Encarnacion</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>475</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Gen Francisco J Mina International</td>
+      <td><a href="http://www.theairdb.com/airport/TAM.html">TAM</a></td>
+      <td>24</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>8300</td>
+    </tr>
+    <tr>
+      <td>Gen Mariano Escobedo International</td>
+      <td><a href="http://www.theairdb.com/airport/MTY.html">MTY</a></td>
+      <td>387</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>9800</td>
+    </tr>
+    <tr>
+      <td>Huetamo</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>300</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Rancho Marina Vieja</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>30</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Del Norte International</td>
+      <td><a href="http://www.theairdb.com/airport/NTR.html">NTR</a></td>
+      <td>449</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>6500</td>
+    </tr>
+    <tr>
+      <td>El Infiernillo</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>511</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Juarez International</td>
+      <td><a href="http://www.theairdb.com/airport/MEX.html">MEX</a></td>
+      <td>2238</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>12900</td>
+    </tr>
+    <tr>
+      <td>Cerro Azul</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>137</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Santa Barbara</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>299</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Cabo Roja</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>7</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>La Pesca</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>5</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Cuernavaca</td>
+      <td><a href="http://www.theairdb.com/airport/CVJ.html">CVJ</a></td>
+      <td>1280</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>9000</td>
+    </tr>
+    <tr>
+      <td>San Fernando</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>49</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Carvajal</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>7</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Fausto Vega Santander</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>3</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Tlaxcala</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>2500</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Tajin</td>
+      <td><a href="http://www.theairdb.com/airport/PAZ.html">PAZ</a></td>
+      <td>138</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>5900</td>
+    </tr>
+    <tr>
+      <td>Agualeguas Old</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>206</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Agualeguas</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>207</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Huejotsingo</td>
+      <td><a href="http://www.theairdb.com/airport/PBC.html">PBC</a></td>
+      <td>2241</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>11800</td>
+    </tr>
+    <tr>
+      <td>Iguala</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>865</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Rancho San Salvador Ne</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>274</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Ixtapa Zihuatanejo International</td>
+      <td><a href="http://www.theairdb.com/airport/ZIH.html">ZIH</a></td>
+      <td>6</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>8200</td>
+    </tr>
+    <tr>
+      <td>El Mezquite</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>5</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Falcon Dam</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>46</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Roma Falcon</td>
+      <td><a href="http://www.theairdb.com/airport/FAL.html">FAL</a></td>
+      <td>
+        unknown
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Starr County</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>85</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Gen Lucio Blanco International</td>
+      <td><a href="http://www.theairdb.com/airport/REX.html">REX</a></td>
+      <td>39</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>6200</td>
+    </tr>
+    <tr>
+      <td>Putz</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>35</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Miller International</td>
+      <td><a href="http://www.theairdb.com/airport/MFE.html">MFE</a></td>
+      <td>33</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>7100</td>
+    </tr>
+    <tr>
+      <td>Gross (Private)</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>48</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Mid-Valley Dusters Inc</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>28</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Chilpancingo</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>1280</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>No</td>
+      <td>4400</td>
+    </tr>
+    <tr>
+      <td>Moore Field</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>67</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Progreso</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>21</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Zapata County</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>128</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Mid Valley</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>21</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Corralitos</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>110</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Norman &amp; White</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>27</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Matamoros</td>
+      <td><a href="http://www.theairdb.com/airport/MAM.html">MAM</a></td>
+      <td>8</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>7500</td>
+    </tr>
+    <tr>
+      <td>Old Reb</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>18</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Diamond O Ranch</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>128</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Edinburg Rio Grande Valley</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>24</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Cannon Aviation</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>20</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Jennings Ranch</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>134</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Shofner Farms</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>17</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Farmer's Co-op</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>11</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Columbia Valley Regional</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>8</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Zachry Ranch</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>180</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>South Padre Island International</td>
+      <td><a href="http://www.theairdb.com/airport/BRO.html">BRO</a></td>
+      <td>7</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>7400</td>
+    </tr>
+    <tr>
+      <td>San Rafael Ranch</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>96</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Valley Baptist Medical Center</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>18</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>San Benito Municipal</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>9</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>AG Air Inc.</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>9</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Puesta Del Sol</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>128</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Rio Grande Valley International</td>
+      <td><a href="http://www.theairdb.com/airport/HRL.html">HRL</a></td>
+      <td>11</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>Yes</td>
+      <td>8300</td>
+    </tr>
+    <tr>
+      <td>El Lencero</td>
+      <td><a href="http://www.theairdb.com/airport/JAL.html">JAL</a></td>
+      <td>875</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>No</td>
+      <td>5500</td>
+    </tr>
+    <tr>
+      <td>Texas Air Museum</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>9</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Bell Airfield</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>9</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Drennan Farm</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>8</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Kaffie Ranch</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>137</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Pie de la Cuesta</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>6</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>El Coyote Ranch</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>60</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>T R Funk Inc.</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>7</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+    </tr>
+  </table>
+</div><h3>Ports</h3><div id="ports">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Name</th>
+      <th>LOCODE</th>
+      <th>Country</th>
+    </tr>
+    <tr>
+      <td>Altamira</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Tampico</td>
+      <td>MXTAM</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Ciudad Madero</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Tuxpan</td>
+      <td>MXTUX</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Brownsville</td>
+      <td>USBRO</td>
+      <td>Wake Island</td>
+    </tr>
+    <tr>
+      <td>Port Isabel</td>
+      <td>USPIS</td>
+      <td>Wake Island</td>
+    </tr>
+    <tr>
+      <td>Acapulco</td>
+      <td>MXACA</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Puerto Marques</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Vera Cruz</td>
+      <td>MXVER</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Alvarado</td>
+      <td>MXAVD</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Corpus Christi</td>
+      <td>USCRP</td>
+      <td>Wake Island</td>
+    </tr>
+    <tr>
+      <td>Ingleside</td>
+      <td>
+      </td>
+      <td>Wake Island</td>
+    </tr>
+    <tr>
+      <td>Port Ingleside</td>
+      <td>
+      </td>
+      <td>Wake Island</td>
+    </tr>
+    <tr>
+      <td>Port Aransas</td>
+      <td>
+      </td>
+      <td>Wake Island</td>
+    </tr>
+    <tr>
+      <td>Rockport</td>
+      <td>
+      </td>
+      <td>Wake Island</td>
+    </tr>
+    <tr>
+      <td>Punta Escondida</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Minatitlan</td>
+      <td>MXMTT</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Rabon Grande</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Coatzacoalcos</td>
+      <td>MXCOA</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Nanchital</td>
+      <td>MXNAN</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Puerto Angel</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Salina Cruz</td>
+      <td>MXSCX</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Dos Bocas</td>
+      <td>MXDBT</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Frontera</td>
+      <td>MXFRN</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Cayo Arcas Terminal</td>
+      <td>MXCAT</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Concepcion</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Ciudad Del Carmen</td>
+      <td>MXCME</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Campeche</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Sisal</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Progreso</td>
+      <td>MXPGO</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Corozal</td>
+      <td>
+      </td>
+      <td>Belize</td>
+    </tr>
+    <tr>
+      <td>El Cuyo</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Chetumal</td>
+      <td>MXCTM</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Herrero Point</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Cozumel</td>
+      <td>MXCZM</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Puerto Morelas</td>
+      <td>
+      </td>
+      <td>Mexico</td>
+    </tr>
+  </table>
+</div><h3>Dams</h3><div id="dams">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Reservoir</th>
+      <th>Dam Name</th>
+      <th>River</th>
+      <th>Year</th>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Calles</td>
+      <td>Santiago</td>
+      <td>1931</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>El Niagara</td>
+      <td>San Pedro</td>
+      <td>1963</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Tayahua</td>
+      <td>Juchipila</td>
+      <td>1978</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Cuarenta</td>
+      <td>Rio Lagos</td>
+      <td>1949</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Elchique</td>
+      <td>Juchipila</td>
+      <td>1992</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>La Sauceda</td>
+      <td>La Sauceda</td>
+      <td>1980</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Jesus Maria</td>
+      <td>La Laja</td>
+      <td>1991</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>El Zapotillo</td>
+      <td>Verde</td>
+      <td>2016</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>La Purisima</td>
+      <td>Guanajuato</td>
+      <td>1980</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Ignacio Allende</td>
+      <td>La Laja</td>
+      <td>1968</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Puente Calderon</td>
+      <td>Calderon</td>
+      <td>1991</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Melchor</td>
+      <td>Angulo</td>
+      <td>1972</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>El Cubo</td>
+      <td>Tarimoro</td>
+      <td>1978</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Solis</td>
+      <td>Lerma</td>
+      <td>1949</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Const. de 1917</td>
+      <td>El Caracol</td>
+      <td>1969</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Cointzio</td>
+      <td>Grande de Morelia</td>
+      <td>1939</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Tepuxtepec</td>
+      <td>Lerma</td>
+      <td>1935</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Zimapan</td>
+      <td>Moctezuma</td>
+      <td>1994</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>San Lorenzo</td>
+      <td>El Sauz</td>
+      <td>1982</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Vicente Aguirre</td>
+      <td>Alfajayucan</td>
+      <td>1950</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Tepetitlan</td>
+      <td>Tepetitlan</td>
+      <td>1964</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>El Bosque</td>
+      <td>Zitacuaro</td>
+      <td>1954</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Endho</td>
+      <td>Tula</td>
+      <td>1951</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Francisco J. Mugica</td>
+      <td>Balsas</td>
+      <td>2011</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Villa Victoria</td>
+      <td>Malacatepec</td>
+      <td>1944</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Zicuiran</td>
+      <td>Zicuiran</td>
+      <td>1957</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Taxhimay</td>
+      <td>San Luis</td>
+      <td>1934</td>
+    </tr>
+    <tr>
+      <td>Adjuntas</td>
+      <td>Vincente Guerrero</td>
+      <td>Soto la Marina</td>
+      <td>1971</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Ignacio Ramirez</td>
+      <td>La Gavia</td>
+      <td>1966</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Valle de Bravo</td>
+      <td>Valle de Bravo</td>
+      <td>1944</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Cerro Prieto</td>
+      <td>Pablillo</td>
+      <td>1982</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>La Boca</td>
+      <td>San Juan</td>
+      <td>1961</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Rompepicos en Corral des Palmas</td>
+      <td>Santa Caterine</td>
+      <td>2004</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Chicayan</td>
+      <td>Chicayan</td>
+      <td>1976</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Guadalupe</td>
+      <td>Cuautitla</td>
+      <td>1968</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Madin</td>
+      <td>Tlalnepantla</td>
+      <td>1976</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>El Gallo</td>
+      <td>Cutzamala</td>
+      <td>1985</td>
+    </tr>
+    <tr>
+      <td>Pueblo Viejo</td>
+      <td>Animas</td>
+      <td>Guayalejo</td>
+      <td>1978</td>
+    </tr>
+    <tr>
+      <td>Inhernillo</td>
+      <td>El Infiernillo</td>
+      <td>Balsas</td>
+      <td>1963</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>El Cuchillo</td>
+      <td>San Juan</td>
+      <td>1994</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Vicente Guerrero</td>
+      <td>Poliutla</td>
+      <td>1968</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Necaxa</td>
+      <td>Necaxa</td>
+      <td>1909</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Tenango</td>
+      <td>Coacuila</td>
+      <td>1910</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Andres Figueroa</td>
+      <td>Ajuchitlan</td>
+      <td>1983</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>San Jose Atlangatepec</td>
+      <td>Zahuapan</td>
+      <td>1959</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Carlos Ramirez Ulloa</td>
+      <td>Balsas</td>
+      <td>1986</td>
+    </tr>
+    <tr>
+      <td>Vaso Marte R.Gomez</td>
+      <td>Marte R. Gomez</td>
+      <td>San Juan</td>
+      <td>1946</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>La Soledad</td>
+      <td>Apulco</td>
+      <td>1962</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Manuel Avila Camacho</td>
+      <td>Atoyac</td>
+      <td>1946</td>
+    </tr>
+    <tr>
+      <td>Falcon Reservoir</td>
+      <td>International Falcon Lake Dam</td>
+      <td>Rio Grande</td>
+      <td>1953</td>
+    </tr>
+    <tr>
+      <td>Lake Edinburg</td>
+      <td>Retama Reservoir Levee</td>
+      <td>OS</td>
+      <td>1935</td>
+    </tr>
+    <tr>
+      <td>Monte Alto Reservoir</td>
+      <td>Delta Lake Unit 2 Levee</td>
+      <td>OS</td>
+      <td>1939</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Yosocuta</td>
+      <td>Huajuapan</td>
+      <td>1969</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>El Guineo</td>
+      <td>Nexpa</td>
+      <td>1985</td>
+    </tr>
+    <tr>
+      <td>Presa Miguel Aleman</td>
+      <td>Presidente Aleman Temascal</td>
+      <td>Rio Tonto</td>
+      <td>1955</td>
+    </tr>
+    <tr>
+      <td>Miguel de la Madrid</td>
+      <td>Cerro de Oro</td>
+      <td>Santo Domingo</td>
+      <td>1991</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Presidente Benito Juarez</td>
+      <td>Tehuantepec</td>
+      <td>1961</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Penitas</td>
+      <td>Grijalva</td>
+      <td>1985</td>
+    </tr>
+    <tr>
+      <td>Malpaso</td>
+      <td>Netzahualcoyotl</td>
+      <td>Grijalva</td>
+      <td>1964</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>Manuel Moreno Torres</td>
+      <td>Grijalva</td>
+      <td>1980</td>
+    </tr>
+    <tr>
+      <td>Angostura</td>
+      <td>La Angostura</td>
+      <td>Grijalva</td>
+      <td>1974</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>El Portillo</td>
+      <td>Cuxtepeques</td>
+      <td>1980</td>
+    </tr>
+  </table>
+</div><h3>Nuclear power plants</h3><div id="nuclear_npp">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Site</th>
+      <th>Type</th>
+      <th>Name</th>
+      <th>Country</th>
+    </tr>
+    <tr>
+      <td>Site-Ocoyoacac</td>
+      <td>Research reactor</td>
+      <td>TRIGA Mark III</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Site-Cuauhtémoc</td>
+      <td>Research reactor</td>
+      <td>Nuclear Chicago Mod 9000</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Site-Webb</td>
+      <td>Nuclear Fuel Cycle</td>
+      <td>Vasquez</td>
+      <td>United States of America</td>
+    </tr>
+    <tr>
+      <td>Site-Brooks</td>
+      <td>Nuclear Fuel Cycle</td>
+      <td>Alta Mesa</td>
+      <td>United States of America</td>
+    </tr>
+    <tr>
+      <td>Site-Mexico-BWR</td>
+      <td>Nuclear Power Plant</td>
+      <td>Laguna Verde-1</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Site-Mexico-BWR</td>
+      <td>Nuclear Power Plant</td>
+      <td>Laguna Verde-2</td>
+      <td>Mexico</td>
+    </tr>
+    <tr>
+      <td>Site-Kleberg</td>
+      <td>Nuclear Fuel Cycle</td>
+      <td>Kingsville Dome</td>
+      <td>United States of America</td>
+    </tr>
+  </table>
+</div>
+                        </div>
+                    </div>
+                </div>            
+
+            </div>
+        </div>
+    </div>
+
+    <div id="sectionRainfall" class="row alert_contents section_report">
+        <div id="contentRainfall" class="col-lg-12">
+            <div id="" class="row">
+                <div class="col-lg-12">
+                    <div class="toplink_div"><a href="#">TOP</a></div>
+                    <h2><a name="RAIN">Rainfall</a></h2>
+                    <p class="p_summary">
+                        Rainfall accumulation of the past 24h, as detected by the Global Precipitation Measurement mission of NASA. For more information, see <a href="https://www.nasa.gov/mission_pages/GPM/main/index.html" target="_blank">https://www.nasa.gov/mission_pages/GPM/main/index.html</a>.
+                      </p>
+                    <div id="mapcontainer">
+                        <div id="map" class="main_report_map">
+                        </div>
+                        <div id="popup" class="ol-popup">
+                            <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+                            <div id="popup-content"></div>
+                        </div>
+            	        <div id="labelRainDate" style="width:440px;float:left;text-align:center;font-weight:bold">...</div>
+				        <br/>
+                        <div id="slider_rain_container" style="width: 500px; max-width:100%;">
+                            <div id="slider_rain_date" >
+                                <div id="rain-date-handle" class="custom-handle"></div>                            
+                            </div>
+                        </div>
+                    </div>                
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="sectionStormSurge" class="row alert_contents">
+        <div id="contentStormsurge" class="col-lg-12">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="toplink_div"><a href="#">TOP</a></div>
+                    <h2><a name="STORMSURGE">StormSurge</a></h2>
+                    <div class="alert_SS_source_green">0.7 m</div><p class="p_summary">
+        The maximum Storm surge height is <b xmlns="http://www.w3.org/TR/xhtml1/strict" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:jrc="http://jrc.org/date-time">
+  <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/TS.png" alt="" height="16" />
+       0.7m
+    </b>
+        in <b xmlns="http://www.w3.org/TR/xhtml1/strict" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:jrc="http://jrc.org/date-time">Pueblo Viejo</b>, <b xmlns="http://www.w3.org/TR/xhtml1/strict" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:jrc="http://jrc.org/date-time">Mexico</b>. This
+        height is estimated for <b xmlns="http://www.w3.org/TR/xhtml1/strict" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:jrc="http://jrc.org/date-time">20 Jun 2024 11:00 UTC
+          </b>.
+      </p><!--1-->    
+                    <div class="row cyclone_image_surge">
+                        <div id="sectionImageSS1" class="col-lg-6">
+
+                        </div>
+                        <div id="sectionImageSS2" class="col-lg-6">
+
+                        </div>
+                    </div>
+                    <div class="half_caption">
+                        <p>The JRC has developed an experimental global storm surge model. The calculations are published about 20 minutes after a new advisory is detected         by GDACS. The calculations identify the populated places affected by storm surge up to three days in advance, using the          forecasted track. When forecasts change, the associated storm surge changes too and alert levels may go up or down. All  links, data, statistics and maps refer to the latest available  calculation. If the calculation for the last advisory is not  completed, the latest available calculation is shown. </p>
+                    </div>
+                        
+					
+                    <div class="table table-responsive">
+                        <div id="locations"><div id="iconDownload" title='Joint Research Center of the European Commission' tooltip='Joint Research Center of the European Commission' style="display: inline; float:right"><a href="https://www.gdacs.org/contentdata/resources/TC/1001066/NOAA/final/locations.kmz"><i class="fas fa-download"></i></a></div><p class="p_summary">
+    Locations affected by Storm surge (184 locations).
+    
+      Calculation based on advisory number 11 of 20 Jun 2024 09:00:00 UTC.
+      
+    (Simulation using 0.5 minute resolution)
+  </p><table class="generic" xmlns="http://www.w3.org/TR/xhtml1/strict" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:jrc="http://jrc.org/date-time">
+  <tr class="main_tit">
+    <td>Alert</td>
+    <td>Date (UTC)</td>
+    <td>Name</td>
+    <td>Country</td>
+    <td>Storm surge height (m)
+          </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Pueblo Viejo</td>
+    <td>Mexico</td>
+    <td>
+       0.7</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Primero de Mayo</td>
+    <td>Mexico</td>
+    <td>
+       0.7</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Tampico Alta</td>
+    <td>Mexico</td>
+    <td>
+       0.7</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>La Presita</td>
+    <td>Mexico</td>
+    <td>
+       0.6</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>El Tular</td>
+    <td>Mexico</td>
+    <td>
+       0.5</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Holly Beach</td>
+    <td>United States</td>
+    <td>
+       0.5</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Laguna Vista</td>
+    <td>United States</td>
+    <td>
+       0.5</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Laguna Heights</td>
+    <td>United States</td>
+    <td>
+       0.5</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Port Isabel</td>
+    <td>United States</td>
+    <td>
+       0.5</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Los Ebanos</td>
+    <td>Mexico</td>
+    <td>
+       0.5</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>El Naranjal</td>
+    <td>Mexico</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>El Porvenir</td>
+    <td>Mexico</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Tamiahua</td>
+    <td>Mexico</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Port O'Connor</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Palacios</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>San Jose de los Leones</td>
+    <td>Mexico</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Rancho de Piedra</td>
+    <td>Mexico</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Agua Dulce</td>
+    <td>Mexico</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Nadeau</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Texas City Junction</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Bayou Vista</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Texas City</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Anderson Ways</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Virginia Point</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Port Bolivar</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Fort Travis</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Flake</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Elmgrove</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Crystal Beach</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Bolivar Peninsula</td>
+    <td>United States</td>
+    <td>
+       0.4</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>La Pesca</td>
+    <td>Mexico</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Flour Bluff</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Kenney Lane West Colonia</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Port Ingleside</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Indian Trails Lane Colonia</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Country Acres Colonia</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Country Estates Colonia</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Aransas Pass</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Estes</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Shell Ridge</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Spanish Village</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Yarborough</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>High Island</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>El Mezquital</td>
+    <td>Mexico</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>South Padre Island</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Rockport</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Copano Village</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Fulton</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Patton</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Johnson's Bayou</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Constance Beach</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Peveto Beach</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>La Mata</td>
+    <td>Mexico</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Rancho Nuevo</td>
+    <td>Mexico</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Los Pericos</td>
+    <td>Mexico</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Fraccionamiento Nuevo Leon</td>
+    <td>Mexico</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Hoskins</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Valasco Heights</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Freeport</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Quintana</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Mims</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Hoskins</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Port Morris</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Caplen</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Gilchrist</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Holly Beach</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Cameron</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Surfside</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Surfside Beach</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Galveston</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Kopernik Shores</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Boca Chica</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Red Fish Cove</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Bay Harbor</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Sea Isle</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Jamaica Beach</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Mustang Beach</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Port Aransas</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Gulf Park</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Oak Grove</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Matagorda</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Chinquapin</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Grand Chenier</td>
+    <td>United States</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 16:00</td>
+    <td>Balantanche</td>
+    <td>Mexico</td>
+    <td>
+       0.3</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Bryan Beach</td>
+    <td>United States</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 15:00</td>
+    <td>Champoton</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 15:00</td>
+    <td>Seybaplaya</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 15:00</td>
+    <td>Haltunchen</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 15:00</td>
+    <td>Hoquel</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>San Pedro</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>La Majada</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Costa Rica</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Union Hidalgo</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Chicapa</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 16:00</td>
+    <td>Celestum</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>San Dionisio del Mar</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>San Francisco del Mar</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Cachimba</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 16:00</td>
+    <td>Noham</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 16:00</td>
+    <td>Porfirio Diaz</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 16:00</td>
+    <td>Chenkan</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Gulf Park Estates</td>
+    <td>United States</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Cheniere Au Tigre</td>
+    <td>United States</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Tepeguahe</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 15:00</td>
+    <td>Sisal</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 16:00</td>
+    <td>Sabancuy</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Hilda</td>
+    <td>United States</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Gautier</td>
+    <td>United States</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>La Concepion</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 15:00</td>
+    <td>Ciudad del Carmen</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 15:00</td>
+    <td>Boca Nueva</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 15:00</td>
+    <td>Paso Real</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 16:00</td>
+    <td>Santa Cruz</td>
+    <td>Mexico</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Pascagoula</td>
+    <td>United States</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>West Point</td>
+    <td>United States</td>
+    <td>
+       0.2</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Pesqueria</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>El Roble</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Arista</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Leeville</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Grand Ecaille</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Ostrica</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Neptune</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Fort Jackson</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Boothville</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Duvic</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Breton</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Cedar Key</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 06:00</td>
+    <td>Buenavista</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Huajapan</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Boqueron</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Port Fourchon</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Cheniere Caminada</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Grand Isle</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Bassa Bassa</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 03:00</td>
+    <td>Cabo Rojito</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>El Cajio</td>
+    <td>Cuba</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Steinhatchee</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Jena</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Horseshoe Beach</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Shired Island</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Suwannee</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Solo Dios</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Calderas</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Majahual</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 03:00</td>
+    <td>Tecolutla</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Pasito de la Senora</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Beacon Square</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Gulf Harbors</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>New Port Richey</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 13:00</td>
+    <td>Elfers</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Las Pozas</td>
+    <td>Nicaragua</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>El Capulin</td>
+    <td>Nicaragua</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Barrancones</td>
+    <td>Honduras</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Condega</td>
+    <td>Honduras</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Cedeno</td>
+    <td>Honduras</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Surgidero de Batabano</td>
+    <td>Cuba</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Batabano</td>
+    <td>Cuba</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Sunrise</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 11:00</td>
+    <td>Buras</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Dekle Beach</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Keaton Beach</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Fish Creek</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Dallus Creek Landing</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Dos Hermanas</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 03:00</td>
+    <td>La Guadalupe</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 03:00</td>
+    <td>Monte Gordo</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Chelem</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Progreso</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Pixoy</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Telchac Puerto</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Anclote</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Cove Springs</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Tarpon Springs</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Holiday</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 12:00</td>
+    <td>Lake Shore Estates</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>El Carmen</td>
+    <td>Nicaragua</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 08:00</td>
+    <td>Gualora</td>
+    <td>Honduras</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Bayou La Batre</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Coden</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 09:00</td>
+    <td>Nelson</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 10:00</td>
+    <td>Guanimar</td>
+    <td>Cuba</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Surf</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 14:00</td>
+    <td>Sun N Sand Beaches</td>
+    <td>United States</td>
+    <td>
+       0.1</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://www.gdacs.org/images/gdacs_icons/alerts/Green/SS.png" alt="" height="30" />
+    </td>
+    <td>20 Jun 2024 07:00</td>
+    <td>Barra de San Jose</td>
+    <td>Mexico</td>
+    <td>
+       0.1</td>
+  </tr>
+</table></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var reportImage1 ='https://www.gdacs.org/contentdata/resources/TC/1001066/NOAA/13/clouds_1001066_13_zoom.png';
+        var reportImage2 = 'https://www.gdacs.org/contentdata/resources/TC/1001066/NOAA/13/clouds_1001066_13.png';
+        var reportLegendImage1 = 'Current situation (last bulletin): TC track, Wind buffers (Green: 63-92 km/h, Orange: 93-118 km/h, Red:>118 km/h)';
+        var reportLegendImage2 ='Overall situation: TC track, Wind buffers (Green: 63-92 km/h, Orange: 93-118 km/h, Red:>118 km/h)';
+        var reportImageSS1 ='https://www.gdacs.org/contentdata/resources/TC/1001066/NOAA/final/P1_MAXHEIGHT_END.jpg';
+        var reportImageSS2 ='https://www.gdacs.org/contentdata/resources/TC/1001066/NOAA/final/outres1.gif';
+        var reportShowAlertBar = true;
+        var reportHasStormSurge = true;
+
+        var reportFromDate = '2024-06-17 00:00:00';
+        var reportToDate = '2024-06-20 00:00:00';
+        var reportEventtype = '';
+        var reportShowRain = true;
+        var reportShowCloud = true;
+        var reportCloudTemplate = 'https://www.gdacs.org/contentdata/img/clouds/[yyyy]/[mm]/[yyyy][mm][dd].png';
+        var reportRainTemplate = 'https://www.gdacs.org/contentdata/img/rain/[yyyy]/[mm]/[yyyy][mm][dd].png';
+        var reportLon= -102;
+        var reportLat=22.3;
+        var reportLayerToShow='';
+        var reportZoomLevel=3;
+
+        var reportchartTitle = 'Sustained wind speed  and exposed population (Category 1 or higher)';
+        var reportchartBulletin=['17/06 21:00','18/06 03:00','18/06 09:00','18/06 15:00','18/06 21:00','19/06 03:00','19/06 09:00','19/06 15:00','19/06 21:00','20/06 03:00','20/06 09:00','20/06 15:00','20/06 21:00'];
+        var reportchartPopulation=[0,0,0,0,0,0,0,0,0,0,0,0,0];
+        var reportchartWind=[65,65,65,65,65,65,65,65,65,83,83,56,46];
+
+        var reportMaxAlertscore=1.5;
+        var reportCurrentAlertscore=0.5;
+        var reportForecastFrom=11.5;
+        var reportForecastTo=12.5;
+
+        var reportWMSCloud='';
+        var reportWMSRain='';
+        var reportWMSPopDensity='';
+        var reportWMSRDRI = '';
+
+        var reportModisTemplate='';
+        var reportGFDSTemplate='';
+        var reportShowGFDS=false;
+        var reportShowPopDensity=false;
+        var reportHasMaps=false;
+        var reportJsonLayer ='';
+        var reportShakeLayer = '';
+        var reportJsonLayerPopulation = '';
+        var reportJsonLayerOverAll = '';
+        var reportJsonNppLayer = '';
+
+        var reportJsonLayerGFM_Observed = '';
+        var reportFloodsTemplate = '';
+        var reportGFMTemplate = '';
+        var reportOverallGFM = '';
+
+        var stepIndex = 5;
+        //Function to hid/show the table line
+        function assignStyleLines (idSection){
+            var rowCount = $(idSection+' tr').length;
+            $(idSection+' tr' ).each(function( index ) {
+                if (index>0)
+                    $( this ).css("display","none");
+            });
+            $(idSection+' tr').slice(1, stepIndex+1).slideDown();
+            
+        }
+
+        
+        $(function () {
+            if (window.innerWidth < 900) {
+                $("#impactTimeline").attr("style", "white-space: nowrap");
+                $("#bulletinTimeline").attr("style", "white-space: nowrap");
+                $("#locations").attr("style", "white-space: nowrap");
+            }
+        });
+
+        $(window).resize(function () {
+            if (window.innerWidth < 900) {
+                $("#impactTimeline").attr("style", "white-space: nowrap")
+                $("#bulletinTimeline").attr("style", "white-space: nowrap");
+                $("#locations").attr("style", "white-space: nowrap");
+            }
+            else {
+                $("#impactTimeline").attr("style", "white-space: normal");
+                $("#bulletinTimeline").attr("style", "white-space: normal");
+                $("#locations").attr("style", "white-space: normal");
+            }
+        });
+
+
+
+        function showRows(idSection){
+            var vis = $(idSection + ' tr:hidden').last().index();
+            $(idSection + ' tr:hidden').slice(0, stepIndex).slideDown();
+        }
+
+        function hideRows(idSection){
+            var vis = $(idSection + ' tr:hidden').first().index();
+            if (vis < 0)
+                vis = $(idSection + ' tr').length;
+            if ((vis-stepIndex)>6)
+                $(idSection + ' tr').slice(vis-stepIndex,vis+1 ).slideUp();
+            else
+                $(idSection + ' tr').slice(stepIndex+1,vis+1).slideUp();
+        }
+
+
+        function collapseSection (idSection, rowstoshow){
+            var rowCount = $(idSection+' tr').length;
+            $(idSection+' tr' ).each(function( index ) {
+                if (index>0)
+                    $( this ).css("display","none");
+            });
+            if (($(idSection+' tr').length-rowstoshow)<=0)
+                rowstoshow=$(idSection+' tr').length;
+            $(idSection + ' tr:hidden').slice($(idSection+' tr').length-rowstoshow, $(idSection+' tr').length).slideDown();
+        }
+        function expandSection(idSection){
+            var index = $(idSection + ' tr:hidden').last().index();
+            $(idSection + ' tr:hidden').slice(0, index).slideDown();
+        }
+
+
+
+        $(function () {
+            if (reportImage1 != "") {
+                $('#sectionImage2').html('<img class="popimage" id="img1" width="100%" padding-top:"15px" style="margin-bottom: 5px;" src="' + reportImage1 + '" /><div id=\"map_report_caption\" style=\"margin-top:0px; padding-left:20px\">'+reportLegendImage1+' </div>');
+            }
+            if (reportImage2 != "") {
+                $('#sectionImage1').html('<img class="popimage" id="img2" width="100%" padding-top:"15px" style="margin-bottom: 5px;" src="' + reportImage2 + '" /><div id=\"map_report_caption\" style=\"margin-top:0px; padding-left:20px\">'+reportLegendImage2+'</div>');
+            }
+            if (!reportShowAlertBar) {
+                $("#alertbar").remove();
+            }
+            if (reportImageSS1 != "") {
+                $('#sectionImageSS1').append('<img class="popimage" id="imgSS1" width="100%" max-width="100%" padding-top:"15px" style="margin-bottom: 5px;" src="' + reportImageSS1 + '" />');
+            }
+            if (reportImageSS2 != "") {
+                $('#sectionImageSS2').append('<img class="popimage" id="imgSS2" width="100%" max-width="100%" padding-top:"15px" style="margin-bottom: 5px;" src="' + reportImageSS2 + '" />');
+            }
+            if (false) {
+                $("#menuSourceCol").remove();
+                $("#meteodefSourceCol").removeClass("col-lg-5");
+                $("#meteodefSourceCol").addClass("col-lg-7");
+            }
+
+            $('.popimage').on('click', function () {
+			    $('.imagepreview').attr('src', $(this).attr('src'));
+			    $('#imagemodal').modal('show');   
+		    });	
+            if (!reportHasStormSurge) {
+                $("#sectionStormSurge").remove();
+            }
+            
+
+            assignStyleLines("#countries");
+            if (stepIndex<$('#countries tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div class="button_item_left"><img id="moreCountries" src="../images/down_arrow.png"></div>'+
+                            '<div class="button_item_right"><img id="lessCountries" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+
+                $("#countries").append(r);
+                $('#moreCountries').on('click',function(){
+                    showRows("#countries");
+                });
+                $('#lessCountries').on('click',function(){
+                    hideRows("#countries");
+                })
+            }
+
+            assignStyleLines("#provinces");
+            if (stepIndex<$('#provinces tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div class="button_item_left"><img id="moreProvinces" src="../images/down_arrow.png"></div>'+
+                            '<div class="button_item_right"><img id="lessProvinces" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+
+                $("#provinces").append(r);
+                $('#moreProvinces').on('click',function(){
+                    showRows("#provinces");
+                });
+                $('#lessProvinces').on('click',function(){
+                    hideRows("#provinces");
+                })
+            }
+            assignStyleLines("#cities");
+            if (stepIndex<$('#cities tr').length)
+            {
+                //var r= $('<input id="moreCities" type="button" value="More"/>');
+
+                var r= $('<div class="buttonrow">'+
+                            '<div  class="button_item_left"><img id="moreCities" src="../images/down_arrow.png"></div>'+
+                            '<div  class="button_item_right"><img id="lessCities" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+
+                $("#cities").append(r);
+                
+                //r= $('<input id="lessCities" type="button" value="Less"/>');
+                //$("#cities").append(r);
+                $('#moreCities').on('click',function(){
+                    showRows("#cities");
+                });
+                $('#lessCities').on('click',function(){
+                    hideRows("#cities");
+                })
+            }
+            assignStyleLines("#airports");
+            if (stepIndex<$('#airports tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div  class="button_item_left"><img id="moreAirports" src="../images/down_arrow.png"></div>'+
+                            '<div  class="button_item_right"><img id="lessAirports" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+
+                $("#airports").append(r);
+                $('#moreAirports').on('click',function(){
+                    showRows("#airports");
+                });
+                $('#lessAirports').on('click',function(){
+                    hideRows("#airports");
+                })
+            }
+
+            assignStyleLines("#ports");
+            if (stepIndex<$('#ports tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div  class="button_item_left"><img id="morePorts" src="../images/down_arrow.png"></div>'+
+                            '<div  class="button_item_right"><img id="lessPorts" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+
+                $("#ports").append(r);
+                $('#morePorts').on('click',function(){
+                    showRows("#ports");
+                });
+                $('#lessPorts').on('click',function(){
+                    hideRows("#ports");
+                })
+            }
+
+            assignStyleLines("#dams");
+            if (stepIndex<$('#dams tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div  class="button_item_left"><img id="moreDams" src="../images/down_arrow.png"></div>'+
+                            '<div  class="button_item_right"><img id="lessDams" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+                $("#dams").append(r);
+                $('#moreDams').on('click',function(){
+                    showRows("#dams");
+                });
+                $('#lessDams').on('click',function(){
+                    hideRows("#dams");
+                })
+            }
+            assignStyleLines("#nuclear");
+            if (stepIndex<$('#nuclear tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div  class="button_item_left"><img id="moreNuclear" src="../images/down_arrow.png"></div>'+
+                            '<div  class="button_item_right"><img id="lessNuclear" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+                $("#nuclear").append(r);
+                $('#moreNuclear').on('click',function(){
+                    showRows("#nuclear");
+                });
+                $('#lessNuclear').on('click',function(){
+                    hideRows("#nuclear");
+                })
+            }
+            assignStyleLines("#locations");
+            if (stepIndex<$('#locations tr').length)
+            {
+                var r= $('<div class="buttonrow">'+
+                            '<div  class="button_item_left"><img id="moreLocations" src="../images/down_arrow.png"></div>'+
+                            '<div  class="button_item_right"><img id="lessLocations" src="../images/up_arrow.png"></div>'+
+                          '</div>');
+                $("#locations").append(r);
+                $('#moreLocations').on('click',function(){
+                    showRows("#locations");
+                });
+                $('#lessLocations').on('click',function(){
+                    hideRows("#locations");
+                })
+                
+            }
+
+            //impact Timeline section
+            collapseSection("#impactTimeline", 2);
+            var r= $('<div class="buttonrow">'+
+                        '<div  class="button_item_left"><img id="moreImpactTimeline" src="../images/down_arrow.png"></div>'+
+                        '<div  class="button_item_right"><img id="lessImpactTimeline" src="../images/up_arrow.png"></div>'+
+                        '</div>');
+            $("#impactTimeline").append(r);
+            $('#moreImpactTimeline').on('click',function(){
+                expandSection("#impactTimeline");
+            });
+            $('#lessImpactTimeline').on('click',function(){
+                collapseSection("#impactTimeline",2);
+            });
+            //bulletinTimeline
+			var _currentBT = $('#bulletinTimeline table tr.currenttrack').index();
+            var _lastBT = $('#bulletinTimeline table tr').length;
+            var _numBT = 1;
+			if (_lastBT>_currentBT){
+				_numBT = (_lastBT - _currentBT)+1
+			}
+			collapseSection("#bulletinTimeline", _numBT );
+            var r= $('<div class="buttonrow">'+
+                        '<div  class="button_item_left"><img id="moreBulletinTimeline" src="../images/down_arrow.png"></div>'+
+                        '<div  class="button_item_right"><img id="lessBulletinTimeline" src="../images/up_arrow.png"></div>'+
+                        '</div>');
+            $("#bulletinTimeline").append(r);
+            $('#moreBulletinTimeline').on('click',function(){
+                expandSection("#bulletinTimeline");
+            });
+            $('#lessBulletinTimeline').on('click',function(){
+                collapseSection("#bulletinTimeline",_numBT );
+            });
+
+
+            //Slider for maps
+            $( "#slider_rain_date" ).slider({
+                value: Math.floor((endDate.getTime() - startDate.getTime()) / 86400000),
+                min: Math.floor((startDate.getTime() - startDate.getTime()) / 86400000),
+                max: Math.floor((endDate.getTime() - startDate.getTime()) / 86400000),
+                step: 1,
+                slide: function( event, ui ) {
+                    stepDate = (new Date(startDate.getTime() + parseInt(ui.value*86400000))); 
+                    $("#labelRainDate").text(stepDate.toDateString());
+                    setTime();
+                }
+            });
+            $("#labelRainDate").text(endDate.toDateString());
+            reportAlertScoreBar("#alertscorebar",reportMaxAlertscore,reportCurrentAlertscore);
+            cycloneLineBar("containerHighCharts", "Bulletin timeline", reportchartTitle,reportchartBulletin, reportchartPopulation, reportchartWind,reportForecastFrom,reportForecastTo);
+
+        });
+
+
+    </script>
+    <script type="text/javascript" src="../Scripts/GdacsMap/reportmap.js"></script>
+
+
+                </form>
+            </div><!-- end main_alert_content-->
+            
+
+            <div id="footer_home" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-footer col-12">
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkupFooter">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="../Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT GDACS</a>
+                    </div>
+                  </div>
+                </nav>
+                <div id="footer_disclaimer" class="col-12">
+                    <!--<div class="float-left gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/brexit-content-disclaimer" target="_blank">Brexit content disclaimer</a></div>-->
+                    <div class="float-end gdacs_bottom_menu_content" ><a href="../About/cookies.aspx" target="_blank" >cookies</a></div>
+                    <p><b><span class="gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/legal-notice_en" target="_blank" >Disclaimer</a></span></b><br />
+                    While we try everything to ensure accuracy, this information is purely indicative and should not be used for any decision making without alternate sources of information. 
+                    <br />The JRC is not responsible for any damage or loss resulting from the use of the information presented on this website.
+                    <br />The designations employed and the presentation of material on the map do not imply the expression of any opinion whatsoever on the part of the European Union concerning the legal status of any country, territory or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+                    </p>
+                </div>
+                <div id="footer_logo" class="d-none d-lg-block col-lg-12">
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ec.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ocha.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unitar.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unosat.png" width="90" height="70"  alt=""/></div>
+                </div>
+	        </div>
+                                
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    $(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#meteorological").remove();
+            $("#secondary_cyclone_source").remove();
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+    });
+
+    $(window).resize(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#nopadding").addClass('container').removeClass('container-fluid');
+            $("#tab_responsive").removeClass('table table-responsive');
+            $("#cities").removeClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '15px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+        if (window.innerWidth < 768) {
+            $("#legend").remove();
+            $("#meteorological").remove();
+            $("#alert_sources_minitabs").after("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 0px;\"><div class=\"sources_\"> <p class=\"p_summary\" style=\"padding-left: 0px;\"><p class=\"col-lg-4\" style=\"color: #6d9baf;text-decoration: none;font-weight: bold;\">Meteorological source</p>:</p><br/><br/></div>" +
+                "<br/><div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><br/><br/><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#meteorological").remove();
+            $("#section1").before("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 15px;\"><div class=\"sources_\"> <p class=\"p_summary\"><a href=\"*\">Meteorological source</a>:</p></div>" +
+                "<div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+        }
+
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+            $("#labelRainDate").attr("style", "width: 440px;float: left;text-align: center;font-weight: bold;");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+
+        }
+
+
+    });
+
+</script>
+
+<!--
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-298127-1");
+pageTracker._setDomainName(".gdacs.org");
+pageTracker._setLocalRemoteServerMode();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+-->
+</body>
+</html>
