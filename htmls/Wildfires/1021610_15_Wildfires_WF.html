@@ -1,0 +1,1542 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Overall Green Forest fire alert  in Bolivia from 20 Aug 2024 00:00 UTC to 24 Aug 2024 00:00 UTC
+</title><link href="../Content/bootstrap.min.css" rel="stylesheet" /><link href="../Styles/gdacs_2.0.css" rel="stylesheet" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" media="(min-width: 768px) and (max-width: 991px)" href="../Styles/gdacs_device_2.0.css" /><link rel="stylesheet" media="(max-width: 768px)" href="../Styles/gdacs_minidevice_2.0.css" />
+    <script src="https://webtools.europa.eu/load.js" type="text/javascript"></script>
+    <script type="application/json">
+    {
+        "utility":"analytics",
+        "siteID":"770a3ada-ebea-420b-923a-c6490acb21ab",
+        "sitePath":["www.gdacs.org"],
+        "instance":"ec",
+        "mode":"manual"
+    }
+    </script>
+	<script type="application/json">
+	{
+		"utility" : "cck",
+		"url": {
+			"en": "https://my.ec.europa.eu/cookie-policy_en",
+			"de": "https://my.ec.europa.eu/de/cookie-policy"
+		}
+	}
+	</script>
+    <script type="text/javascript" src="/Scripts/jquery-3.6.4.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="/Scripts/Alertlevels/DetailedTable.js"></script>
+<!--    <script type="text/javascript" src="/Scripts/adaptivecard/InformCard.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards/dist/adaptivecards.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptive-expressions@4.12.0/lib/browser.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/adaptivecards-templating/dist/adaptivecards-templating.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
+-->
+    
+    <link rel="stylesheet" href="../scripts/openlayers/3.20.1/ol.css" type="text/css" />
+    <link rel="stylesheet" href="../scripts/openlayers/layerswitcher/ol3-layerswitcher.css" />
+    <link rel="stylesheet" href="../Styles/gdacs_mapstyle.css" />
+    <link rel="stylesheet" href="../Content/themes/base/jquery-ui.min.css"  />
+    <link rel="stylesheet" href="../Content/all.css" />
+        <link rel="stylesheet" href="../Styles/timeline_style.css"  />
+    <script type="text/javascript" src="../scripts/openlayers/3.20.1/ol.js"></script>
+    <script type="text/javascript" src="../scripts/openlayers/layerswitcher/ol3-layerswitcher.js"></script>
+    <script type="text/javascript" src="../Scripts/jquery-ui-1.13.2.min.js"></script>
+    <script type="text/javascript" src="../Scripts/highcharts/6.1.3/highcharts.js"></script>
+    <script type="text/javascript" src="../Scripts/Report/highcharts_graph.js"></script>
+  <style type="text/css">
+      .popover {
+          border: 1px solid black;
+          max-width: none;
+      }
+  </style>
+
+
+
+   <style type="text/css">
+        .navbar-header{color: #9bc1ce; background-color:#69A7C3; }
+        .navbar-footer{color: #9bc1ce; background-color:transparent;border:none; border-bottom:none;border-color:transparent; }
+        .navbar-report{color: #6d9baf; border-bottom:1px solid; border-color:#6d9baf;min-height: 40px;margin-bottom:15px}
+        .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{color: #ffffff; text-decoration: underline;}
+        .navbar-light .navbar-nav .nav-link{color:#c5d5d8}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {background-color:transparent;text-decoration:underline;color:white;}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .activereport > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.activereport {background-color:transparent;text-decoration:underline;color:#125172;margin: 0px 20px 0 15px}
+        .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .report-link> .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.report-link {color: #6d9baf;margin: 0px 20px 0 15px}
+        .report-link {color: #6d9baf;}
+        #footer_home {background-color:#125172;}
+       /*.device-toggler.navbar-toggler .navbar-toggler-icon {
+             background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(75, 255, 0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+        }
+
+    .device-toggler.navbar-toggler {
+      border-color: rgb(75, 255, 0);
+    }
+
+    .device-toggler.navbar-toggler:focus {
+      outline-color: rgb(75, 255, 0);
+    }*/
+    </style>
+    <link href="../Styles/gdacs_2.0_bootstrap4to5.css" rel="stylesheet" />
+	<script type ="text/javascript">
+        $(function () {
+            $('table.generic tr.main_tit').data("current", "main_tit");
+            $('table.generic tr.main_tit').on('click', function () {
+                changeColor(this);
+            });
+        });
+        function changeColor(x) {
+            var _current = $(x).data("current");
+            if (_current == "main_tit") {
+                $(x).data('current', 'main_tit_highlighted');
+                $(".main_tit").css("background-color", "#083c53");
+                $(".generic").css("color", "#000000");
+            }
+            else {
+                $(x).data('current', 'main_tit');
+                $(".main_tit").css("background-color", "#a3b8c1");
+                $(".generic").css("color", "#666666");
+            }
+        }
+
+    </script>
+            
+<!-- Piwik 
+   <script type="text/javascript">
+       if ($wt.cookie.consent.is.choiceMade() && $wt.cookie.consent.is.allAccepted()) {
+           var _paq = _paq || [];
+           /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+           _paq.push(['trackPageView']);
+           _paq.push(['enableLinkTracking']);
+           (function () {
+               var u = "//stats.jrc.ec.europa.eu/";
+               _paq.push(['setTrackerUrl', u + 'piwik.php']);
+               _paq.push(['setSiteId', '319']);
+               var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+               g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore(g, s);
+           })();
+       }
+   </script>
+ End Piwik Code -->
+</head>
+<body>
+    <div id="wrapper_anniversary">
+            
+            <div id="header" class="container-fluid">
+            <div id="top_menu">
+                <style>
+                    @media screen (min-width: 992px) {#main_alert_content .navbar-expand-lg {height:40px;}}
+                </style>
+                <div class="container">
+                    <div class="float-end gdacs_top_menu_content"><a href="../admin" target="_blank">admin</a></div>
+                    <div class="float-end gdacs_top_menu_content"><a href="../gdacsregister" target="_blank">register/login</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/contactus.aspx" >contact us</a></div>
+                    <div class="float-end gdacs_top_menu_content" ><a href="../About/termofuse.aspx" >term of use</a></div>
+                </div>
+            </div>
+            <div id="heading" class="container">
+                <div id="rowhead" class="row">
+                    <div id="gd_logo" class="col-lg-3 gdacs_logo">
+						<img id="gdacs_logo_image" src="../images/gdacs_logo_ecs_medium3.png" />
+					</div>
+                    <div id="gd_statement" class="col-lg-6 gdacs_statement d-none d-lg-block"> GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters.</div>
+                    <div id="gd_uneu" class="col-lg-3 gdacs_uneu d-none d-lg-block">
+						<img src="../images/un_eu.png" />
+					</div>
+                </div>
+            </div>
+            
+        </div>
+        <div id="nopadding" class="container">
+            
+            <div id="topmenu" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-header navbar-fixed-top">
+
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="https://www.gdacs.org/Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>                      
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT</a>
+                    </div>
+                  </div>
+                                                <a class="nav-item nav-link" href="https://www.gdacs.org/anniversary.aspx" style="padding: 0 0 0 0">
+                                <img src="../images/gdacs_20th/gdacs_20_banner.png" alt="Gdacs 20th Anniversary" />
+                            </a>
+                </nav>
+            </div>
+            
+            <div class="row">
+                <div class="report_title col-lg-12" style="margin-left: 15px;">
+                    <span id="ctl00_masterReportTitle"><div id="alert_WF_Green_title_big" ><div class="alert_title">Forest Fire (19805 ha)   in Bolivia 20 Aug 2024</div></div></span>
+                </div>
+            </div>
+            
+            <div id="" class="">
+                <div class="row alert_contents_menu">
+                    <div class="col-lg-12">
+                        <nav id="#eventMenu" class="navbar navbar-expand-lg navbar-light navbar-report">
+                            <button class="navbar-toggler" style="font-size:16px; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavReport" aria-controls="navbarNavReport" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                                DETAILS
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarNavReport">
+                                <ul class="navbar-nav">
+                                    <li class="nav item report-link"><a class="nav-link " href="/report.aspx?eventid=1021610&episodeid=15&eventtype=WF">Summary</a></li><li class="nav item activereport"><a class="nav-link " href="/Wildfires/report.aspx?eventtype=WF&eventid=1021610&episodeid=15">Impact</a></li><li class="nav item report-link"><a class="nav-link " href="/media.aspx?eventid=1021610&episodeid=15&eventtype=WF">Media</a></li><li class="nav item report-link"><a class="nav-link " href="/resources.aspx?eventid=1021610&episodeid=15&eventtype=WF">Resources</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        
+
+
+                    </div>
+                </div>
+                <form name="aspnetForm" method="post" action="./report.aspx?eventid=1021610&amp;episodeid=15&amp;eventtype=WF" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BCDF09D9" />
+                    
+    <div class="row alert_contents_first">
+        <div class="col-lg-12">
+            <div class="row section_report">
+                
+                <div class="col-lg-6">
+                    <div id="alert_summary_left"><h2>Event summary</h2>
+                    <p class="p_summary">This forest fire is expected to have a <b>low</b> humanitarian impact based on the magnitude and the affected population and their vulnerability.</p><table class="summary"><tr><td>GDACS ID </td><td class="cell_value_summary">WF 1021610</td></tr><tr><td>Countries: </td><td class="cell_value_summary">Bolivia</td></tr><tr><td>Start Date - Last detection*: </td><td class="cell_value_summary">20 Aug 2024  - 24 Aug 2024 </td></tr><tr><td>Duration (days): </td><td class="cell_value_summary">4</td></tr><tr><td>People affected: </td><td class="cell_value_summary">1 in the burned area</td></tr><tr><td>Burned area: </td><td class="cell_value_summary">19805 ha</td></tr><tr><td>More Info: </td><td class="cell_value_summary"><a href="https://gwis.jrc.ec.europa.eu/apps/gwis_current_situation/index.html" target="_blank">Global Wildfire Information System</a></td></tr></table><p class='p_summary' style='font-size:12px'>*(Last detection of the thermal anomaly of the fire)</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div id="alertbar">
+                        <h2>GDACS Score</h2>
+                        <!--<iframe src="https://www.gdacs.org/alerting/alertbar.aspx?score=0.5" width="100%" height="120" scrolling="no" frameBorder="0"></iframe>-->
+                        <div id="alertscorebar" class="scorebar"></div>
+                        <div class="map_half_caption">
+           	            For more info on GDACS alert score click <a href="../Knowledge/models_vo.aspx" target="_blank">here</a>. 
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row section_report">
+                <div id="mapcol1" class="col-lg-12">
+                    <div id="map" class="main_report_map">
+                    </div>
+                    <div id="popup" class="ol-popup">
+                        <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+                        <div id="popup-content"></div>
+                    </div>
+                    <br />
+                    <div class="col-lg-12 row">
+                        <div id="map_report_caption" class="col-lg-10">
+                            Detailed event map. European Union, 2024. Map produced by EC-JRC.
+                            <br />
+                            The boundaries and the names shown on this map do not imply official endorsement or acceptance by the European Union.
+                        </div>
+                      <div class="col-lg-2" style="margin-top: 15px; text-align: center;">
+
+                          <button id="btnComposite" type="button" class="btn btn-outline-info btn-overall float-right" onclick="setComposite()">Composite</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <br />
+        <section class="cd-horizontal-timeline">
+<div class="timeline">
+	<div class="events-wrapper">
+		<div class="events" style="width: 100%">
+            <a href="#0" id="1" class="itemdate" data-date="21/08/2024 23:00" data-oid="1">21 Aug 23:00</a><a href="#0" id="2" class="itemdate" data-date="22/08/2024 03:00" data-oid="2">22 Aug 03:00</a><a href="#0" id="3" class="itemdate" data-date="22/08/2024 07:00" data-oid="3">22 Aug 07:00</a><a href="#0" id="4" class="itemdate" data-date="22/08/2024 15:01" data-oid="4">22 Aug 15:01</a><a href="#0" id="5" class="itemdate" data-date="22/08/2024 19:02" data-oid="5">22 Aug 19:02</a><a href="#0" id="6" class="itemdate" data-date="22/08/2024 23:02" data-oid="6">22 Aug 23:02</a><a href="#0" id="7" class="itemdate" data-date="23/08/2024 03:02" data-oid="7">23 Aug 03:02</a><a href="#0" id="8" class="itemdate" data-date="23/08/2024 07:02" data-oid="8">23 Aug 07:02</a><a href="#0" id="9" class="itemdate" data-date="23/08/2024 15:03" data-oid="9">23 Aug 15:03</a><a href="#0" id="10" class="itemdate" data-date="23/08/2024 19:05" data-oid="10">23 Aug 19:05</a><a href="#0" id="11" class="itemdate" data-date="23/08/2024 23:05" data-oid="11">23 Aug 23:05</a><a href="#0" id="12" class="itemdate" data-date="24/08/2024 03:05" data-oid="12">24 Aug 03:05</a><a href="#0" id="13" class="itemdate" data-date="24/08/2024 07:05" data-oid="13">24 Aug 07:05</a><a href="#0" id="14" class="itemdate" data-date="24/08/2024 15:07" data-oid="14">24 Aug 15:07</a><a href="#0" id="15" class="itemdate selected" data-date="24/08/2024 19:08" data-oid="15">24 Aug 19:08</a>
+            <span class="filling-line" aria-hidden="true"></span>
+		</div> <!-- .events -->
+	</div> <!-- .events-wrapper -->
+			
+	<div id="WildFires" class="cd-timeline-navigation">
+		<a href="#0" class="prev inactive">Prev</a>
+		<a href="#0" class="next">Next</a>
+	</div> <!-- .cd-timeline-navigation -->
+</div> <!-- .timeline -->
+</section>
+            <br />
+            <div class="row">
+                <div id="contentNews" class="col-lg-12" >
+                    <h2>Impact Timeline</h2>
+                            <div>
+	<table class="generic" cellspacing="0" rules="all" border="1" id="ctl00_CPH_GridViewEpisodes" width="100%">
+		<tr class="main_tit">
+			<th scope="col">ID</th><th scope="col">Alert color</th><th scope="col">GDACS Score</th><th scope="col">Population Affected</th><th scope="col">Burned Area (ha)</th><th scope="col">Last Update</th><th scope="col">Source</th>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl02_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=1"><span id="ctl00_CPH_GridViewEpisodes_ctl02_labelEpisode">1</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl02_labelImageAlertColor"><img class="popalert" id="1" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl02_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl02_lpopaffected">0</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl02_lareaha">5579</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl02_lepisodeUpdateDate">21 Aug 2024 22:00</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl03_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=2"><span id="ctl00_CPH_GridViewEpisodes_ctl03_labelEpisode">2</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl03_labelImageAlertColor"><img class="popalert" id="2" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl03_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl03_lpopaffected">0</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl03_lareaha">5799</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl03_lepisodeUpdateDate">22 Aug 2024 02:01</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl04_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=3"><span id="ctl00_CPH_GridViewEpisodes_ctl04_labelEpisode">3</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl04_labelImageAlertColor"><img class="popalert" id="3" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl04_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl04_lpopaffected">0</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl04_lareaha">6029</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl04_lepisodeUpdateDate">22 Aug 2024 06:01</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl05_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=4"><span id="ctl00_CPH_GridViewEpisodes_ctl05_labelEpisode">4</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl05_labelImageAlertColor"><img class="popalert" id="4" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl05_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl05_lpopaffected">0</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl05_lareaha">7464</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl05_lepisodeUpdateDate">22 Aug 2024 14:01</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl06_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=5"><span id="ctl00_CPH_GridViewEpisodes_ctl06_labelEpisode">5</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl06_labelImageAlertColor"><img class="popalert" id="5" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl06_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl06_lpopaffected">0</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl06_lareaha">7456</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl06_lepisodeUpdateDate">22 Aug 2024 18:00</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl07_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=6"><span id="ctl00_CPH_GridViewEpisodes_ctl07_labelEpisode">6</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl07_labelImageAlertColor"><img class="popalert" id="6" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl07_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl07_lpopaffected">0</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl07_lareaha">8014</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl07_lepisodeUpdateDate">22 Aug 2024 22:00</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl08_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=7"><span id="ctl00_CPH_GridViewEpisodes_ctl08_labelEpisode">7</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl08_labelImageAlertColor"><img class="popalert" id="7" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl08_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl08_lpopaffected">1</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl08_lareaha">8335</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl08_lepisodeUpdateDate">23 Aug 2024 02:01</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl09_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=8"><span id="ctl00_CPH_GridViewEpisodes_ctl09_labelEpisode">8</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl09_labelImageAlertColor"><img class="popalert" id="8" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl09_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl09_lpopaffected">1</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl09_lareaha">8592</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl09_lepisodeUpdateDate">23 Aug 2024 06:00</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl10_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=9"><span id="ctl00_CPH_GridViewEpisodes_ctl10_labelEpisode">9</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl10_labelImageAlertColor"><img class="popalert" id="9" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl10_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl10_lpopaffected">1</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl10_lareaha">9081</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl10_lepisodeUpdateDate">23 Aug 2024 14:00</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl11_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=10"><span id="ctl00_CPH_GridViewEpisodes_ctl11_labelEpisode">10</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl11_labelImageAlertColor"><img class="popalert" id="10" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl11_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl11_lpopaffected">0</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl11_lareaha">9147</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl11_lepisodeUpdateDate">23 Aug 2024 18:00</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl12_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=11"><span id="ctl00_CPH_GridViewEpisodes_ctl12_labelEpisode">11</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl12_labelImageAlertColor"><img class="popalert" id="11" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl12_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl12_lpopaffected">1</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl12_lareaha">9576</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl12_lepisodeUpdateDate">23 Aug 2024 22:01</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl13_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=12"><span id="ctl00_CPH_GridViewEpisodes_ctl13_labelEpisode">12</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl13_labelImageAlertColor"><img class="popalert" id="12" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl13_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl13_lpopaffected">1</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl13_lareaha">9664</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl13_lepisodeUpdateDate">24 Aug 2024 02:01</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl14_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=13"><span id="ctl00_CPH_GridViewEpisodes_ctl14_labelEpisode">13</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl14_labelImageAlertColor"><img class="popalert" id="13" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl14_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl14_lpopaffected">1</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl14_lareaha">10160</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl14_lepisodeUpdateDate">24 Aug 2024 06:01</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl15_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=14"><span id="ctl00_CPH_GridViewEpisodes_ctl15_labelEpisode">14</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl15_labelImageAlertColor"><img class="popalert" id="14" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl15_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl15_lpopaffected">19</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl15_lareaha">19095</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl15_lepisodeUpdateDate">24 Aug 2024 14:01</span>
+                                        </td><td>GWIS</td>
+		</tr><tr>
+			<td>
+                                            <a id="ctl00_CPH_GridViewEpisodes_ctl16_hyperLinkEpisode" href="https://www.gdacs.org/Wildfires/report.aspx?eventtype=WF&amp;eventid=1021610&amp;episodeid=15"><span id="ctl00_CPH_GridViewEpisodes_ctl16_labelEpisode">15</span></a>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl16_labelImageAlertColor"><img class="popalert" id="15" src='https://www.gdacs.org/images/gdacs_icons/alerts/Green/WF.png' width='30' style='margin:4px;' align='center' /></span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl16_lalertscore">0.5</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl16_lpopaffected">1</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl16_lareaha">19805</span>
+                                        </td><td>
+                                            <span id="ctl00_CPH_GridViewEpisodes_ctl16_lepisodeUpdateDate">24 Aug 2024 18:01</span>
+                                        </td><td>GWIS</td>
+		</tr>
+	</table>
+</div>            
+                </div>
+            </div>
+            <br />
+            <div id="sectionJoined" class="row">
+                <div class="col-lg-12">
+                    <h2>Fires Joined</h2>
+                    
+                    <div id="gwisidlist" class="p_summary">This event includes other close identified fires:<br /></div>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-12">
+                        <h2>Exposed population</h2>
+		                    <div style="width:100%">
+                            <p class=" p_summary">
+      The forest fire happened in <b>Bolivia</b>
+        ,
+        Department of
+        <b>El Beni</b>
+          (population 264,208)
+        .
+      </p>
+                            </div>
+                        <div class="row">
+                            <div id="contentPager" class="col-lg-6">
+                                <div id="containerPopGraph" style="width:100%;height:320px">
+                                </div>
+                            </div>
+                        
+                            <div id="contentGraph" class="col-lg-6">
+                                <br />
+                                <div id ="graph_eq">
+                                    <br />
+                                     <table class="generic">
+  <tr>
+    <td>
+      <table class="generic">
+        <tr class="main_tit">
+          <th>Radius</th>
+          <th>Population</th>
+        </tr>
+        <tr>
+          <th>10 km</th>
+          <td>
+        &lt;1000 people
+      </td>
+        </tr>
+        <tr>
+          <th>5 km</th>
+          <td>
+        &lt;1000 people
+      </td>
+        </tr>
+        <tr>
+          <th>2 km</th>
+          <td>
+        &lt;1000 people
+      </td>
+        </tr>
+        <tr>
+          <th>1 km</th>
+          <td>
+        &lt;1000 people
+      </td>
+        </tr>
+        <tr>
+          <th>Burned Area</th>
+          <td>
+        &lt;1000 people
+      </td>
+        </tr>
+      </table><br></td>
+  </tr>
+</table>
+                                </div>
+                            </div>
+                            
+                        </div>
+
+
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div id="contentAdmin" class="col-lg-12">
+                    <h2>Affected Provinces</h2>
+                    <div id="provinces">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Region Province</th>
+      <th>Country</th>
+      <th>Population</th>
+    </tr>
+    <tr>
+      <td>El Beni</td>
+      <td>Bolivia</td>
+      <td>260000 people
+      </td>
+    </tr>
+  </table>
+</div>
+                    <h2>Affected populated places</h2><div id="cities"></div><p class="p_summary">see full <a href="/show.aspx?type=places&xmltype=asgard_admin_places&xmloid=622937&pname=eventtype|limit|showscroll|mode|&pvalue=EQ|||cities|true" target="_blank">list</a></p>
+                    <h2>Critical infrastructure</h2>
+                    <p class ="p_summary">Airports, ports, nuclear plants and hydrodams at risk, if affected, are listed below.</p>
+                    <h3>Airports</h3><div id="airports">
+  <table class="generic">
+    <tr class="main_tit">
+      <th>Name</th>
+      <th>IATA Code</th>
+      <th>Elevation (m)</th>
+      <th>Usage</th>
+      <th>Runway type</th>
+      <th>IFR</th>
+      <th>Runway Length (ft)</th>
+      <th>Distance</th>
+    </tr>
+    <tr>
+      <td>San Ramon</td>
+      <td><a href="http://www.theairdb.com/airport/SRD.html">SRD</a></td>
+      <td>140</td>
+      <td>Civ.</td>
+      <td>Unpaved</td>
+      <td>No</td>
+      <td>4900</td>
+      <td>34 km
+			</td>
+    </tr>
+    <tr>
+      <td>Magdalena</td>
+      <td><a href="http://www.theairdb.com/airport/MGD.html">MGD</a></td>
+      <td>141</td>
+      <td>Civ.</td>
+      <td>Unpaved</td>
+      <td>Yes</td>
+      <td>4500</td>
+      <td>38 km
+			</td>
+    </tr>
+    <tr>
+      <td>San Joaquin</td>
+      <td><a href="http://www.theairdb.com/airport/SJB.html">SJB</a></td>
+      <td>140</td>
+      <td>Civ.</td>
+      <td>Unpaved</td>
+      <td>No</td>
+      <td>6500</td>
+      <td>44 km
+			</td>
+    </tr>
+    <tr>
+      <td>Huacaraje</td>
+      <td><a href="http://www.theairdb.com/airport/BVK.html">BVK</a></td>
+      <td>
+        unknown
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+      <td>73 km
+			</td>
+    </tr>
+    <tr>
+      <td>Baures</td>
+      <td><a href="http://www.theairdb.com/airport/BVL.html">BVL</a></td>
+      <td>
+        unknown
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>0</td>
+      <td>92 km
+			</td>
+    </tr>
+    <tr>
+      <td>Forte Principe da Beira</td>
+      <td><a href="http://www.theairdb.com/airport/.html"></a></td>
+      <td>180</td>
+      <td>Mil.</td>
+      <td>Unpaved</td>
+      <td>No</td>
+      <td>5900</td>
+      <td>104 km
+			</td>
+    </tr>
+    <tr>
+      <td>Costa Marques 2</td>
+      <td><a href="http://www.theairdb.com/airport/CQS.html">CQS</a></td>
+      <td>169</td>
+      <td>Civ.</td>
+      <td>Paved</td>
+      <td>No</td>
+      <td>4900</td>
+      <td>105 km
+			</td>
+    </tr>
+  </table>
+</div><h3>Ports</h3><div id="ports"></div><h3>Dams</h3><div id="dams"></div><h3>Nuclear plants</h3><div id="nuclear"></div>
+                </div>
+        
+            </div>
+            <div class="row">
+                <div id="contentResources" class="col-lg-12">
+                    <h2>More information</h2>
+                    <p class="p_summary">For a full list of available products related to this event, please refer to the <a href="../resources.aspx?eventtype=WF&eventid=1021610&episodeid=15">GDACS Resources page</a>.</p>
+                    <div id="popContent" style="display:none"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var baseURL ='https://www.gdacs.org/';
+        var reportImagePop ='';
+        var reportShowAlertBar = true;
+        var stepIndex = 5;
+        //var scatterData = [];
+        var jPopData = [{y:252, color:'#125172', label:'        <1000 people      '},{y:138, color:'#125172', label:'        <1000 people      '},{y:50, color:'#125172', label:'        <1000 people      '},{y:25, color:'#125172', label:'        <1000 people      '},{y:1, color:'#125172', label:'        <1000 people      '}];
+        var jPopLegend = ['10 km','5 km','2 km','1 km','Burned Area'];
+        var reportAlertscore = 0.5;
+        var firesList = [];
+        var reportFromDate = '2024-08-20 00:00:00';
+        var reportToDate = '2024-08-24 00:00:00';
+        var reportEventtype = 'WF';
+        var reportLayerToShow = 'IMAGE';
+
+        var reportHasMaps = false;
+        var reportHasSat = '';
+        var reportShowGFDS = '';
+        var reportShowRain = '';
+        var reportShowCloud = '';
+        var reportShowPopDensity = true;
+        var reportShowSectionDescription = '';
+
+        var reportCloudTemplate = '';
+        var reportRainTemplate = '';
+        var reportGFDSTemplate = '';
+        var reportModisTemplate = '';
+        var reportShakeLayer = '';
+        var reportJsonLayerPopulation = '';
+        var reportWMSRDRI = '';
+        var reportWMSCloud = '';
+        var reportWMSRain = '';
+        var reportWMSPopDensity = 'https://arcgis.jrc.ec.europa.eu/server/rest/services/ecml/ghs_pop_e2015_r2019a_4326_9ss/MapServer';
+        var reportJsonLayer = 'https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1021610&episodeid=15';
+        var reportJsonLayerOverAll = 'https://www.gdacs.org/gdacsapi/api/polygons/getgeometry?eventtype=WF&eventid=1021610&episodeid=15&source=OverAll';
+        var reportJsonNppLayer = '';
+        var reportLat = -13.361500332020521;
+        var reportLon = -64.398789374789246;
+        var reportZoomLevel = 11;
+        var arraydataWF = {"type":"FeatureCollection","features":[]};
+        var arraydataWidlfire = {"type":"FeatureCollection","features":[]};
+
+
+        var jLandData = [];
+        var jLandLegend = [];
+        var jLandSection = [false];
+
+        var countDateSlot = 0;
+        var countTimelineSlot = 0;
+        var currentPosition = 0;
+        var timelineTotWidth;
+
+        var reportJsonLayerGFM_Observed = '';
+        var reportFloodsTemplate = '';
+        var reportGFMTemplate = '';
+        var reportOverallGFM = '';
+
+        var arrayPopover = [{ "key": "0", "value": "" }];
+
+        //Function to hid/show the table line
+        function assignStyleLines(idSection) {
+            var rowCount = $(idSection + ' tr').length;
+            $(idSection + ' tr').each(function (index) {
+                if (index > 0)
+                    $(this).css("display", "none");
+            });
+            $(idSection + ' tr').slice(1, stepIndex + 1).slideDown();
+
+        }
+
+        function showRows(idSection) {
+            var vis = $(idSection + ' tr:hidden').last().index();
+            $(idSection + ' tr:hidden').slice(0, stepIndex).slideDown();
+        }
+
+        function hideRows(idSection) {
+            var vis = $(idSection + ' tr:hidden').first().index();
+            if (vis < 0)
+                vis = $(idSection + ' tr').length;
+            if ((vis - stepIndex) > 6)
+                $(idSection + ' tr').slice(vis - stepIndex, vis + 1).slideUp();
+            else
+                $(idSection + ' tr').slice(stepIndex + 1, vis + 1).slideUp();
+        }
+
+        function buildDetailAlert(layerDetail, episodeId) {
+
+
+            $.ajax({ type: "GET", url: layerDetail }).done(function (data) {
+                var items = [];
+                var empty = true;
+                items.push("<table class=\"generic_detail\">");
+                items.push("<tr class=\"main_tit_detail\">");
+                items.push("<td class=\"cell_detail_center\">Reference</td>");
+                items.push("<td class=\"cell_detail_center\">ID</td>");
+                items.push("<td class=\"cell_detail_center\">Level</td>");
+                items.push("<td class=\"cell_detail_center\">Score</td>");
+                items.push("<td class=\"cell_detail_center\">Type</td>");
+                items.push("<td class=\"cell_detail_center\">Date</td>");
+                items.push("<td class=\"cell_detail_center\">Pop 100Km<br/>or MMI9-7</td>");
+                items.push("<td class=\"cell_detail_center\">Pop 20Km<br/>or Max MMI</td>");
+                items.push("<td class=\"cell_detail_center\">MaxHeight(m)</td>");
+                items.push("</tr>");
+
+                if (data.features.length > 0) {
+                    $.each(data.features, function (key, val) {
+                        items.push("<tr>");
+                        if (val.properties["type"] == "EP") {
+                            items.push("<td class=\"cell_detail_left\">" + val.properties["reference"] + "</td>");
+                        }
+                        else {
+                            items.push("<td class=\"cell_detail_left\">&nbsp;&nbsp;&nbsp;&nbsp;" + val.properties["reference"] + "</td>");
+
+                        }
+                        items.push("<td class=\"cell_detail_right\">&nbsp;&nbsp;" + val.properties["id"] + "&nbsp;&nbsp;</td>");
+                        items.push("<td class=\"cell_detail_center\">&nbsp;&nbsp;" + val.properties["alertlevel"] + "&nbsp;&nbsp;</td>");
+                        items.push("<td class=\"cell_detail_right\">&nbsp;&nbsp;" + val.properties["alertscore"] + "&nbsp;&nbsp;</td>");
+                        items.push("<td>&nbsp;&nbsp;" + val.properties["alerttype"] + "&nbsp;&nbsp;</td>");
+                        items.push("<td>&nbsp;&nbsp;" + val.properties["alertdate"] + "&nbsp;&nbsp;</td>");
+                        items.push("<td class=\"cell_detail_right\">&nbsp;&nbsp;" + val.properties["pop100MMI7"] + "&nbsp;&nbsp;</td>");
+                        items.push("<td class=\"cell_detail_right\">&nbsp;&nbsp;" + val.properties["pop20MaxMMI"] + "&nbsp;&nbsp;</td>");
+                        items.push("<td class=\"cell_detail_right\">&nbsp;&nbsp;" + val.properties["maxheight"] + "&nbsp;&nbsp;</td>");
+                        items.push("</tr>");
+
+                    });
+                }
+                else {
+                    items.push("<tr>");
+                    items.push("<td colspan=\"5\">No events found</td>");
+                    items.push("</tr>");
+                }
+
+                items.push("</table>");
+
+                arrayPopover.push({ "key": episodeId, "value": items.join("") });
+            });//.always(function () { alert('20cm'); });
+
+        }
+
+        $(function () {
+            if (reportImagePop != "") {
+                $('#imageStatic').html('<img id="imgPop" width="100%" padding-top:"15px" src="' + reportImagePop + '" />');
+            }
+            if (!reportShowAlertBar) {
+                $("#alertbar").remove();
+            }
+            if (firesList.length == 0) {
+                $("#sectionJoined").remove();
+            }
+            else {
+                firesList.forEach(x => {
+                    $("#gwisidlist").append(x).append("<br/>");
+                });
+            }
+            $('.itemdate').on('click', function (e) {
+                var date = $(this).attr('data-date').substring(0, 5) + " " + $(this).attr('data-date').substring(11, 16);
+                var oid = e.currentTarget.id;
+                var mainType = "";
+                //if()
+                setPolygonVaa(e.currentTarget.dataset.date);
+
+                $(".item_gts").each(function (index, value) {
+                    var dGTS = value.innerText;
+                    var dateGTS = dGTS.substring(0, 11);
+                    if (dateGTS == date) {
+                        mainType = value.id;
+                    }
+                });
+                if (mainType != "")
+                    setvisibility(mainType);
+            });
+
+            assignStyleLines("#provinces");
+            if (stepIndex < $('#provinces tr').length) {
+                var r = $('<div class="buttonrow">' +
+                    '<div class="button_item_left"><img id="moreProvinces" src="../images/down_arrow.png"></div>' +
+                    '<div class="button_item_right"><img id="lessProvinces" src="../images/up_arrow.png"></div>' +
+                    '</div>');
+
+                $("#provinces").append(r);
+                $('#moreProvinces').on('click', function () {
+                    showRows("#provinces");
+                });
+                $('#lessProvinces').on('click', function () {
+                    hideRows("#provinces");
+                })
+            }
+            assignStyleLines("#cities");
+            if (stepIndex < $('#cities tr').length) {
+                //var r= $('<input id="moreCities" type="button" value="More"/>');
+
+                var r = $('<div class="buttonrow">' +
+                    '<div  class="button_item_left"><img id="moreCities" src="../images/down_arrow.png"></div>' +
+                    '<div  class="button_item_right"><img id="lessCities" src="../images/up_arrow.png"></div>' +
+                    '</div>');
+
+                $("#cities").append(r);
+
+                //r= $('<input id="lessCities" type="button" value="Less"/>');
+                //$("#cities").append(r);
+                $('#moreCities').on('click', function () {
+                    showRows("#cities");
+                });
+                $('#lessCities').on('click', function () {
+                    hideRows("#cities");
+                })
+            }
+            assignStyleLines("#airports");
+            if (stepIndex < $('#airports tr').length) {
+                var r = $('<div class="buttonrow">' +
+                    '<div  class="button_item_left"><img id="moreAirports" src="../images/down_arrow.png"></div>' +
+                    '<div  class="button_item_right"><img id="lessAirports" src="../images/up_arrow.png"></div>' +
+                    '</div>');
+
+                $("#airports").append(r);
+                $('#moreAirports').on('click', function () {
+                    showRows("#airports");
+                });
+                $('#lessAirports').on('click', function () {
+                    hideRows("#airports");
+                })
+            }
+
+            assignStyleLines("#ports");
+            if (stepIndex < $('#ports tr').length) {
+                var r = $('<div class="buttonrow">' +
+                    '<div  class="button_item_left"><img id="morePorts" src="../images/down_arrow.png"></div>' +
+                    '<div  class="button_item_right"><img id="lessPorts" src="../images/up_arrow.png"></div>' +
+                    '</div>');
+
+                $("#ports").append(r);
+                $('#morePorts').on('click', function () {
+                    showRows("#ports");
+                });
+                $('#lessPorts').on('click', function () {
+                    hideRows("#ports");
+                })
+            }
+
+            assignStyleLines("#dams");
+            if (stepIndex < $('#dams tr').length) {
+                var r = $('<div class="buttonrow">' +
+                    '<div  class="button_item_left"><img id="moreDams" src="../images/down_arrow.png"></div>' +
+                    '<div  class="button_item_right"><img id="lessDams" src="../images/up_arrow.png"></div>' +
+                    '</div>');
+                $("#dams").append(r);
+                $('#moreDams').on('click', function () {
+                    showRows("#dams");
+                });
+                $('#lessDams').on('click', function () {
+                    hideRows("#dams");
+                })
+            }
+            assignStyleLines("#nuclear");
+            if (stepIndex < $('#nuclear tr').length) {
+                var r = $('<div class="buttonrow">' +
+                    '<div  class="button_item_left"><img id="moreNuclear" src="../images/down_arrow.png"></div>' +
+                    '<div  class="button_item_right"><img id="lessNuclear" src="../images/up_arrow.png"></div>' +
+                    '</div>');
+                $("#nuclear").append(r);
+                $('#moreNuclear').on('click', function () {
+                    showRows("#nuclear");
+                });
+                $('#lessNuclear').on('click', function () {
+                    hideRows("#nuclear");
+                })
+            }
+            // Script for score bar
+            reportAlertScoreBar("#alertscorebar", reportAlertscore);
+
+            wildfiresPopBar('containerPopGraph', 'Population near Forest Fire', jPopLegend, jPopData);
+            if(jLandData.length > 0)
+                landCoverPieCharts('containerLandCover', 'Land Cover Data of burned area (%)', jLandLegend, jLandData);
+
+        });
+
+        //Function to show OverAll Layer
+        function setComposite() {
+            var btn = document.getElementById("btnComposite");
+            if (btn.innerHTML == "Composite") {
+/*                $("#map").empty();*/
+                setVisibleWFComposite(true);
+/*                getSourceWF_Composite(true);*/
+                btn.innerHTML = "OverAll";
+            }
+            else {
+/*                $("#map").empty();*/
+                setVisibleWFComposite(false);
+/*                getSourceWF_Composite(false);*/
+                btn.innerHTML = "Composite";
+            }
+        }
+
+
+        function setPolygonVaa(date) {
+            $(".itemdate").each(function (index, value) {
+                if (value.dataset.date == date) {
+                    var oid = value.dataset.oid;
+                    currentPosition = index;
+                    setSourceWF(oid);
+
+                    if (reportJsonLayerOverAll != "")
+                        setSourceWF_Composite(oid);
+                }
+            });
+
+            var timelines = $('.cd-horizontal-timeline'),
+                eventsMinDistance = 80;
+
+            (timelines.length > 0) && initTimeline(timelines);
+
+            function initTimeline(timelines) {
+                timelines.each(function () {
+                    var timeline = $(this),
+                        timelineComponents = {};
+                    //cache timeline components 
+                    timelineComponents['timelineWrapper'] = timeline.find('.events-wrapper');
+                    timelineComponents['eventsWrapper'] = timelineComponents['timelineWrapper'].children('.events');
+                    timelineComponents['fillingLine'] = timelineComponents['eventsWrapper'].children('.filling-line');
+                    timelineComponents['timelineEvents'] = timelineComponents['eventsWrapper'].find('a');
+                    timelineComponents['timelineDates'] = parseDate2(timelineComponents['timelineEvents']);
+                    timelineComponents['eventsMinLapse'] = minLapse(timelineComponents['timelineDates']);
+                    timelineComponents['timelineNavigation'] = timeline.find('.cd-timeline-navigation');
+                    timelineComponents['eventsContent'] = timeline.children('.events-content');
+
+
+                    //assign a left postion to the single events along the timeline
+                    //setDatePosition(timelineComponents, eventsMinDistance);
+                    //assign a width to the timeline
+                    //var timelineTotWidth = setTimelineWidth(timelineComponents, eventsMinDistance);
+                    //if (timelineTotWidth < 1000)
+                    //    timelineTotWidth = 1000;
+                    //the timeline has been initialize - show it
+                    //timeline.addClass('loaded');
+                    timelineComponents['timelineEvents'].removeClass('selected');
+                    timelineComponents['timelineEvents'].eq(currentPosition).addClass('selected');
+
+                    //Set timeline position on last component
+                    updateFilling(timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents['fillingLine'], timelineTotWidth);
+                    if (currentPosition > countTimelineSlot)
+                        updateTimelinePosition('next', timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents, timelineTotWidth);
+                    else
+                        updateTimelinePosition('prev', timelineComponents['timelineEvents'].eq(currentPosition), timelineComponents, timelineTotWidth);
+
+                    countTimelineSlot = currentPosition;
+                });
+            };
+        }
+
+
+        /*        if (reportTimeForestFire == true) {*/
+        var timelines = $('.cd-horizontal-timeline'),
+            eventsMinDistance = 80;
+
+        (timelines.length > 0) && initTimeline(timelines);
+
+        function initTimeline(timelines) {
+            timelines.each(function () {
+                var timeline = $(this),
+                    timelineComponents = {};
+                //cache timeline components 
+                timelineComponents['timelineWrapper'] = timeline.find('.events-wrapper');
+                timelineComponents['eventsWrapper'] = timelineComponents['timelineWrapper'].children('.events');
+                timelineComponents['fillingLine'] = timelineComponents['eventsWrapper'].children('.filling-line');
+                timelineComponents['timelineEvents'] = timelineComponents['eventsWrapper'].find('a');
+                timelineComponents['timelineDates'] = parseDate2(timelineComponents['timelineEvents']);
+                timelineComponents['eventsMinLapse'] = minLapse(timelineComponents['timelineDates']);
+                timelineComponents['timelineNavigation'] = timeline.find('.cd-timeline-navigation');
+                timelineComponents['eventsContent'] = timeline.children('.events-content');
+
+
+                //assign a left postion to the single events along the timeline
+                setDatePosition(timelineComponents, eventsMinDistance);
+                //assign a width to the timeline
+                timelineTotWidth = setTimelineWidth(timelineComponents, eventsMinDistance);
+                //if (timelineTotWidth < 1000)
+                //    timelineTotWidth = 1000;
+                //the timeline has been initialize - show it
+                timeline.addClass('loaded');
+
+                //Set timeline position on last component
+                updateFilling(timelineComponents['timelineEvents'].eq(timelineComponents['timelineDates'].length - 1), timelineComponents['fillingLine'], timelineTotWidth);
+                updateTimelinePosition('next', timelineComponents['timelineEvents'].eq(timelineComponents['timelineDates'].length - 1), timelineComponents, timelineTotWidth);
+
+                //detect click on the next arrow
+                timelineComponents['timelineNavigation'].on('click', '.next', function (event) {
+                    event.preventDefault();
+                    updateSlide(timelineComponents, timelineTotWidth, 'next');
+                });
+                //detect click on the prev arrow
+                timelineComponents['timelineNavigation'].on('click', '.prev', function (event) {
+                    event.preventDefault();
+                    updateSlide(timelineComponents, timelineTotWidth, 'prev');
+                });
+                //detect click on the a single event - show new event content
+                timelineComponents['eventsWrapper'].on('click', 'a', function (event) {
+                    event.preventDefault();
+                    timelineComponents['timelineEvents'].removeClass('selected');
+                    $(this).addClass('selected');
+                    updateOlderEvents($(this));
+                    updateFilling($(this), timelineComponents['fillingLine'], timelineTotWidth);
+                    updateVisibleContent($(this), timelineComponents['eventsContent']);
+                });
+
+                //on swipe, show next/prev event content
+                timelineComponents['eventsContent'].on('swipeleft', function () {
+                    var mq = checkMQ();
+                    (mq == 'mobile') && showNewContent(timelineComponents, timelineTotWidth, 'next');
+                });
+                timelineComponents['eventsContent'].on('swiperight', function () {
+                    var mq = checkMQ();
+                    (mq == 'mobile') && showNewContent(timelineComponents, timelineTotWidth, 'prev');
+                });
+
+                //keyboard navigation
+                $(document).keyup(function (event) {
+                    if (event.which == '37' && elementInViewport(timeline.get(0))) {
+                        showNewContent(timelineComponents, timelineTotWidth, 'prev');
+                    } else if (event.which == '39' && elementInViewport(timeline.get(0))) {
+                        showNewContent(timelineComponents, timelineTotWidth, 'next');
+                    }
+                });
+            });
+        }
+
+        function updateSlide(timelineComponents, timelineTotWidth, string) {
+            //retrieve translateX value of timelineComponents['eventsWrapper']
+            var translateValue = getTranslateValue(timelineComponents['eventsWrapper']),
+                wrapperWidth = Number(timelineComponents['timelineWrapper'].css('width').replace('px', ''));
+            //translate the timeline to the left('next')/right('prev') 
+            (string == 'next')
+                ? translateTimeline(timelineComponents, translateValue - wrapperWidth + eventsMinDistance, wrapperWidth - timelineTotWidth)
+                : translateTimeline(timelineComponents, translateValue + wrapperWidth - eventsMinDistance);
+        }
+
+        function showNewContent(timelineComponents, timelineTotWidth, string) {
+            //go from one event to the next/previous one
+            var visibleContent = timelineComponents['eventsContent'].find('.selected'),
+                newContent = (string == 'next') ? visibleContent.next() : visibleContent.prev();
+
+            if (newContent.length > 0) { //if there's a next/prev event - show it
+                var selectedDate = timelineComponents['eventsWrapper'].find('.selected'),
+                    newEvent = (string == 'next') ? selectedDate.parent('li').next('li').children('a') : selectedDate.parent('li').prev('li').children('a');
+
+                updateFilling(newEvent, timelineComponents['fillingLine'], timelineTotWidth);
+                updateVisibleContent(newEvent, timelineComponents['eventsContent']);
+                newEvent.addClass('selected');
+                selectedDate.removeClass('selected');
+                updateOlderEvents(newEvent);
+                updateTimelinePosition(string, newEvent, timelineComponents, timelineTotWidth);
+            }
+        }
+
+        function updateTimelinePosition(string, event, timelineComponents, timelineTotWidth) {
+            //translate timeline to the left/right according to the position of the selected event
+            var eventStyle = window.getComputedStyle(event.get(0), null),
+                eventLeft = Number(eventStyle.getPropertyValue("left").replace('px', '')),
+                timelineWidth = Number(timelineComponents['timelineWrapper'].css('width').replace('px', '')),
+                timelineTotWidth = Number(timelineComponents['eventsWrapper'].css('width').replace('px', ''));
+            var timelineTranslate = getTranslateValue(timelineComponents['eventsWrapper']);
+
+            if ((string == 'next' && eventLeft > timelineWidth - timelineTranslate) || (string == 'prev' && eventLeft < - timelineTranslate)) {
+                translateTimeline(timelineComponents, - eventLeft + timelineWidth / 2, timelineWidth - timelineTotWidth);
+            }
+        }
+
+        function translateTimeline(timelineComponents, value, totWidth) {
+            var eventsWrapper = timelineComponents['eventsWrapper'].get(0);
+            value = (value > 0) ? 0 : value; //only negative translate value
+            value = (!(typeof totWidth === 'undefined') && value < totWidth) ? totWidth : value; //do not translate more than timeline width
+            setTransformValue(eventsWrapper, 'translateX', value + 'px');
+            //update navigation arrows visibility
+            (value == 0) ? timelineComponents['timelineNavigation'].find('.prev').addClass('inactive') : timelineComponents['timelineNavigation'].find('.prev').removeClass('inactive');
+            (value == totWidth) ? timelineComponents['timelineNavigation'].find('.next').addClass('inactive') : timelineComponents['timelineNavigation'].find('.next').removeClass('inactive');
+        }
+
+        function updateFilling(selectedEvent, filling, totWidth) {
+            //change .filling-line length according to the selected event
+            var eventStyle = window.getComputedStyle(selectedEvent.get(0), null),
+                eventLeft = eventStyle.getPropertyValue("left"),
+                eventWidth = eventStyle.getPropertyValue("width");
+            eventLeft = Number(eventLeft.replace('px', '')) + Number(eventWidth.replace('px', '')) / 2;
+            var scaleValue = eventLeft / totWidth;
+            setTransformValue(filling.get(0), 'scaleX', scaleValue);
+        }
+
+        function setDatePosition(timelineComponents, min) {
+            //var distance = daydiff(timelineComponents['timelineDates'][0], timelineComponents['timelineDates'][i]),
+            var distance = 0;
+            for (i = 0; i < timelineComponents['timelineDates'].length; i++) {
+                if (i == 0) {
+                    distance = 1000000,
+                        distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);;
+                    timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px');
+                }
+                else {
+                    var datediff = daydiff(timelineComponents['timelineDates'][i - 1], timelineComponents['timelineDates'][i]);
+                    if (datediff > 400000000) {
+                        distance += 8280000,
+                            distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);
+                        timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px') / 2;
+                        countDateSlot += 2;
+                    }
+                    else {
+                        distance += 4140000,
+                            distanceNorm = Math.round(distance / timelineComponents['eventsMinLapse']);
+                        timelineComponents['timelineEvents'].eq(i).css('left', distanceNorm * min + 'px') / 2;
+                        countDateSlot++;
+                    }
+
+                }
+
+            }
+        }
+
+        function setTimelineWidth(timelineComponents, width) {
+            //var timeSpan = daydiff(timelineComponents['timelineDates'][0], timelineComponents['timelineDates'][timelineComponents['timelineDates'].length - 1]),
+            var timeSpan = (countDateSlot * 4140000) - 8280000,
+                timeSpanNorm = timeSpan / timelineComponents['eventsMinLapse'],
+                timeSpanNorm = Math.round(timeSpanNorm) + 4,
+                totalWidth = timeSpanNorm * width;
+            timelineComponents['eventsWrapper'].css('width', totalWidth + 'px');
+            updateFilling(timelineComponents['timelineEvents'].eq(0), timelineComponents['fillingLine'], totalWidth);
+            return totalWidth;
+        }
+
+        function updateVisibleContent(event, eventsContent) {
+            var eventDate = event.data('date'),
+                visibleContent = eventsContent.find('.selected'),
+                selectedContent = eventsContent.find('[data-date="' + eventDate + '"]'),
+                selectedContentHeight = selectedContent.height();
+
+            if (selectedContent.index() > visibleContent.index()) {
+                var classEnetering = 'selected enter-right',
+                    classLeaving = 'leave-left';
+            } else {
+                var classEnetering = 'selected enter-left',
+                    classLeaving = 'leave-right';
+            }
+
+            selectedContent.attr('class', classEnetering);
+            visibleContent.attr('class', classLeaving).one('webkitAnimationEnd oanimationend msAnimationEnd animationend', function () {
+                visibleContent.removeClass('leave-right leave-left');
+                selectedContent.removeClass('enter-left enter-right');
+            });
+            eventsContent.css('height', selectedContentHeight + 'px');
+        }
+
+        function updateOlderEvents(event) {
+            event.parent('li').prevAll('li').children('a').addClass('older-event').end().end().nextAll('li').children('a').removeClass('older-event');
+        }
+
+        function getTranslateValue(timeline) {
+            var timelineStyle = window.getComputedStyle(timeline.get(0), null),
+                timelineTranslate = timelineStyle.getPropertyValue("-webkit-transform") ||
+                    timelineStyle.getPropertyValue("-moz-transform") ||
+                    timelineStyle.getPropertyValue("-ms-transform") ||
+                    timelineStyle.getPropertyValue("-o-transform") ||
+                    timelineStyle.getPropertyValue("transform");
+
+            if (timelineTranslate.indexOf('(') >= 0) {
+                var timelineTranslate = timelineTranslate.split('(')[1];
+                timelineTranslate = timelineTranslate.split(')')[0];
+                timelineTranslate = timelineTranslate.split(',');
+                var translateValue = timelineTranslate[4];
+            } else {
+                var translateValue = 0;
+            }
+
+            return Number(translateValue);
+        }
+
+        function setTransformValue(element, property, value) {
+            element.style["-webkit-transform"] = property + "(" + value + ")";
+            element.style["-moz-transform"] = property + "(" + value + ")";
+            element.style["-ms-transform"] = property + "(" + value + ")";
+            element.style["-o-transform"] = property + "(" + value + ")";
+            element.style["transform"] = property + "(" + value + ")";
+        }
+
+        //based on http://stackoverflow.com/questions/542938/how-do-i-get-the-number-of-days-between-two-dates-in-javascript
+        function parseDate(events) {
+            var dateArrays = [];
+            events.each(function () {
+                var dateComp = $(this).data('date').split('/'),
+                    newDate = new Date(dateComp[2], dateComp[1] - 1, dateComp[0]);
+                dateArrays.push(newDate);
+            });
+            return dateArrays;
+        }
+
+        function parseDate2(events) {
+            var dateArrays = [];
+            events.each(function () {
+                var singleDate = $(this),
+                    dateComp = singleDate.data("date").split(" ");
+                if (dateComp.length > 1) {
+                    //both DD/MM/YEAR and time are provided
+                    var dayComp = dateComp[0].split("/"),
+                        timeComp = dateComp[1].split(":");
+                } else if (dateComp[0].indexOf(":") >= 0) {
+                    //only time is provide
+                    var dayComp = ["2000", "0", "0"],
+                        timeComp = dateComp[0].split(":");
+                } else {
+                    //only DD/MM/YEAR
+                    var dayComp = dateComp[0].split("/"),
+                        timeComp = ["0", "0"];
+                }
+                var newDate = new Date(
+                    dayComp[2],
+                    dayComp[1] - 1,
+                    dayComp[0],
+                    timeComp[0],
+                    timeComp[1]
+                );
+                dateArrays.push(newDate);
+            });
+            return dateArrays;
+        }
+
+        function daydiff(first, second) {
+            return Math.round(second - first);
+        }
+
+        function minLapse(dates) {
+            //determine the minimum distance among events
+            var dateDistances = [];
+            for (i = 1; i < dates.length; i++) {
+                var distance = daydiff(dates[i - 1], dates[i]);
+                dateDistances.push(4140000);
+            }
+            return Math.min.apply(null, dateDistances);
+        }
+
+        /*
+              How to tell if a DOM element is visible in the current viewport?
+              http://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
+          */
+        function elementInViewport(el) {
+            var top = el.offsetTop;
+            var left = el.offsetLeft;
+            var width = el.offsetWidth;
+            var height = el.offsetHeight;
+
+            while (el.offsetParent) {
+                el = el.offsetParent;
+                top += el.offsetTop;
+                left += el.offsetLeft;
+            }
+
+            return (
+                top < window.pageYOffset + window.innerHeight &&
+                left < window.pageXOffset + window.innerWidth &&
+                top + height > window.pageYOffset &&
+                left + width > window.pageXOffset
+            );
+        }
+
+        function checkMQ() {
+            //check if mobile or desktop device
+            return window
+                .getComputedStyle(
+                    document.querySelector(".cd-horizontal-timeline"),
+                    "::before"
+                )
+                .getPropertyValue("content")
+                .replace(/'/g, "")
+                .replace(/"/g, "");
+        }
+/*        }*/
+
+
+    </script>
+    <script type="text/javascript" src="../Scripts/GdacsMap/reportmap.js"></script>
+
+                </form>
+            </div><!-- end main_alert_content-->
+            
+
+            <div id="footer_home" >
+                <nav class="navbar navbar-expand-lg navbar-light navbar-footer col-12">
+                  <button class="navbar-toggler" style="font-size:18px; color:white; font-weight:bold" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon" style="color:white;"></span>
+                      MENU
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNavAltMarkupFooter">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link" href="../default.aspx">HOME</a>
+                        <a class="nav-item nav-link" href="../Alerts/default.aspx">ALERTS</a>
+                        <a class="nav-item nav-link" href="http://vosocc.unocha.org">VIRTUAL OSOCC</a>
+                        <a class="nav-item nav-link" href="https://smcs.unosat.org/home" target="_blank">MAPS & SATELLITE IMAGERY</a>
+                        <a class="nav-item nav-link" href="../Knowledge/overview.aspx">KNOWLEDGE</a>
+                        <a class="nav-item nav-link" href="../About/overview.aspx">ABOUT GDACS</a>
+                    </div>
+                  </div>
+                </nav>
+                <div id="footer_disclaimer" class="col-12">
+                    <!--<div class="float-left gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/brexit-content-disclaimer" target="_blank">Brexit content disclaimer</a></div>-->
+                    <div class="float-end gdacs_bottom_menu_content" ><a href="../About/cookies.aspx" target="_blank" >cookies</a></div>
+                    <p><b><span class="gdacs_bottom_menu_content" ><a href="https://ec.europa.eu/info/legal-notice_en" target="_blank" >Disclaimer</a></span></b><br />
+                    While we try everything to ensure accuracy, this information is purely indicative and should not be used for any decision making without alternate sources of information. 
+                    <br />The JRC is not responsible for any damage or loss resulting from the use of the information presented on this website.
+                    <br />The designations employed and the presentation of material on the map do not imply the expression of any opinion whatsoever on the part of the European Union concerning the legal status of any country, territory or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+                    </p>
+                </div>
+                <div id="footer_logo" class="d-none d-lg-block col-lg-12">
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ec.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/ocha.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unitar.png" width="90" height="70"  alt=""/></div>
+                    <div class="footerlogo_item d-none d-lg-block"><img src="../images/gdacs_icons/partners/unosat.png" width="90" height="70"  alt=""/></div>
+                </div>
+	        </div>
+                                
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    $(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#meteorological").remove();
+            $("#secondary_cyclone_source").remove();
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+    });
+
+    $(window).resize(function () {
+        if (window.innerWidth < 991) {
+            $("#nopadding").addClass('container-fluid').removeClass('container');
+            $("#tab_responsive").addClass('table-responsive');
+            $("#cities").addClass('table-responsive');
+            $("#airports").addClass('table-responsive');
+            $("#dams").addClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '0px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '0px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#nopadding").addClass('container').removeClass('container-fluid');
+            $("#tab_responsive").removeClass('table table-responsive');
+            $("#cities").removeClass('table-responsive');
+            if (document.getElementById("mapcol1") != null) { (document.getElementById("mapcol1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS1") != null) { (document.getElementById("sectionImageSS1").style.paddingLeft = '15px') };
+            if (document.getElementById("sectionImageSS2") != null) { (document.getElementById("sectionImageSS2").style.paddingLeft = '15px') };
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenu") != null) { (document.getElementById("#eventMenu").style.paddingLeft = '15px') };
+            if (document.getElementById("#eventMenuDrop") != null) { (document.getElementById("#eventMenuDrop").style.paddingLeft = '0px') };
+        }
+
+        if (window.innerWidth < 768) {
+            $("#legend").remove();
+            $("#meteorological").remove();
+            $("#alert_sources_minitabs").after("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 0px;\"><div class=\"sources_\"> <p class=\"p_summary\" style=\"padding-left: 0px;\"><p class=\"col-lg-4\" style=\"color: #6d9baf;text-decoration: none;font-weight: bold;\">Meteorological source</p>:</p><br/><br/></div>" +
+                "<br/><div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><br/><br/><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+            if (document.getElementById("#alert_sources_minitabs") != null) { (document.getElementById("#alert_sources_minitabs").style.paddingLeft = '0px') };
+            if (document.getElementById("#section") != null) { (document.getElementById("#section").style.paddingLeft = '0px') };
+        }
+        else {
+            $("#meteorological").remove();
+            $("#section1").before("<div id=\"meteorological\" class=\"col-lg-12\" style=\"padding-left: 15px;\"><div class=\"sources_\"> <p class=\"p_summary\"><a href=\"*\">Meteorological source</a>:</p></div>" +
+                "<div class=\"main_cyclone_source\"><div class=\"sources_minitabs_sel\">GDACS</div><div class=\"p_summary_extrasmall\" style=\"margin-left:10px\">Impact Single TC</div>" +
+                "</div><div class=\"secondary_cyclone_source\"><div class=\"sources_minitabs_not_active\">HWRF</div><div class=\"sources_minitabs_not_active\">ECMWF</div>" +
+                "<div class=\"sources_minitabs_not_active\">GFS</div><div class=\"p_summary_extrasmall\" style=\"margin - left: 10px\">Impact all weather systems in the area</div></div></div>");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+        }
+
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+        }
+        else {
+            $("#slider_rain_container").attr("style", "width: 500px;");
+            $("#labelRainDate").attr("style", "width: 440px;float: left;text-align: center;font-weight: bold;");
+        }
+
+
+        if (window.innerWidth < 500) {
+            $("#slider_rain_container").attr("style", "width: 400px;");
+        }
+
+        if (window.innerWidth < 400) {
+            $("#slider_rain_container").attr("style", "width: 320px");
+            $("#labelRainDate").attr("style", "width: 320px;float: left;text-align: center;font-weight: bold;");
+
+        }
+
+
+    });
+
+</script>
+
+<!--
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-298127-1");
+pageTracker._setDomainName(".gdacs.org");
+pageTracker._setLocalRemoteServerMode();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+-->
+</body>
+</html>
