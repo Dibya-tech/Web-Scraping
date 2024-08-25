@@ -1,6 +1,8 @@
 '''
 Downloads all HTML files from the GDACS ALerts page with filters for idividual elements from 2023-01-01
 Takes around 30 minutes for a full run and fetches max 100 files for the event
+Change Log -
+Optimized the URLS by fetching the second TD element as there are multiple hyperlinks
 '''
 import os
 from selenium import webdriver
@@ -64,7 +66,7 @@ def links_iterator(filter,filter_tag):
     # Download HTML files to local
     urls_data = []
     links = wait.until(
-        EC.presence_of_all_elements_located((By.XPATH, '//*[@id="contentResult"]/table/tbody//a[@href]'))
+        EC.presence_of_all_elements_located((By.XPATH, '//*[@id="contentResult"]/table/tbody//td[2]/a[@href]'))
     )
 
     # Loop through the links and download the HTML content
