@@ -1,3 +1,7 @@
+'''
+Downloads all HTML files from the GDACS ALerts page with filters for idividual elements from 2023-01-01
+Takes around 30 minutes for a full run and fetches max 100 files for the event
+'''
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -18,6 +22,7 @@ chrome_options.add_argument("--incognito")
 # chrome_options.add_argument("--disable-extensions")
 
 def links_iterator(filter,filter_tag):
+    start_date = "2023-01-01"
     driver = webdriver.Chrome(chrome_options)
     # Open the GDACS website
     driver.get("https://www.gdacs.org/")
@@ -37,7 +42,7 @@ def links_iterator(filter,filter_tag):
         EC.element_to_be_clickable((By.XPATH, '//input[@id="inputDateFrom"]'))
     )
     date_field.clear()
-    date_field.send_keys("2023-01-01")
+    date_field.send_keys(start_date)
     
     # Enter filters
     check_box = wait.until(
