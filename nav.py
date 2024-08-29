@@ -20,6 +20,7 @@ from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 chrome_options = Options()
 # chrome_options.add_argument("--start-maximized")
 chrome_options.add_argument("--incognito")
+chrome_options.add_argument("--headless")
 # chrome_options.add_argument("--no-sandbox")
 # chrome_options.add_argument("--disable-extensions")
 
@@ -32,6 +33,9 @@ def links_iterator(filter,filter_tag):
     wait = WebDriverWait(driver, 10)
     alert_tab = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@class="navbar-nav"]/a[2]')))
     alert_tab.click()
+    # Click the Cookies banner
+    btn = wait.until(EC.element_to_be_clickable((By.XPATH,'//*[@id="cookie-consent-banner"]/div/div/div[2]/a[1]')))
+    btn.click()
     # driver.minimize_window()
     # Change filters to show all levels of data
     level = wait.until(
@@ -86,7 +90,7 @@ def links_iterator(filter,filter_tag):
     
 def htmlFilesDownloader(urls_data,filter):
     # Create a directory to store the HTML files
-    output_dir = f'htmls/{filter}'
+    output_dir = f'latest_htmls/{filter}'
     os.makedirs(output_dir, exist_ok=True)
     
     for sublist in urls_data:
