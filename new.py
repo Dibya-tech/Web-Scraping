@@ -3,7 +3,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 # TODO AUTHOR - Satip Bhai
 # Define the base directory containing the HTML files
-base_directory = 'D:/Web Scraping/Web-Scraping/htmls/Droughts'
+base_directory = 'D:\Web Scraping\Web-Scraping\latest_htmls\Droughts'
 
 # Define a function to parse the HTML and extract table data based on table id
 def parse_html_to_df(file_path, table_id):
@@ -34,7 +34,7 @@ def create_directory(directory):
         os.makedirs(directory)
 
 # List of table IDs to extract
-table_ids = ['ctl00_CPH_GridViewEpisodes', 'countries', 'aru']
+table_ids = ['alert_summary_left','ctl00_CPH_GridViewEpisodes', 'countries', 'aru']
 
 # Iterate over each table ID
 for table_id in table_ids:
