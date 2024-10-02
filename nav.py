@@ -4,6 +4,7 @@ Takes around 30 minutes for a full run and fetches max 100 files for the event
 Change Log -
 Optimized the URLS by fetching the second TD element as there are multiple hyperlinks
 '''
+from pathlib import Path
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -25,7 +26,7 @@ chrome_options.add_argument("--headless")
 # chrome_options.add_argument("--disable-extensions")
 
 def links_iterator(filter,filter_tag):
-    start_date = "2023-01-01"
+    start_date = "2020-01-01"
     driver = webdriver.Chrome(chrome_options)
     # Open the GDACS website
     driver.get("https://www.gdacs.org/")
@@ -41,7 +42,7 @@ def links_iterator(filter,filter_tag):
     level = wait.until(
         EC.element_to_be_clickable((By.XPATH, '//select[@id="inputAlert"]'))
     )
-    level.send_keys("All")
+    level.send_keys("Red")
 
     # Enter the date to show data after that
     date_field = wait.until(
@@ -91,12 +92,13 @@ def links_iterator(filter,filter_tag):
 def htmlFilesDownloader(urls_data,filter):
     # Create a directory to store the HTML files
     output_dir = f'latest_htmls/{filter}'
-    os.makedirs(output_dir, exist_ok=True)
+    absolute_folder_path = Path(output_dir).resolve()
+    os.makedirs(absolute_folder_path, exist_ok=True)
     
     for sublist in urls_data:
         response = urllib.request.urlopen(sublist[1])
         webContent = response.read().decode('UTF-8')
-        file_path = os.path.join(output_dir, f"{sublist[0]}.html")
+        file_path = os.path.join(absolute_folder_path, f"{sublist[0]}.html")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(webContent)
         file.close
