@@ -20,11 +20,28 @@
 
 
 # Absolute path
+# Libraries
+from pathlib import Path
+from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import pandas as pd
+import os
 
-# folder_path = "latest_htmls/Earthquakes"  # Replace with the actual folder path
-# absolute_folder_path = os.path.abspath(folder_path)
-# filenames = list_filenames(absolute_folder_path)
+def list_filenames(folder_path):
+    # Get a list of all files in the specified folder
+    filenames = os.listdir(folder_path)
+    
+    return filenames
 
-# for file in filenames:
-#     absolute_file_path = os.path.join(absolute_folder_path, file)
-#     print(f"file:///{absolute_file_path}")
+folder_path = "latest_htmls/Earthquakes" 
+absolute_folder_path = os.path.abspath(folder_path)
+filenames = list_filenames(absolute_folder_path)
+
+for i,file in enumerate(filenames,start=1):
+    absolute_file_path = os.path.join(absolute_folder_path, file)
+    print(f"{i} file:///{absolute_file_path}")
