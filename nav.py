@@ -3,6 +3,7 @@ Downloads all HTML files from the GDACS ALerts page with filters for idividual e
 Takes around 30 minutes for a full run and fetches max 100 files for the event
 Change Log -
 Optimized the URLS by fetching the second TD element as there are multiple hyperlinks
+Store all files in a same folder
 '''
 from pathlib import Path
 import os
@@ -21,7 +22,7 @@ from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 chrome_options = Options()
 # chrome_options.add_argument("--start-maximized")
 chrome_options.add_argument("--incognito")
-chrome_options.add_argument("--headless")
+# chrome_options.add_argument("--headless")
 # chrome_options.add_argument("--no-sandbox")
 # chrome_options.add_argument("--disable-extensions")
 
@@ -42,7 +43,7 @@ def links_iterator(filter,filter_tag):
     level = wait.until(
         EC.element_to_be_clickable((By.XPATH, '//select[@id="inputAlert"]'))
     )
-    level.send_keys("Red")
+    level.send_keys("All")
 
     # Enter the date to show data after that
     date_field = wait.until(
@@ -91,7 +92,8 @@ def links_iterator(filter,filter_tag):
     
 def htmlFilesDownloader(urls_data,filter):
     # Create a directory to store the HTML files
-    output_dir = f'latest_htmls/{filter}'
+    # output_dir = f'latest_htmls/{filter}'
+    output_dir = f'html_files/{filter}'
     absolute_folder_path = Path(output_dir).resolve()
     os.makedirs(absolute_folder_path, exist_ok=True)
     

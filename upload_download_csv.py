@@ -1,6 +1,5 @@
 from azure.storage.blob import BlobServiceClient
 from datetime import datetime
-import glob
 import os
 import shutil
 
