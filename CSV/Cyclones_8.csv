@@ -1,0 +1,451 @@
+Event_id,Episode,Name,LOCODE,Country
+1000667,18,Lo Hsing Ta Mao Ti,,China
+1000667,18,Fuzhou,CNFOC,China
+1000667,18,Xiuyu,,China
+1000667,18,Matsu Island,,Taiwan
+1000667,18,San Tu Ao,,China
+1000667,18,Ning Te,,China
+1000667,18,Tai Chung,,Taiwan
+1000667,18,Chin Men,,China
+1000667,18,Xiamen,CNXMN,China
+1000667,18,Taichung,TWTXG,Taiwan
+1000667,18,Zhangzhou,CNZZU,China
+1000667,18,Tan Shui,,Taiwan
+1000667,18,Zhangzhou,,China
+1000667,18,Peng Hu,,Taiwan
+1000667,18,Keelung (Chilung),TWKEL,Taiwan
+1000667,18,Ku Ao Tou,,China
+1000667,18,Jui An,,China
+1000667,18,Suao,TWSUO,Taiwan
+1000667,18,Hualien,TWHUN,Taiwan
+1000667,18,Wenzhou,CNWNZ,China
+1000667,18,An Ping Chiang,,Taiwan
+1000667,18,Tai Nan,,Taiwan
+1000667,18,Huaang Kang,,China
+1000667,18,Kan Men Chiang,,China
+1000667,18,Kaohsiung,TWKHH,Taiwan
+1000667,18,Tai Tung,,Taiwan
+1000667,18,Shantou,CNSWA,China
+1000667,18,Lan Yu Island,,Taiwan
+1000667,18,Irionote Island,,Japan
+1000667,18,Ishigaki Island,,Japan
+1000667,18,Ishigaki,,Japan
+1000667,18,Jiujiang,CNJIU,China
+1000667,18,Hirara,,Japan
+1000667,18,Kuang Chi,,China
+1000667,18,Myako Island,,Japan
+1000667,18,Basco,,Philippines
+1000667,18,Calayan,,Philippines
+1000667,18,Kume Island,,Japan
+1000667,18,Claveria,,Philippines
+1000667,18,Abulog,,Philippines
+1000667,18,Port San Vicente,,Philippines
+1000667,18,Aparri,PHAPR,Philippines
+1000673,4,Alibag,,India
+1000673,4,Murud,,India
+1000673,4,Srivardhan,,India
+1000673,4,Bankot,,India
+1000702,24,Dandong,CNDDG,China
+1000702,24,Sinuiju,,North Korea
+1000702,24,Hamhung,,North Korea
+1000702,24,Chongiu,,North Korea
+1000702,24,Bumpyo (Rempo),KPREM,North Korea
+1000702,24,Hungnam,,North Korea
+1000702,24,Heungnam,,North Korea
+1000702,24,Sinpo,,North Korea
+1000702,24,Kushan,,China
+1000702,24,Pyongyang,,North Korea
+1000702,24,Posan,,North Korea
+1000702,24,Wonsan,KPWON,North Korea
+1000702,24,Nampo,KPNAM,North Korea
+1000702,24,Kyomipo,,North Korea
+1000702,24,Namp O,,North Korea
+1000702,24,Haeju,KPHAE,North Korea
+1000702,24,Inchon,KRINC,South Korea
+1000702,24,Daesan,,South Korea
+1000702,24,Pyongtaek,KRPTK,South Korea
+1000702,24,Wei Hai,CNWEI,China
+1000702,24,Shin Tao,,China
+1000702,24,Changhang,KRCHG,South Korea
+1000702,24,Kunsan,KRKUV,South Korea
+1000702,24,Mokpo,KRMOK,South Korea
+1000702,24,Kumnyong,,South Korea
+1000702,24,Cheju,KRCHA,South Korea
+1000702,24,Sonsan Po,,South Korea
+1000702,24,Oku,,Japan
+1000702,24,Kume Island,,Japan
+1000702,24,Kin Wan,JPKIN,Japan
+1000702,24,Heianza,JPHEI,Japan
+1000702,24,Nishihara,JPNHR,Japan
+1000702,24,Nakagusuku Wan,,Japan
+1000702,24,Naha,JPNAH,Japan
+1000702,24,Hirara,,Japan
+1000702,24,Keelung (Chilung),TWKEL,Taiwan
+1000702,24,Myako Island,,Japan
+1000702,24,Ishigaki Island,,Japan
+1000702,24,Suao,TWSUO,Taiwan
+1000702,24,Ishigaki,,Japan
+1000702,24,Irionote Island,,Japan
+1000702,24,Hualien,TWHUN,Taiwan
+1000705,24,Ulsan,KRUSN,South Korea
+1000705,24,Pusan,KRPUS,South Korea
+1000705,24,Chinhai,,South Korea
+1000705,24,Masan,KRMAS,South Korea
+1000705,24,Pohang,KRKPO,South Korea
+1000705,24,Okpo,KROKP,South Korea
+1000705,24,Sasuna,,Japan
+1000705,24,Hidakatsu,,Japan
+1000705,24,Samcheon Po,,South Korea
+1000705,24,Shishimi,,Japan
+1000705,24,Yosu,KRYOS,South Korea
+1000705,24,Izuhara,JPIZH,Japan
+1000705,24,Ulchin,,South Korea
+1000705,24,Tonghae,KRTGH,South Korea
+1000705,24,Mukho,KRMUK,South Korea
+1000705,24,Goto Island,,Japan
+1000705,24,Sonsan Po,,South Korea
+1000705,24,Sokcho Hang,,South Korea
+1000705,24,Fukue,JPFUJ,Japan
+1000705,24,Tomie,,Japan
+1000705,24,Sinpo,,North Korea
+1000705,24,Chaho,,North Korea
+1000705,24,Kimchaek,,North Korea
+1000705,24,Nishihara,JPNHR,Japan
+1000705,24,Kume Island,,Japan
+1000705,24,Naha,JPNAH,Japan
+1000706,29,Kimchaek,,North Korea
+1000706,29,Chaho,,North Korea
+1000706,29,Sinpo,,North Korea
+1000706,29,Odaejin,,North Korea
+1000706,29,Chungjin,KPCHO,North Korea
+1000706,29,Heungnam,,North Korea
+1000706,29,Chongjin,KPCHO,North Korea
+1000706,29,Hamhung,,North Korea
+1000706,29,Hungnam,,North Korea
+1000706,29,Bumpyo (Rempo),KPREM,North Korea
+1000706,29,Najin,,North Korea
+1000706,29,Kosong,,North Korea
+1000706,29,Wonsan,KPWON,North Korea
+1000706,29,Unggi,,North Korea
+1000706,29,Posyet,RUPSE,Russia
+1000706,29,Sokcho Hang,,South Korea
+1000706,29,Slavyanka,RUSKA,Russia
+1000706,29,Bukhta Geka,,Russia
+1000706,29,Pyongyang,,North Korea
+1000706,29,Chongiu,,North Korea
+1000706,29,Posan,,North Korea
+1000706,29,Mukho,KRMUK,South Korea
+1000706,29,Kyomipo,,North Korea
+1000706,29,Tonghae,KRTGH,South Korea
+1000706,29,Mys Islyamova,,Russia
+1000706,29,Alekseyeva,,Russia
+1000706,29,Nampo,KPNAM,North Korea
+1000706,29,Vladivostok,RUVVO,Russia
+1000706,29,Namp O,,North Korea
+1000706,29,Bukhta Konyushkova,,Russia
+1000706,29,Sinuiju,,North Korea
+1000706,29,Bukhta Andreyeva,,Russia
+1000706,29,Dandong,CNDDG,China
+1000706,29,Bukhta Gaydamak,,Russia
+1000706,29,Seldyanaya,,Russia
+1000706,29,To Dong,,Japan
+1000706,29,Nakhodka,RUNJK,Russia
+1000706,29,Haeju,KPHAE,North Korea
+1000706,29,Inchon,KRINC,South Korea
+1000706,29,Vostochny,RUVYP,Russia
+1000706,29,Ulchin,,South Korea
+1000706,29,Bukhta Sudzukhe,,Russia
+1000706,29,Kushan,,China
+1000706,29,Daesan,,South Korea
+1000706,29,Pyongtaek,KRPTK,South Korea
+1000706,29,Bukhta Preobrazheniya,,Russia
+1000706,29,Pohang,KRKPO,South Korea
+1000706,29,Changhang,KRCHG,South Korea
+1000706,29,Kunsan,KRKUV,South Korea
+1000706,29,Ulsan,KRUSN,South Korea
+1000706,29,Masan,KRMAS,South Korea
+1000706,29,Pusan,KRPUS,South Korea
+1000706,29,Chinhai,,South Korea
+1000706,29,Oki Island,,Japan
+1000706,29,Saigo,JPOKI,Japan
+1000706,29,Okpo,KROKP,South Korea
+1000706,29,Samcheon Po,,South Korea
+1000706,29,Yosu,KRYOS,South Korea
+1000706,29,Hidakatsu,,Japan
+1000706,29,Sasuna,,Japan
+1000706,29,Matsue,JPMTE,Japan
+1000706,29,Shishimi,,Japan
+1000706,29,Sakaiminato,JPSMN,Japan
+1000706,29,Mino Island,,Japan
+1000706,29,Mokpo,KRMOK,South Korea
+1000706,29,Hamada,JPHMD,Japan
+1000706,29,Masuda,,Japan
+1000706,29,Izuhara,JPIZH,Japan
+1000706,29,Senzaki,JPSZK,Japan
+1000706,29,Hagi,JPHAG,Japan
+1000706,29,Kogushi,,Japan
+1000706,29,Kasumi,,Japan
+1000706,29,Tsuiyama,JPTYM,Japan
+1000706,29,Hibikinada,JPHBK,Japan
+1000706,29,Akitsu,JPAKT,Japan
+1000706,29,Hiroshima,JPHIJ,Japan
+1000706,29,Shimogo,,Japan
+1000706,29,Mutsure,JPMTR,Japan
+1000706,29,Shimonoseki,JPSHS,Japan
+1000706,29,Onada,,Japan
+1000706,29,Tobata,JPTBT,Japan
+1000706,29,Kokura,JPKOK,Japan
+1000706,29,Wakamatsu,JPWAM,Japan
+1000706,29,Onoda,JPOND,Japan
+1000706,29,Moji,JPMOJ,Japan
+1000706,29,Yawata,JPYWT,Japan
+1000706,29,Ube,JPUBJ,Japan
+1000706,29,Nakanoseki,JPNAN,Japan
+1000706,29,Tonda,JPTND,Japan
+1000706,29,Tokuyama,JPTKY,Japan
+1000706,29,Kanda,JPKND,Japan
+1000706,29,Shiminato,JPIWK,Japan
+1000706,29,Kure,JPKRE,Japan
+1000706,29,Fukuma,,Japan
+1000706,29,Kanokawa,JPKKW,Japan
+1000706,29,Kudamatsu,JPKUD,Japan
+1000706,29,Etajima,JPETA,Japan
+1000706,29,Takehara,JPTHR,Japan
+1000706,29,Itozaki,JPITO,Japan
+1000706,29,Matsunaga,JPMNG,Japan
+1000726,24,Baton Rouge,USBTR,Wake Island
+1000726,24,Madison,USMAZ,Wake Island
+1000726,24,Madisonville,USMAZ,Wake Island
+1000726,24,Plaquemine,USPLQ,Wake Island
+1000726,24,Saint Gabriel,,Wake Island
+1000726,24,Geismar,USGSM,Wake Island
+1000726,24,Burnside,,Wake Island
+1000726,24,Donaldsonville,USDNA,Wake Island
+1000726,24,Saint James,,Wake Island
+1000726,24,Gramercy,USGRY,Wake Island
+1000726,24,Reserve,USRSF,Wake Island
+1000726,24,Convent,USCNV,Wake Island
+1000726,24,Taft,USTFT,Wake Island
+1000726,24,Norco,USNCM,Wake Island
+1000726,24,Hahnville,USHAH,Wake Island
+1000726,24,Good Hope,USGDH,Wake Island
+1000726,24,Mississippi River,,Wake Island
+1000726,24,Des Plaines,USDES,Wake Island
+1000726,24,Saint Rose,USSTR,Wake Island
+1000726,24,Avondale,USAVD,Wake Island
+1000726,24,Westwego,USWWO,Wake Island
+1000726,24,New Orleans,USNEW,Wake Island
+1000726,24,Gretna,USGTL,Wake Island
+1000726,24,Amesville,USMAR,Wake Island
+1000726,24,Morgan City,USMGN,Wake Island
+1000726,24,Houma,,Wake Island
+1000726,24,Lake Charles,USLCH,Wake Island
+1000726,24,Haymark Terminal,,Wake Island
+1000726,24,Mars,USXJB,Wake Island
+1000726,24,Orange,USORG,Wake Island
+1000726,24,Cameron,USCXM,Wake Island
+1000726,24,Atreco,USATR,Wake Island
+1000726,24,Port Neches,USPON,Wake Island
+1000726,24,Smith's Bluff,USSML,Wake Island
+1000726,24,Beaumont,USBPT,Wake Island
+1000726,24,Port Arthur,USPOA,Wake Island
+1000726,24,Parlier,USPAR,Wake Island
+1000726,24,Sabine,USSAB,Wake Island
+1000726,24,Baytown,USHPY,Wake Island
+1000726,24,Port Adams,USNSW,Wake Island
+1000726,24,Port Bolivar,,Wake Island
+1000726,24,Pasadena,USPSD,Wake Island
+1000726,24,Texas City,USTXT,Wake Island
+1000726,24,Houston,,Wake Island
+1000726,24,Galveston,USGLS,Wake Island
+1000726,24,Freeport,USFRP,Wake Island
+1000726,24,Palacios,,Wake Island
+1000726,24,Progreso,MXPGO,Mexico
+1000726,24,El Cuyo,,Mexico
+1000726,24,Sisal,,Mexico
+1000726,24,Puerto Morelas,,Mexico
+1000726,24,Cozumel,MXCZM,Mexico
+1000726,24,Herrero Point,,Mexico
+1000726,24,Islas Santanilla,,Honduras
+1000734,18,Quang Ngai,VNXNG,Vietnam
+1000734,18,Duc Pho,,Vietnam
+1000734,18,Paluan,,Philippines
+1000734,18,Mamburao,,Philippines
+1000734,18,Calapan / Batangas,PHCLP,Philippines
+1000734,18,Pinamalayan,,Philippines
+1000734,18,Port Balancan,,Philippines
+1000734,18,Gasan,PHGAS,Philippines
+1000734,18,Santa Cruz,,Philippines
+1000734,18,General Luna,,Philippines
+1000734,18,Catanauan,,Philippines
+1000734,18,Port Ragay,,Philippines
+1000736,37,Baluante,,Philippines
+1000736,37,Iba,,Philippines
+1000736,37,Masinloc,PHMSC,Philippines
+1000736,37,Bolinao,,Philippines
+1000736,37,Tilic,,Philippines
+1000736,37,Lingayen,PHLIN,Philippines
+1000736,37,Subic Bay,PHSFS,Philippines
+1000736,37,Paluan,,Philippines
+1000736,37,Mariveles,,Philippines
+1000736,37,Dagupan City,,Philippines
+1000736,37,Poro / San Fernando,PHPRO,Philippines
+1000736,37,San Fernando,PHSFE,Philippines
+1000736,37,Bataan,PHBTN,Philippines
+1000736,37,Nasugbu,PHNUG,Philippines
+1000736,37,Pagapas,,Philippines
+1000736,37,Mamburao,,Philippines
+1000736,37,Calaca,,Philippines
+1000736,37,Sablayan,,Philippines
+1000736,37,Cavite,PHCVE,Philippines
+1000736,37,Navotas,,Philippines
+1000736,37,Manila,PHMNL,Philippines
+1000736,37,Tabangoa,PHTBG,Philippines
+1000736,37,Batangas,PHBLG,Philippines
+1000736,37,Calapan / Batangas,PHCLP,Philippines
+1000736,37,Caminawit,,Philippines
+1000736,37,Pinamalayan,,Philippines
+1000736,37,Semirara Island,,Philippines
+1000736,37,Bongabong,,Philippines
+1000736,37,Puerto Real,,Philippines
+1000736,37,Baler,,Philippines
+1000736,37,Mauban,,Philippines
+1000736,37,Port Balancan,,Philippines
+1000736,37,Gasan,PHGAS,Philippines
+1000736,37,Antimonan,PHATI,Philippines
+1000736,37,Polillo Island,,Philippines
+1000736,37,Unisan,,Philippines
+1000736,37,Siain,,Philippines
+1000736,37,Santa Cruz,,Philippines
+1000736,37,Odiongan,,Philippines
+1000736,37,General Luna,,Philippines
+1000736,37,Hondagua / Siain,PHHON,Philippines
+1000736,37,Catanauan,,Philippines
+1000736,37,Pandan,,Philippines
+1000736,37,Aloneros,,Philippines
+1000736,37,Romblon Island,PHRLN,Philippines
+1000736,37,Dahikan,,Philippines
+1000736,37,Port Ragay,,Philippines
+1000736,37,Jose Panganiban,PHJPM,Philippines
+1000736,37,Paracale,,Philippines
+1000736,37,Port Capiz,,Philippines
+1000736,37,Mercedes,,Philippines
+1000736,37,Tandoc,PHTDC,Philippines
+1000736,37,Port Barrera,,Philippines
+1000736,37,Donsol,,Philippines
+1000736,37,Masbate,PHMBT,Philippines
+1000736,37,Masbate,,Philippines
+1000736,37,Tabaco,,Philippines
+1000736,37,Legazpi,PHLGP,Philippines
+1000736,37,Magallanes Bay,,Philippines
+1000736,37,Coal Harbor,,Philippines
+1000736,37,Tabaco / Legaspi,PHTBC,Philippines
+1000736,37,Bulan,,Philippines
+1000736,37,Sorsogon,,Philippines
+1000736,37,Casiguran,,Philippines
+1000736,37,Santa Fe,,Philippines
+1000736,37,Virac Catanduanes Island,,Philippines
+1000736,37,San Isidro,,Philippines
+1000736,37,Arevalo,,Philippines
+1000736,37,Calubian,,Philippines
+1000736,37,Villaba,,Philippines
+1000736,37,Leyte,,Philippines
+1000736,37,Calbayog,,Philippines
+1000736,37,Talalora,,Philippines
+1000736,37,Catbalogan,PHCTS,Philippines
+1000736,37,Laoang,,Philippines
+1000738,52,Cape Fear,USCFN,Wake Island
+1000738,52,Southport,,Wake Island
+1000738,52,Wrightsville,USXOG,Wake Island
+1000738,52,Cape Lookout,,Wake Island
+1000738,52,Wilmington (n.cal),USILM,Wake Island
+1000738,52,Swansboro,,Wake Island
+1000738,52,Morehead City,USMRH,Wake Island
+1000738,52,New Bern,,Wake Island
+1000738,52,Bayboro,,Wake Island
+1000738,52,Vandermere,,Wake Island
+1000738,52,Georgetown,USGGE,Wake Island
+1000738,52,Cape Hatteras,USCPH,Wake Island
+1000738,52,Charleston,USCHS,Wake Island
+1000738,52,Port Royal,USPRL,Wake Island
+1000738,52,Beaufort,,Wake Island
+1000738,52,Savannah,USSAV,Wake Island
+1000738,52,Port Wentworth,USPWN,Wake Island
+1000738,52,Darien,,Wake Island
+1000738,52,Brunswick,USSSI,Wake Island
+1000738,52,Kings Bay,USKBA,Wake Island
+1000738,52,Fernandina Beach,USFEB,Wake Island
+1000738,52,Mayport,,Wake Island
+1000738,52,Jacksonville,,Wake Island
+1000738,52,Saint Augustine,,Wake Island
+1000738,52,Canaveral Harbor,,Wake Island
+1000738,52,Port Canaveral,USPCA,Wake Island
+1000738,52,Fort Pierce,USFPR,Wake Island
+1000738,52,Suwannee,,Wake Island
+1000738,52,South Riding Point,BSSRP,The Bahamas
+1000738,52,Freeport,BSFPO,The Bahamas
+1000738,52,Saint Marks,,Wake Island
+1000738,52,Palm Beach,USPAB,Wake Island
+1000738,52,Tampa,,Wake Island
+1000738,52,Tarpon Springs,,Wake Island
+1000738,52,Port Tampa,USPOT,Wake Island
+1000738,52,Clearwater,USCXI,Wake Island
+1000738,52,Saint Petersburg,,Wake Island
+1000738,52,Port Manatee,,Wake Island
+1000738,52,Carrabelle,USCRB,Wake Island
+1000738,52,Palmetto,USPMT,Wake Island
+1000738,52,Port Everglades,USPEF,Wake Island
+1000738,52,Sarasota,USSRB,Wake Island
+1000738,52,Bimini Island,,The Bahamas
+1000738,52,Berry Island,,The Bahamas
+1000738,52,Fort Myers,,Wake Island
+1000738,52,Miami,,Wake Island
+1000738,52,Bocagrande,USBCG,Wake Island
+1000738,52,Boca Grande,USBCG,Wake Island
+1000738,52,Pine Island,USPNI,Wake Island
+1000738,52,Ocean Cay Terminal,,The Bahamas
+1000738,52,Nassau,BSNAS,The Bahamas
+1000738,52,Nicholls Town,,The Bahamas
+1000738,52,Clifton Point,BSCLP,The Bahamas
+1000738,52,Rock Sound,BSRSD,The Bahamas
+1000738,52,Cape Romano,,Wake Island
+1000738,52,Andros Town,BSASD,The Bahamas
+1000738,52,Sombrero Key,,Wake Island
+1000738,52,Key West,USEYW,Wake Island
+1000738,52,Marquesas Keys,,Wake Island
+1000738,52,Tortuga Harbour,,Wake Island
+1000738,52,Isabela de Sagua,CUIDS,Cuba
+1000738,52,Cardenas,CUCAR,Cuba
+1000738,52,Caibarien,CUCAI,Cuba
+1000738,52,Matanzas,CUQMA,Cuba
+1000738,52,Havana,CUHAV,Cuba
+1000738,52,Mariel,CUMAR,Cuba
+1000738,52,Cienfuegos,CUCFG,Cuba
+1000738,52,Canabas,,Cuba
+1000738,52,Batabano,,Cuba
+1000738,52,Bahia Honda,,Cuba
+1000738,52,Nuevitas,CUNVT,Cuba
+1000738,52,Jucaro,CUJUC,Cuba
+1000738,52,Palo Alto,,Cuba
+1000738,52,Casilda,CUCAS,Cuba
+1000738,52,Tunas de Zaza,CUTDZ,Cuba
+1000738,52,La Esperanza,,Cuba
+1000738,52,Santa Lucia,,Cuba
+1000738,52,Nueva Gerona,CUGER,Cuba
+1000738,52,Santa Cruz Del Sur,CUSCS,Cuba
+1000738,52,Cayman Brac,,Cayman Islands
+1000738,52,Georgetown,KYGGT,Cayman Islands
+1000738,52,"Georgetown, Grand Cayman",KYGGT,Cayman Islands
+1000738,52,Caratasco,,Honduras
+1000738,52,Puerto Lempire,,Honduras
+1000738,52,Cape Gracias A Dios,,Honduras
+1000738,52,Cayos Miskitos,,Nicaragua
+1000738,52,Tuapi,,Nicaragua
+1000738,52,Puerto Cabezas,NIPUZ,Nicaragua
+1000738,52,Bahia Catalina,,Colombia
+1000738,52,Providencia Island,,Colombia
+1000738,52,Puerto Isabel,,Nicaragua
+1000738,52,San Andres Island,,Colombia
+1000738,52,Man O'War Cays,,Nicaragua
+1000738,52,Las Perlas,,Nicaragua
+1000738,52,Corn Island,,Nicaragua

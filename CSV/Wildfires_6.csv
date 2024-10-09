@@ -1,0 +1,28 @@
+Event_id,Episode,Name,IATA_Code,Elevation_in_m,Usage,Runway_type,IFR,Runway_Length_in_ft,Distance
+1012119,3,Carriel Sur International,CCP,12,Civ.,Paved,Yes,7500,23 km
+1012119,3,La Playa,,8,,,,0,71 km
+1012119,3,General Bernardo O Higgins,YAI,148,Civ.,Paved,Yes,5400,74 km
+1012119,3,Siberia,,220,,,,0,91 km
+1012119,3,Los Angeles,LSQ,114,Civ.,Paved,Yes,5500,92 km
+1019173,4,El Belloto,,123,,,,0,13 km
+1019173,4,Vina del Mar,KNA,120,Mil.,Paved,Yes,5700,21 km
+1019173,4,Quintero,,5,Civ.,Paved,Yes,3900,38 km
+1019173,4,Arturo Merino Benitez International,SCL,474,Civ.,Paved,Yes,10400,73 km
+1019173,4,La Victoria de Chacabuco,,640,,,,0,74 km
+1019173,4,Los Cerrillos,ULC,511,Civ.,Paved,Yes,6900,85 km
+1019173,4,Victor Lafon,SSD,658,Civ.,Unpaved,No,3700,86 km
+1019173,4,San Rafael,LOB,750,Civ.,Unpaved,No,3400,88 km
+1019173,4,El Bosque,,561,Mil.,Paved,No,6000,89 km
+1019173,4,Rapelhuapi,,149,Priv.,Unpaved,No,3200,107 km
+1019635,2,Xam,XAM,unknown,,,,0,51 km
+1019635,2,Tenosique,,25,,,,0,59 km
+1019635,2,San Pedro Tabasco,,46,,,,0,77 km
+1019635,2,Paso Caballos,PCG,unknown,,,,0,79 km
+1019635,2,Carmelita,CMM,unknown,,,,0,97 km
+1021078,5,Marathon,,5,Civ.,Paved,No,3800,8 km
+1021078,5,Tatoi,,239,Mil.,Paved,Yes,4300,13 km
+1021078,5,Athinai / Athens Eleftherios Venizelos Internation,ATH,94,,,,0,24 km
+1021078,5,Ellinikon Airport,,21,Civ.,Paved,Yes,11400,33 km
+1021078,5,Elefsis,,44,Mil.,Paved,Yes,8900,34 km
+1021078,5,Tanagra,,148,Mil.,Paved,Yes,9800,38 km
+1021078,5,Megara,,6,Mil.,Paved,No,4100,53 km

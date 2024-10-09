@@ -1,0 +1,47 @@
+Event_id,Episode,Depth,Lat/lon,Event_Date,Population,Source,Inserted_at,INFORM_Score,Event_summary
+1269679,1376314,10 Km,"25.7614 , 100.0076","21 May 2021 13:48 UTC
+21 May 2021 21:48 Local","About 1000 people in MMI
+3800000 people within 100km",NEIC us7000e532,21 May 2021 14:23 UTC,3.6 (China),This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1281677,1391652,EQ-2021-000116-HTI,10 Km,"18.4079 , -73.4753","14 Aug 2021 12:29 UTC
+14 Aug 2021 08:29 Local","About 31000 people in MMI
+960 thousand (in MMI>=VII)",NEIC us6000f65h,14 Aug 2021 16:07 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1298872,1412418,EQ-2021-000192-PER,112.48 Km,"-4.4898 , -76.8461","28 Nov 2021 10:52 UTC
+28 Nov 2021 05:52 Local","About 19000 people in MMI
+190 thousand (in MMI>=VII)",NEIC us7000fxq2,28 Nov 2021 11:09 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1307299,1422907,EQ-2022-000150-HTI,10 Km,"18.4723 , -73.3346","24 Jan 2022 13:16 UTC
+24 Jan 2022 08:16 Local","About 63000 people in MMI
+60 thousand (in MMI>=VII)",NEIC us7000gek3,24 Jan 2022 13:50 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1327560,1449790,EQ-2022-000232-AFG,10 Km,"33.0924 , 69.5135","21 Jun 2022 20:54 UTC
+22 Jun 2022 01:24 Local","About 17000 people in MMI
+290 thousand (in MMI>=VII)",NEIC us7000hj3u,21 Jun 2022 21:52 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1337179,1461351,EQ-2022-000308-PNG,90.013 Km,"-6.2557 , 146.4692","10 Sep 2022 23:46 UTC
+11 Sep 2022 09:46 Local","220000 people in MMI
+1.2 million (in MMI>=VII)",NEIC us6000iitd,11 Sep 2022 00:56 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1347183,1474345,EQ-2022-000363-IDN,10 Km,"-6.8531 , 107.0946","21 Nov 2022 06:21 UTC
+21 Nov 2022 13:21 Local","About 7000 people in MMI
+610 thousand (in MMI>=VII)",NEIC us7000ir9t,21 Nov 2022 07:12 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1357372,1487096,EQ-2023-000015-TUR,17.925 Km,"37.1736 , 37.032","06 Feb 2023 01:17 UTC
+06 Feb 2023 04:17 Local","Less than 100 people in MMI X
+9.2 million (in MMI>=VII)",NEIC us6000jllz,06 Feb 2023 01:40 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1357560,1487318,EQ-2023-000015-TUR,10 Km,"38.0235 , 37.203","06 Feb 2023 10:24 UTC
+06 Feb 2023 13:24 Local",1.7 million (in MMI>=VII),NEIC us6000jlqa,06 Feb 2023 10:46 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1365556,1496206,EQ-2023-000038-ECU,66.421 Km,"-2.8273 , -79.862799999999993","18 Mar 2023 17:12 UTC
+18 Mar 2023 12:12 Local",650 thousand (in MMI>=VII),NEIC us7000jl3s,18 Mar 2023 17:51 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1390643,1524529,EQ-2023-000166-MAR,26.3 Km,"31.07 , -8.3815","08 Sep 2023 22:11 UTC
+08 Sep 2023 23:11 Local",920 thousand (in MMI>=VII),NEIC us7000kufc,09 Sep 2023 15:52 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1394952,1529360,EQ-2023-000184-AFG,14 Km,"34.6102 , 61.9242","07 Oct 2023 06:41 UTC
+07 Oct 2023 11:11 Local",70 thousand (in MMI>=VII),NEIC us6000ldpg,07 Oct 2023 07:33 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1394958,1529364,EQ-2023-000184-AFG,10 Km,"34.5743 , 61.9037","07 Oct 2023 07:12 UTC
+07 Oct 2023 11:42 Local",80 thousand (in MMI>=VII),NEIC us6000ldpm,07 Oct 2023 08:04 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1394961,1529363,EQ-2023-000184-AFG,7.7 Km,"34.6391 , 62.0327","07 Oct 2023 07:40 UTC
+07 Oct 2023 12:10 Local",10 thousand (in MMI>=VII),NEIC us6000ldpv,07 Oct 2023 07:57 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1395488,1529996,EQ-2023-000188-AFG,10 Km,"34.5798 , 62.0717","11 Oct 2023 00:41 UTC
+11 Oct 2023 05:11 Local",290 thousand (in MMI>=VII),NEIC us6000len8,11 Oct 2023 00:55 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1396085,1530685,EQ-2023-000195-AFG,6.3 Km,"34.6094 , 62.1115","15 Oct 2023 03:36 UTC
+15 Oct 2023 08:06 Local",80 thousand (in MMI>=VII),NEIC us6000lfn5,15 Oct 2023 04:20 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1398938,1534231,EQ-2023-000214-NPL,16.5 Km,"28.8482 , 82.1874","03 Nov 2023 18:02 UTC
+03 Nov 2023 23:47 Local",130 thousand (in MMI>=VII),NEIC us7000l8p5,04 Nov 2023 22:16 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1406601,1543048,EQ-2023-000252-CHN,10 Km,"35.7432 , 102.8272","18 Dec 2023 15:59 UTC
+18 Dec 2023 23:59 Local",100 thousand (in MMI>=VII),NEIC us7000ljvg,18 Dec 2023 16:41 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1420849,1560728,EQ-2024-000034-PNG,40.2 Km,"-4.1388 , 143.1594","23 Mar 2024 20:22 UTC
+24 Mar 2024 06:22 Local",180 thousand (in MMI>=VII),NEIC us6000mksx,23 Mar 2024 21:58 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.

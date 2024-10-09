@@ -1,0 +1,71 @@
+Event_id,Episode,SendAI Indicator B,N,Country,Location
+1100902,1,displaced,10773,India,Jharkhand
+1100902,1,displaced,809830,India,West Bengal
+1100902,1,displaced,593656,India,Odisha
+1100902,1,displaced,7476,India,Tamil Nadu
+1100902,1,displaced,703058,India,Odisha
+1100902,1,displaced,17165,India,Jharkhand
+1100902,1,displaced,702986,India,Odisha
+1100902,1,displaced,1504506,India,West Bengal
+1100902,1,displaced,611,India,Tamil Nadu
+1100932,7,affected,42000,China,Heilongjiang
+1100932,7,affected,47000,China,Hulunbuir
+1100932,7,affected,1080000,China,Jiangxi
+1100932,7,affected,589400,China,Sichuan
+1100932,7,affected,2000000,China,Xinxiang
+1100932,7,displaced,1500000,China,Zhejiang
+1100932,7,displaced,360000,China,Shanghai
+1100932,7,displaced,19000,China,Heilongjiang
+1100932,7,displaced,376000,China,Henan
+1100932,7,displaced,100000,China,Henan
+1100932,7,displaced,63000,China,Jiangxi
+1100932,7,displaced,100000,China,Sichuan
+1100932,7,rescued,50,China,Dalian
+1100932,7,rescued,50,China,Du an Yao Autonomous County
+1100977,26,affected,2,India,Goa
+1100977,26,affected,400,India,Kandivali West
+1100977,26,affected,252000,India,Bihar
+1100977,26,affected,2700000,India,Bihar
+1100977,26,affected,104704,India,Uttar Pradesh
+1100977,26,affected,22022,India,Assam
+1100977,26,affected,1200000,India,West Bengal
+1100977,26,affected,90000,India,Uttar Pradesh
+1100977,26,affected,2600000,India,West Bengal
+1100977,26,displaced,500000,India,West Bengal
+1100977,26,displaced,1200,India,Uttar Pradesh
+1100977,26,displaced,22468,India,Odisha
+1100977,26,displaced,512,India,Srikakulam
+1100977,26,displaced,3940,India,Srikakulam
+1100977,26,displaced,46075,India,Odisha
+1100977,26,displaced,1300,India,West Bengal
+1100977,26,displaced,5000,India,Krishna district
+1100977,26,displaced,770,India,Assam
+1100977,26,displaced,6237,India,Uttar Pradesh
+1100977,26,displaced,85000,India,Bihar
+1100977,26,displaced,400,India,Goa
+1100977,26,displaced,29280,India,Madhya Pradesh
+1100977,26,displaced,31360,India,Karnataka
+1100977,26,displaced,375178,India,Maharashtra
+1100977,26,displaced,250000,India,West Bengal
+1100977,26,injured,17,India,Kishtwar District
+1100977,26,injured,2,India,Belonia
+1100977,26,injured,1,India,Chamoli
+1100977,26,rescued,5950,India,Madhya Pradesh
+1100977,26,rescued,8832,India,Madhya Pradesh
+1100977,26,rescued,40,India,Itawa
+1100977,26,rescued,9,India,Baran
+1101522,1,displaced,215997,Pakistan,"Gilgit-Baltistan, Balochistan, Azad Kashmir, Khyber Pakhtunkhwa, Punjab"
+1101522,1,injured,1575,Pakistan,"Punjab, Gilgit-Baltistan, Azad Kashmir, Khyber Pakhtunkhwa, Sindh, Balochistan"
+1101659,5,affected,35200,Nigeria,Uzo-Uwani
+1101659,5,affected,2504000,Nigeria,"Bayelsa State, Delta State, Anambra State, Abuja, Cross River State, Rivers State"
+1101659,5,affected,1,Nigeria,Mariga
+1101659,5,displaced,3000,Nigeria,Lokoja
+1101659,5,displaced,1303000,Nigeria,"Cross River State, Delta State, Rivers State, Bayelsa State, Abuja, Anambra State"
+1101659,5,injured,2400,Nigeria,"Delta State, Abuja, Anambra State, Cross River State, Rivers State, Bayelsa State"
+1101659,5,rescued,9,Nigeria,Maryland
+1101664,1,displaced,395000,China,Shanghai
+1101664,1,displaced,838000,China,Zhejiang
+1102000,1,displaced,100000,Myanmar,"Sittwe Township, Sittwe District"
+1102000,1,displaced,750000,Bangladesh,Cox s Bazar District
+1102000,1,injured,700,Myanmar,"Sittwe District, Sittwe Township"
+1102204,2,displaced,33000,Libya,"Benghazi, Darnah, Susah, Derna"

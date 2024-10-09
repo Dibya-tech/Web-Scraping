@@ -1,0 +1,19 @@
+Event_id,Episode,SendAI Indicator C,N,Country,Location
+1100902,1,houses damaged,4500,Bangladesh,Bhola District
+1100902,1,houses destroyed,993,India,Odisha
+1100902,1,houses destroyed,142,India,Odisha
+1100932,7,houses damaged,219,China,Jiangxi
+1100932,7,houses destroyed,156,China,Jiangxi
+1100977,26,houses,272,India,Uttar Pradesh
+1100977,26,houses,15,India,Uttar Pradesh
+1100977,26,houses,42,India,Andhra Pradesh
+1100977,26,houses damaged,3,India,Shimla
+1100977,26,houses destroyed,19,India,Kishtwar District
+1100977,26,houses destroyed,6,India,Chamoli
+1100977,26,houses destroyed,1,India,Thane
+1100977,26,houses destroyed,28,India,Himachal Pradesh
+1100977,26,houses destroyed,6,India,Thane district
+1101659,5,agriculture,53800,Nigeria,Uzo-Uwani
+1101659,5,houses,1,Nigeria,Maryland
+1101659,5,houses damaged,500,Nigeria,Lokoja
+1101659,5,houses damaged,-,Nigeria,Uzo-Uwani

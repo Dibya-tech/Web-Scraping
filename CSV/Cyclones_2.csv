@@ -1,0 +1,237 @@
+Event_id,Episode,Alert,N,Date,Max_Winds,Population_in_tropical_storm,Population_in_Cat1_and_above,Countries
+1000667,18,Green,1,19 Jul 2024 18:00,176,12.6 million,110 thousand,Japan
+1000667,18,Green,2,20 Jul 2024 00:00,194,10.4 million,60 thousand,Japan
+1000667,18,Green,3,20 Jul 2024 06:00,185,49.5 million,110 thousand,Japan
+1000667,18,Green,4,20 Jul 2024 12:00,185,109.4 million,110 thousand,Japan
+1000667,18,Orange,5,20 Jul 2024 18:00,185,182.9 million,19.9 million,"Taiwan, China"
+1000667,18,Orange,6,21 Jul 2024 00:00,185,252.5 million,13.3 million,"Taiwan, Japan, China"
+1000667,18,Orange,7,21 Jul 2024 06:00,139,238.1 million,13.7 million,"Japan, China"
+1000667,18,Orange,8,21 Jul 2024 12:00,167,324.6 million,17.3 million,"Taiwan, Japan, China"
+1000667,18,Orange,9,21 Jul 2024 18:00,176,153.1 million,18.6 million,"Taiwan, Japan, China"
+1000667,18,Orange,10,22 Jul 2024 00:00,157,156.4 million,23.4 million,"Taiwan, Japan, China"
+1000667,18,Orange,11,22 Jul 2024 06:00,167,169.9 million,21.3 million,"Taiwan, Japan, China"
+1000667,18,Orange,12,22 Jul 2024 12:00,167,343.3 million,18.7 million,"Philippines, Taiwan, Japan, China"
+1000667,18,Orange,13,22 Jul 2024 18:00,157,149.7 million,19.5 million,"Philippines, Taiwan, China"
+1000667,18,Orange,14,23 Jul 2024 00:00,185,104.9 million,21.9 million,"Japan, Philippines, Taiwan, China"
+1000667,18,Red,15,23 Jul 2024 06:00,222,172.5 million,24.4 million,"Philippines, Japan, Taiwan, China"
+1000667,18,Red,16,23 Jul 2024 12:00,222,129.8 million,25.8 million,"China, Philippines, Japan, Taiwan"
+1000667,18,Red,17,23 Jul 2024 18:00,241,255.7 million,37.6 million,"Taiwan, China, Philippines, Japan"
+1000667,18,Red,18,24 Jul 2024 00:00,241,248.2 million,31.3 million,"Taiwan, China, Philippines, Japan"
+1000667,18,Red,19,24 Jul 2024 06:00,231,222.9 million,21.5 million,"Japan, Taiwan, China, Philippines"
+1000667,18,Red,20,24 Jul 2024 12:00,204,231.9 million,30.4 million,"Japan, Taiwan, China, Philippines"
+1000667,18,Orange,21,24 Jul 2024 18:00,176,156.4 million,27.3 million,"Japan, Taiwan, China, Philippines"
+1000667,18,Orange,22,25 Jul 2024 00:00,139,132.9 million,37.9 million,"Japan, Taiwan, China, Philippines"
+1000667,18,Green,23,25 Jul 2024 06:00,111,158.6 million,24.7 million,"Japan, Taiwan, China, Philippines"
+1000667,18,Green,24,25 Jul 2024 12:00,93,145 million,24.7 million,"Japan, Taiwan, China, Philippines"
+1000673,4,Orange,1,02 Jun 2020 18:00,83,48.5 million,No people,India
+1000673,4,Orange,2,03 Jun 2020 00:00,102,55.2 million,No people,India
+1000673,4,Red,3,03 Jun 2020 06:00,139,74.3 million,10.6 million,India
+1000673,4,Red,4,03 Jun 2020 12:00,120,86.3 million,13.5 million,India
+1000702,24,Orange,1,21 Aug 2020 12:00,194,32 million,610 thousand,Republic of Korea
+1000702,24,Orange,2,21 Aug 2020 18:00,194,70.6 million,34.8 million,Republic of Korea
+1000702,24,Orange,3,22 Aug 2020 00:00,194,80.1 million,38.7 million,"Republic of Korea, Democratic Republic of Korea"
+1000702,24,Orange,4,22 Aug 2020 06:00,194,82.1 million,29.8 million,"Republic of Korea, Democratic Republic of Korea"
+1000702,24,Orange,5,22 Aug 2020 12:00,194,100.5 million,40.6 million,"Republic of Korea, Democratic Republic of Korea, China"
+1000702,24,Orange,6,22 Aug 2020 18:00,120,101.9 million,13.4 million,"Republic of Korea, Democratic Republic of Korea, China"
+1000702,24,Red,7,23 Aug 2020 00:00,185,118.8 million,2.4 million,Democratic Republic of Korea
+1000702,24,Red,8,23 Aug 2020 06:00,176,115.7 million,5.6 million,"Democratic Republic of Korea, China"
+1000702,24,Red,9,23 Aug 2020 12:00,167,122.6 million,15.7 million,"Democratic Republic of Korea, China"
+1000702,24,Red,10,23 Aug 2020 18:00,130,108.5 million,16.5 million,"Democratic Republic of Korea, China"
+1000702,24,Red,11,24 Aug 2020 00:00,176,101.4 million,2.8 million,Democratic Republic of Korea
+1000702,24,Red,12,24 Aug 2020 06:00,194,111.5 million,11.7 million,"Republic of Korea, Democratic Republic of Korea, China"
+1000702,24,Red,13,24 Aug 2020 12:00,157,125.3 million,18.9 million,"Democratic Republic of Korea, China"
+1000702,24,Red,14,24 Aug 2020 18:00,139,95.5 million,18.6 million,"Democratic Republic of Korea, China"
+1000702,24,Red,15,25 Aug 2020 00:00,176,104.1 million,19.9 million,"Democratic Republic of Korea, China"
+1000702,24,Red,16,25 Aug 2020 06:00,167,153.7 million,23.7 million,"Democratic Republic of Korea, China"
+1000702,24,Red,17,25 Aug 2020 12:00,185,127.5 million,21.1 million,"Democratic Republic of Korea, China"
+1000702,24,Red,18,25 Aug 2020 18:00,148,119.3 million,6.9 million,"Democratic Republic of Korea, China"
+1000702,24,Red,19,26 Aug 2020 00:00,167,126.5 million,14.2 million,"Democratic Republic of Korea, China"
+1000702,24,Red,20,26 Aug 2020 06:00,148,120.7 million,5.4 million,"Democratic Republic of Korea, China"
+1000702,24,Red,21,26 Aug 2020 12:00,176,103.2 million,11.3 million,"Democratic Republic of Korea, China"
+1000702,24,Red,22,26 Aug 2020 18:00,148,76.9 million,10.9 million,"Democratic Republic of Korea, China"
+1000702,24,Red,23,27 Aug 2020 00:00,120,104.5 million,4.3 million,"Democratic Republic of Korea, China"
+1000702,24,Orange,24,27 Aug 2020 06:00,74,123.6 million,2.7 million,"China, Democratic Republic of Korea"
+1000705,24,Green,1,28 Aug 2020 00:00,204,30.4 million,10 thousand,Japan
+1000705,24,Green,2,28 Aug 2020 06:00,204,35.4 million,8 thousand,"Japan, China, Republic of Korea"
+1000705,24,Green,3,28 Aug 2020 12:00,204,5.7 million,10 thousand,"Japan, China, Republic of Korea"
+1000705,24,Orange,4,28 Aug 2020 18:00,204,54.5 million,3.9 million,Republic of Korea
+1000705,24,Orange,5,29 Aug 2020 00:00,194,80.7 million,14.3 million,"Japan, Republic of Korea"
+1000705,24,Orange,6,29 Aug 2020 06:00,213,85.9 million,11.8 million,"Japan, Republic of Korea"
+1000705,24,Orange,7,29 Aug 2020 12:00,185,96.2 million,20.6 million,"Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Orange,8,29 Aug 2020 18:00,204,113.7 million,41.1 million,"Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Orange,9,30 Aug 2020 00:00,194,151.1 million,34 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,10,30 Aug 2020 06:00,194,160.5 million,38.9 million,"Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,11,30 Aug 2020 12:00,194,149.9 million,38.9 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,12,30 Aug 2020 18:00,213,119.4 million,39.5 million,"Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,13,31 Aug 2020 00:00,194,149.3 million,27.4 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,14,31 Aug 2020 06:00,185,141.6 million,42.2 million,"Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,15,31 Aug 2020 12:00,176,167.6 million,46.9 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,16,31 Aug 2020 18:00,148,116.7 million,31 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,17,01 Sep 2020 00:00,167,177.4 million,40.5 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000705,24,Red,18,01 Sep 2020 06:00,148,176.4 million,53.3 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,19,01 Sep 2020 12:00,176,182.8 million,66.7 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,20,01 Sep 2020 18:00,130,171.6 million,36.7 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000705,24,Red,21,02 Sep 2020 00:00,157,150.3 million,29.6 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000705,24,Red,22,02 Sep 2020 06:00,148,171.8 million,54.5 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,23,02 Sep 2020 12:00,167,180.1 million,24 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000705,24,Red,24,02 Sep 2020 18:00,139,170.5 million,18.3 million,"Republic of Korea, Japan, Democratic Republic of Korea, China"
+1000706,29,Green,1,31 Aug 2020 12:00,157,Few people,No people,
+1000706,29,Green,2,31 Aug 2020 18:00,213,300 thousand,No people,Japan
+1000706,29,Green,3,01 Sep 2020 00:00,222,8.1 million,No people,Japan
+1000706,29,Orange,4,01 Sep 2020 06:00,204,23.3 million,2.1 million,Japan
+1000706,29,Orange,5,01 Sep 2020 12:00,222,54.5 million,7.8 million,Japan
+1000706,29,Orange,6,01 Sep 2020 18:00,222,76 million,15.2 million,"Japan, Republic of Korea"
+1000706,29,Orange,7,02 Sep 2020 00:00,222,84 million,19.4 million,"Japan, Republic of Korea"
+1000706,29,Orange,8,02 Sep 2020 06:00,222,93.2 million,42.8 million,"Japan, Republic of Korea"
+1000706,29,Orange,9,02 Sep 2020 12:00,222,111.8 million,48.1 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000706,29,Orange,10,02 Sep 2020 18:00,222,162.1 million,50.6 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,11,03 Sep 2020 00:00,222,185.9 million,60.7 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,12,03 Sep 2020 06:00,213,167.8 million,55.2 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,13,03 Sep 2020 12:00,204,180 million,60.8 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,14,03 Sep 2020 18:00,194,174.7 million,57.7 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,15,04 Sep 2020 00:00,222,134 million,37 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000706,29,Red,16,04 Sep 2020 06:00,222,177.3 million,14.3 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,17,04 Sep 2020 12:00,204,189.5 million,54.8 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,18,04 Sep 2020 18:00,167,162.1 million,24.3 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000706,29,Red,19,05 Sep 2020 00:00,157,107.5 million,16.7 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,20,05 Sep 2020 06:00,130,219.2 million,18.2 million,"Japan, Republic of Korea, Democratic Republic of Korea, China"
+1000706,29,Red,21,05 Sep 2020 12:00,148,212.1 million,14.5 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000706,29,Orange,22,05 Sep 2020 18:00,102,94.9 million,2.4 million,"Japan, Republic of Korea"
+1000706,29,Red,23,06 Sep 2020 00:00,130,157.9 million,16.6 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000706,29,Orange,24,06 Sep 2020 06:00,111,192.1 million,17.2 million,"Japan, Republic of Korea"
+1000706,29,Red,25,06 Sep 2020 12:00,139,209.7 million,20 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000706,29,Red,26,06 Sep 2020 18:00,157,200.7 million,60.6 million,"Japan, Republic of Korea, Democratic Republic of Korea"
+1000706,29,Red,27,07 Sep 2020 00:00,120,101.1 million,31.2 million,"Republic of Korea, Japan, Democratic Republic of Korea"
+1000706,29,Orange,28,07 Sep 2020 06:00,111,167.4 million,29.9 million,"Republic of Korea, Democratic Republic of Korea, Japan"
+1000706,29,Orange,29,07 Sep 2020 12:00,65,178 million,29.9 million,"Democratic Republic of Korea, Republic of Korea, Japan"
+1000726,24,Green,1,04 Oct 2020 21:00,157,2.3 million,No people,"Cayman Islands, Cuba, United States"
+1000726,24,Green,2,05 Oct 2020 03:00,167,4.3 million,940 thousand,"Cuba, United States"
+1000726,24,Green,3,05 Oct 2020 09:00,167,5.2 million,1.4 million,United States
+1000726,24,Green,4,05 Oct 2020 15:00,167,6.2 million,1.8 million,United States
+1000726,24,Red,5,05 Oct 2020 21:00,194,6.8 million,1.3 million,"Mexico, United States"
+1000726,24,Red,6,06 Oct 2020 03:00,185,7 million,1.7 million,"Mexico, United States"
+1000726,24,Red,7,06 Oct 2020 09:00,213,8.8 million,2.1 million,"Mexico, United States"
+1000726,24,Red,8,06 Oct 2020 15:00,222,9.1 million,2.2 million,"Mexico, United States"
+1000726,24,Red,9,06 Oct 2020 21:00,250,10.3 million,1.3 million,"Mexico, United States"
+1000726,24,Red,10,07 Oct 2020 03:00,213,12.1 million,2.9 million,"Mexico, United States"
+1000726,24,Red,11,07 Oct 2020 09:00,185,9.8 million,2 million,"Mexico, United States"
+1000726,24,Orange,12,07 Oct 2020 15:00,194,18.2 million,2.1 million,"Mexico, United States"
+1000726,24,Green,13,07 Oct 2020 21:00,185,13.8 million,2 million,"Mexico, United States"
+1000726,24,Green,14,08 Oct 2020 03:00,194,13.2 million,2 million,"Mexico, United States"
+1000726,24,Green,15,08 Oct 2020 09:00,185,15.2 million,1.7 million,"Mexico, United States"
+1000726,24,Green,16,08 Oct 2020 15:00,185,15.8 million,1.8 million,"Mexico, United States"
+1000726,24,Orange,17,08 Oct 2020 21:00,194,16.3 million,1.9 million,"Mexico, United States"
+1000726,24,Green,18,09 Oct 2020 03:00,194,14.2 million,1.8 million,"United States, Mexico"
+1000726,24,Green,19,09 Oct 2020 09:00,194,11.7 million,1.7 million,"United States, Mexico"
+1000726,24,Green,20,09 Oct 2020 15:00,185,14.6 million,1.8 million,"United States, Mexico"
+1000726,24,Green,21,09 Oct 2020 21:00,167,16 million,1.7 million,"United States, Mexico"
+1000726,24,Green,22,10 Oct 2020 03:00,120,16.1 million,1.9 million,"United States, Mexico"
+1000726,24,Green,23,10 Oct 2020 09:00,74,16.5 million,1.9 million,"United States, Mexico"
+1000726,24,Green,24,10 Oct 2020 15:00,56,16.4 million,1.9 million,"United States, Mexico"
+1000734,18,Orange,1,24 Oct 2020 00:00,139,78 million,1.4 million,"Viet Nam, Laos"
+1000734,18,Orange,2,24 Oct 2020 06:00,139,102.3 million,2.3 million,"Viet Nam, Laos"
+1000734,18,Orange,3,24 Oct 2020 12:00,148,71.8 million,1.8 million,"Viet Nam, Laos, Thailand"
+1000734,18,Red,4,24 Oct 2020 18:00,148,86.9 million,4.8 million,"Viet Nam, Laos, Thailand"
+1000734,18,Red,5,25 Oct 2020 00:00,157,84.2 million,3.9 million,"Philippines, Viet Nam, Laos, Cambodia"
+1000734,18,Red,6,25 Oct 2020 06:00,148,91.6 million,5.7 million,"Philippines, Viet Nam, Laos, Thailand"
+1000734,18,Red,7,25 Oct 2020 12:00,157,83.8 million,10.3 million,"Philippines, Viet Nam, Laos, Thailand"
+1000734,18,Red,8,25 Oct 2020 18:00,157,94.4 million,4.5 million,"Philippines, Viet Nam, Laos"
+1000734,18,Red,9,26 Oct 2020 00:00,148,95.1 million,6.4 million,"Philippines, Viet Nam, Laos, Thailand"
+1000734,18,Red,10,26 Oct 2020 06:00,176,103.1 million,7.7 million,"Philippines, Viet Nam, Laos, Thailand"
+1000734,18,Red,11,26 Oct 2020 12:00,167,94.2 million,4.4 million,"Philippines, Viet Nam, Laos"
+1000734,18,Red,12,26 Oct 2020 18:00,185,119 million,5.4 million,"Philippines, Viet Nam, Cambodia, Laos, Thailand"
+1000734,18,Red,13,27 Oct 2020 00:00,185,80.6 million,5 million,"Philippines, Viet Nam, Cambodia, Laos"
+1000734,18,Red,14,27 Oct 2020 06:00,185,85.8 million,5.3 million,"Viet Nam, Cambodia, Laos, Philippines, Thailand"
+1000734,18,Red,15,27 Oct 2020 12:00,194,73 million,4.4 million,"Viet Nam, Cambodia, Laos, Philippines"
+1000734,18,Red,16,27 Oct 2020 18:00,185,92.6 million,5 million,"Viet Nam, Laos, Philippines"
+1000734,18,Red,17,28 Oct 2020 00:00,167,82.1 million,5 million,"Viet Nam, Laos, Philippines"
+1000734,18,Red,18,28 Oct 2020 06:00,130,80.7 million,4.9 million,"Viet Nam, Laos, Philippines"
+1000736,37,Orange,1,28 Oct 2020 00:00,167,53.6 million,24 million,Philippines
+1000736,37,Red,2,28 Oct 2020 06:00,194,50.1 million,25.8 million,Philippines
+1000736,37,Orange,3,28 Oct 2020 12:00,148,50.4 million,2.3 million,Philippines
+1000736,37,Red,4,28 Oct 2020 18:00,194,51.2 million,2.2 million,Philippines
+1000736,37,Red,5,29 Oct 2020 00:00,222,49.7 million,6.5 million,Philippines
+1000736,37,Red,6,29 Oct 2020 06:00,231,53.2 million,6.5 million,Philippines
+1000736,37,Red,7,29 Oct 2020 12:00,213,48.2 million,6.1 million,Philippines
+1000736,37,Red,8,29 Oct 2020 18:00,231,51.4 million,6.1 million,Philippines
+1000736,37,Red,9,30 Oct 2020 00:00,231,51 million,6.2 million,Philippines
+1000736,37,Red,10,30 Oct 2020 06:00,222,54 million,3.5 million,Philippines
+1000736,37,Red,11,30 Oct 2020 12:00,231,55.7 million,6.8 million,Philippines
+1000736,37,Red,12,30 Oct 2020 18:00,259,61.7 million,21.9 million,Philippines
+1000736,37,Red,13,31 Oct 2020 00:00,278,58.9 million,26.4 million,Philippines
+1000736,37,Red,14,31 Oct 2020 06:00,259,62.7 million,26.2 million,Philippines
+1000736,37,Red,15,31 Oct 2020 12:00,287,57 million,10.3 million,Philippines
+1000736,37,Red,16,31 Oct 2020 18:00,315,53.5 million,11.5 million,Philippines
+1000736,37,Red,17,01 Nov 2020 00:00,213,58.2 million,10.3 million,Philippines
+1000736,37,Orange,18,01 Nov 2020 06:00,139,58.4 million,17.8 million,Philippines
+1000736,37,Green,19,01 Nov 2020 12:00,111,55.9 million,24.4 million,Philippines
+1000736,37,Green,20,01 Nov 2020 18:00,102,62.9 million,24.4 million,Philippines
+1000736,37,Green,21,02 Nov 2020 00:00,83,59.2 million,24.4 million,Philippines
+1000736,37,Green,22,02 Nov 2020 06:00,74,59.6 million,24.4 million,Philippines
+1000736,37,Green,23,02 Nov 2020 12:00,74,58.2 million,24.4 million,Philippines
+1000736,37,Green,24,02 Nov 2020 18:00,74,57.6 million,24.4 million,Philippines
+1000736,37,Green,25,03 Nov 2020 00:00,65,54.8 million,24.4 million,Philippines
+1000736,37,Green,26,03 Nov 2020 06:00,65,54.8 million,24.4 million,Philippines
+1000736,37,Green,27,03 Nov 2020 12:00,65,54.8 million,24.4 million,Philippines
+1000736,37,Green,28,03 Nov 2020 18:00,65,54.8 million,24.4 million,Philippines
+1000736,37,Green,29,04 Nov 2020 00:00,65,54.8 million,24.4 million,Philippines
+1000736,37,Green,30,04 Nov 2020 06:00,65,55.3 million,24.4 million,Philippines
+1000736,37,Green,31,04 Nov 2020 12:00,65,59.3 million,24.4 million,Philippines
+1000736,37,Green,32,04 Nov 2020 18:00,74,60.5 million,24.4 million,Philippines
+1000736,37,Green,33,05 Nov 2020 00:00,74,57.5 million,24.4 million,Philippines
+1000736,37,Green,34,05 Nov 2020 06:00,65,56.4 million,24.4 million,Philippines
+1000736,37,Green,35,05 Nov 2020 12:00,56,54.8 million,24.4 million,Philippines
+1000736,37,Green,36,05 Nov 2020 18:00,56,54.8 million,24.4 million,Philippines
+1000736,37,Green,37,06 Nov 2020 00:00,56,54.8 million,24.4 million,Philippines
+1000738,52,Orange,1,31 Oct 2020 21:00,139,7.1 million,290 thousand,Nicaragua
+1000738,52,Orange,2,01 Nov 2020 03:00,130,6.3 million,200 thousand,"Nicaragua, Honduras"
+1000738,52,Green,3,01 Nov 2020 09:00,148,3.4 million,100 thousand,Nicaragua
+1000738,52,Orange,4,01 Nov 2020 15:00,130,7.5 million,130 thousand,Nicaragua
+1000738,52,Orange,5,01 Nov 2020 21:00,176,15.1 million,170 thousand,Nicaragua
+1000738,52,Red,6,02 Nov 2020 03:00,185,9.4 million,130 thousand,Nicaragua
+1000738,52,Orange,7,02 Nov 2020 09:00,176,1.5 million,150 thousand,Nicaragua
+1000738,52,Orange,8,02 Nov 2020 15:00,222,1.3 million,130 thousand,Nicaragua
+1000738,52,Orange,9,02 Nov 2020 21:00,241,1.8 million,140 thousand,Nicaragua
+1000738,52,Red,10,03 Nov 2020 03:00,259,4.8 million,200 thousand,Nicaragua
+1000738,52,Red,11,03 Nov 2020 09:00,204,1.4 million,120 thousand,Nicaragua
+1000738,52,Red,12,03 Nov 2020 15:00,185,2.2 million,110 thousand,Nicaragua
+1000738,52,Red,13,03 Nov 2020 21:00,222,3.3 million,230 thousand,"Nicaragua, Honduras"
+1000738,52,Orange,14,04 Nov 2020 03:00,167,12 million,200 thousand,Nicaragua
+1000738,52,Green,15,04 Nov 2020 09:00,111,9.7 million,200 thousand,Nicaragua
+1000738,52,Green,16,04 Nov 2020 15:00,93,10.4 million,200 thousand,Nicaragua
+1000738,52,Green,17,04 Nov 2020 21:00,93,10.5 million,200 thousand,Nicaragua
+1000738,52,Green,18,05 Nov 2020 03:00,102,9.2 million,200 thousand,Nicaragua
+1000738,52,Green,19,05 Nov 2020 09:00,102,11.8 million,200 thousand,Nicaragua
+1000738,52,Green,20,05 Nov 2020 15:00,102,9.8 million,200 thousand,Nicaragua
+1000738,52,Green,21,05 Nov 2020 21:00,102,9.8 million,200 thousand,Nicaragua
+1000738,52,Green,22,06 Nov 2020 03:00,102,21 million,200 thousand,Nicaragua
+1000738,52,Green,23,06 Nov 2020 09:00,102,22.8 million,200 thousand,Nicaragua
+1000738,52,Green,24,06 Nov 2020 15:00,102,23.2 million,200 thousand,Nicaragua
+1000738,52,Green,25,06 Nov 2020 21:00,102,22.4 million,200 thousand,Nicaragua
+1000738,52,Green,26,07 Nov 2020 03:00,102,24.2 million,200 thousand,Nicaragua
+1000738,52,Green,27,07 Nov 2020 09:00,102,23.9 million,200 thousand,Nicaragua
+1000738,52,Green,28,07 Nov 2020 15:00,102,28.3 million,200 thousand,Nicaragua
+1000738,52,Green,29,07 Nov 2020 18:00,102,28.3 million,200 thousand,Nicaragua
+1000738,52,Green,30,07 Nov 2020 21:00,111,25 million,200 thousand,Nicaragua
+1000738,52,Green,31,08 Nov 2020 03:00,111,25.9 million,200 thousand,Nicaragua
+1000738,52,Green,32,08 Nov 2020 09:00,111,24.7 million,200 thousand,Nicaragua
+1000738,52,Green,33,08 Nov 2020 15:00,120,24.2 million,200 thousand,Nicaragua
+1000738,52,Green,34,08 Nov 2020 21:00,120,28.7 million,200 thousand,Nicaragua
+1000738,52,Green,35,09 Nov 2020 03:00,120,30.2 million,200 thousand,Nicaragua
+1000738,52,Green,36,09 Nov 2020 09:00,120,28.5 million,200 thousand,Nicaragua
+1000738,52,Green,37,09 Nov 2020 15:00,111,28.8 million,200 thousand,Nicaragua
+1000738,52,Green,38,09 Nov 2020 21:00,111,28.2 million,200 thousand,Nicaragua
+1000738,52,Green,39,10 Nov 2020 03:00,111,28.2 million,200 thousand,Nicaragua
+1000738,52,Green,40,10 Nov 2020 09:00,111,28.7 million,200 thousand,Nicaragua
+1000738,52,Green,41,10 Nov 2020 15:00,111,28.5 million,200 thousand,Nicaragua
+1000738,52,Green,42,10 Nov 2020 21:00,111,29.2 million,200 thousand,Nicaragua
+1000738,52,Green,43,11 Nov 2020 03:00,111,30 million,200 thousand,Nicaragua
+1000738,52,Green,44,11 Nov 2020 09:00,120,29.8 million,200 thousand,Nicaragua
+1000738,52,Green,45,11 Nov 2020 15:00,120,29.9 million,1.2 million,"United States, Nicaragua"
+1000738,52,Green,46,11 Nov 2020 21:00,111,30.1 million,200 thousand,Nicaragua
+1000738,52,Green,47,12 Nov 2020 03:00,102,30.1 million,200 thousand,Nicaragua
+1000738,52,Green,48,12 Nov 2020 09:00,83,33.1 million,200 thousand,Nicaragua
+1000738,52,Green,49,12 Nov 2020 15:00,83,33.2 million,200 thousand,Nicaragua
+1000738,52,Green,50,12 Nov 2020 21:00,83,33.6 million,200 thousand,Nicaragua
+1000738,52,Green,51,13 Nov 2020 03:00,83,33.6 million,200 thousand,Nicaragua
+1000738,52,Green,52,13 Nov 2020 09:00,83,33.5 million,200 thousand,Nicaragua

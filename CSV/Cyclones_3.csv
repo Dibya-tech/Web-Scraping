@@ -1,0 +1,260 @@
+Event_id,Episode,Alert,N,Date,Category,Max_Winds,Population_in_Cat1_and_above,Population_in_Tropical_Storm_and_above,Lat/Long,Countries
+1000667,18,GREEN,1,19 Jul 2024 18:00,Tropical depression,46,no people,no people,"14.2, 130",
+1000667,18,GREEN,2,20 Jul 2024 00:00,Tropical depression,56,no people,no people,"15, 129.7",
+1000667,18,GREEN,3,20 Jul 2024 06:00,Tropical depression,56,no people,no people,"15.9, 128.4",
+1000667,18,GREEN,4,20 Jul 2024 12:00,Tropical depression,56,no people,no people,"16.7, 127.7",
+1000667,18,GREEN,5,20 Jul 2024 18:00,Tropical storm,74,no people,no people,"16.7, 126.1",
+1000667,18,GREEN,6,21 Jul 2024 00:00,Tropical storm,83,no people,no people,"16.9, 125.6",
+1000667,18,GREEN,7,21 Jul 2024 06:00,Tropical storm,93,no people,no people,"16.8, 125.7",
+1000667,18,GREEN,8,21 Jul 2024 12:00,Tropical storm,93,no people,no people,"16.9, 125.6",
+1000667,18,GREEN,9,21 Jul 2024 18:00,Tropical storm,102,no people,no people,"17, 125.7",
+1000667,18,GREEN,10,22 Jul 2024 00:00,Tropical storm,93,no people,no people,"17.6, 125.9",
+1000667,18,GREEN,11,22 Jul 2024 06:00,Tropical storm,102,no people,no people,"18.2, 125.7",
+1000667,18,GREEN,12,22 Jul 2024 12:00,Tropical storm,111,no people,120000 people,"18.4, 125.4",
+1000667,18,GREEN,13,22 Jul 2024 18:00,Category 1,130,no people,18000 people,"18.4, 124.8",
+1000667,18,GREEN,14,23 Jul 2024 00:00,Category 1,148,no people,65000 people,"20, 124.9",
+1000667,18,GREEN,15,23 Jul 2024 06:00,Category 2,167,no people,6.4 million people,"20.6, 125.1",
+1000667,18,GREEN,16,23 Jul 2024 12:00,Category 2,176,no people,24.2 million people,"21.9, 124.5",
+1000667,18,ORANGE,17,23 Jul 2024 18:00,Category 4,222,670000 people,57.2 million people,"22.8, 123.5",
+1000667,18,ORANGE,18,23 Jul 2024 18:00,Category 4,222,670000 people,57.2 million people,"22.8, 123.5",
+1000667,18,ORANGE,18,24 Jul 2024 00:00,Category 4,222,720000 people,56.6 million people,"23.5, 123.3",
+1000667,18,RED,19,24 Jul 2024 06:00,Category 4,231,12.3 million people,72.2 million people,"24.2, 122.5",
+1000667,18,RED,20,24 Jul 2024 12:00,Category 3,204,20.1 million people,90.2 million people,"23.7, 121.7",Taiwan
+1000667,18,ORANGE,21,24 Jul 2024 18:00,Category 2,176,16.3 million people,104.9 million people,"24.7, 121.4",Taiwan
+1000667,18,ORANGE,22,25 Jul 2024 00:00,Category 1,139,22.5 million people,97.3 million people,"25.1, 120.2",
+1000667,18,GREEN,23,25 Jul 2024 06:00,Tropical storm,111,no people,128 million people,"25.2, 119.8",
+1000667,18,GREEN,24,25 Jul 2024 12:00,Tropical storm,93,no people,120.6 million people,"25.6, 119.4",China
+1000667,18,GREEN,24,26 Jul 2024 00:00,Tropical storm,74,no people,112 million people,"26.7, 118.4",China
+1000667,18,GREEN,24,26 Jul 2024 12:00,Tropical depression,56,no people,no people,"28.1, 117.2",China
+1000667,18,GREEN,24,27 Jul 2024 00:00,Tropical depression,37,no people,no people,"29.3, 116.3",China
+1000673,4,ORANGE,1,02 Jun 2020 18:00,Tropical storm,74,no people,34.1 million people,"17, 71.7",India
+1000673,4,ORANGE,2,03 Jun 2020 00:00,Tropical storm,102,no people,38.5 million people,"17.2, 72.1",India
+1000673,4,RED,3,03 Jun 2020 06:00,Category 1,139,10.6 million people,61.9 million people,"17.9, 72.9",India
+1000673,4,RED,4,03 Jun 2020 12:00,Category 1,120,8.6 million people,70.5 million people,"19.1, 73.7",India
+1000673,4,ORANGE,4,04 Jun 2020 00:00,Tropical storm,83,no people,21.6 million people,"21, 75.8",India
+1000673,4,GREEN,4,04 Jun 2020 12:00,Tropical depression,56,no people,no people,"22.7, 78.2",India
+1000702,24,GREEN,1,21 Aug 2020 12:00,Tropical depression,46,no people,no people,"22, 122.2",
+1000702,24,GREEN,2,21 Aug 2020 18:00,Tropical depression,46,no people,no people,"23, 122.3",
+1000702,24,GREEN,3,22 Aug 2020 00:00,Tropical storm,65,no people,6.7 million people,"23.5, 122.7",
+1000702,24,GREEN,4,22 Aug 2020 06:00,Tropical storm,83,no people,4.8 million people,"24.3, 123.2",
+1000702,24,GREEN,5,22 Aug 2020 12:00,Tropical storm,93,no people,110000 people,"25.3, 123.8",
+1000702,24,GREEN,6,22 Aug 2020 18:00,Tropical storm,93,no people,100000 people,"25.8, 123.7",
+1000702,24,GREEN,7,23 Aug 2020 00:00,Tropical storm,102,no people,8400 people,"26.3, 123.8",
+1000702,24,GREEN,8,23 Aug 2020 06:00,Category 1,120,no people,64000 people,"26.7, 124.4",
+1000702,24,GREEN,9,23 Aug 2020 12:00,Category 1,130,no people,61000 people,"27, 125.2",
+1000702,24,GREEN,10,23 Aug 2020 18:00,Category 1,120,no people,19000 people,"27, 125.5",
+1000702,24,GREEN,11,24 Aug 2020 00:00,Category 1,130,no people,1.3 million people,"27.3, 126",
+1000702,24,GREEN,12,24 Aug 2020 06:00,Category 1,139,no people,1.3 million people,"27.8, 126.6",
+1000702,24,GREEN,13,24 Aug 2020 12:00,Category 2,176,no people,8400 people,"28.5, 126.4",
+1000702,24,GREEN,14,24 Aug 2020 18:00,Category 2,167,no people,no people,"28.6, 126.1",
+1000702,24,GREEN,15,25 Aug 2020 00:00,Category 2,167,no people,140000 people,"29.2, 125.7",
+1000702,24,GREEN,16,25 Aug 2020 06:00,Category 2,176,no people,19.4 million people,"29.9, 125.5",
+1000702,24,GREEN,17,25 Aug 2020 12:00,Category 2,176,no people,830000 people,"30.6, 125.2",
+1000702,24,GREEN,18,25 Aug 2020 18:00,Category 2,176,no people,3.1 million people,"31.3, 124.8",
+1000702,24,GREEN,19,26 Aug 2020 00:00,Category 3,185,no people,7.9 million people,"32.4, 124.5",
+1000702,24,ORANGE,20,26 Aug 2020 06:00,Category 2,176,no people,43.6 million people,"33.6, 124.4",
+1000702,24,RED,21,26 Aug 2020 12:00,Category 2,176,2.5 million people,50.5 million people,"35, 124.3",
+1000702,24,RED,22,26 Aug 2020 18:00,Category 1,148,10.9 million people,56 million people,"36.8, 124.3",
+1000702,24,RED,23,27 Aug 2020 00:00,Category 1,120,3.7 million people,58.6 million people,"39.1, 124.8",
+1000702,24,ORANGE,24,27 Aug 2020 06:00,Tropical storm,74,no people,72 million people,"41.6, 125.8",China
+1000702,24,GREEN,24,27 Aug 2020 18:00,Tropical depression,56,no people,no people,"45.1, 128.5",China
+1000702,24,GREEN,24,28 Aug 2020 06:00,Tropical depression,46,no people,no people,"46.3, 129.9",China
+1000705,24,GREEN,1,28 Aug 2020 00:00,Tropical depression,46,no people,no people,"16.8, 130.6",
+1000705,24,GREEN,2,28 Aug 2020 06:00,Tropical depression,56,no people,no people,"16.5, 129.8",
+1000705,24,GREEN,3,28 Aug 2020 12:00,Tropical storm,65,no people,no people,"16.3, 129.5",
+1000705,24,GREEN,4,28 Aug 2020 18:00,Tropical storm,83,no people,no people,"16.7, 129.4",
+1000705,24,GREEN,5,29 Aug 2020 00:00,Tropical storm,102,no people,no people,"16.4, 129.3",
+1000705,24,GREEN,6,29 Aug 2020 06:00,Tropical storm,102,no people,no people,"16.8, 129.2",
+1000705,24,GREEN,7,29 Aug 2020 12:00,Tropical storm,102,no people,no people,"16.9, 128.9",
+1000705,24,GREEN,8,29 Aug 2020 18:00,Category 1,120,no people,no people,"16.8, 128.7",
+1000705,24,GREEN,9,30 Aug 2020 00:00,Category 1,130,no people,no people,"17.1, 128.6",
+1000705,24,GREEN,10,30 Aug 2020 06:00,Category 1,139,no people,no people,"18.4, 129.1",
+1000705,24,GREEN,11,30 Aug 2020 12:00,Category 2,157,no people,no people,"19.5, 128.9",
+1000705,24,GREEN,12,30 Aug 2020 18:00,Category 2,167,no people,1.4 million people,"20.8, 128.5",
+1000705,24,GREEN,13,31 Aug 2020 00:00,Category 2,176,no people,1.4 million people,"22.5, 128.4",
+1000705,24,GREEN,14,31 Aug 2020 06:00,Category 3,185,11000 people,1.4 million people,"24.1, 127.6",
+1000705,24,GREEN,15,31 Aug 2020 12:00,Category 3,204,260000 people,1.4 million people,"25, 127.2",
+1000705,24,ORANGE,16,31 Aug 2020 18:00,Category 4,213,880000 people,1.5 million people,"26.1, 126.6",
+1000705,24,GREEN,17,01 Sep 2020 00:00,Category 4,213,8400 people,1.4 million people,"27.1, 126.2",
+1000705,24,GREEN,18,01 Sep 2020 06:00,Category 4,231,no people,1.4 million people,"27.6, 126.1",
+1000705,24,GREEN,19,01 Sep 2020 12:00,Category 4,222,no people,2.3 million people,"28.4, 126.3",
+1000705,24,GREEN,20,01 Sep 2020 18:00,Category 4,213,no people,16.2 million people,"29.4, 126.7",
+1000705,24,GREEN,21,02 Sep 2020 00:00,Category 3,194,400000 people,39.5 million people,"30.4, 127",
+1000705,24,ORANGE,22,02 Sep 2020 06:00,Category 3,185,19.3 million people,69 million people,"31.5, 127.2",
+1000705,24,RED,23,02 Sep 2020 12:00,Category 2,167,17.1 million people,90.7 million people,"33.1, 127.9",
+1000705,24,RED,24,02 Sep 2020 18:00,Category 1,139,16.7 million people,120.5 million people,"35.5, 129",Republic of Korea
+1000705,24,ORANGE,24,03 Sep 2020 06:00,Tropical storm,111,no people,122.8 million people,"41.2, 128.7",Democratic Republic of Korea
+1000705,24,GREEN,24,03 Sep 2020 18:00,Tropical storm,83,no people,no people,"45.6, 126.5",China
+1000706,29,GREEN,1,31 Aug 2020 12:00,Tropical depression,46,no people,no people,"22.9, 145.8",
+1000706,29,GREEN,2,31 Aug 2020 18:00,Tropical storm,65,no people,no people,"22.1, 144.9",
+1000706,29,GREEN,3,01 Sep 2020 00:00,Tropical storm,65,no people,no people,"21.8, 144.5",
+1000706,29,GREEN,4,01 Sep 2020 06:00,Tropical storm,74,no people,no people,"20.9, 144.4",
+1000706,29,GREEN,5,01 Sep 2020 12:00,Tropical storm,83,no people,no people,"20.5, 144.1",
+1000706,29,GREEN,6,01 Sep 2020 18:00,Tropical storm,83,no people,no people,"20.2, 143.2",
+1000706,29,GREEN,7,02 Sep 2020 00:00,Tropical storm,102,no people,no people,"19.3, 142.4",
+1000706,29,GREEN,8,02 Sep 2020 06:00,Category 1,120,no people,no people,"19.2, 141.3",
+1000706,29,GREEN,9,02 Sep 2020 12:00,Category 1,130,no people,no people,"19.5, 140.4",
+1000706,29,GREEN,10,02 Sep 2020 18:00,Category 1,139,no people,no people,"20.1, 139.3",
+1000706,29,GREEN,11,03 Sep 2020 00:00,Category 2,157,no people,no people,"20.2, 138.5",
+1000706,29,GREEN,12,03 Sep 2020 06:00,Category 2,176,no people,no people,"20.7, 137.7",
+1000706,29,GREEN,13,03 Sep 2020 12:00,Category 3,185,no people,no people,"21, 136.5",
+1000706,29,GREEN,14,03 Sep 2020 18:00,Category 4,231,no people,no people,"21.2, 135.8",
+1000706,29,GREEN,15,04 Sep 2020 00:00,Category 4,250,no people,no people,"21.7, 135.1",
+1000706,29,GREEN,16,04 Sep 2020 06:00,Category 4,250,no people,2100 people,"22.2, 134.3",
+1000706,29,GREEN,17,04 Sep 2020 12:00,Category 4,250,no people,2100 people,"22.7, 133.5",
+1000706,29,GREEN,18,04 Sep 2020 18:00,Category 4,250,2100 people,1.3 million people,"23.3, 132.7",
+1000706,29,GREEN,19,05 Sep 2020 00:00,Category 4,231,2100 people,1.4 million people,"24, 132",
+1000706,29,GREEN,20,05 Sep 2020 06:00,Category 4,213,2100 people,1.4 million people,"24.6, 131.5",
+1000706,29,GREEN,21,05 Sep 2020 12:00,Category 4,213,93000 people,3 million people,"25.4, 131",
+1000706,29,GREEN,22,05 Sep 2020 18:00,Category 3,194,100000 people,12.6 million people,"26.3, 130.7",
+1000706,29,GREEN,23,06 Sep 2020 00:00,Category 2,176,230000 people,28.8 million people,"27.5, 130.3",
+1000706,29,GREEN,24,06 Sep 2020 06:00,Category 2,176,2.7 million people,49.1 million people,"29.3, 130",
+1000706,29,GREEN,25,06 Sep 2020 12:00,Category 2,176,14.1 million people,94 million people,"30.9, 129.4",
+1000706,29,RED,26,06 Sep 2020 18:00,Category 2,157,60.5 million people,108.9 million people,"33.2, 129.1",Japan
+1000706,29,RED,27,07 Sep 2020 00:00,Category 1,120,15.1 million people,99.5 million people,"35.5, 128.9",Republic of Korea
+1000706,29,ORANGE,28,07 Sep 2020 06:00,Tropical storm,111,no people,120.2 million people,"38.3, 129",
+1000706,29,ORANGE,29,07 Sep 2020 12:00,Tropical storm,65,no people,123.1 million people,"40.7, 128.9",Democratic Republic of Korea
+1000706,29,ORANGE,29,08 Sep 2020 00:00,Tropical storm,65,no people,52.9 million people,"44, 128.5",China
+1000706,29,GREEN,29,08 Sep 2020 12:00,Tropical depression,56,no people,no people,"45.7, 128.3",China
+1000726,24,GREEN,1,04 Oct 2020 21:00,Tropical depression,56,no people,no people,"16.7, -76.6",
+1000726,24,GREEN,2,05 Oct 2020 03:00,Tropical depression,56,no people,no people,"17, -77.3",
+1000726,24,GREEN,3,05 Oct 2020 09:00,Tropical depression,56,no people,no people,"17, -78.2",
+1000726,24,GREEN,4,05 Oct 2020 15:00,Tropical storm,74,no people,no people,"16.4, -78.6",
+1000726,24,GREEN,5,05 Oct 2020 21:00,Tropical storm,111,no people,no people,"16.2, -79.4",
+1000726,24,GREEN,6,06 Oct 2020 03:00,Category 1,130,no people,13000 people,"16.8, -80.3",
+1000726,24,GREEN,7,06 Oct 2020 09:00,Category 2,157,no people,51000 people,"17.5, -81.3",
+1000726,24,GREEN,8,06 Oct 2020 15:00,Category 3,185,no people,no people,"18.2, -82.6",
+1000726,24,GREEN,9,06 Oct 2020 21:00,Category 4,231,no people,1.2 million people,"18.9, -84.1",
+1000726,24,RED,10,07 Oct 2020 03:00,Category 4,213,1.1 million people,1.5 million people,"19.5, -85.1",
+1000726,24,RED,11,07 Oct 2020 09:00,Category 3,185,1.1 million people,3.1 million people,"20.6, -86.4",
+1000726,24,ORANGE,12,07 Oct 2020 15:00,Category 2,167,98000 people,3.4 million people,"21.4, -88",Mexico
+1000726,24,GREEN,13,07 Oct 2020 21:00,Category 1,139,no people,1.9 million people,"22.1, -89.5",
+1000726,24,GREEN,14,08 Oct 2020 03:00,Category 1,148,no people,1.2 million people,"22.5, -90.9",
+1000726,24,GREEN,15,08 Oct 2020 09:00,Category 2,157,no people,no people,"23.4, -91.8",
+1000726,24,GREEN,16,08 Oct 2020 15:00,Category 2,167,no people,no people,"24, -92.7",
+1000726,24,GREEN,17,08 Oct 2020 21:00,Category 3,185,no people,no people,"24.8, -93.4",
+1000726,24,GREEN,18,09 Oct 2020 03:00,Category 3,194,no people,230000 people,"25.7, -93.6",
+1000726,24,GREEN,19,09 Oct 2020 09:00,Category 3,194,no people,3.8 million people,"26.9, -93.7",
+1000726,24,GREEN,20,09 Oct 2020 15:00,Category 3,185,240000 people,9.8 million people,"28, -93.8",
+1000726,24,GREEN,21,09 Oct 2020 21:00,Category 2,167,540000 people,11.4 million people,"29.3, -93.2",
+1000726,24,GREEN,22,10 Oct 2020 03:00,Category 1,120,460000 people,6.1 million people,"30.6, -92.6",United States
+1000726,24,GREEN,23,10 Oct 2020 09:00,Tropical storm,74,no people,1.9 million people,"31.8, -91.8",United States
+1000726,24,GREEN,24,10 Oct 2020 15:00,Tropical depression,56,no people,no people,"33.1, -90.8",United States
+1000726,24,GREEN,24,11 Oct 2020 00:00,Tropical depression,46,no people,no people,"34.1, -89.3",United States
+1000726,24,GREEN,24,11 Oct 2020 12:00,Tropical depression,37,no people,no people,"35.5, -87.4",United States
+1000726,24,GREEN,24,12 Oct 2020 00:00,Tropical depression,37,no people,no people,"37.5, -84.8",United States
+1000726,24,GREEN,24,12 Oct 2020 12:00,Tropical depression,37,no people,no people,"39.7, -82",United States
+1000734,18,GREEN,1,24 Oct 2020 00:00,Tropical depression,56,no people,no people,"12.5, 131.2",
+1000734,18,GREEN,2,24 Oct 2020 06:00,Tropical depression,56,no people,120000 people,"13.2, 129.9",
+1000734,18,GREEN,3,24 Oct 2020 12:00,Tropical storm,65,no people,no people,"13.3, 128.9",
+1000734,18,GREEN,4,24 Oct 2020 18:00,Tropical storm,65,no people,2.1 million people,"13.5, 127.8",
+1000734,18,GREEN,5,25 Oct 2020 00:00,Tropical storm,102,590000 people,8.3 million people,"13.4, 126.3",
+1000734,18,GREEN,6,25 Oct 2020 06:00,Tropical storm,111,2.3 million people,39.4 million people,"13.4, 124.9",
+1000734,18,ORANGE,7,25 Oct 2020 12:00,Category 1,120,3.6 million people,47.4 million people,"13.5, 122.9",Philippines
+1000734,18,ORANGE,8,25 Oct 2020 18:00,Category 1,139,950000 people,49 million people,"13.2, 121.8",Philippines
+1000734,18,GREEN,9,26 Oct 2020 00:00,Category 1,139,2000 people,40.4 million people,"13.3, 120.1",
+1000734,18,GREEN,10,26 Oct 2020 06:00,Category 1,148,no people,39.1 million people,"13.5, 118.9",
+1000734,18,GREEN,11,26 Oct 2020 12:00,Category 2,167,no people,68000 people,"13.3, 117.7",
+1000734,18,GREEN,12,26 Oct 2020 18:00,Category 2,167,no people,2800 people,"13.2, 115.9",
+1000734,18,GREEN,13,27 Oct 2020 00:00,Category 3,185,no people,3.7 million people,"13.3, 114.7",
+1000734,18,GREEN,14,27 Oct 2020 06:00,Category 3,204,no people,13 million people,"13.5, 113.4",
+1000734,18,RED,15,27 Oct 2020 12:00,Category 3,194,660000 people,13 million people,"13.9, 112",
+1000734,18,RED,16,27 Oct 2020 18:00,Category 3,185,1.8 million people,18.3 million people,"14.2, 111.3",
+1000734,18,RED,17,28 Oct 2020 00:00,Category 2,167,2.4 million people,20.8 million people,"14.9, 109.8",
+1000734,18,RED,18,28 Oct 2020 06:00,Category 1,130,1.5 million people,17.5 million people,"15.4, 108.5",Viet Nam
+1000734,18,ORANGE,18,28 Oct 2020 18:00,Tropical storm,65,no people,16.7 million people,"15.9, 105.8",Laos
+1000734,18,GREEN,18,29 Oct 2020 06:00,Tropical depression,37,no people,no people,"16.4, 103.1",Thailand
+1000736,37,GREEN,1,28 Oct 2020 00:00,Tropical depression,46,no people,no people,"16.6, 140.1",
+1000736,37,GREEN,2,28 Oct 2020 06:00,Tropical depression,56,no people,no people,"16.6, 139.5",
+1000736,37,GREEN,3,28 Oct 2020 12:00,Tropical storm,65,no people,no people,"16.6, 138.7",
+1000736,37,GREEN,4,28 Oct 2020 18:00,Tropical storm,65,no people,no people,"16.6, 137.5",
+1000736,37,GREEN,5,29 Oct 2020 00:00,Tropical storm,102,no people,no people,"16.5, 136.6",
+1000736,37,GREEN,6,29 Oct 2020 06:00,Category 1,130,no people,no people,"16.8, 135.8",
+1000736,37,GREEN,7,29 Oct 2020 12:00,Category 1,148,no people,no people,"16.7, 134.6",
+1000736,37,GREEN,8,29 Oct 2020 18:00,Category 4,222,no people,no people,"16.3, 133.4",
+1000736,37,GREEN,9,30 Oct 2020 00:00,Category 4,231,no people,no people,"16.3, 132.7",
+1000736,37,GREEN,10,30 Oct 2020 06:00,Category 5,278,no people,no people,"16.3, 131.6",
+1000736,37,GREEN,11,30 Oct 2020 12:00,Category 5,287,no people,no people,"16.1, 130.9",
+1000736,37,GREEN,12,30 Oct 2020 18:00,Category 5,287,no people,no people,"15.8, 129.9",
+1000736,37,GREEN,13,31 Oct 2020 00:00,Category 5,296,no people,120000 people,"15.3, 128.8",
+1000736,37,GREEN,14,31 Oct 2020 06:00,Category 5,287,no people,6.5 million people,"14.7, 127.6",
+1000736,37,RED,15,31 Oct 2020 12:00,Category 5,287,330000 people,8 million people,"14.2, 126.5",
+1000736,37,RED,16,31 Oct 2020 18:00,Category 5,315,4.5 million people,42.1 million people,"13.7, 125.1",
+1000736,37,RED,17,01 Nov 2020 00:00,Category 4,213,10.1 million people,49.3 million people,"13.5, 123.6",Philippines
+1000736,37,ORANGE,18,01 Nov 2020 06:00,Category 1,139,14 million people,50.6 million people,"13.6, 122.5",Philippines
+1000736,37,GREEN,19,01 Nov 2020 12:00,Tropical storm,111,no people,40.8 million people,"14.1, 121.2",Philippines
+1000736,37,GREEN,20,01 Nov 2020 18:00,Tropical storm,102,no people,41.7 million people,"14.7, 119.5",
+1000736,37,GREEN,21,02 Nov 2020 00:00,Tropical storm,74,no people,4.5 million people,"14.9, 118.5",
+1000736,37,GREEN,22,02 Nov 2020 06:00,Tropical depression,56,no people,no people,"15.3, 118",
+1000736,37,GREEN,23,02 Nov 2020 12:00,Tropical depression,56,no people,no people,"15.1, 116.8",
+1000736,37,GREEN,24,02 Nov 2020 18:00,Tropical storm,65,no people,no people,"15.1, 115.8",
+1000736,37,GREEN,25,03 Nov 2020 00:00,Tropical storm,65,no people,no people,"14.8, 115.4",
+1000736,37,GREEN,26,03 Nov 2020 06:00,Tropical storm,65,no people,no people,"14.7, 115.1",
+1000736,37,GREEN,27,03 Nov 2020 12:00,Tropical storm,65,no people,no people,"14.7, 114.6",
+1000736,37,GREEN,28,03 Nov 2020 18:00,Tropical storm,65,no people,no people,"14.6, 114.2",
+1000736,37,GREEN,29,04 Nov 2020 00:00,Tropical storm,65,no people,no people,"14.4, 113.4",
+1000736,37,GREEN,30,04 Nov 2020 06:00,Tropical storm,65,no people,no people,"14.4, 113.3",
+1000736,37,GREEN,31,04 Nov 2020 12:00,Tropical storm,65,no people,<1000 people,"14.3, 112.6",
+1000736,37,GREEN,32,04 Nov 2020 18:00,Tropical storm,74,no people,no people,"14.2, 112.5",
+1000736,37,GREEN,33,05 Nov 2020 00:00,Tropical storm,74,no people,no people,"14, 111.9",
+1000736,37,GREEN,34,05 Nov 2020 06:00,Tropical storm,65,no people,1.6 million people,"14, 111.4",
+1000736,37,GREEN,35,05 Nov 2020 12:00,Tropical depression,56,no people,no people,"14, 111.2",
+1000736,37,GREEN,36,05 Nov 2020 18:00,Tropical depression,56,no people,no people,"14, 110.3",
+1000736,37,GREEN,37,06 Nov 2020 00:00,Tropical depression,56,no people,no people,"13.9, 109.2",Viet Nam
+1000736,37,GREEN,37,06 Nov 2020 12:00,Tropical depression,46,no people,no people,"13.6, 106.8",Cambodia
+1000736,37,GREEN,37,07 Nov 2020 00:00,Tropical depression,37,no people,no people,"13.3, 104.5",Cambodia
+1000738,52,GREEN,1,31 Oct 2020 21:00,Tropical depression,56,no people,no people,"15, -73.2",
+1000738,52,GREEN,2,01 Nov 2020 03:00,Tropical storm,65,no people,no people,"15, -74.2",
+1000738,52,GREEN,3,01 Nov 2020 09:00,Tropical storm,65,no people,no people,"15.2, -75.7",
+1000738,52,GREEN,4,01 Nov 2020 15:00,Tropical storm,65,no people,no people,"14.8, -77.2",
+1000738,52,GREEN,5,01 Nov 2020 21:00,Tropical storm,102,no people,<1000 people,"14.9, -78.9",
+1000738,52,GREEN,6,02 Nov 2020 03:00,Tropical storm,111,no people,25000 people,"14.9, -80",
+1000738,52,GREEN,7,02 Nov 2020 09:00,Category 1,120,no people,210000 people,"14.8, -80.9",
+1000738,52,GREEN,8,02 Nov 2020 15:00,Category 2,176,no people,210000 people,"14.8, -81.5",
+1000738,52,ORANGE,9,02 Nov 2020 21:00,Category 4,213,69000 people,460000 people,"14.5, -82.3",
+1000738,52,ORANGE,10,03 Nov 2020 03:00,Category 4,241,69000 people,660000 people,"14.1, -82.7",
+1000738,52,ORANGE,11,03 Nov 2020 09:00,Category 4,241,81000 people,940000 people,"13.8, -83.1",
+1000738,52,ORANGE,12,03 Nov 2020 15:00,Category 4,231,26000 people,920000 people,"13.6, -83.2",
+1000738,52,RED,13,03 Nov 2020 21:00,Category 4,222,130000 people,900000 people,"13.8, -83.5",Nicaragua
+1000738,52,ORANGE,14,04 Nov 2020 03:00,Category 2,167,130000 people,2.1 million people,"13.8, -84",Nicaragua
+1000738,52,GREEN,15,04 Nov 2020 09:00,Tropical storm,111,no people,2.4 million people,"13.8, -84.7",Nicaragua
+1000738,52,GREEN,16,04 Nov 2020 15:00,Tropical storm,83,no people,5 million people,"13.9, -85.2",Nicaragua
+1000738,52,GREEN,17,04 Nov 2020 21:00,Tropical storm,65,no people,2.7 million people,"13.9, -85.7","Nicaragua, Honduras"
+1000738,52,GREEN,18,05 Nov 2020 03:00,Tropical depression,56,no people,no people,"14.2, -86.3",Honduras
+1000738,52,GREEN,19,05 Nov 2020 09:00,Tropical depression,46,no people,no people,"14.5, -87",Honduras
+1000738,52,GREEN,20,05 Nov 2020 15:00,Tropical depression,46,no people,no people,"15.1, -87.8",Honduras
+1000738,52,GREEN,21,05 Nov 2020 21:00,Tropical depression,56,no people,no people,"15.7, -87.7",Honduras
+1000738,52,GREEN,22,06 Nov 2020 03:00,Tropical depression,56,no people,1700 people,"16.6, -87.8",
+1000738,52,GREEN,23,06 Nov 2020 09:00,Tropical depression,56,no people,no people,"17.3, -87.4",
+1000738,52,GREEN,24,06 Nov 2020 15:00,Tropical depression,56,no people,no people,"17.8, -87",
+1000738,52,GREEN,25,06 Nov 2020 21:00,Tropical depression,56,no people,no people,"17.3, -86.5",
+1000738,52,GREEN,26,07 Nov 2020 03:00,Tropical depression,56,no people,no people,"18, -85.2",
+1000738,52,GREEN,27,07 Nov 2020 09:00,Tropical depression,56,no people,no people,"18.3, -84.9",
+1000738,52,GREEN,28,07 Nov 2020 15:00,Tropical storm,65,no people,180000 people,"19.6, -81.8",
+1000738,52,GREEN,29,07 Nov 2020 18:00,Tropical storm,93,no people,180000 people,"20, -81.1",
+1000738,52,GREEN,30,07 Nov 2020 21:00,Tropical storm,93,no people,2.6 million people,"20.4, -80.7",
+1000738,52,GREEN,31,08 Nov 2020 03:00,Tropical storm,102,no people,4 million people,"20.7, -79.9",
+1000738,52,GREEN,32,08 Nov 2020 09:00,Tropical storm,102,no people,7 million people,"21.5, -79.3",Cuba
+1000738,52,GREEN,33,08 Nov 2020 15:00,Tropical storm,102,no people,12.6 million people,"22.5, -79.2",Cuba
+1000738,52,GREEN,34,08 Nov 2020 21:00,Tropical storm,102,no people,14.1 million people,"23.9, -79.5",
+1000738,52,GREEN,35,09 Nov 2020 03:00,Tropical storm,102,no people,23.5 million people,"24.6, -80.5",
+1000738,52,GREEN,36,09 Nov 2020 09:00,Tropical storm,102,no people,23.7 million people,"25.2, -82",
+1000738,52,GREEN,37,09 Nov 2020 15:00,Tropical storm,93,no people,3.7 million people,"24.6, -83.4",
+1000738,52,GREEN,38,09 Nov 2020 21:00,Tropical storm,83,no people,750000 people,"23.7, -84.8",
+1000738,52,GREEN,39,10 Nov 2020 03:00,Tropical storm,83,no people,440000 people,"23.2, -85.2",
+1000738,52,GREEN,40,10 Nov 2020 09:00,Tropical storm,83,no people,no people,"22.9, -85.5",
+1000738,52,GREEN,41,10 Nov 2020 15:00,Tropical storm,93,no people,no people,"22.7, -85.3",
+1000738,52,GREEN,42,10 Nov 2020 21:00,Tropical storm,93,no people,no people,"23.2, -85.1",
+1000738,52,GREEN,43,11 Nov 2020 03:00,Tropical storm,102,no people,no people,"23.8, -84.5",
+1000738,52,GREEN,44,11 Nov 2020 09:00,Tropical storm,111,no people,85000 people,"25, -84.1",
+1000738,52,GREEN,45,11 Nov 2020 15:00,Category 1,120,980000 people,4.8 million people,"26.2, -83.7",
+1000738,52,GREEN,46,11 Nov 2020 21:00,Tropical storm,111,no people,6 million people,"27.3, -83.6",
+1000738,52,GREEN,47,12 Nov 2020 03:00,Tropical storm,102,no people,6.7 million people,"28.3, -83.4",
+1000738,52,GREEN,48,12 Nov 2020 09:00,Tropical storm,83,no people,9.5 million people,"29.1, -83",United States
+1000738,52,GREEN,49,12 Nov 2020 15:00,Tropical storm,74,no people,6.3 million people,"30.2, -81.8",United States
+1000738,52,GREEN,50,12 Nov 2020 21:00,Tropical storm,65,no people,3.9 million people,"31.6, -80.6",
+1000738,52,GREEN,51,13 Nov 2020 03:00,Tropical storm,74,no people,2.3 million people,"32.3, -79",
+1000738,52,GREEN,52,13 Nov 2020 09:00,Tropical storm,74,no people,800000 people,"33.3, -76.8",
+1000738,52,GREEN,52,13 Nov 2020 18:00,Tropical storm,74,no people,<1000 people,"35, -73.1",
+1000738,52,GREEN,52,14 Nov 2020 06:00,Tropical storm,83,no people,no people,"37.9, -66.1",
+1000738,52,GREEN,52,14 Nov 2020 18:00,Tropical storm,83,no people,no people,"41.1, -57.8",

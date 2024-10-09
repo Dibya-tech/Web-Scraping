@@ -1,0 +1,53 @@
+Event_id,Episode,Name,LOCODE,Country,Distance
+1012119,3,Tome,CLTOM,Chile,10 km
+1012119,3,Lirquen,CLLQN,Chile,12 km
+1012119,3,Talcahuano,CLTAL,Chile,22 km
+1012119,3,Talca,CLTLX,Chile,22 km
+1012119,3,San Vicente,CLSVE,Chile,26 km
+1012119,3,Coronel,CLCNL,Chile,50 km
+1012119,3,Lota,CLLTA,Chile,57 km
+1019173,4,Valparaiso,CLVAP,Chile,16 km
+1019173,4,Quintero,CLQTV,Chile,40 km
+1019173,4,San Antonio,CLSAI,Chile,51 km
+1019173,4,Papudo,,Chile,71 km
+1021078,5,Rafina,GRRAF,Greece,17 km
+1021078,5,Oropos,GRORO,Greece,22 km
+1021078,5,Milaki,GRMYL,Greece,26 km
+1021078,5,Amarinthos,,Greece,27 km
+1021078,5,Nea Psara,,Greece,29 km
+1021078,5,Aliverion,GRALV,Greece,29 km
+1021078,5,Ormos Raftis,,Greece,32 km
+1021078,5,Athinai,GRATH,Greece,32 km
+1021078,5,Piraeus,GRPIR,Greece,34 km
+1021078,5,Eleusis,GREEU,Greece,35 km
+1021078,5,Lefkandion,GRLEF,Greece,36 km
+1021078,5,Skaramanga,GRSKA,Greece,37 km
+1021078,5,Drapetzona,GRDPA,Greece,38 km
+1021078,5,Saint George,GRDPA,Greece,38 km
+1021078,5,Perama,GRPER,Greece,38 km
+1021078,5,Ormos Avlaki,,Greece,43 km
+1021078,5,Salamis,GRSAL,Greece,43 km
+1021078,5,Dhiavlos Steno,,Greece,44 km
+1021078,5,Karistos,,Greece,46 km
+1021078,5,Lavrion (Laurium),GRLAV,Greece,50 km
+1021078,5,Megara,GRMGR,Greece,50 km
+1021078,5,Vrisakia,,Greece,55 km
+1021078,5,Megara Oil Terminal,,Greece,55 km
+1021078,5,Kymi (Kimi),GRKIM,Greece,56 km
+1021078,5,Aegina Island,,Greece,63 km
+1021078,5,Ormos Ayiou Nikolaou,GRZEA,Greece,64 km
+1021078,5,Larimna,,Greece,72 km
+1021078,5,Pilion,,Greece,74 km
+1021078,5,Aghios Yeoriyos,,Greece,76 km
+1021078,5,Gavrion,GRGAV,Greece,77 km
+1021078,5,Agioi Theodoroi,GRAGT,Greece,78 km
+1021078,5,Kymassi,GRKYM,Greece,81 km
+1021078,5,Poros,,Greece,83 km
+1021078,5,Isthmia,GRITM,Greece,84 km
+1021078,5,Limni,GRLII,Greece,86 km
+1021078,5,Yiaros,,Greece,89 km
+1021078,5,Ormos Pevko,,Greece,92 km
+1021078,5,Merikhas,,Greece,93 km
+1021078,5,Idhra Island,GRHYD,Greece,98 km
+1021078,5,Skantzoura,,Greece,104 km
+1021078,5,Ormos Skopelou,GRSKO,Greece,109 km

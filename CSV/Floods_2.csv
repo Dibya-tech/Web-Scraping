@@ -1,0 +1,43 @@
+Event_id,Episode,SendAI Indicator A,N,Country,Location
+1100902,1,death,2,India,Odisha
+1100902,1,death,8,India,Tamil Nadu
+1100932,7,death,12,China,Zhengzhou
+1100932,7,death,33,China,Henan
+1100932,7,death,63,China,Henan
+1100932,7,death,2,China,Taiyuan
+1100977,26,death,14,India,Vikhroli
+1100977,26,death,6,India,Chembur
+1100977,26,death,5,India,Thane
+1100977,26,death,6,India,Kangra district
+1100977,26,death,9,India,Karnataka
+1100977,26,death,7,India,Govandi
+1100977,26,death,5,India,Mahad
+1100977,26,death,192,India,Maharashtra
+1100977,26,death,14,India,West Bengal
+1100977,26,death,2,India,South Sikkim district
+1100977,26,death,9,India,Kinnaur
+1100977,26,death,7,India,Lahaul And Spiti
+1100977,26,death,3,India,Madhya Pradesh
+1100977,26,death,24,India,Madhya Pradesh
+1100977,26,death,7,India,Bundi
+1100977,26,death,12,India,Bihar
+1100977,26,death,5,China,Sarang
+1100977,26,death,2,India,Kothagudem
+1100977,26,death,1,India,Warangal
+1100977,26,death,2,India,West Godavari
+1100977,26,death,10,India,West Bengal
+1100977,26,death,52,India,Uttar Pradesh
+1100977,26,death,1,India,Vikarabad
+1100977,26,death,11,India,West Bengal
+1100977,26,death,7,India,Kishtwar District
+1100977,26,death,1,India,Chalisgaon
+1100977,26,death,1,India,Belonia
+1100977,26,missing,2,India,Gairsain
+1100977,26,missing,19,India,Kishtwar District
+1100977,26,missing,15,India,Mokhada
+1101522,1,death,1061,Pakistan,"Gilgit-Baltistan, Azad Kashmir, Punjab, Khyber Pakhtunkhwa, Sindh, Balochistan"
+1101659,5,death,2,Nigeria,Lagos
+1101659,5,death,603,Nigeria,-
+1102000,1,death,41,Myanmar,"Sittwe Township, Sittwe District"
+1102204,2,death,5300,Libya,"Darnah, Susah, Derna, Benghazi"
+1102204,2,missing,10000,Libya,"Susah, Benghazi, Derna, Darnah"

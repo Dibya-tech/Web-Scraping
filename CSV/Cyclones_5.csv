@@ -1,0 +1,156 @@
+Event_id,Episode,Region_Province,Country
+1000667,18,Fujian,China
+1000667,18,Taiwan,Taiwan
+1000667,18,Zhejiang,China
+1000667,18,Guangdong,China
+1000667,18,Jiangxi,China
+1000667,18,Anhui,China
+1000667,18,Okinawa,Japan
+1000667,18,Hubei,China
+1000667,18,Cagayan Valley,Philippines
+1000667,18,Ilocos,Philippines
+1000667,18,Cordillera Administrative Region,Philippines
+1000673,4,Maharashtra,India
+1000702,24,Jilin,China
+1000702,24,Liaoning,China
+1000702,24,Chagang-do,Democratic Republic of Korea
+1000702,24,Yanggang-do,Democratic Republic of Korea
+1000702,24,P'yongan-bukto,Democratic Republic of Korea
+1000702,24,Hamgyong-namdo,Democratic Republic of Korea
+1000702,24,P'yongan-namdo,Democratic Republic of Korea
+1000702,24,Nei Mongol,China
+1000702,24,Hamgyong-bukto,Democratic Republic of Korea
+1000702,24,P'yongyang-si,Democratic Republic of Korea
+1000702,24,Kangwon-do,Democratic Republic of Korea
+1000702,24,Hwanghae-bukto,Democratic Republic of Korea
+1000702,24,Heilongjiang,China
+1000702,24,Hwanghae-namdo,Democratic Republic of Korea
+1000702,24,Kaesong-si,Democratic Republic of Korea
+1000702,24,Kangwon-do,Republic of Korea
+1000702,24,Kyonggi-do,Republic of Korea
+1000702,24,Primorskiy kray,Russian Federation
+1000702,24,Seoul-jikhalsi,Republic of Korea
+1000702,24,Inch'on-jikhalsi,Republic of Korea
+1000702,24,Ch'ungch'ong-namdo,Republic of Korea
+1000702,24,Shandong,China
+1000702,24,Cholla-bukto,Republic of Korea
+1000702,24,Cholla-namdo,Republic of Korea
+1000702,24,Kwangju-jikhalsi,Republic of Korea
+1000702,24,Kyushu,Japan
+1000702,24,Cheju-do,Republic of Korea
+1000702,24,Jiangsu,China
+1000702,24,Shanghai,China
+1000702,24,Okinawa,Japan
+1000702,24,Taiwan,China
+1000705,24,Kyongsang-namdo,Republic of Korea
+1000705,24,Kyongsang-bukto,Republic of Korea
+1000705,24,Pusan-jikhalsi,Republic of Korea
+1000705,24,Taegu-jikhalsi,Republic of Korea
+1000705,24,Kyushu,Japan
+1000705,24,Ch'ungch'ong-bukto,Republic of Korea
+1000705,24,Cholla-namdo,Republic of Korea
+1000705,24,Kangwon-do,Republic of Korea
+1000705,24,Cheju-do,Republic of Korea
+1000705,24,Kangwon-do,Democratic Republic of Korea
+1000705,24,Hamgyong-namdo,Democratic Republic of Korea
+1000705,24,Yanggang-do,Democratic Republic of Korea
+1000705,24,Hamgyong-bukto,Democratic Republic of Korea
+1000705,24,Jilin,China
+1000705,24,Okinawa,Japan
+1000706,29,Hamgyong-namdo,Democratic Republic of Korea
+1000706,29,Hamgyong-bukto,Democratic Republic of Korea
+1000706,29,Yanggang-do,Democratic Republic of Korea
+1000706,29,Jilin,China
+1000706,29,Chagang-do,Democratic Republic of Korea
+1000706,29,P'yongan-namdo,Democratic Republic of Korea
+1000706,29,Kangwon-do,Democratic Republic of Korea
+1000706,29,P'yongan-bukto,Democratic Republic of Korea
+1000706,29,Primorskiy kray,Russian Federation
+1000706,29,Kangwon-do,Republic of Korea
+1000706,29,Hwanghae-bukto,Democratic Republic of Korea
+1000706,29,Liaoning,China
+1000706,29,P'yongyang-si,Democratic Republic of Korea
+1000706,29,Kyonggi-do,Republic of Korea
+1000706,29,Heilongjiang,China
+1000706,29,Kaesong-si,Democratic Republic of Korea
+1000706,29,Hwanghae-namdo,Democratic Republic of Korea
+1000706,29,Seoul-jikhalsi,Republic of Korea
+1000706,29,Ch'ungch'ong-bukto,Republic of Korea
+1000706,29,Kyongsang-bukto,Republic of Korea
+1000706,29,Inch'on-jikhalsi,Republic of Korea
+1000706,29,Ch'ungch'ong-namdo,Republic of Korea
+1000706,29,Nei Mongol,China
+1000706,29,Taegu-jikhalsi,Republic of Korea
+1000706,29,Cholla-bukto,Republic of Korea
+1000706,29,Kyongsang-namdo,Republic of Korea
+1000706,29,Pusan-jikhalsi,Republic of Korea
+1000706,29,Cholla-namdo,Republic of Korea
+1000706,29,Chugoku,Japan
+1000706,29,Kwangju-jikhalsi,Republic of Korea
+1000706,29,Kyushu,Japan
+1000706,29,Kinki,Japan
+1000706,29,Shikoku,Japan
+1000706,29,Cheju-do,Republic of Korea
+1000706,29,Okinawa,Japan
+1000726,24,Mississippi,United States
+1000726,24,Arkansas,United States
+1000726,24,Louisiana,United States
+1000726,24,Texas,United States
+1000726,24,Yucatan,Mexico
+1000726,24,Quintana Roo,Mexico
+1000726,24,Pinar del Rio,Cuba
+1000726,24,Campeche,Mexico
+1000734,18,Quang Nam-Da Nang,Viet Nam
+1000734,18,Quang Ngai,Viet Nam
+1000734,18,Kon Tum,Viet Nam
+1000734,18,Xekong,Laos
+1000734,18,Binh Dinh,Viet Nam
+1000734,18,Saravan,Laos
+1000734,18,Savannakhet,Laos
+1000734,18,Southern Tagalog,Philippines
+1000734,18,Bicol,Philippines
+1000736,37,Southern Tagalog,Philippines
+1000736,37,Ilocos,Philippines
+1000736,37,Central Luzon,Philippines
+1000736,37,Cordillera Administrative Region,Philippines
+1000736,37,National Capital Region,Philippines
+1000736,37,Cagayan Valley,Philippines
+1000736,37,Western Visayas,Philippines
+1000736,37,Bicol,Philippines
+1000736,37,Central Visayas,Philippines
+1000736,37,Eastern Visayas,Philippines
+1000738,52,North Carolina,United States
+1000738,52,South Carolina,United States
+1000738,52,Georgia,United States
+1000738,52,Florida,United States
+1000738,52,Bahamas,Bahamas
+1000738,52,Villa Clara,Cuba
+1000738,52,Matanzas,Cuba
+1000738,52,Ciego de Avila,Cuba
+1000738,52,Camaguey,Cuba
+1000738,52,La Habana,Cuba
+1000738,52,Sancti Spiritus,Cuba
+1000738,52,Ciudad de la Habana,Cuba
+1000738,52,Cienfuegos,Cuba
+1000738,52,Pinar del Rio,Cuba
+1000738,52,Las Tunas,Cuba
+1000738,52,Isla de la Juventud,Cuba
+1000738,52,Cayman Is.,Cayman Islands
+1000738,52,Gracias a Dios,Honduras
+1000738,52,Colon,Honduras
+1000738,52,Zelaya,Nicaragua
+1000738,52,Olancho,Honduras
+1000738,52,Jinotega,Nicaragua
+1000738,52,Francisco Morazan,Honduras
+1000738,52,El Paraiso,Honduras
+1000738,52,Nueva Segovia,Nicaragua
+1000738,52,San Andres y Providencia,Colombia
+1000738,52,Madriz,Nicaragua
+1000738,52,Matagalpa,Nicaragua
+1000738,52,Choluteca,Honduras
+1000738,52,Esteli,Nicaragua
+1000738,52,Boaco,Nicaragua
+1000738,52,Chinandega,Nicaragua
+1000738,52,Leon,Nicaragua
+1000738,52,Chontales,Nicaragua
+1000738,52,Managua,Nicaragua

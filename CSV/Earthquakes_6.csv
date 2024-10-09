@@ -1,0 +1,111 @@
+Event_id,Episode,Name,IATA Code,Elevation,Usage,Runway Type,IFR,Runway Length,Distance
+1269679,1376314,Dali,DLU,2155,,,,0,34 km
+1269679,1376314,Xiangyun,,1954,,,,0,81 km
+1281677,1391652,Les Cayes,CYA,30,,,,0,36 km
+1281677,1391652,Jeremie,JEE,45,Civ.,Unpaved,No,3900,78 km
+1307299,1422907,Les Cayes,CYA,30,,,,0,53 km
+1307299,1422907,Jacmel,JAK,44,Civ.,Unpaved,No,3900,90 km
+1307299,1422907,Jeremie,JEE,45,Civ.,Unpaved,No,3900,90 km
+1327560,1449790,Khost,KHT,1172,Civ.,Unpaved,No,6500,49 km
+1327560,1449790,Miram Shah,,933,,,,0,52 km
+1327560,1449790,Sarhawdza,,2152,,,,0,65 km
+1327560,1449790,Gardez,GRG,unknown,,,,0,69 km
+1327560,1449790,Wana,WAF,1387,,,,0,88 km
+1327560,1449790,Bannu,BNP,404,Civ.,Paved,Yes,6000,96 km
+1337179,1461351,Lowai,LWI,unknown,,,,0,14 km
+1337179,1461351,Yalumet,KYX,unknown,,,,0,20 km
+1337179,1461351,Wantoat,WTT,unknown,,,,0,24 km
+1337179,1461351,Kaiapit,KIA,unknown,,,,0,24 km
+1337179,1461351,Dinangat,DNU,unknown,,,,0,25 km
+1337179,1461351,Kisengan,KSG,unknown,,,,0,29 km
+1337179,1461351,Sapmanga,SMH,unknown,,,,0,36 km
+1337179,1461351,Gnarowein,GWN,unknown,,,,0,42 km
+1337179,1461351,Derim,DER,unknown,,,,0,42 km
+1337179,1461351,Boana,BNV,unknown,,,,0,42 km
+1337179,1461351,Nadzab,LAE,70,,,,0,45 km
+1337179,1461351,Nankina,NKN,unknown,,,,0,47 km
+1337179,1461351,Yasuru,KSX,unknown,,,,0,49 km
+1337179,1461351,Bawan,BWJ,unknown,,,,0,50 km
+1337179,1461351,Baindoung,BDZ,unknown,,,,0,54 km
+1337179,1461351,Arona,AON,unknown,,,,0,56 km
+1337179,1461351,Gusap,GAP,459,,,,0,60 km
+1337179,1461351,Kasanombe,KSB,unknown,,,,0,62 km
+1337179,1461351,Aiyura,AYU,unknown,,,,0,64 km
+1337179,1461351,Imane,IMN,unknown,,,,0,65 km
+1337179,1461351,Tsili Tsili,TSI,unknown,,,,0,67 km
+1337179,1461351,Indagen,IDN,unknown,,,,0,67 km
+1337179,1461351,Wagau,WGU,unknown,,,,0,70 km
+1337179,1461351,Saidor,SDI,27,,,,0,71 km
+1337179,1461351,Biliau,BIJ,unknown,,,,0,76 km
+1337179,1461351,Zenag,ZEN,unknown,,,,0,78 km
+1337179,1461351,Tauta,TUT,unknown,,,,0,79 km
+1337179,1461351,Engati,EGA,unknown,,,,0,84 km
+1337179,1461351,Singaua,SGB,unknown,,,,0,88 km
+1337179,1461351,Wonenara,WOA,unknown,,,,0,88 km
+1337179,1461351,Teptep,TEP,unknown,,,,0,89 km
+1337179,1461351,Wasu,WSU,unknown,,,,0,91 km
+1337179,1461351,Tsewi,TSW,unknown,,,,0,92 km
+1337179,1461351,Dumpu,DPU,unknown,,,,0,92 km
+1337179,1461351,Ogeranang,OGE,unknown,,,,0,98 km
+1347183,1474345,Batujajar,,760,,,,0,43 km
+1347183,1474345,Husein Sastranegara,BDO,741,Civ.,Paved,Yes,6400,54 km
+1347183,1474345,Pondok Cabe,PCB,61,,,,0,68 km
+1347183,1474345,Halim Perdanakusuma International,HLP,26,Civ.,Paved,Yes,9800,69 km
+1347183,1474345,Rumpin,,68,,,,0,74 km
+1347183,1474345,Pulau Panjang,PPJ,unknown,,,,0,81 km
+1347183,1474345,Budiarto,,46,Civ.,Paved,No,5900,85 km
+1347183,1474345,Soekarno Hatta International,CGK,10,Civ.,Paved,Yes,12000,94 km
+1357372,1487096,Kahramanmaras,KCM,523,Civ.,Paved,Yes,7500,41 km
+1357372,1487096,Gaziantep,GZT,706,Civ.,Paved,Yes,9100,47 km
+1357372,1487096,Minakh,,498,,,,0,72 km
+1357560,1487318,Kahramanmaras,KCM,523,Civ.,Paved,Yes,7500,58 km
+1357560,1487318,Malatya,MLX,862,Civ.,Paved,Yes,10900,90 km
+1357560,1487318,Malatya,,919,,,,0,99 km
+1365556,1496206,Maragrosa,,5,,,,0,7 km
+1365556,1496206,Guabital,,8,,,,0,21 km
+1365556,1496206,La Mina,,4,,,,0,42 km
+1365556,1496206,Posorja,,5,,,,0,46 km
+1365556,1496206,General Serrano,MCH,4,Civ.,Paved,Yes,5400,50 km
+1365556,1496206,Banasur,,9,,,,0,57 km
+1365556,1496206,Taura,,17,,,,0,68 km
+1365556,1496206,La Puntilla,,14,,,,0,68 km
+1365556,1496206,Victor Larrea,,52,Civ.,Paved,No,3400,68 km
+1365556,1496206,Simon Bolivar International,GYE,5,Civ.,Paved,Yes,8000,74 km
+1365556,1496206,La Carolina,,23,,,,0,77 km
+1365556,1496206,San Carlos,,30,,,,0,87 km
+1365556,1496206,Mariscal Lamar,CUE,2530,Civ.,Paved,Yes,6200,98 km
+1365556,1496206,Pedro Canga,TBP,25,Civ.,Unpaved,Yes,8200,99 km
+1390643,1524529,Sidi Zouine,,375,,,,0,63 km
+1390643,1524529,Marrakech Menara,RAK,468,Civ.,Paved,Yes,10100,68 km
+1390643,1524529,Taroudant,,264,Civ.,Unpaved,No,4900,76 km
+1394952,1529360,Herat,HEA,977,Civ.,Paved,Yes,8200,53 km
+1394952,1529360,Morgunovskiy,,581,,,,0,91 km
+1394958,1529364,Herat,HEA,977,Civ.,Paved,Yes,8200,50 km
+1394958,1529364,Morgunovskiy,,581,,,,0,95 km
+1394961,1529363,Herat,HEA,977,Civ.,Paved,Yes,8200,53 km
+1394961,1529363,Morgunovskiy,,581,,,,0,81 km
+1395488,1529996,Herat,HEA,977,Civ.,Paved,Yes,8200,44 km
+1395488,1529996,Morgunovskiy,,581,,,,0,88 km
+1396085,1530685,Herat,HEA,977,Civ.,Paved,Yes,8200,46 km
+1396085,1530685,Morgunovskiy,,581,,,,0,84 km
+1398938,1534231,Rukumkot,RUK,unknown,,,,0,14 km
+1398938,1534231,Jumla,JUM,unknown,,,,0,47 km
+1398938,1534231,Rolpa,RPA,unknown,,,,0,48 km
+1398938,1534231,Surkhet,SKH,732,Civ.,Unpaved,No,3400,61 km
+1398938,1534231,Dolpa,DOP,unknown,,,,0,64 km
+1398938,1534231,Dang,DNP,unknown,,,,0,82 km
+1398938,1534231,Nepalgunj,KEP,165,Civ.,Paved,Yes,5000,97 km
+1406601,1543048,Lanzhou Lanzhoudon,LZD,unknown,,,,0,81 km
+1406601,1543048,Lanzhou,LHW,unknown,,,,0,87 km
+1406601,1543048,,,1676,,,,0,98 km
+1420849,1560728,Ambunti,AUJ,unknown,,,,0,36 km
+1420849,1560728,Timbunke,TBE,unknown,,,,0,40 km
+1420849,1560728,Hayfield,,131,,,,0,50 km
+1420849,1560728,Hayfields,HYF,unknown,,,,0,57 km
+1420849,1560728,Amboin,AMG,unknown,,,,0,63 km
+1420849,1560728,Munduku Mid Caicos,MDM,unknown,,,,0,63 km
+1420849,1560728,Sepik Plains,SPV,unknown,,,,0,64 km
+1420849,1560728,April River,APR,unknown,,,,0,83 km
+1420849,1560728,Wewak International,WWK,6,,,,0,84 km
+1420849,1560728,Nuku,UKU,unknown,,,,0,92 km
+1420849,1560728,Simbai,SIM,unknown,,,,0,95 km

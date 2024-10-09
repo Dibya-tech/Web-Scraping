@@ -1,0 +1,31 @@
+Event_id,Episode,Radius,Population
+1012119,3,Radius,Population
+1012119,3,10 km,120000 people
+1012119,3,5 km,63000 people
+1012119,3,2 km,52000 people
+1012119,3,1 km,33000 people
+1012119,3,Burned Area,3900 people
+1018546,5,Radius,Population
+1018546,5,10 km,<1000 people
+1018546,5,5 km,<1000 people
+1018546,5,2 km,<1000 people
+1018546,5,1 km,<1000 people
+1018546,5,Burned Area,<1000 people
+1019173,4,Radius,Population
+1019173,4,10 km,650000 people
+1019173,4,5 km,280000 people
+1019173,4,2 km,55000 people
+1019173,4,1 km,22000 people
+1019173,4,Burned Area,<1000 people
+1019635,2,Radius,Population
+1019635,2,10 km,1300 people
+1019635,2,5 km,<1000 people
+1019635,2,2 km,<1000 people
+1019635,2,1 km,<1000 people
+1019635,2,Burned Area,no people
+1021078,5,Radius,Population
+1021078,5,10 km,380000 people
+1021078,5,5 km,93000 people
+1021078,5,2 km,35000 people
+1021078,5,1 km,18000 people
+1021078,5,Burned Area,3800 people

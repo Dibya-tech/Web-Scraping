@@ -1,0 +1,1543 @@
+Event_id,Episode,Name,RegionProvince,Country,CityClass,Population,Distance
+1269679,1376314,Hsia-chieh-hsiang,Yunnan,China,Village,-,11 km
+1269679,1376314,Yangbi,Yunnan,China,City,-,13 km
+1269679,1376314,Hsi-chou,Yunnan,China,Village,-,15 km
+1269679,1376314,Dali,Yunnan,China,City,130000 people,16 km
+1269679,1376314,Pingpo,Yunnan,China,Village,-,19 km
+1269679,1376314,Chung-ho-chen,Yunnan,China,Village,-,19 km
+1269679,1376314,Wasejie,Yunnan,China,Village,-,21 km
+1269679,1376314,Taiping,Yunnan,China,Village,-,24 km
+1269679,1376314,Dengchuan,Yunnan,China,City,-,25 km
+1269679,1376314,Fengyuzhen,Yunnan,China,Village,-,26 km
+1269679,1376314,Xiaguan,Yunnan,China,City,-,28 km
+1269679,1376314,Hsia-kuan,Yunnan,China,Village,-,31 km
+1269679,1376314,Liantiejie,Yunnan,China,Village,-,32 km
+1269679,1376314,Feng-i,Yunnan,China,Village,-,35 km
+1269679,1376314,Beidou,Yunnan,China,Village,-,37 km
+1269679,1376314,Eryuan,Yunnan,China,Village,-,40 km
+1269679,1376314,Dacang,Yunnan,China,Village,-,43 km
+1269679,1376314,Longtan,Yunnan,China,Village,-,44 km
+1269679,1376314,Qiaohou,Yunnan,China,Village,-,45 km
+1269679,1376314,Daying,Yunnan,China,Village,-,46 km
+1269679,1376314,Beiya,Yunnan,China,Village,-,49 km
+1269679,1376314,Hualongtan,Yunnan,China,Village,-,51 km
+1269679,1376314,Longjie,Yunnan,China,Village,-,51 km
+1269679,1376314,Shejie,Yunnan,China,Village,-,52 km
+1269679,1376314,Sanying,Yunnan,China,Village,-,52 km
+1269679,1376314,Shuanghe,Yunnan,China,Village,-,52 km
+1269679,1376314,Niu-chieh,Yunnan,China,Village,-,55 km
+1269679,1376314,Shih-men-chen,Yunnan,China,Village,-,55 km
+1269679,1376314,Binchuan,Yunnan,China,Village,-,57 km
+1269679,1376314,Chou-cheng-chen,Yunnan,China,Village,-,57 km
+1269679,1376314,Lijiao,Yunnan,China,Village,-,57 km
+1269679,1376314,Binju,Yunnan,China,Village,-,57 km
+1269679,1376314,Chiu-ch'eng,Yunnan,China,Village,-,57 km
+1269679,1376314,Yongping,Yunnan,China,City,-,58 km
+1269679,1376314,Shaxi,Yunnan,China,Village,-,62 km
+1269679,1376314,Xiangyun,Yunnan,China,City,-,63 km
+1269679,1376314,Qudong,Yunnan,China,Village,-,64 km
+1269679,1376314,Pianjiao,Yunnan,China,Village,-,64 km
+1269679,1376314,Shimenzhen,Yunnan,China,Village,-,64 km
+1269679,1376314,Meng-ch'eng-chen,Yunnan,China,Village,-,65 km
+1269679,1376314,Weishan,Yunnan,China,Village,-,65 km
+1269679,1376314,Misha,Yunnan,China,Village,-,66 km
+1269679,1376314,Hsiang-ch'eng-chen,Yunnan,China,Village,-,66 km
+1269679,1376314,Midu,Yunnan,China,City,-,66 km
+1269679,1376314,Chiu-yün-lung,Yunnan,China,Village,-,66 km
+1269679,1376314,Changjie,Yunnan,China,Village,-,67 km
+1269679,1376314,Changxin,Yunnan,China,Village,-,68 km
+1269679,1376314,Ch'ing-hua-tung,Yunnan,China,Village,-,69 km
+1269679,1376314,Duomei,Yunnan,China,Village,-,70 km
+1269679,1376314,Mi-ch'eng-chen,Yunnan,China,Village,-,70 km
+1281677,1391652,Lasile,Nippes,Haiti,Village,-,6 km
+1281677,1391652,Balou,Sud,Haiti,Village,-,8 km
+1281677,1391652,Carrefour Lundi,Nippes,Haiti,Village,-,11 km
+1281677,1391652,L'Usine,Nippes,Haiti,Village,-,13 km
+1281677,1391652,Anse-à-Veau,Nippes,Haiti,Village,1700 people,16 km
+1281677,1391652,Aquin,Sud,Haiti,Village,5200 people,16 km
+1281677,1391652,Bojo,Nippes,Haiti,Village,-,17 km
+1281677,1391652,Saint-Louis-du-Sud,Sud,Haiti,Village,1500 people,18 km
+1281677,1391652,Quartier,Sud,Haiti,Village,-,18 km
+1281677,1391652,Nan Cotie,Sud,Haiti,Village,-,19 km
+1281677,1391652,Baradères,Nippes,Haiti,Village,1700 people,19 km
+1281677,1391652,Mathon,Nippes,Haiti,Village,-,22 km
+1281677,1391652,Cavaillon,Sud,Haiti,Village,1000 people,23 km
+1281677,1391652,Mar Morne Aquin,Sud,Haiti,Village,-,23 km
+1281677,1391652,Abraham,Nippes,Haiti,Village,-,25 km
+1281677,1391652,Laurent,Nippes,Haiti,Village,-,27 km
+1281677,1391652,Ca Michaud,Nippes,Haiti,Village,-,27 km
+1281677,1391652,Étroit,Nippes,Haiti,Village,-,30 km
+1281677,1391652,Coquille,Sud,Haiti,Village,-,32 km
+1281677,1391652,Grande Cayemite,Grand Anse,Haiti,Village,-,35 km
+1281677,1391652,Pestel,Grand Anse,Haiti,Village,-,37 km
+1281677,1391652,Caudère,Sud,Haiti,Village,-,38 km
+1281677,1391652,Les Cayes,Sud,Haiti,City,59000 people,38 km
+1281677,1391652,Ile a Vache,Sud,Haiti,Village,-,39 km
+1281677,1391652,Joly Guibert,Grand Anse,Haiti,Village,-,39 km
+1281677,1391652,Carrefour Moussignac,Nippes,Haiti,Village,-,40 km
+1281677,1391652,Guêpe,Sud,Haiti,Village,-,40 km
+1281677,1391652,Miragoâne,Nippes,Haiti,Village,6300 people,41 km
+1281677,1391652,Cacoq,Sud,Haiti,Village,-,42 km
+1281677,1391652,Marceline,Sud,Haiti,Village,-,42 km
+1281677,1391652,Génères,Sud,Haiti,Village,-,42 km
+1281677,1391652,Bauzan,Sud,Haiti,Village,-,43 km
+1281677,1391652,Carrefour Méridien,Sud,Haiti,Village,-,45 km
+1281677,1391652,Laborieux,Sud,Haiti,Village,-,45 km
+1281677,1391652,Ducis,Sud,Haiti,Village,-,47 km
+1281677,1391652,Corail,Grand Anse,Haiti,Village,2700 people,48 km
+1281677,1391652,Ti Raisin,Sud-Est,Haiti,Village,-,48 km
+1281677,1391652,Dubois,Sud,Haiti,Village,-,52 km
+1281677,1391652,Saint-Jean,Sud,Haiti,Village,<1000 people,52 km
+1281677,1391652,Beaumont,Grand Anse,Haiti,Village,-,52 km
+1281677,1391652,Bourjolly,Sud,Haiti,Village,-,53 km
+1281677,1391652,Aleman,Ouest,Haiti,Village,-,56 km
+1281677,1391652,Cote de Fer,Sud,Haiti,Village,-,56 km
+1281677,1391652,Trou Louis,Ouest,Haiti,Village,-,57 km
+1281677,1391652,Boucan Bélier,Sud-Est,Haiti,Village,-,58 km
+1281677,1391652,Platon Balais,Ouest,Haiti,Village,-,59 km
+1281677,1391652,Port Salut,,Haiti,Village,-,60 km
+1281677,1391652,Trou des Hommes,Ouest,Haiti,Village,-,61 km
+1281677,1391652,Roseaux,Grand'Anse,Haiti,Village,-,61 km
+1281677,1391652,Nan Boeuf,,Haiti,Village,-,62 km
+1281677,1391652,Coteaux,Sud,Haiti,Village,2100 people,63 km
+1281677,1391652,Nan Tida,Ouest,Haiti,Village,-,63 km
+1281677,1391652,Rampart,Sud,Haiti,Village,-,64 km
+1281677,1391652,Nan Risque,Ouest,Haiti,Village,-,64 km
+1281677,1391652,Petit-Goave,Ouest,Haiti,City,-,65 km
+1281677,1391652,Pointe des Lataniers,Ouest,Haiti,Village,-,65 km
+1281677,1391652,Platon Besace,Sud-Est,Haiti,Village,-,66 km
+1281677,1391652,Évangéliste,Ouest,Haiti,Village,-,67 km
+1281677,1391652,Port-à-Piment,Sud,Haiti,Village,3800 people,68 km
+1281677,1391652,Bambou,Sud-Est,Haiti,Village,-,68 km
+1281677,1391652,Gros Mangle,Ouest,Haiti,Village,-,68 km
+1281677,1391652,Rampe des Lions,Grand Anse,Haiti,Village,-,69 km
+1281677,1391652,Marcel,Grand Anse,Haiti,Village,-,70 km
+1298872,1412418,Santa Teresa,Loreto,Peru,Village,-,29 km
+1298872,1412418,Puerto Díaz,Loreto,Peru,Village,-,33 km
+1298872,1412418,Estrella,Loreto,Peru,Village,-,34 km
+1298872,1412418,Puerto América,Loreto,Peru,Village,-,35 km
+1298872,1412418,Puerto Diego Ríos,Loreto,Peru,Village,-,38 km
+1298872,1412418,Santa Bárbara,Loreto,Peru,Village,-,40 km
+1298872,1412418,Barranca,Loreto,Peru,Village,5700 people,41 km
+1298872,1412418,Tierra Blanca,Loreto,Peru,Village,-,44 km
+1298872,1412418,Dos de Mayo,Loreto,Peru,Village,-,44 km
+1298872,1412418,Puerto Limón,Loreto,Peru,Village,-,47 km
+1298872,1412418,San Juan,Loreto,Peru,Village,-,48 km
+1298872,1412418,Fernando Playas,Loreto,Peru,Village,-,50 km
+1298872,1412418,San José,Loreto,Peru,Village,-,52 km
+1298872,1412418,Lupuna,Loreto,Peru,Village,-,53 km
+1298872,1412418,La Draga,Loreto,Peru,Village,-,53 km
+1298872,1412418,Ideal,Loreto,Peru,Village,-,53 km
+1298872,1412418,Aripari,Loreto,Peru,Village,-,57 km
+1298872,1412418,San Salvador,Loreto,Peru,Village,-,58 km
+1298872,1412418,Ugarte,Loreto,Peru,Village,-,59 km
+1298872,1412418,Porvenir,Loreto,Peru,Village,-,60 km
+1298872,1412418,Esperanza,Loreto,Peru,Village,-,62 km
+1298872,1412418,Ayar Manco,Loreto,Peru,Village,-,64 km
+1298872,1412418,Patria,Loreto,Peru,Village,-,64 km
+1298872,1412418,Santa Belem,Loreto,Peru,Village,-,65 km
+1298872,1412418,San Ramán,Loreto,Peru,Village,-,67 km
+1298872,1412418,San Pedro,Loreto,Peru,Village,-,70 km
+1307299,1422907,Anse-à-Veau,Nippes,Haiti,Village,1700 people,3 km
+1307299,1422907,Bojo,Nippes,Haiti,Village,-,8 km
+1307299,1422907,Abraham,Nippes,Haiti,Village,-,9 km
+1307299,1422907,Carrefour Lundi,Nippes,Haiti,Village,-,13 km
+1307299,1422907,Lasile,Nippes,Haiti,Village,-,14 km
+1307299,1422907,Ca Michaud,Nippes,Haiti,Village,-,17 km
+1307299,1422907,Mar Morne Aquin,Sud,Haiti,Village,-,18 km
+1307299,1422907,L'Usine,Nippes,Haiti,Village,-,19 km
+1307299,1422907,Quartier,Sud,Haiti,Village,-,19 km
+1307299,1422907,Aquin,Sud,Haiti,Village,5200 people,22 km
+1307299,1422907,Balou,Sud,Haiti,Village,-,25 km
+1307299,1422907,Miragoâne,Nippes,Haiti,Village,6300 people,26 km
+1307299,1422907,Carrefour Moussignac,Nippes,Haiti,Village,-,26 km
+1307299,1422907,Coquille,Sud,Haiti,Village,-,29 km
+1307299,1422907,Mathon,Nippes,Haiti,Village,-,30 km
+1307299,1422907,Guêpe,Sud,Haiti,Village,-,31 km
+1307299,1422907,Saint-Louis-du-Sud,Sud,Haiti,Village,1500 people,32 km
+1307299,1422907,Baradères,Nippes,Haiti,Village,1700 people,32 km
+1307299,1422907,Nan Cotie,Sud,Haiti,Village,-,35 km
+1307299,1422907,Ti Raisin,Sud-Est,Haiti,Village,-,36 km
+1307299,1422907,Laborieux,Sud,Haiti,Village,-,39 km
+1307299,1422907,Cavaillon,Sud,Haiti,Village,1000 people,39 km
+1307299,1422907,Étroit,Nippes,Haiti,Village,-,41 km
+1307299,1422907,Laurent,Nippes,Haiti,Village,-,42 km
+1307299,1422907,Aleman,Ouest,Haiti,Village,-,42 km
+1307299,1422907,Trou Louis,Ouest,Haiti,Village,-,43 km
+1307299,1422907,Grande Cayemite,Grand Anse,Haiti,Village,-,45 km
+1307299,1422907,Trou des Hommes,Ouest,Haiti,Village,-,46 km
+1307299,1422907,Nan Boeuf,,Haiti,Village,-,46 km
+1307299,1422907,Boucan Bélier,Sud-Est,Haiti,Village,-,47 km
+1307299,1422907,Cote de Fer,Sud,Haiti,Village,-,47 km
+1307299,1422907,Platon Balais,Ouest,Haiti,Village,-,48 km
+1307299,1422907,Pestel,Grand Anse,Haiti,Village,-,50 km
+1307299,1422907,Petit-Goave,Ouest,Haiti,City,-,50 km
+1307299,1422907,Nan Risque,Ouest,Haiti,Village,-,51 km
+1307299,1422907,Ile a Vache,Sud,Haiti,Village,-,52 km
+1307299,1422907,Nan Tida,Ouest,Haiti,Village,-,52 km
+1307299,1422907,Joly Guibert,Grand Anse,Haiti,Village,-,53 km
+1307299,1422907,Les Cayes,Sud,Haiti,City,59000 people,54 km
+1307299,1422907,Platon Besace,Sud-Est,Haiti,Village,-,54 km
+1307299,1422907,Caudère,Sud,Haiti,Village,-,54 km
+1307299,1422907,Pointe des Lataniers,Ouest,Haiti,Village,-,54 km
+1307299,1422907,Gros Mangle,Ouest,Haiti,Village,-,55 km
+1307299,1422907,Évangéliste,Ouest,Haiti,Village,-,55 km
+1307299,1422907,Cacoq,Sud,Haiti,Village,-,56 km
+1307299,1422907,Nan-Mangot,Ouest,Haiti,Village,-,57 km
+1307299,1422907,La Cayenne,Ouest,Haiti,Village,-,57 km
+1307299,1422907,Marceline,Sud,Haiti,Village,-,58 km
+1307299,1422907,Bambou,Sud-Est,Haiti,Village,-,58 km
+1307299,1422907,Génères,Sud,Haiti,Village,-,58 km
+1307299,1422907,Étroits,Ouest,Haiti,Village,-,59 km
+1307299,1422907,Bauzan,Sud,Haiti,Village,-,60 km
+1307299,1422907,Corail,Grand Anse,Haiti,Village,2700 people,60 km
+1307299,1422907,Boucan à Lait,Ouest,Haiti,Village,-,61 km
+1307299,1422907,Carrefour Méridien,Sud,Haiti,Village,-,61 km
+1307299,1422907,Bonhomme,Ouest,Haiti,Village,-,63 km
+1307299,1422907,Ducis,Sud,Haiti,Village,-,64 km
+1307299,1422907,Beaumont,Grand Anse,Haiti,Village,-,67 km
+1307299,1422907,Saint-Jean,Sud,Haiti,Village,<1000 people,68 km
+1307299,1422907,Dubois,Sud,Haiti,Village,-,68 km
+1307299,1422907,Bourjolly,Sud,Haiti,Village,-,69 km
+1307299,1422907,Bainet,Sud-Est,Haiti,Village,-,70 km
+1327560,1449790,Jangalay,Khowst,Afghanistan,Village,-,3 km
+1327560,1449790,Afdzal Kala,Paktika,Afghanistan,Village,-,4 km
+1327560,1449790,Kocon,Khowst,Afghanistan,Village,-,7 km
+1327560,1449790,Zabo China,Federally Administered Tribal Areas,Pakistan,Village,-,9 km
+1327560,1449790,Bazikani,Paktika,Afghanistan,Village,-,11 km
+1327560,1449790,Spera,Paktika,Afghanistan,Village,-,11 km
+1327560,1449790,Ghorma,Paktika,Afghanistan,Village,-,12 km
+1327560,1449790,Kamkay Mana,Khowst,Afghanistan,Village,-,13 km
+1327560,1449790,Adghala,Paktika,Afghanistan,Village,-,15 km
+1327560,1449790,Bibi,Federally Administered Tribal Areas,Pakistan,Village,-,15 km
+1327560,1449790,Bakhmala,Paktika,Afghanistan,Village,-,15 km
+1327560,1449790,Dabar,Khowst,Afghanistan,Village,-,15 km
+1327560,1449790,Cunjay,Khowst,Afghanistan,Village,-,17 km
+1327560,1449790,Zarak,Paktika,Afghanistan,Village,-,20 km
+1327560,1449790,Dabay,Paktika,Afghanistan,Village,-,20 km
+1327560,1449790,Ayitay,Paktia,Afghanistan,Village,-,20 km
+1327560,1449790,Mandata,Khowst,Afghanistan,Village,-,21 km
+1327560,1449790,Star Kac,Paktia,Afghanistan,Village,-,22 km
+1327560,1449790,Khan Amir Kalay,Paktika,Afghanistan,Village,-,22 km
+1327560,1449790,Kamin Kot,Paktika,Afghanistan,Village,-,23 km
+1327560,1449790,'Ala'uddin,Paktia,Afghanistan,Village,-,23 km
+1327560,1449790,Hesarak,Khowst,Afghanistan,Village,-,23 km
+1327560,1449790,Elmarah,Paktia,Afghanistan,Village,-,24 km
+1327560,1449790,Pawas,Paktika,Afghanistan,Village,-,24 km
+1327560,1449790,Srah Meydan Kalay,Paktika,Afghanistan,Village,-,25 km
+1327560,1449790,Sheranni,Federally Administered Tribal Areas,Pakistan,Village,-,25 km
+1327560,1449790,Wuzhgai,Federally Administered Tribal Areas,Pakistan,Village,-,25 km
+1327560,1449790,Worzhanah Kalay,Paktika,Afghanistan,Village,-,26 km
+1327560,1449790,Mita,Paktia,Afghanistan,Village,-,26 km
+1327560,1449790,Hasem Kot,Khowst,Afghanistan,Village,-,26 km
+1327560,1449790,'Alaqadari Naka,Paktika,Afghanistan,Village,-,27 km
+1327560,1449790,Sorikhel,Paktia,Afghanistan,Village,-,27 km
+1327560,1449790,Golam Kot,Paktika,Afghanistan,Village,-,27 km
+1327560,1449790,Zaramkhan Kot,Paktika,Afghanistan,Village,-,27 km
+1327560,1449790,Almara,Khowst,Afghanistan,Village,-,28 km
+1327560,1449790,Khvajeh Kowt,Paktia,Afghanistan,Village,-,29 km
+1327560,1449790,Golum,Paktika,Afghanistan,Village,-,30 km
+1327560,1449790,Jangikhel,Paktika,Afghanistan,Village,-,31 km
+1327560,1449790,Kackae,Khowst,Afghanistan,Village,-,31 km
+1327560,1449790,Pir Gowti,Paktika,Afghanistan,Village,-,31 km
+1327560,1449790,Jan Sareh Kalay,Khowst,Afghanistan,Village,-,31 km
+1327560,1449790,Vazay,Paktia,Afghanistan,Village,-,31 km
+1327560,1449790,Faqir Kalay,Paktika,Afghanistan,Village,-,32 km
+1327560,1449790,Dadawri Kalay,Paktika,Afghanistan,Village,-,32 km
+1327560,1449790,Nikeh,Paktia,Afghanistan,Village,-,33 km
+1327560,1449790,Chaprai,Federally Administered Tribal Areas,Pakistan,Village,-,33 km
+1327560,1449790,Nikbal,Khowst,Afghanistan,Village,-,33 km
+1327560,1449790,Tani,Khowst,Afghanistan,Village,-,33 km
+1327560,1449790,Barak Kalay,Paktia,Afghanistan,Village,-,34 km
+1327560,1449790,Demyanay,Paktika,Afghanistan,Village,-,35 km
+1327560,1449790,Ahmadbeg,Paktia,Afghanistan,Village,-,36 km
+1327560,1449790,Sreh Kot Kalay,Paktika,Afghanistan,Village,-,36 km
+1327560,1449790,Baqikhel,Paktika,Afghanistan,Village,-,36 km
+1327560,1449790,Moghol Gi,Khowst,Afghanistan,Village,-,36 km
+1327560,1449790,Arin Kot,Khowst,Afghanistan,Village,-,37 km
+1327560,1449790,Bugh,Paktia,Afghanistan,Village,-,37 km
+1327560,1449790,Seway,Khowst,Afghanistan,Village,-,38 km
+1327560,1449790,'Aliwat,Khowst,Afghanistan,Village,-,38 km
+1327560,1449790,Tut Narai,Federally Administered Tribal Areas,Pakistan,Village,-,38 km
+1327560,1449790,Alimohd-Khel,Paktia,Afghanistan,Village,-,38 km
+1327560,1449790,Celam Kae,Paktia,Afghanistan,Village,-,38 km
+1327560,1449790,Boya,Federally Administered Tribal Areas,Pakistan,Village,-,40 km
+1327560,1449790,Esma'ilkhel,Paktika,Afghanistan,Village,-,40 km
+1327560,1449790,Arabkhel,Paktia,Afghanistan,Village,-,41 km
+1327560,1449790,Maseray,Paktika,Afghanistan,Village,-,41 km
+1327560,1449790,Gorbaz,Khowst,Afghanistan,Village,-,41 km
+1327560,1449790,Bori Kalay,Khowst,Afghanistan,Village,-,42 km
+1327560,1449790,Tawdobay Kalay,Paktika,Afghanistan,Village,-,42 km
+1327560,1449790,Arghu,Khowst,Afghanistan,Village,-,42 km
+1327560,1449790,Pai Muhammad,Federally Administered Tribal Areas,Pakistan,Village,-,42 km
+1327560,1449790,Qarya-i-Saykh-ha,Paktika,Afghanistan,Village,-,42 km
+1327560,1449790,Sur Zghamay,Paktika,Afghanistan,Village,-,43 km
+1327560,1449790,Mana,Federally Administered Tribal Areas,Pakistan,Village,-,43 km
+1327560,1449790,A'ikhel,Paktia,Afghanistan,Village,-,43 km
+1327560,1449790,Ashrafkheyl,Paktika,Afghanistan,Village,-,43 km
+1327560,1449790,Babolkheyl,Paktia,Afghanistan,Village,-,43 km
+1327560,1449790,Mehrabkhan Kalay,Khowst,Afghanistan,Village,-,44 km
+1327560,1449790,Asar,Khowst,Afghanistan,Village,-,44 km
+1327560,1449790,Gardedkhwahi,Paktia,Afghanistan,Village,-,45 km
+1327560,1449790,Akbarkhan Kalay,Khowst,Afghanistan,Village,-,45 km
+1327560,1449790,Golamkhan Kalay,Khowst,Afghanistan,Village,-,45 km
+1327560,1449790,Sarhawdza,Paktika,Afghanistan,Village,-,46 km
+1327560,1449790,'Alimosammad Kheyl,Paktia,Afghanistan,Village,-,46 km
+1327560,1449790,Khowst,Khowst,Afghanistan,Village,96000 people,46 km
+1327560,1449790,Qadzi Kalay,Paktika,Afghanistan,Village,-,47 km
+1327560,1449790,Khanagul,Paktia,Afghanistan,Village,-,47 km
+1327560,1449790,Kulkunday,Paktika,Afghanistan,Village,-,48 km
+1327560,1449790,Asalat,Paktia,Afghanistan,Village,-,48 km
+1327560,1449790,Tawda Cina,Khowst,Afghanistan,Village,-,48 km
+1327560,1449790,Ghalang,Khowst,Afghanistan,Village,-,48 km
+1327560,1449790,Leguli Jar Khona,Paktika,Afghanistan,Village,-,48 km
+1327560,1449790,Aka Khone,Paktika,Afghanistan,Village,-,49 km
+1327560,1449790,Dara,Paktia,Afghanistan,Village,-,49 km
+1327560,1449790,Bada Khona,Paktika,Afghanistan,Village,-,49 km
+1327560,1449790,Kezakay,Paktia,Afghanistan,Village,-,49 km
+1327560,1449790,Caperi,Khowst,Afghanistan,Village,-,49 km
+1327560,1449790,Razani,Federally Administered Tribal Areas,Pakistan,Village,-,49 km
+1327560,1449790,Kumbaray,Khowst,Afghanistan,Village,-,49 km
+1327560,1449790,Mir Akbar Kalay,Paktika,Afghanistan,Village,-,50 km
+1327560,1449790,Chineh,Paktia,Afghanistan,Village,-,50 km
+1337179,1461351,Hoperang,Morobe,Papua New Guinea,Village,-,2 km
+1337179,1461351,Sukurum,Morobe,Papua New Guinea,Village,-,4 km
+1337179,1461351,Sirasira,Morobe,Papua New Guinea,Village,-,8 km
+1337179,1461351,Dakum,Morobe,Papua New Guinea,Village,-,10 km
+1337179,1461351,Ewok,Morobe,Papua New Guinea,Village,-,10 km
+1337179,1461351,Hikwak,Morobe,Papua New Guinea,Village,-,10 km
+1337179,1461351,Bumbum,Morobe,Papua New Guinea,Village,-,11 km
+1337179,1461351,Wongat,Morobe,Papua New Guinea,Village,-,11 km
+1337179,1461351,Garamboin,Morobe,Papua New Guinea,Village,-,12 km
+1337179,1461351,Bogabuang,Morobe,Papua New Guinea,Village,-,13 km
+1337179,1461351,Wantoat,Morobe,Papua New Guinea,Village,-,15 km
+1337179,1461351,Kubung,Morobe,Papua New Guinea,Village,-,15 km
+1337179,1461351,Gehan,Morobe,Papua New Guinea,Village,-,17 km
+1337179,1461351,Mama,Morobe,Papua New Guinea,Village,-,18 km
+1337179,1461351,Gom,Morobe,Papua New Guinea,Village,-,19 km
+1337179,1461351,Maniag,Morobe,Papua New Guinea,Village,-,20 km
+1337179,1461351,Kaiapit,Morobe,Papua New Guinea,Village,-,21 km
+1337179,1461351,Nawantmara,Morobe,Papua New Guinea,Village,-,21 km
+1337179,1461351,Siang,Morobe,Papua New Guinea,Village,-,22 km
+1337179,1461351,Karangan,Morobe,Papua New Guinea,Village,-,22 km
+1337179,1461351,Zumin,Morobe,Papua New Guinea,Village,-,23 km
+1337179,1461351,Labisap,Morobe,Papua New Guinea,Village,-,24 km
+1337179,1461351,Intoap,Morobe,Papua New Guinea,Village,-,26 km
+1337179,1461351,Gorgiok,Morobe,Papua New Guinea,Village,-,27 km
+1337179,1461351,Mutsing,Morobe,Papua New Guinea,Village,-,27 km
+1337179,1461351,Arifiran,Morobe,Papua New Guinea,Village,-,28 km
+1337179,1461351,Gwang,Morobe,Papua New Guinea,Village,-,28 km
+1337179,1461351,Kisenden,Morobe,Papua New Guinea,Village,-,29 km
+1337179,1461351,Kewieng,Morobe,Papua New Guinea,Village,-,31 km
+1337179,1461351,Narawapum,Morobe,Papua New Guinea,Village,-,31 km
+1337179,1461351,Guruf,Morobe,Papua New Guinea,Village,-,32 km
+1337179,1461351,Talerang,Morobe,Papua New Guinea,Village,-,32 km
+1337179,1461351,Sugu,Morobe,Papua New Guinea,Village,-,33 km
+1337179,1461351,Gua,Morobe,Papua New Guinea,Village,-,33 km
+1337179,1461351,Anga,Eastern Highlands,Papua New Guinea,Village,-,34 km
+1337179,1461351,Isan,Morobe,Papua New Guinea,Village,-,35 km
+1337179,1461351,Sugan,Morobe,Papua New Guinea,Village,-,35 km
+1337179,1461351,Teptep,Madang,Papua New Guinea,Village,-,35 km
+1337179,1461351,Sivebo,Morobe,Papua New Guinea,Village,-,37 km
+1337179,1461351,Danatum,Morobe,Papua New Guinea,Village,-,37 km
+1337179,1461351,Laundi,Morobe,Papua New Guinea,Village,-,37 km
+1337179,1461351,Gain,Morobe,Papua New Guinea,Village,-,37 km
+1337179,1461351,Bwasia,Morobe,Papua New Guinea,Village,-,38 km
+1337179,1461351,Gumbaion,Madang,Papua New Guinea,Village,-,39 km
+1337179,1461351,Chivasing,Morobe,Papua New Guinea,Village,-,39 km
+1337179,1461351,Atsonas,Eastern Highlands,Papua New Guinea,Village,-,40 km
+1337179,1461351,Kawalan,Morobe,Papua New Guinea,Village,-,40 km
+1337179,1461351,Omisuan,Eastern Highlands,Papua New Guinea,Village,-,41 km
+1337179,1461351,Boana,Morobe,Papua New Guinea,Village,-,41 km
+1337179,1461351,Narawum,Madang,Papua New Guinea,Village,-,41 km
+1337179,1461351,Kambaira,Eastern Highlands,Papua New Guinea,Village,-,42 km
+1337179,1461351,Bambu,Madang,Papua New Guinea,Village,-,42 km
+1337179,1461351,Wankun No.2,Eastern Highlands,Papua New Guinea,Village,-,43 km
+1337179,1461351,Worin,Morobe,Papua New Guinea,Village,-,43 km
+1337179,1461351,Nadzab,Morobe,Papua New Guinea,Village,-,44 km
+1337179,1461351,Sapmanga,Morobe,Papua New Guinea,Village,-,44 km
+1337179,1461351,Wadabo,Madang,Papua New Guinea,Village,-,44 km
+1337179,1461351,Pundibasa,Eastern Highlands,Papua New Guinea,Village,-,45 km
+1337179,1461351,Gwarawon,Madang,Papua New Guinea,Village,-,46 km
+1337179,1461351,Tombendaka,Eastern Highlands,Papua New Guinea,Village,-,46 km
+1337179,1461351,Gabmatzung,Morobe,Papua New Guinea,Village,-,48 km
+1337179,1461351,Yaut,Madang,Papua New Guinea,Village,-,48 km
+1337179,1461351,Barosira,Eastern Highlands,Papua New Guinea,Village,-,48 km
+1337179,1461351,Watarais,Eastern Highlands,Papua New Guinea,Village,-,49 km
+1337179,1461351,Akandang,Morobe,Papua New Guinea,Village,-,50 km
+1337179,1461351,Gabamatsung,Morobe,Papua New Guinea,Village,-,50 km
+1337179,1461351,Kapungapang,Madang,Papua New Guinea,Village,-,50 km
+1337179,1461351,Bwaha,Madang,Papua New Guinea,Village,-,50 km
+1337179,1461351,Gabutamon,Madang,Papua New Guinea,Village,-,50 km
+1337179,1461351,Mari,Morobe,Papua New Guinea,Village,-,50 km
+1337179,1461351,Arona,Eastern Highlands,Papua New Guinea,Village,-,51 km
+1337179,1461351,Mambit,Madang,Papua New Guinea,Village,-,51 km
+1337179,1461351,Wuruf,Morobe,Papua New Guinea,Village,-,51 km
+1337179,1461351,Sokelen,Morobe,Papua New Guinea,Village,-,51 km
+1337179,1461351,Tariknan,Madang,Papua New Guinea,Village,-,52 km
+1337179,1461351,Amien,Morobe,Papua New Guinea,Village,-,52 km
+1337179,1461351,Bangdap,Morobe,Papua New Guinea,Village,-,53 km
+1337179,1461351,Bakokona,Madang,Papua New Guinea,Village,-,54 km
+1337179,1461351,Lambaip,Morobe,Papua New Guinea,Village,-,55 km
+1337179,1461351,Susua,Morobe,Papua New Guinea,Village,-,55 km
+1337179,1461351,Yauna,Eastern Highlands,Papua New Guinea,Village,-,55 km
+1337179,1461351,Darongge,Morobe,Papua New Guinea,Village,-,56 km
+1337179,1461351,Amara,Eastern Highlands,Papua New Guinea,Village,-,56 km
+1337179,1461351,Kusing,Morobe,Papua New Guinea,Village,-,57 km
+1337179,1461351,Roinji,Madang,Papua New Guinea,Village,-,57 km
+1337179,1461351,Mulumiag,Madang,Papua New Guinea,Village,-,57 km
+1337179,1461351,Budemu,Madang,Papua New Guinea,Village,-,57 km
+1337179,1461351,Dokalang,Morobe,Papua New Guinea,Village,-,57 km
+1337179,1461351,Sewe,Madang,Papua New Guinea,Village,-,57 km
+1337179,1461351,Malalamai,Madang,Papua New Guinea,Village,-,58 km
+1337179,1461351,Delbangat,Madang,Papua New Guinea,Village,-,58 km
+1337179,1461351,Yara,Madang,Papua New Guinea,Village,-,58 km
+1337179,1461351,Wampit,Morobe,Papua New Guinea,Village,-,58 km
+1337179,1461351,Gali,Madang,Papua New Guinea,Village,-,58 km
+1337179,1461351,Yoga Yoga,Madang,Papua New Guinea,Village,-,58 km
+1337179,1461351,Yalu,Morobe,Papua New Guinea,Village,-,58 km
+1337179,1461351,Nineia,Morobe,Papua New Guinea,Village,-,58 km
+1337179,1461351,Wuru,Morobe,Papua New Guinea,Village,-,59 km
+1337179,1461351,Yagomi,Madang,Papua New Guinea,Village,-,59 km
+1337179,1461351,Dana,Madang,Papua New Guinea,Village,-,59 km
+1347183,1474345,Tjiandjur,Jawa Barat,Indonesia,Village,-,6 km
+1347183,1474345,Tibeber,Jawa Barat,Indonesia,Village,-,10 km
+1347183,1474345,Chireunghas,Jawa Barat,Indonesia,Village,-,13 km
+1347183,1474345,Cibodas,Jawa Barat,Indonesia,Village,-,14 km
+1347183,1474345,Sukamahi,Jawa Barat,Indonesia,Village,-,17 km
+1347183,1474345,Bodjongpitjung,Jawa Barat,Indonesia,Village,-,19 km
+1347183,1474345,Chikalong,Jawa Barat,Indonesia,Village,-,21 km
+1347183,1474345,Sukabumi,Jawa Barat,Indonesia,City,270000 people,21 km
+1347183,1474345,Bodjong,Jawa Barat,Indonesia,Village,-,24 km
+1347183,1474345,Cijember-tengah,Jawa Barat,Indonesia,Village,-,25 km
+1347183,1474345,Warungpeuteuj,Jawa Barat,Indonesia,Village,-,25 km
+1347183,1474345,Pasirdatar,Jawa Barat,Indonesia,Village,-,25 km
+1347183,1474345,Pondok Cipaseban,Jawa Barat,Indonesia,Village,-,27 km
+1347183,1474345,Cigulingan,Jawa Barat,Indonesia,Village,-,27 km
+1347183,1474345,Cacaban,Jawa Barat,Indonesia,Village,-,27 km
+1347183,1474345,Sukanegara,Jawa Barat,Indonesia,Village,-,28 km
+1347183,1474345,Cikabuyutan,Jawa Barat,Indonesia,Village,-,28 km
+1347183,1474345,Cimangsud,Jawa Barat,Indonesia,Village,-,32 km
+1347183,1474345,Keraja,Jawa Barat,Indonesia,Village,-,33 km
+1347183,1474345,Benda,Jawa Barat,Indonesia,Village,-,34 km
+1347183,1474345,Tjihadak,Jawa Barat,Indonesia,Village,-,35 km
+1347183,1474345,Cibadak,Jawa Barat,Indonesia,Village,-,35 km
+1347183,1474345,Sindangkerta,Jawa Barat,Indonesia,Village,-,37 km
+1347183,1474345,Cimanggu,Jawa Barat,Indonesia,Village,-,37 km
+1347183,1474345,Tegalwaru,Jawa Barat,Indonesia,Village,-,39 km
+1347183,1474345,Bodjonglopang,Jawa Barat,Indonesia,Village,-,39 km
+1347183,1474345,Ciaripin,Jawa Barat,Indonesia,Village,-,40 km
+1347183,1474345,Cibaregbeg,Jawa Barat,Indonesia,Village,-,41 km
+1347183,1474345,Sawicibitung,Jawa Barat,Indonesia,Village,-,41 km
+1347183,1474345,Tjipelah,Jawa Barat,Indonesia,Village,-,43 km
+1347183,1474345,Parakansapi,Jawa Barat,Indonesia,Village,-,43 km
+1347183,1474345,Chipadalarang,Jawa Barat,Indonesia,Village,-,43 km
+1347183,1474345,Curugkembar,Jawa Barat,Indonesia,Village,-,44 km
+1347183,1474345,Kedungmanggu,Jawa Barat,Indonesia,Village,-,44 km
+1347183,1474345,Bogor,Jawa Barat,Indonesia,City,760000 people,44 km
+1347183,1474345,Cilobak,Jawa Barat,Indonesia,Village,-,45 km
+1347183,1474345,Bagogog,Jawa Barat,Indonesia,Village,-,45 km
+1347183,1474345,Baruhtunggul,Jawa Barat,Indonesia,Village,-,46 km
+1347183,1474345,Tjibarusa,Jawa Barat,Indonesia,Village,-,46 km
+1347183,1474345,Tjimahi,Jawa Barat,Indonesia,Village,-,49 km
+1347183,1474345,Bengbreng,Jawa Barat,Indonesia,Village,-,49 km
+1347183,1474345,Bolang,Jawa Barat,Indonesia,Village,-,49 km
+1347183,1474345,Tjibogo,Jawa Barat,Indonesia,Village,-,49 km
+1347183,1474345,Purwakarta,Jawa Barat,Indonesia,City,210000 people,50 km
+1347183,1474345,Tjiwidej,Jawa Barat,Indonesia,Village,-,50 km
+1347183,1474345,Soreang,Jawa Barat,Indonesia,City,150000 people,50 km
+1347183,1474345,Cibaleuy,Jawa Barat,Indonesia,Village,-,51 km
+1347183,1474345,Tjiragil,Jawa Barat,Indonesia,Village,-,52 km
+1347183,1474345,Bendungan,Jawa Barat,Indonesia,Village,-,54 km
+1347183,1474345,Balegede,Jawa Barat,Indonesia,Village,-,54 km
+1347183,1474345,Awirarangan,Jawa Barat,Indonesia,Village,-,55 km
+1347183,1474345,Wanaj,Jawa Barat,Indonesia,Village,-,55 km
+1347183,1474345,Busuk,Jawa Barat,Indonesia,Village,-,55 km
+1347183,1474345,Gaddet,Jawa Barat,Indonesia,Village,-,55 km
+1347183,1474345,Tjampea,Jawa Barat,Indonesia,Village,-,56 km
+1347183,1474345,Bedeng,Jawa Barat,Indonesia,Village,-,56 km
+1347183,1474345,Tiikadu,Jawa Barat,Indonesia,Village,-,56 km
+1347183,1474345,Tjantenherang,Jawa Barat,Indonesia,Village,-,57 km
+1347183,1474345,Puraseda,Jawa Barat,Indonesia,Village,-,57 km
+1347183,1474345,Bandung,Jawa Barat,Indonesia,Major city,1.7 million people,57 km
+1347183,1474345,Cipamingkis,Jawa Barat,Indonesia,Village,-,57 km
+1347183,1474345,Dewata,Jawa Barat,Indonesia,Village,-,58 km
+1347183,1474345,Lembang,Jawa Barat,Indonesia,City,180000 people,58 km
+1347183,1474345,Cigarung,Jawa Barat,Indonesia,Village,-,58 km
+1347183,1474345,Bandjaran,Jawa Barat,Indonesia,Village,-,58 km
+1347183,1474345,Cikiara,Jawa Barat,Indonesia,Village,-,60 km
+1347183,1474345,Sindangkasih,Jawa Barat,Indonesia,Village,-,62 km
+1347183,1474345,Bodjosari,Jawa Barat,Indonesia,Village,-,63 km
+1347183,1474345,Cigaru,Jawa Barat,Indonesia,Village,-,63 km
+1347183,1474345,Bamboeapoes 1,Jakarta Raya,Indonesia,Village,-,63 km
+1347183,1474345,Tjiagra,Jawa Barat,Indonesia,Village,-,63 km
+1347183,1474345,Derwolong,Jawa Barat,Indonesia,Village,-,63 km
+1347183,1474345,Tjibeunteur,Jawa Barat,Indonesia,Village,-,64 km
+1347183,1474345,Krawang,Jawa Barat,Indonesia,Village,-,64 km
+1347183,1474345,Penglengan,Jawa Barat,Indonesia,Village,-,64 km
+1347183,1474345,Lemanabang,Jawa Barat,Indonesia,Village,-,65 km
+1347183,1474345,Cibitung,Jawa Barat,Indonesia,City,190000 people,65 km
+1347183,1474345,Cibodas,Jawa Barat,Indonesia,Village,-,65 km
+1347183,1474345,Tjipeudeuj,Jawa Barat,Indonesia,Village,-,65 km
+1347183,1474345,Awilaga,Jawa Barat,Indonesia,Village,-,65 km
+1347183,1474345,Wadja,Jawa Barat,Indonesia,Village,-,66 km
+1347183,1474345,Sindangbarang,Jawa Barat,Indonesia,Village,-,67 km
+1347183,1474345,Nirmala,Banten,Indonesia,Village,-,67 km
+1347183,1474345,Nanggoeng,Jawa Barat,Indonesia,Village,-,67 km
+1347183,1474345,Djalantjagak,Jawa Barat,Indonesia,Village,-,68 km
+1347183,1474345,Djampang Kulon,Jawa Barat,Indonesia,Village,-,69 km
+1347183,1474345,Tjimadja,Jawa Barat,Indonesia,Village,-,69 km
+1347183,1474345,Cibiru,Jawa Barat,Indonesia,Village,-,69 km
+1347183,1474345,Bukanagara,Jawa Barat,Indonesia,Village,-,69 km
+1347183,1474345,Cicayur,Jawa Barat,Indonesia,Village,-,69 km
+1347183,1474345,Lingkungsari,Jawa Barat,Indonesia,Village,-,69 km
+1347183,1474345,Gardu,Jawa Barat,Indonesia,Village,-,70 km
+1347183,1474345,Tangulun,Jawa Barat,Indonesia,Village,-,70 km
+1347183,1474345,Djakarta,Jakarta Raya,Indonesia,Capital,8.5 million people,76 km
+1357372,1487096,Cerityeniyapan,Gaziantep,Türkiye,Village,-,6 km
+1357372,1487096,Sakcagoz,Gaziantep,Türkiye,Village,-,9 km
+1357372,1487096,Akdemir,Kahramanmaras,Türkiye,Village,-,10 km
+1357372,1487096,Bekisli,Gaziantep,Türkiye,Village,-,12 km
+1357372,1487096,Alçi,Gaziantep,Türkiye,Village,-,17 km
+1357372,1487096,Çakmak,Gaziantep,Türkiye,Village,-,18 km
+1357372,1487096,Köprüagzi,Kahramanmaras,Türkiye,Village,-,21 km
+1357372,1487096,Isbatirin,Gaziantep,Türkiye,Village,-,21 km
+1357372,1487096,Kestan,Kilis,Türkiye,Village,-,23 km
+1357372,1487096,Burc,Gaziantep,Türkiye,Village,-,23 km
+1357372,1487096,Erikli,Gaziantep,Türkiye,Village,-,24 km
+1357372,1487096,Agcakoyunlu,Kahramanmaras,Türkiye,Village,-,25 km
+1357372,1487096,Gökmusa,Gaziantep,Türkiye,Village,-,26 km
+1357372,1487096,Arapusagi,Gaziantep,Türkiye,Village,-,27 km
+1357372,1487096,Turkoglu,Kahramanmaras,Türkiye,Village,-,28 km
+1357372,1487096,Olucak,Gaziantep,Türkiye,Village,-,30 km
+1357372,1487096,Akça Koyunlu,Kahramanmaras,Türkiye,Village,-,31 km
+1357372,1487096,Çimenli,Gaziantep,Türkiye,Village,-,32 km
+1357372,1487096,Dölese,Gaziantep,Türkiye,Village,-,32 km
+1357372,1487096,Büyükterolar,Kahramanmaras,Türkiye,Village,-,33 km
+1357372,1487096,Arzap,Kilis,Türkiye,Village,-,33 km
+1357372,1487096,Öksüzlü,Kahramanmaras,Türkiye,Village,-,33 km
+1357372,1487096,Gaziantep,Gaziantep,Türkiye,Major city,1 million people,34 km
+1357372,1487096,Fevzipasa,Gaziantep,Türkiye,Village,-,35 km
+1357372,1487096,Bedirkent,Gaziantep,Türkiye,Village,-,36 km
+1357372,1487096,Aganli,Gaziantep,Türkiye,Village,-,36 km
+1357372,1487096,Senikçe,Kilis,Türkiye,Village,-,37 km
+1357372,1487096,Bölükçam,Kahramanmaras,Türkiye,Village,-,37 km
+1357372,1487096,Islahiye,Gaziantep,Türkiye,Village,47000 people,38 km
+1357372,1487096,Kizilgöl,Kilis,Türkiye,Village,-,39 km
+1357372,1487096,Asagi Karadere,Osmaniye,Türkiye,Village,-,39 km
+1357372,1487096,Bahce,Osmaniye,Türkiye,Village,25000 people,39 km
+1357372,1487096,Almali,Gaziantep,Türkiye,Village,-,41 km
+1357372,1487096,Avsarli,Kahramanmaras,Türkiye,Village,-,43 km
+1357372,1487096,Pazarcik,Kahramanmaras,Türkiye,Village,33000 people,43 km
+1357372,1487096,Araplar,Kahramanmaras,Türkiye,Village,-,43 km
+1357372,1487096,Karnebi,Kilis,Türkiye,Village,-,43 km
+1357372,1487096,Acemhüyügü,Gaziantep,Türkiye,Village,-,43 km
+1357372,1487096,Hasanbeyli,Osmaniye,Türkiye,Village,6300 people,43 km
+1357372,1487096,Bilaliye,Kilis,Türkiye,Village,-,45 km
+1357372,1487096,Kahramanmaras,Kahramanmaras,Türkiye,Major city,340000 people,47 km
+1357372,1487096,Sazgin,Gaziantep,Türkiye,Village,-,47 km
+1357372,1487096,Bali Keuy,Halab,Syria,Village,-,47 km
+1357372,1487096,Aril,Gaziantep,Türkiye,Village,-,47 km
+1357372,1487096,Asagi Höcüklü,Kahramanmaras,Türkiye,Village,-,49 km
+1357372,1487096,Midan Ikbis,Halab,Syria,Village,-,49 km
+1357372,1487096,Çitli,Osmaniye,Türkiye,Village,-,49 km
+1357372,1487096,Kuzucak,Kahramanmaras,Türkiye,Village,-,49 km
+1357372,1487096,Agyar,Kahramanmaras,Türkiye,Village,-,49 km
+1357372,1487096,Oguzeli,Gaziantep,Türkiye,Village,-,50 km
+1357372,1487096,Kerküt,Gaziantep,Türkiye,Village,-,50 km
+1357372,1487096,Haruniye,Osmaniye,Türkiye,Village,-,50 km
+1357372,1487096,Kilis,Kilis,Türkiye,City,81000 people,51 km
+1357372,1487096,Gafarli,Kahramanmaras,Türkiye,Village,-,53 km
+1357372,1487096,Göbek,Gaziantep,Türkiye,Village,-,53 km
+1357372,1487096,Kavakli,Kahramanmaras,Türkiye,Village,-,54 km
+1357372,1487096,Büyüknacar,Kahramanmaras,Türkiye,Village,-,54 km
+1357372,1487096,Ferikli,Osmaniye,Türkiye,Village,-,55 km
+1357372,1487096,Akçagil,Gaziantep,Türkiye,Village,-,55 km
+1357372,1487096,Cebelibereket,Osmaniye,Türkiye,Village,-,55 km
+1357372,1487096,Gâvurköy,Gaziantep,Türkiye,Village,-,56 km
+1357372,1487096,Aarab Vîrâne,Halab,Syria,Village,-,56 km
+1357372,1487096,Kaston,Kilis,Türkiye,Village,-,57 km
+1357372,1487096,Aalamdâr,Halab,Syria,Village,-,57 km
+1357372,1487096,Akbaz,Hatay,Türkiye,Village,-,58 km
+1357372,1487096,Harmancik,Kahramanmaras,Türkiye,Village,-,59 km
+1357372,1487096,Çobanli,Kahramanmaras,Türkiye,Village,-,59 km
+1357372,1487096,Sariçukur,Kahramanmaras,Türkiye,Village,-,59 km
+1357372,1487096,Karaburun,Gaziantep,Türkiye,Village,-,59 km
+1357372,1487096,Somakli,Kahramanmaras,Türkiye,Village,-,60 km
+1357372,1487096,Salkim,Gaziantep,Türkiye,Village,-,60 km
+1357372,1487096,Demrek,Kahramanmaras,Türkiye,Village,-,61 km
+1357372,1487096,Al Harjalah,Halab,Syria,Village,-,61 km
+1357372,1487096,Hassa,Hatay,Türkiye,Village,9600 people,61 km
+1357372,1487096,Küllü,Hatay,Türkiye,Village,-,61 km
+1357372,1487096,Bayindirli,Osmaniye,Türkiye,Village,-,62 km
+1357372,1487096,Mahalle,Adiyaman,Türkiye,Village,-,62 km
+1357372,1487096,Ardil,Gaziantep,Türkiye,Village,-,63 km
+1357372,1487096,Basdervisli,Kahramanmaras,Türkiye,Village,-,63 km
+1357372,1487096,Alanli,Kahramanmaras,Türkiye,Village,-,64 km
+1357372,1487096,Ambarli,Halab,Syria,Village,-,65 km
+1357372,1487096,Kayabasi,Gaziantep,Türkiye,Village,-,65 km
+1357372,1487096,A'zaz,Halab,Syria,Village,-,65 km
+1357372,1487096,Qatma,Halab,Syria,Village,-,66 km
+1357372,1487096,Büyük Cerbit,Kahramanmaras,Türkiye,Village,-,68 km
+1357372,1487096,Elbeyli,Kilis,Türkiye,Village,2200 people,68 km
+1357372,1487096,Sadak,Kahramanmaras,Türkiye,Village,-,69 km
+1357372,1487096,Abbasiye,Adiyaman,Türkiye,Village,-,69 km
+1357372,1487096,Akkuyu,Gaziantep,Türkiye,Village,-,69 km
+1357372,1487096,Osmaniye,Osmaniye,Türkiye,City,200000 people,69 km
+1357372,1487096,Baydemirli,Kahramanmaras,Türkiye,Village,-,70 km
+1357372,1487096,Iskenderun,Hatay,Türkiye,Major city,180000 people,100 km
+1357560,1487318,Cela,Kahramanmaras,Türkiye,Village,-,4 km
+1357560,1487318,Kandil,Kahramanmaras,Türkiye,Village,-,11 km
+1357560,1487318,Agcasar,Kahramanmaras,Türkiye,Village,-,15 km
+1357560,1487318,Alisar,Kahramanmaras,Türkiye,Village,-,17 km
+1357560,1487318,Igde,Kahramanmaras,Türkiye,Village,-,19 km
+1357560,1487318,Umutlu,Kahramanmaras,Türkiye,Village,-,19 km
+1357560,1487318,Elbistan,Kahramanmaras,Türkiye,City,80000 people,20 km
+1357560,1487318,Agiloba,Kahramanmaras,Türkiye,Village,-,22 km
+1357560,1487318,Nurhak,Kahramanmaras,Türkiye,Village,8500 people,23 km
+1357560,1487318,Ambarcik,Kahramanmaras,Türkiye,Village,-,26 km
+1357560,1487318,Sarigüzel,Kahramanmaras,Türkiye,Village,-,26 km
+1357560,1487318,Kastal,Kahramanmaras,Türkiye,Village,-,28 km
+1357560,1487318,Baydemirli,Kahramanmaras,Türkiye,Village,-,28 km
+1357560,1487318,Balikçi,Kahramanmaras,Türkiye,Village,-,29 km
+1357560,1487318,Büyük Cerbit,Kahramanmaras,Türkiye,Village,-,31 km
+1357560,1487318,Besen,Kahramanmaras,Türkiye,Village,-,32 km
+1357560,1487318,Basdervisli,Kahramanmaras,Türkiye,Village,-,32 km
+1357560,1487318,Cardak,Kahramanmaras,Türkiye,Village,-,33 km
+1357560,1487318,Düzbag,Kahramanmaras,Türkiye,Village,-,34 km
+1357560,1487318,Afsin,Kahramanmaras,Türkiye,Village,59000 people,34 km
+1357560,1487318,Biçakci,Kahramanmaras,Türkiye,Village,-,37 km
+1357560,1487318,Alemdar,Kahramanmaras,Türkiye,Village,-,39 km
+1357560,1487318,Kantarma,Kahramanmaras,Türkiye,Village,-,40 km
+1357560,1487318,Hacidere,Kahramanmaras,Türkiye,Village,-,40 km
+1357560,1487318,Abaza,Kahramanmaras,Türkiye,Village,-,41 km
+1357560,1487318,Çobanli,Kahramanmaras,Türkiye,Village,-,41 km
+1357560,1487318,Abbasiye,Adiyaman,Türkiye,Village,-,42 km
+1357560,1487318,Begre,Kahramanmaras,Türkiye,Village,-,42 km
+1357560,1487318,Agtil,Kahramanmaras,Türkiye,Village,-,42 km
+1357560,1487318,Köyceviran,Kahramanmaras,Türkiye,Village,-,43 km
+1357560,1487318,Kokmuskuyu,Kahramanmaras,Türkiye,Village,-,44 km
+1357560,1487318,Sadak,Kahramanmaras,Türkiye,Village,-,46 km
+1357560,1487318,Büyüknacar,Kahramanmaras,Türkiye,Village,-,46 km
+1357560,1487318,Kuzucak,Kahramanmaras,Türkiye,Village,-,47 km
+1357560,1487318,Ahmetcik,Kahramanmaras,Türkiye,Village,-,47 km
+1357560,1487318,Agyar,Kahramanmaras,Türkiye,Village,-,47 km
+1357560,1487318,Armutsuyu,Kahramanmaras,Türkiye,Village,-,48 km
+1357560,1487318,Aritas,Kahramanmaras,Türkiye,Village,-,48 km
+1357560,1487318,Golbasi,Adiyaman,Türkiye,Village,40000 people,48 km
+1357560,1487318,Sariçukur,Kahramanmaras,Türkiye,Village,-,49 km
+1357560,1487318,Tekir,Kahramanmaras,Türkiye,Village,-,52 km
+1357560,1487318,Kanlikavak,Kahramanmaras,Türkiye,Village,-,53 km
+1357560,1487318,Mahalle,Adiyaman,Türkiye,Village,-,53 km
+1357560,1487318,Harmanli,Adiyaman,Türkiye,Village,-,53 km
+1357560,1487318,Kahramanmaras,Kahramanmaras,Türkiye,Major city,340000 people,54 km
+1357560,1487318,Mezraa,Malatya,Türkiye,Village,-,54 km
+1357560,1487318,Keçemagara,Malatya,Türkiye,Village,-,55 km
+1357560,1487318,Beloren,Adiyaman,Türkiye,Village,-,55 km
+1357560,1487318,Kalecik,Malatya,Türkiye,Village,-,55 km
+1357560,1487318,Aliçli,Kahramanmaras,Türkiye,Village,-,56 km
+1357560,1487318,Asmadibi,Kahramanmaras,Türkiye,Village,-,56 km
+1357560,1487318,Çevirme,Kahramanmaras,Türkiye,Village,-,57 km
+1357560,1487318,Asagi Setrek,Malatya,Türkiye,Village,-,58 km
+1357560,1487318,Darica,Malatya,Türkiye,Village,-,59 km
+1357560,1487318,Bölükçam,Kahramanmaras,Türkiye,Village,-,60 km
+1357560,1487318,Kerevin,Kahramanmaras,Türkiye,Village,-,61 km
+1357560,1487318,Pazarcik,Kahramanmaras,Türkiye,Village,33000 people,61 km
+1357560,1487318,Polat,Malatya,Türkiye,Village,-,61 km
+1357560,1487318,Dogansehir,Malatya,Türkiye,Village,-,61 km
+1357560,1487318,Goksun,Kahramanmaras,Türkiye,Village,35000 people,61 km
+1357560,1487318,Bereketli,Adiyaman,Türkiye,Village,-,61 km
+1357560,1487318,Kavakli,Kahramanmaras,Türkiye,Village,-,62 km
+1357560,1487318,Kurudere,Malatya,Türkiye,Village,-,63 km
+1357560,1487318,Erkenek,Malatya,Türkiye,Village,-,63 km
+1357560,1487318,Büyükterolar,Kahramanmaras,Türkiye,Village,-,63 km
+1357560,1487318,Harmancik,Kahramanmaras,Türkiye,Village,-,63 km
+1357560,1487318,Darende,Malatya,Türkiye,Village,20000 people,64 km
+1357560,1487318,Öksüzlü,Kahramanmaras,Türkiye,Village,-,66 km
+1357560,1487318,Araplar,Kahramanmaras,Türkiye,Village,-,66 km
+1357560,1487318,Keklikolugu,Kahramanmaras,Türkiye,Village,-,67 km
+1357560,1487318,Demrek,Kahramanmaras,Türkiye,Village,-,67 km
+1357560,1487318,Besni,Adiyaman,Türkiye,Village,46000 people,68 km
+1357560,1487318,Köseceli,Adiyaman,Türkiye,Village,-,68 km
+1357560,1487318,Surgu,Malatya,Türkiye,Village,-,69 km
+1357560,1487318,Ahmetli,Kahramanmaras,Türkiye,Village,-,70 km
+1365556,1496206,Pueto Aguas Negras,Guayas,Ecuador,Village,-,7 km
+1365556,1496206,Puerto Balao,Guayas,Ecuador,Village,-,8 km
+1365556,1496206,Concordia,Guayas,Ecuador,Village,-,8 km
+1365556,1496206,Buenos Aires,Guayas,Ecuador,Village,-,9 km
+1365556,1496206,La Jagua,Guayas,Ecuador,Village,-,9 km
+1365556,1496206,La Pólvora,Guayas,Ecuador,Village,-,9 km
+1365556,1496206,Las Lojas,Guayas,Ecuador,Village,-,9 km
+1365556,1496206,El Tabor,Guayas,Ecuador,Village,-,10 km
+1365556,1496206,Texas,Guayas,Ecuador,Village,-,10 km
+1365556,1496206,Puná,Guayas,Ecuador,Village,-,11 km
+1365556,1496206,San José,Guayas,Ecuador,Village,-,11 km
+1365556,1496206,Asunción,Guayas,Ecuador,Village,-,12 km
+1365556,1496206,Colon,Guayas,Ecuador,Village,-,13 km
+1365556,1496206,El Castillo,Guayas,Ecuador,Village,-,14 km
+1365556,1496206,El Placer,Guayas,Ecuador,Village,-,14 km
+1365556,1496206,Puerto San Jorge,Guayas,Ecuador,Village,-,14 km
+1365556,1496206,Zapote,Guayas,Ecuador,Village,-,15 km
+1365556,1496206,Santa Rita,Guayas,Ecuador,Village,-,15 km
+1365556,1496206,La Esperanza,Guayas,Ecuador,Village,-,15 km
+1365556,1496206,La Victoria,Guayas,Ecuador,Village,-,15 km
+1365556,1496206,El Congo,Guayas,Ecuador,Village,-,16 km
+1365556,1496206,Balao Chico,Guayas,Ecuador,Village,-,16 km
+1365556,1496206,Santa Carla,Guayas,Ecuador,Village,-,16 km
+1365556,1496206,Río Blanco,Guayas,Ecuador,Village,-,16 km
+1365556,1496206,Hacienda La Italia,Guayas,Ecuador,Village,-,17 km
+1365556,1496206,Jaime Roldos,Guayas,Ecuador,Village,-,17 km
+1365556,1496206,Soledad,Guayas,Ecuador,Village,-,18 km
+1365556,1496206,San Pablo,Guayas,Ecuador,Village,-,18 km
+1365556,1496206,San Vinicio,Guayas,Ecuador,Village,-,18 km
+1365556,1496206,San Rafael,Guayas,Ecuador,Village,-,19 km
+1365556,1496206,Boca de Tenguel,Guayas,Ecuador,Village,-,19 km
+1365556,1496206,San Antonio,Guayas,Ecuador,Village,-,19 km
+1365556,1496206,Salitral,Guayas,Ecuador,Village,-,20 km
+1365556,1496206,San Carlos,Guayas,Ecuador,Village,-,20 km
+1365556,1496206,Puerto del Conchal,Guayas,Ecuador,Village,-,20 km
+1365556,1496206,Balao,Guayas,Ecuador,Village,12000 people,20 km
+1365556,1496206,El Carmen,Guayas,Ecuador,Village,-,20 km
+1365556,1496206,Tenguel,Guayas,Ecuador,Village,-,20 km
+1365556,1496206,Puerto Naranjal,Guayas,Ecuador,Village,-,21 km
+1365556,1496206,Seis de Julio,Guayas,Ecuador,Village,-,21 km
+1365556,1496206,Puerto Isla Verde,Guayas,Ecuador,Village,-,21 km
+1365556,1496206,Río Hondo,Guayas,Ecuador,Village,-,21 km
+1365556,1496206,El Venado,Guayas,Ecuador,Village,-,22 km
+1365556,1496206,Las Mercodes,Guayas,Ecuador,Village,-,22 km
+1365556,1496206,Libertad,Guayas,Ecuador,Village,-,22 km
+1365556,1496206,Plaza de Piedra,Guayas,Ecuador,Village,-,23 km
+1365556,1496206,Puerto Hada,Guayas,Ecuador,Village,-,23 km
+1365556,1496206,Buenavista,Guayas,Ecuador,Village,-,23 km
+1365556,1496206,Viresmil,Guayas,Ecuador,Village,-,23 km
+1365556,1496206,La Previsora,Guayas,Ecuador,Village,-,23 km
+1365556,1496206,Camacho,Guayas,Ecuador,Village,-,24 km
+1365556,1496206,Gracias A Dios,Guayas,Ecuador,Village,-,24 km
+1365556,1496206,Comuna Shuar,Guayas,Ecuador,Village,-,24 km
+1365556,1496206,La Joya,Guayas,Ecuador,Village,-,24 km
+1365556,1496206,Bola de Oro,Guayas,Ecuador,Village,-,24 km
+1365556,1496206,Gala de Arriba,Guayas,Ecuador,Village,-,25 km
+1365556,1496206,El Aromo,Guayas,Ecuador,Village,-,25 km
+1365556,1496206,Puerto Buenavista,Guayas,Ecuador,Village,-,25 km
+1365556,1496206,Las Mercedes,Guayas,Ecuador,Village,-,25 km
+1365556,1496206,Puerto de la Cruz,Guayas,Ecuador,Village,-,25 km
+1365556,1496206,El Guabo,Guayas,Ecuador,Village,-,25 km
+1365556,1496206,Pueblo Nuevo,Guayas,Ecuador,Village,-,26 km
+1365556,1496206,Las Palmas,Guayas,Ecuador,Village,-,26 km
+1365556,1496206,Hacienda El Triunfo,Guayas,Ecuador,Village,-,26 km
+1365556,1496206,San Eduardo,Guayas,Ecuador,Village,-,26 km
+1365556,1496206,Shurimal,Azuay,Ecuador,Village,-,26 km
+1365556,1496206,Santa Ana,Guayas,Ecuador,Village,-,26 km
+1365556,1496206,Shagal,Guayas,Ecuador,Village,-,27 km
+1365556,1496206,Santa Rosa,Guayas,Ecuador,Village,-,27 km
+1365556,1496206,Puerto Salinas,Guayas,Ecuador,Village,-,27 km
+1365556,1496206,Puerto Arturo,Guayas,Ecuador,Village,-,28 km
+1365556,1496206,San Pedro,Guayas,Ecuador,Village,-,28 km
+1365556,1496206,Aguapiedra,Guayas,Ecuador,Village,-,28 km
+1365556,1496206,San Miguel,Guayas,Ecuador,Village,-,28 km
+1365556,1496206,Abdon Calderon,Guayas,Ecuador,Village,-,29 km
+1365556,1496206,San Vicente,Guayas,Ecuador,Village,-,29 km
+1365556,1496206,San Nicanor,Guayas,Ecuador,Village,-,29 km
+1365556,1496206,Camilo Ponce Enríquez,Azuay,Ecuador,Village,-,29 km
+1365556,1496206,La Adelina,Guayas,Ecuador,Village,-,29 km
+1365556,1496206,Puerto Santa Fe,Guayas,Ecuador,Village,-,30 km
+1365556,1496206,Puerto Grande,Guayas,Ecuador,Village,-,30 km
+1365556,1496206,Nuevo Poryenir,Guayas,Ecuador,Village,-,30 km
+1365556,1496206,Florida,Guayas,Ecuador,Village,-,30 km
+1365556,1496206,Buena Esperanza,Guayas,Ecuador,Village,-,31 km
+1365556,1496206,Campo Alegre,Guayas,Ecuador,Village,-,31 km
+1365556,1496206,Victoria,Azuay,Ecuador,Village,-,31 km
+1365556,1496206,Santa Rosa de Flandes,Guayas,Ecuador,Village,-,32 km
+1365556,1496206,Once de Agosto,Guayas,Ecuador,Village,-,32 km
+1365556,1496206,La Revesa,Guayas,Ecuador,Village,-,32 km
+1365556,1496206,Santa Marta,Azuay,Ecuador,Village,-,32 km
+1365556,1496206,Naranjal,Guayas,Ecuador,Village,32000 people,32 km
+1365556,1496206,Bocana,El Oro,Ecuador,Village,-,33 km
+1365556,1496206,Puerto Limbo,Guayas,Ecuador,Village,-,33 km
+1365556,1496206,Tendales,El Oro,Ecuador,Village,-,33 km
+1365556,1496206,Puerto Salvador,Guayas,Ecuador,Village,-,33 km
+1365556,1496206,Rio Benito,El Oro,Ecuador,Village,-,33 km
+1365556,1496206,Coca,Azuay,Ecuador,Village,-,33 km
+1365556,1496206,Pan de Azúcar,Guayas,Ecuador,Village,-,33 km
+1365556,1496206,Puna Viejo,Guayas,Ecuador,Village,-,33 km
+1365556,1496206,Pagua,El Oro,Ecuador,Village,-,33 km
+1390643,1524529,Anamrou,,Morocco,Village,-,4 km
+1390643,1524529,Tinaïmine,,Morocco,Village,-,5 km
+1390643,1524529,Iberdatene,,Morocco,Village,-,7 km
+1390643,1524529,Areg,,Morocco,Village,-,10 km
+1390643,1524529,Taddert,,Morocco,Village,-,11 km
+1390643,1524529,Amzaïne,,Morocco,Village,-,12 km
+1390643,1524529,Adassil,,Morocco,Village,-,12 km
+1390643,1524529,Adrhous,,Morocco,Village,-,14 km
+1390643,1524529,Aïn Ktof,,Morocco,Village,-,16 km
+1390643,1524529,Anebdour,,Morocco,Village,-,16 km
+1390643,1524529,Tazalt,,Morocco,Village,-,16 km
+1390643,1524529,Aït Bourd,,Morocco,Village,-,16 km
+1390643,1524529,Adouz,,Morocco,Village,-,18 km
+1390643,1524529,Ouarourhad,,Morocco,Village,-,19 km
+1390643,1524529,Tourhar,,Morocco,Village,-,19 km
+1390643,1524529,Mouldikht,,Morocco,Village,-,19 km
+1390643,1524529,Aguerd,,Morocco,Village,-,20 km
+1390643,1524529,Ikisane,,Morocco,Village,-,20 km
+1390643,1524529,Amizmiz,,Morocco,Village,12000 people,21 km
+1390643,1524529,Azrou Mellene,,Morocco,Village,-,22 km
+1390643,1524529,Ijjoukak,,Morocco,Village,-,23 km
+1390643,1524529,Aït Ouassern,,Morocco,Village,-,23 km
+1390643,1524529,Targhount,,Morocco,Village,-,23 km
+1390643,1524529,Aït Ibourk,,Morocco,Village,-,23 km
+1390643,1524529,Toug el Kheïr,,Morocco,Village,-,24 km
+1390643,1524529,Aourir,,Morocco,Village,-,24 km
+1390643,1524529,Tanzad,,Morocco,Village,-,25 km
+1390643,1524529,Assakoui,,Morocco,Village,-,26 km
+1390643,1524529,Aït Saïd,,Morocco,Village,-,26 km
+1390643,1524529,Asdim,,Morocco,Village,-,27 km
+1390643,1524529,Amguernis,,Morocco,Village,-,27 km
+1390643,1524529,Douar Tachbibt,,Morocco,Village,-,28 km
+1390643,1524529,Tamdrhoust,,Morocco,Village,-,28 km
+1390643,1524529,Asseïs,,Morocco,Village,-,28 km
+1390643,1524529,Tamarirt,,Morocco,Village,-,29 km
+1390643,1524529,Tannesmekht,,Morocco,Village,-,29 km
+1390643,1524529,Tijricht,,Morocco,Village,-,29 km
+1390643,1524529,Tamterga,,Morocco,Village,-,30 km
+1390643,1524529,Targa Oufella,,Morocco,Village,-,30 km
+1390643,1524529,Imzilene,,Morocco,Village,-,31 km
+1390643,1524529,Tajgalt,,Morocco,Village,-,31 km
+1390643,1524529,Agouni,,Morocco,Village,-,31 km
+1390643,1524529,Lalla Aziza,,Morocco,Village,-,31 km
+1390643,1524529,Agnie,,Morocco,Village,-,31 km
+1390643,1524529,Aouzar,,Morocco,Village,-,31 km
+1390643,1524529,Tamjercht,,Morocco,Village,-,31 km
+1390643,1524529,Aguerda,,Morocco,Village,-,33 km
+1390643,1524529,Tamerhlecht,,Morocco,Village,-,33 km
+1390643,1524529,Afeza,,Morocco,Village,-,33 km
+1390643,1524529,Tal'at Inwal,,Morocco,Village,-,34 km
+1390643,1524529,Agadir n' Afra,,Morocco,Village,-,34 km
+1390643,1524529,Ifrane n' Sidi Bouzid,,Morocco,Village,-,35 km
+1390643,1524529,El Had,,Morocco,Village,-,35 km
+1390643,1524529,Adki,,Morocco,Village,-,36 km
+1390643,1524529,Tagoulemt,,Morocco,Village,-,36 km
+1390643,1524529,Arhilas,,Morocco,Village,-,36 km
+1390643,1524529,Aït Mhand,,Morocco,Village,-,37 km
+1390643,1524529,Aorich,,Morocco,Village,-,37 km
+1390643,1524529,Agadir Boulnas,,Morocco,Village,-,37 km
+1390643,1524529,Aït Ouagouriane,,Morocco,Village,-,38 km
+1390643,1524529,Guemassa,,Morocco,Village,-,38 km
+1390643,1524529,Ifergane,,Morocco,Village,-,38 km
+1390643,1524529,Tarhouacht,,Morocco,Village,-,38 km
+1390643,1524529,Mtili,,Morocco,Village,-,38 km
+1390643,1524529,Anguim,,Morocco,Village,-,39 km
+1390643,1524529,Barrage Cavagnac,,Morocco,Village,-,40 km
+1390643,1524529,Isk n'Izder,,Morocco,Village,-,40 km
+1390643,1524529,Agadir Oudir,,Morocco,Village,-,40 km
+1390643,1524529,Tamdit,,Morocco,Village,-,40 km
+1390643,1524529,Staïli,,Morocco,Village,-,41 km
+1390643,1524529,Talate n'Ahki,,Morocco,Village,-,41 km
+1390643,1524529,Agadir Iatouin,,Morocco,Village,-,42 km
+1390643,1524529,Aït Khaled,,Morocco,Village,-,42 km
+1390643,1524529,Agouni Ba Messaoud,,Morocco,Village,-,42 km
+1390643,1524529,Ougdalene,,Morocco,Village,-,42 km
+1390643,1524529,Asni,,Morocco,Village,12000 people,42 km
+1390643,1524529,Tamjout,,Morocco,Village,-,42 km
+1390643,1524529,Imi-N-Tanoute,,Morocco,Village,-,43 km
+1390643,1524529,El Karia,,Morocco,Village,-,43 km
+1390643,1524529,Aït Zagoumas,,Morocco,Village,-,43 km
+1390643,1524529,Agadir Mohand Ou Mansour,,Morocco,Village,-,43 km
+1390643,1524529,Baoum,,Morocco,Village,-,43 km
+1390643,1524529,Ioulla,,Morocco,Village,-,43 km
+1390643,1524529,Addaza,,Morocco,Village,-,44 km
+1390643,1524529,Ouaouareg,,Morocco,Village,-,44 km
+1390643,1524529,Armd,,Morocco,Village,-,44 km
+1390643,1524529,Douar Saïdat,,Morocco,Village,-,44 km
+1390643,1524529,Ahl Lahrima,,Morocco,Village,-,45 km
+1390643,1524529,Hajar,,Morocco,Village,-,45 km
+1390643,1524529,Zaouia Sidi Amhil,,Morocco,Village,-,45 km
+1390643,1524529,El Moukhtar,,Morocco,Village,-,45 km
+1390643,1524529,Arguioun,,Morocco,Village,-,46 km
+1390643,1524529,Oulad Abd el Moula,,Morocco,Village,-,46 km
+1390643,1524529,Amsagarte Aït Oughalet,,Morocco,Village,-,46 km
+1390643,1524529,Tikfilt,,Morocco,Village,-,46 km
+1390643,1524529,Tanouzegt,,Morocco,Village,-,46 km
+1390643,1524529,Aït Lahcen Hmjoune,,Morocco,Village,-,47 km
+1390643,1524529,Amari,,Morocco,Village,-,47 km
+1390643,1524529,Aoulouz,,Morocco,Village,-,47 km
+1390643,1524529,Iougnane,,Morocco,Village,-,48 km
+1394952,1529360,Asya Bad,Herat,Afghanistan,Village,-,6 km
+1394952,1529360,Qasr-e Shirin,Herat,Afghanistan,Village,-,7 km
+1394952,1529360,Aybak,Herat,Afghanistan,Village,-,11 km
+1394952,1529360,Asya-i-Badak,Herat,Afghanistan,Village,-,13 km
+1394952,1529360,Khvajeh Mosammad Shurab,Herat,Afghanistan,Village,-,14 km
+1394952,1529360,Kharaba-I-Cazyadin,Herat,Afghanistan,Village,-,15 km
+1394952,1529360,Casma-i-Ghuri,Herat,Afghanistan,Village,-,16 km
+1394952,1529360,Car Gholang,Herat,Afghanistan,Village,-,17 km
+1394952,1529360,Afdzal,Herat,Afghanistan,Village,-,17 km
+1394952,1529360,Luka Sang,Herat,Afghanistan,Village,-,19 km
+1394952,1529360,Rabat-i-Mirza,Herat,Afghanistan,Village,-,21 km
+1394952,1529360,Deh-e Afzal,Herat,Afghanistan,Village,-,22 km
+1394952,1529360,Karezak,Herat,Afghanistan,Village,-,23 km
+1394952,1529360,Gandab,Herat,Afghanistan,Village,-,24 km
+1394952,1529360,Bedak,Herat,Afghanistan,Village,-,24 km
+1394952,1529360,'Ayubi,Herat,Afghanistan,Village,-,26 km
+1394952,1529360,Sarif Abad,Herat,Afghanistan,Village,-,26 km
+1394952,1529360,Deh-e Puda,Herat,Afghanistan,Village,-,27 km
+1394952,1529360,Sayd Abad,Herat,Afghanistan,Village,-,28 km
+1394952,1529360,Karez-i-Naw,Herat,Afghanistan,Village,-,28 km
+1394952,1529360,Jaya,Herat,Afghanistan,Village,-,28 km
+1394952,1529360,Calaqhay,Herat,Afghanistan,Village,-,28 km
+1394952,1529360,Khvajeh Sar Bur,Herat,Afghanistan,Village,-,29 km
+1394952,1529360,Shekiban,Herat,Afghanistan,Village,-,29 km
+1394952,1529360,Parvan,Herat,Afghanistan,Village,-,29 km
+1394952,1529360,Sali Patra,Herat,Afghanistan,Village,-,30 km
+1394952,1529360,Buzan-e Pashna,Herat,Afghanistan,Village,-,30 km
+1394952,1529360,'Abd ol Hakim,Herat,Afghanistan,Village,-,31 km
+1394952,1529360,Khwaja Gul Bed,Herat,Afghanistan,Village,-,32 km
+1394952,1529360,Khvajeh Gol Bid,Herat,Afghanistan,Village,-,32 km
+1394952,1529360,Alband,Herat,Afghanistan,Village,-,34 km
+1394952,1529360,Do Ab,Herat,Afghanistan,Village,-,34 km
+1394952,1529360,Sufian,Herat,Afghanistan,Village,-,34 km
+1394952,1529360,Darvish 'Ali Khan,Herat,Afghanistan,Village,-,34 km
+1394952,1529360,Zendeh Jan,Herat,Afghanistan,Village,-,35 km
+1394952,1529360,Casma-i-Mulla Mohammad,Herat,Afghanistan,Village,-,35 km
+1394952,1529360,Ghorqand-i-Hazara,Herat,Afghanistan,Village,-,35 km
+1394952,1529360,Faydz Abad,Herat,Afghanistan,Village,-,35 km
+1394952,1529360,Taraka-i-'Abdullah Khan,Herat,Afghanistan,Village,-,35 km
+1394952,1529360,Khamaku,Herat,Afghanistan,Village,-,36 km
+1394952,1529360,'Ali Mansur,Herat,Afghanistan,Village,-,36 km
+1394952,1529360,Caghuldar,Herat,Afghanistan,Village,-,37 km
+1394952,1529360,Hadzrat-i-Baba,Herat,Afghanistan,Village,-,38 km
+1394952,1529360,Khvajeh Leni,Herat,Afghanistan,Village,-,38 km
+1394952,1529360,Herat,Herat,Afghanistan,Major city,170000 people,38 km
+1394952,1529360,Dazwari,Herat,Afghanistan,Village,-,38 km
+1394952,1529360,Karez-i-Haydar Khan,Herat,Afghanistan,Village,-,38 km
+1394952,1529360,Arbabat,Herat,Afghanistan,Village,-,38 km
+1394952,1529360,Ghuchinak,Herat,Afghanistan,Village,-,39 km
+1394952,1529360,Badagh,Herat,Afghanistan,Village,-,39 km
+1394952,1529360,Baranabad,Herat,Afghanistan,Village,-,40 km
+1394952,1529360,Yaka Darakt,Herat,Afghanistan,Village,-,41 km
+1394952,1529360,Ja'far Beg I,Herat,Afghanistan,Village,-,41 km
+1394952,1529360,Ginja'i,Herat,Afghanistan,Village,-,41 km
+1394952,1529360,Yakkeh Derakht,Herat,Afghanistan,Village,-,41 km
+1394952,1529360,Alaf,Herat,Afghanistan,Village,-,42 km
+1394952,1529360,Kartah,Herat,Afghanistan,Village,-,42 km
+1394952,1529360,Qawm Ghazi,Herat,Afghanistan,Village,-,42 km
+1394952,1529360,Ne'mat,Herat,Afghanistan,Village,-,43 km
+1394952,1529360,Sabol,Herat,Afghanistan,Village,-,43 km
+1394952,1529360,Deh Moghul,Herat,Afghanistan,Village,-,43 km
+1394952,1529360,Tutachi,Herat,Afghanistan,Village,-,43 km
+1394952,1529360,Cahar Khana,Herat,Afghanistan,Village,-,43 km
+1394952,1529360,'Abdollah Jan,Herat,Afghanistan,Village,-,44 km
+1394952,1529360,Qarya-i-Hula,Herat,Afghanistan,Village,-,44 km
+1394952,1529360,Karez-i-Hazara,Herat,Afghanistan,Village,-,45 km
+1394952,1529360,Ta Shur,Herat,Afghanistan,Village,-,46 km
+1394952,1529360,Casma-i-Tela,Herat,Afghanistan,Village,-,46 km
+1394952,1529360,Minda Ju,Herat,Afghanistan,Village,-,46 km
+1394952,1529360,Diran,Herat,Afghanistan,Village,-,46 km
+1394952,1529360,Kahdestan,Herat,Afghanistan,Village,-,46 km
+1394952,1529360,Kaftarghal,Herat,Afghanistan,Village,-,47 km
+1394952,1529360,Deh Zaq,Herat,Afghanistan,Village,-,47 km
+1394952,1529360,Beland Ab-e Navin,Herat,Afghanistan,Village,-,47 km
+1394952,1529360,Ab-e Barik,Herat,Afghanistan,Village,-,47 km
+1394952,1529360,Kaftari,Herat,Afghanistan,Village,-,47 km
+1394952,1529360,Roshnu,Herat,Afghanistan,Village,-,47 km
+1394952,1529360,Koshk,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Casma-i-Bot,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Stavnu,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Ab-e Sefid,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Zangi Sabah,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Murtadza'i,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Espaghan,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Hasan Abad,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Rahzanak,Herat,Afghanistan,Village,-,48 km
+1394952,1529360,Rauzabagh,Herat,Afghanistan,Village,-,49 km
+1394952,1529360,'Ali Kaku,Herat,Afghanistan,Village,-,49 km
+1394952,1529360,Qal'eh-ye Qazi,Herat,Afghanistan,Village,-,50 km
+1394952,1529360,Gaza,Herat,Afghanistan,Village,-,50 km
+1394952,1529360,Karez-i-Kar,Herat,Afghanistan,Village,-,51 km
+1394952,1529360,Ghurian,Herat,Afghanistan,Village,24000 people,51 km
+1394952,1529360,Pahra,Herat,Afghanistan,Village,-,51 km
+1394952,1529360,Casma-i-Daraz,Herat,Afghanistan,Village,-,51 km
+1394952,1529360,Anjirak,Herat,Afghanistan,Village,-,52 km
+1394952,1529360,Bastan,Herat,Afghanistan,Village,-,52 km
+1394952,1529360,Ab Mazar,Herat,Afghanistan,Village,-,52 km
+1394952,1529360,Juna,Herat,Afghanistan,Village,-,52 km
+1394952,1529360,Nisan,Herat,Afghanistan,Village,-,52 km
+1394952,1529360,Karez-i-Zaman-i-Kaigandi,Herat,Afghanistan,Village,-,53 km
+1394958,1529364,Asya Bad,Herat,Afghanistan,Village,-,7 km
+1394958,1529364,Aybak,Herat,Afghanistan,Village,-,9 km
+1394958,1529364,Qasr-e Shirin,Herat,Afghanistan,Village,-,10 km
+1394958,1529364,Casma-i-Ghuri,Herat,Afghanistan,Village,-,12 km
+1394958,1529364,Kharaba-I-Cazyadin,Herat,Afghanistan,Village,-,14 km
+1394958,1529364,Asya-i-Badak,Herat,Afghanistan,Village,-,17 km
+1394958,1529364,Khvajeh Mosammad Shurab,Herat,Afghanistan,Village,-,17 km
+1394958,1529364,Luka Sang,Herat,Afghanistan,Village,-,20 km
+1394958,1529364,Car Gholang,Herat,Afghanistan,Village,-,21 km
+1394958,1529364,Afdzal,Herat,Afghanistan,Village,-,22 km
+1394958,1529364,Sarif Abad,Herat,Afghanistan,Village,-,22 km
+1394958,1529364,Deh-e Puda,Herat,Afghanistan,Village,-,23 km
+1394958,1529364,Sayd Abad,Herat,Afghanistan,Village,-,24 km
+1394958,1529364,Gandab,Herat,Afghanistan,Village,-,24 km
+1394958,1529364,Shekiban,Herat,Afghanistan,Village,-,24 km
+1394958,1529364,Rabat-i-Mirza,Herat,Afghanistan,Village,-,25 km
+1394958,1529364,Jaya,Herat,Afghanistan,Village,-,25 km
+1394958,1529364,Deh-e Afzal,Herat,Afghanistan,Village,-,26 km
+1394958,1529364,Karezak,Herat,Afghanistan,Village,-,27 km
+1394958,1529364,Sali Patra,Herat,Afghanistan,Village,-,27 km
+1394958,1529364,Bedak,Herat,Afghanistan,Village,-,28 km
+1394958,1529364,Parvan,Herat,Afghanistan,Village,-,29 km
+1394958,1529364,Zendeh Jan,Herat,Afghanistan,Village,-,30 km
+1394958,1529364,Khvajeh Sar Bur,Herat,Afghanistan,Village,-,30 km
+1394958,1529364,Alband,Herat,Afghanistan,Village,-,30 km
+1394958,1529364,'Ayubi,Herat,Afghanistan,Village,-,31 km
+1394958,1529364,Taraka-i-'Abdullah Khan,Herat,Afghanistan,Village,-,31 km
+1394958,1529364,Sufian,Herat,Afghanistan,Village,-,31 km
+1394958,1529364,Khamaku,Herat,Afghanistan,Village,-,32 km
+1394958,1529364,Karez-i-Naw,Herat,Afghanistan,Village,-,32 km
+1394958,1529364,Calaqhay,Herat,Afghanistan,Village,-,32 km
+1394958,1529364,Buzan-e Pashna,Herat,Afghanistan,Village,-,33 km
+1394958,1529364,'Abd ol Hakim,Herat,Afghanistan,Village,-,35 km
+1394958,1529364,Ghuchinak,Herat,Afghanistan,Village,-,35 km
+1394958,1529364,Arbabat,Herat,Afghanistan,Village,-,35 km
+1394958,1529364,Baranabad,Herat,Afghanistan,Village,-,36 km
+1394958,1529364,'Ali Mansur,Herat,Afghanistan,Village,-,36 km
+1394958,1529364,Khwaja Gul Bed,Herat,Afghanistan,Village,-,36 km
+1394958,1529364,Herat,Herat,Afghanistan,Major city,170000 people,36 km
+1394958,1529364,Khvajeh Gol Bid,Herat,Afghanistan,Village,-,36 km
+1394958,1529364,Badagh,Herat,Afghanistan,Village,-,37 km
+1394958,1529364,Ghorqand-i-Hazara,Herat,Afghanistan,Village,-,37 km
+1394958,1529364,Darvish 'Ali Khan,Herat,Afghanistan,Village,-,38 km
+1394958,1529364,Do Ab,Herat,Afghanistan,Village,-,38 km
+1394958,1529364,Caghuldar,Herat,Afghanistan,Village,-,38 km
+1394958,1529364,Casma-i-Mulla Mohammad,Herat,Afghanistan,Village,-,38 km
+1394958,1529364,Sabol,Herat,Afghanistan,Village,-,39 km
+1394958,1529364,Faydz Abad,Herat,Afghanistan,Village,-,40 km
+1394958,1529364,Cahar Khana,Herat,Afghanistan,Village,-,40 km
+1394958,1529364,Kartah,Herat,Afghanistan,Village,-,41 km
+1394958,1529364,Hadzrat-i-Baba,Herat,Afghanistan,Village,-,41 km
+1394958,1529364,Karez-i-Haydar Khan,Herat,Afghanistan,Village,-,41 km
+1394958,1529364,Khvajeh Leni,Herat,Afghanistan,Village,-,42 km
+1394958,1529364,Minda Ju,Herat,Afghanistan,Village,-,42 km
+1394958,1529364,Ginja'i,Herat,Afghanistan,Village,-,42 km
+1394958,1529364,Dazwari,Herat,Afghanistan,Village,-,43 km
+1394958,1529364,Diran,Herat,Afghanistan,Village,-,43 km
+1394958,1529364,Kaftari,Herat,Afghanistan,Village,-,43 km
+1394958,1529364,Deh Moghul,Herat,Afghanistan,Village,-,44 km
+1394958,1529364,Roshnu,Herat,Afghanistan,Village,-,44 km
+1394958,1529364,Deh Zaq,Herat,Afghanistan,Village,-,44 km
+1394958,1529364,Stavnu,Herat,Afghanistan,Village,-,44 km
+1394958,1529364,Ja'far Beg I,Herat,Afghanistan,Village,-,44 km
+1394958,1529364,Yaka Darakt,Herat,Afghanistan,Village,-,45 km
+1394958,1529364,Zangi Sabah,Herat,Afghanistan,Village,-,45 km
+1394958,1529364,Hasan Abad,Herat,Afghanistan,Village,-,45 km
+1394958,1529364,Kahdestan,Herat,Afghanistan,Village,-,45 km
+1394958,1529364,Rahzanak,Herat,Afghanistan,Village,-,45 km
+1394958,1529364,Espaghan,Herat,Afghanistan,Village,-,45 km
+1394958,1529364,Beland Ab-e Navin,Herat,Afghanistan,Village,-,45 km
+1394958,1529364,Yakkeh Derakht,Herat,Afghanistan,Village,-,46 km
+1394958,1529364,Alaf,Herat,Afghanistan,Village,-,46 km
+1394958,1529364,Ne'mat,Herat,Afghanistan,Village,-,46 km
+1394958,1529364,'Abdollah Jan,Herat,Afghanistan,Village,-,46 km
+1394958,1529364,Qawm Ghazi,Herat,Afghanistan,Village,-,47 km
+1394958,1529364,Gaza,Herat,Afghanistan,Village,-,47 km
+1394958,1529364,Rauzabagh,Herat,Afghanistan,Village,-,47 km
+1394958,1529364,Qal'eh-ye Qazi,Herat,Afghanistan,Village,-,47 km
+1394958,1529364,Pahra,Herat,Afghanistan,Village,-,47 km
+1394958,1529364,Qarya-i-Hula,Herat,Afghanistan,Village,-,47 km
+1394958,1529364,Ghurian,Herat,Afghanistan,Village,24000 people,47 km
+1394958,1529364,Tutachi,Herat,Afghanistan,Village,-,47 km
+1394958,1529364,Casma-i-Tela,Herat,Afghanistan,Village,-,48 km
+1394958,1529364,Karez-i-Hazara,Herat,Afghanistan,Village,-,48 km
+1394958,1529364,'Ali Kaku,Herat,Afghanistan,Village,-,50 km
+1394958,1529364,Juna,Herat,Afghanistan,Village,-,50 km
+1394958,1529364,Ta Shur,Herat,Afghanistan,Village,-,50 km
+1394958,1529364,Ab-e Sefid,Herat,Afghanistan,Village,-,50 km
+1394958,1529364,Kaftarghal,Herat,Afghanistan,Village,-,50 km
+1394958,1529364,Ab-e Barik,Herat,Afghanistan,Village,-,50 km
+1394958,1529364,Pir-E Nayfaz,Herat,Afghanistan,Village,-,51 km
+1394958,1529364,Nisan,Herat,Afghanistan,Village,-,51 km
+1394958,1529364,Bastan,Herat,Afghanistan,Village,-,52 km
+1394958,1529364,Siahvashan,Herat,Afghanistan,Village,-,52 km
+1394958,1529364,Koshk,Herat,Afghanistan,Village,-,52 km
+1394958,1529364,Casma-i-Bot,Herat,Afghanistan,Village,-,52 km
+1394958,1529364,Murtadza'i,Herat,Afghanistan,Village,-,52 km
+1394958,1529364,Anjirak,Herat,Afghanistan,Village,-,53 km
+1394958,1529364,Casma-i-Daraz,Herat,Afghanistan,Village,-,53 km
+1394958,1529364,Karez-i-Kar,Herat,Afghanistan,Village,-,53 km
+1394961,1529363,Asya-i-Badak,Herat,Afghanistan,Village,-,2 km
+1394961,1529363,Car Gholang,Herat,Afghanistan,Village,-,6 km
+1394961,1529363,Asya Bad,Herat,Afghanistan,Village,-,10 km
+1394961,1529363,Rabat-i-Mirza,Herat,Afghanistan,Village,-,10 km
+1394961,1529363,Deh-e Afzal,Herat,Afghanistan,Village,-,14 km
+1394961,1529363,Qasr-e Shirin,Herat,Afghanistan,Village,-,14 km
+1394961,1529363,Afdzal,Herat,Afghanistan,Village,-,15 km
+1394961,1529363,Karez-i-Naw,Herat,Afghanistan,Village,-,17 km
+1394961,1529363,Aybak,Herat,Afghanistan,Village,-,17 km
+1394961,1529363,'Ayubi,Herat,Afghanistan,Village,-,19 km
+1394961,1529363,Khvajeh Mosammad Shurab,Herat,Afghanistan,Village,-,19 km
+1394961,1529363,Karezak,Herat,Afghanistan,Village,-,20 km
+1394961,1529363,'Abd ol Hakim,Herat,Afghanistan,Village,-,20 km
+1394961,1529363,Khvajeh Sar Bur,Herat,Afghanistan,Village,-,20 km
+1394961,1529363,Gandab,Herat,Afghanistan,Village,-,21 km
+1394961,1529363,Khwaja Gul Bed,Herat,Afghanistan,Village,-,23 km
+1394961,1529363,Darvish 'Ali Khan,Herat,Afghanistan,Village,-,23 km
+1394961,1529363,Khvajeh Gol Bid,Herat,Afghanistan,Village,-,23 km
+1394961,1529363,Do Ab,Herat,Afghanistan,Village,-,23 km
+1394961,1529363,Parvan,Herat,Afghanistan,Village,-,24 km
+1394961,1529363,Casma-i-Ghuri,Herat,Afghanistan,Village,-,25 km
+1394961,1529363,Bedak,Herat,Afghanistan,Village,-,25 km
+1394961,1529363,Calaqhay,Herat,Afghanistan,Village,-,25 km
+1394961,1529363,Luka Sang,Herat,Afghanistan,Village,-,25 km
+1394961,1529363,Kharaba-I-Cazyadin,Herat,Afghanistan,Village,-,25 km
+1394961,1529363,Hadzrat-i-Baba,Herat,Afghanistan,Village,-,27 km
+1394961,1529363,Faydz Abad,Herat,Afghanistan,Village,-,27 km
+1394961,1529363,Dazwari,Herat,Afghanistan,Village,-,29 km
+1394961,1529363,Ja'far Beg I,Herat,Afghanistan,Village,-,29 km
+1394961,1529363,Caghuldar,Herat,Afghanistan,Village,-,30 km
+1394961,1529363,Yaka Darakt,Herat,Afghanistan,Village,-,30 km
+1394961,1529363,Buzan-e Pashna,Herat,Afghanistan,Village,-,30 km
+1394961,1529363,Yakkeh Derakht,Herat,Afghanistan,Village,-,30 km
+1394961,1529363,Sali Patra,Herat,Afghanistan,Village,-,31 km
+1394961,1529363,'Ali Mansur,Herat,Afghanistan,Village,-,32 km
+1394961,1529363,Ginja'i,Herat,Afghanistan,Village,-,32 km
+1394961,1529363,Jaya,Herat,Afghanistan,Village,-,33 km
+1394961,1529363,Khvajeh Leni,Herat,Afghanistan,Village,-,33 km
+1394961,1529363,Casma-i-Mulla Mohammad,Herat,Afghanistan,Village,-,33 km
+1394961,1529363,Qawm Ghazi,Herat,Afghanistan,Village,-,33 km
+1394961,1529363,Qarya-i-Hula,Herat,Afghanistan,Village,-,34 km
+1394961,1529363,Alaf,Herat,Afghanistan,Village,-,34 km
+1394961,1529363,Deh-e Puda,Herat,Afghanistan,Village,-,34 km
+1394961,1529363,Kaftarghal,Herat,Afghanistan,Village,-,35 km
+1394961,1529363,Ab-e Barik,Herat,Afghanistan,Village,-,36 km
+1394961,1529363,Deh Moghul,Herat,Afghanistan,Village,-,36 km
+1394961,1529363,Sarif Abad,Herat,Afghanistan,Village,-,36 km
+1394961,1529363,Sufian,Herat,Afghanistan,Village,-,37 km
+1394961,1529363,Sayd Abad,Herat,Afghanistan,Village,-,37 km
+1394961,1529363,Koshk,Herat,Afghanistan,Village,-,37 km
+1394961,1529363,Herat,Herat,Afghanistan,Major city,170000 people,38 km
+1394961,1529363,Murtadza'i,Herat,Afghanistan,Village,-,38 km
+1394961,1529363,Alband,Herat,Afghanistan,Village,-,38 km
+1394961,1529363,Ghorqand-i-Hazara,Herat,Afghanistan,Village,-,38 km
+1394961,1529363,Casma-i-Bot,Herat,Afghanistan,Village,-,38 km
+1394961,1529363,Tutachi,Herat,Afghanistan,Village,-,39 km
+1394961,1529363,Shekiban,Herat,Afghanistan,Village,-,39 km
+1394961,1529363,Ta Shur,Herat,Afghanistan,Village,-,40 km
+1394961,1529363,Karez-i-Haydar Khan,Herat,Afghanistan,Village,-,40 km
+1394961,1529363,Ne'mat,Herat,Afghanistan,Village,-,41 km
+1394961,1529363,Badagh,Herat,Afghanistan,Village,-,41 km
+1394961,1529363,Kartah,Herat,Afghanistan,Village,-,41 km
+1394961,1529363,Arbabat,Herat,Afghanistan,Village,-,42 km
+1394961,1529363,Karez-i-Zaman-i-Kaigandi,Herat,Afghanistan,Village,-,42 km
+1394961,1529363,Casma-i-Daraz,Herat,Afghanistan,Village,-,42 km
+1394961,1529363,Babu Sayda,Herat,Afghanistan,Village,-,43 km
+1394961,1529363,Khaleqdad,Herat,Afghanistan,Village,-,43 km
+1394961,1529363,'Ali Kaku,Herat,Afghanistan,Village,-,43 km
+1394961,1529363,Shur Khalil,Herat,Afghanistan,Village,-,43 km
+1394961,1529363,Kahdestan,Herat,Afghanistan,Village,-,44 km
+1394961,1529363,Ghuchinak,Herat,Afghanistan,Village,-,44 km
+1394961,1529363,Taraka-i-'Abdullah Khan,Herat,Afghanistan,Village,-,44 km
+1394961,1529363,Anjirak,Herat,Afghanistan,Village,-,44 km
+1394961,1529363,'Abd ol Karim Khan,Herat,Afghanistan,Village,-,44 km
+1394961,1529363,Kariz-E Zaman-E Bala,Herat,Afghanistan,Village,-,44 km
+1394961,1529363,Khush Asia,Herat,Afghanistan,Village,-,45 km
+1394961,1529363,Zendeh Jan,Herat,Afghanistan,Village,-,45 km
+1394961,1529363,Khvosh Asia,Herat,Afghanistan,Village,-,45 km
+1394961,1529363,Karez-i-Hazara,Herat,Afghanistan,Village,-,45 km
+1394961,1529363,'Abdollah Jan,Herat,Afghanistan,Village,-,45 km
+1394961,1529363,Beland Ab-e Navin,Herat,Afghanistan,Village,-,46 km
+1394961,1529363,Baldi,Herat,Afghanistan,Village,-,46 km
+1394961,1529363,Bastan,Herat,Afghanistan,Village,-,47 km
+1394961,1529363,Khamaku,Herat,Afghanistan,Village,-,47 km
+1394961,1529363,Cahar Khana,Herat,Afghanistan,Village,-,47 km
+1394961,1529363,Deh Zaq,Herat,Afghanistan,Village,-,49 km
+1394961,1529363,Koshk-e Kohneh,Herat,Afghanistan,Village,-,49 km
+1394961,1529363,'Aliabad,Herat,Afghanistan,Village,-,49 km
+1394961,1529363,Kamar Zard,Herat,Afghanistan,Village,-,49 km
+1394961,1529363,Muqur,Herat,Afghanistan,Village,-,49 km
+1394961,1529363,Rauzabagh,Herat,Afghanistan,Village,-,50 km
+1394961,1529363,Puza Aw,Herat,Afghanistan,Village,-,50 km
+1394961,1529363,Nisan,Herat,Afghanistan,Village,-,50 km
+1394961,1529363,Casma-i-Tela,Herat,Afghanistan,Village,-,50 km
+1394961,1529363,Kham-I Kaj,Herat,Afghanistan,Village,-,51 km
+1394961,1529363,Ab-e Sefid,Herat,Afghanistan,Village,-,51 km
+1394961,1529363,Baranabad,Herat,Afghanistan,Village,-,51 km
+1394961,1529363,Espaghan,Herat,Afghanistan,Village,-,51 km
+1394961,1529363,Alazan,Herat,Afghanistan,Village,-,52 km
+1394961,1529363,Kham-I-Sabz,Herat,Afghanistan,Village,-,52 km
+1395488,1529996,Asya Bad,Herat,Afghanistan,Village,-,8 km
+1395488,1529996,Asya-i-Badak,Herat,Afghanistan,Village,-,10 km
+1395488,1529996,Gandab,Herat,Afghanistan,Village,-,11 km
+1395488,1529996,Aybak,Herat,Afghanistan,Village,-,12 km
+1395488,1529996,Khvajeh Sar Bur,Herat,Afghanistan,Village,-,15 km
+1395488,1529996,Car Gholang,Herat,Afghanistan,Village,-,15 km
+1395488,1529996,Parvan,Herat,Afghanistan,Village,-,15 km
+1395488,1529996,Rabat-i-Mirza,Herat,Afghanistan,Village,-,16 km
+1395488,1529996,Qasr-e Shirin,Herat,Afghanistan,Village,-,20 km
+1395488,1529996,Casma-i-Ghuri,Herat,Afghanistan,Village,-,20 km
+1395488,1529996,Sali Patra,Herat,Afghanistan,Village,-,22 km
+1395488,1529996,Karez-i-Naw,Herat,Afghanistan,Village,-,22 km
+1395488,1529996,'Abd ol Hakim,Herat,Afghanistan,Village,-,23 km
+1395488,1529996,Deh-e Afzal,Herat,Afghanistan,Village,-,23 km
+1395488,1529996,'Ali Mansur,Herat,Afghanistan,Village,-,23 km
+1395488,1529996,Caghuldar,Herat,Afghanistan,Village,-,23 km
+1395488,1529996,Jaya,Herat,Afghanistan,Village,-,24 km
+1395488,1529996,Afdzal,Herat,Afghanistan,Village,-,24 km
+1395488,1529996,Khvajeh Mosammad Shurab,Herat,Afghanistan,Village,-,27 km
+1395488,1529996,Ginja'i,Herat,Afghanistan,Village,-,27 km
+1395488,1529996,Hadzrat-i-Baba,Herat,Afghanistan,Village,-,27 km
+1395488,1529996,Sufian,Herat,Afghanistan,Village,-,27 km
+1395488,1529996,Deh-e Puda,Herat,Afghanistan,Village,-,28 km
+1395488,1529996,Darvish 'Ali Khan,Herat,Afghanistan,Village,-,28 km
+1395488,1529996,Herat,Herat,Afghanistan,Major city,170000 people,28 km
+1395488,1529996,'Ayubi,Herat,Afghanistan,Village,-,29 km
+1395488,1529996,Kharaba-I-Cazyadin,Herat,Afghanistan,Village,-,29 km
+1395488,1529996,Deh Moghul,Herat,Afghanistan,Village,-,29 km
+1395488,1529996,Karezak,Herat,Afghanistan,Village,-,29 km
+1395488,1529996,Alband,Herat,Afghanistan,Village,-,30 km
+1395488,1529996,Do Ab,Herat,Afghanistan,Village,-,30 km
+1395488,1529996,Khwaja Gul Bed,Herat,Afghanistan,Village,-,31 km
+1395488,1529996,Khvajeh Gol Bid,Herat,Afghanistan,Village,-,31 km
+1395488,1529996,Badagh,Herat,Afghanistan,Village,-,32 km
+1395488,1529996,Kartah,Herat,Afghanistan,Village,-,32 km
+1395488,1529996,Luka Sang,Herat,Afghanistan,Village,-,32 km
+1395488,1529996,Ja'far Beg I,Herat,Afghanistan,Village,-,32 km
+1395488,1529996,Sayd Abad,Herat,Afghanistan,Village,-,32 km
+1395488,1529996,Sarif Abad,Herat,Afghanistan,Village,-,32 km
+1395488,1529996,Qarya-i-Hula,Herat,Afghanistan,Village,-,32 km
+1395488,1529996,Arbabat,Herat,Afghanistan,Village,-,33 km
+1395488,1529996,Bedak,Herat,Afghanistan,Village,-,34 km
+1395488,1529996,Kahdestan,Herat,Afghanistan,Village,-,34 km
+1395488,1529996,Calaqhay,Herat,Afghanistan,Village,-,35 km
+1395488,1529996,Shekiban,Herat,Afghanistan,Village,-,35 km
+1395488,1529996,Ghuchinak,Herat,Afghanistan,Village,-,35 km
+1395488,1529996,Faydz Abad,Herat,Afghanistan,Village,-,36 km
+1395488,1529996,Yaka Darakt,Herat,Afghanistan,Village,-,36 km
+1395488,1529996,'Ali Kaku,Herat,Afghanistan,Village,-,36 km
+1395488,1529996,Ab-e Barik,Herat,Afghanistan,Village,-,36 km
+1395488,1529996,Dazwari,Herat,Afghanistan,Village,-,36 km
+1395488,1529996,Yakkeh Derakht,Herat,Afghanistan,Village,-,36 km
+1395488,1529996,Beland Ab-e Navin,Herat,Afghanistan,Village,-,37 km
+1395488,1529996,Kaftarghal,Herat,Afghanistan,Village,-,38 km
+1395488,1529996,Casma-i-Daraz,Herat,Afghanistan,Village,-,38 km
+1395488,1529996,Anjirak,Herat,Afghanistan,Village,-,38 km
+1395488,1529996,Taraka-i-'Abdullah Khan,Herat,Afghanistan,Village,-,38 km
+1395488,1529996,Bastan,Herat,Afghanistan,Village,-,38 km
+1395488,1529996,Cahar Khana,Herat,Afghanistan,Village,-,38 km
+1395488,1529996,Deh Zaq,Herat,Afghanistan,Village,-,39 km
+1395488,1529996,Buzan-e Pashna,Herat,Afghanistan,Village,-,39 km
+1395488,1529996,Rauzabagh,Herat,Afghanistan,Village,-,40 km
+1395488,1529996,Zendeh Jan,Herat,Afghanistan,Village,-,40 km
+1395488,1529996,Nisan,Herat,Afghanistan,Village,-,41 km
+1395488,1529996,Qawm Ghazi,Herat,Afghanistan,Village,-,41 km
+1395488,1529996,Khvajeh Leni,Herat,Afghanistan,Village,-,42 km
+1395488,1529996,Espaghan,Herat,Afghanistan,Village,-,42 km
+1395488,1529996,'Abd ol Karim Khan,Herat,Afghanistan,Village,-,42 km
+1395488,1529996,Casma-i-Mulla Mohammad,Herat,Afghanistan,Village,-,43 km
+1395488,1529996,Karez-i-Zaman-i-Kaigandi,Herat,Afghanistan,Village,-,43 km
+1395488,1529996,Alaf,Herat,Afghanistan,Village,-,43 km
+1395488,1529996,Siahvashan,Herat,Afghanistan,Village,-,44 km
+1395488,1529996,Khamaku,Herat,Afghanistan,Village,-,44 km
+1395488,1529996,Hasan Abad,Herat,Afghanistan,Village,-,44 km
+1395488,1529996,Koshk,Herat,Afghanistan,Village,-,44 km
+1395488,1529996,Janda Khan,Herat,Afghanistan,Village,-,44 km
+1395488,1529996,Babu Sayda,Herat,Afghanistan,Village,-,45 km
+1395488,1529996,Murtadza'i,Herat,Afghanistan,Village,-,45 km
+1395488,1529996,Kort,Herat,Afghanistan,Village,-,46 km
+1395488,1529996,Kariz-E Zaman-E Bala,Herat,Afghanistan,Village,-,46 km
+1395488,1529996,Casma-i-Bot,Herat,Afghanistan,Village,-,46 km
+1395488,1529996,Dahan-e Ghar,Herat,Afghanistan,Village,-,46 km
+1395488,1529996,Ghorqand-i-Hazara,Herat,Afghanistan,Village,-,47 km
+1395488,1529996,Khaleqdad,Herat,Afghanistan,Village,-,47 km
+1395488,1529996,Kamar Zard,Herat,Afghanistan,Village,-,48 km
+1395488,1529996,Ba'i,Herat,Afghanistan,Village,-,48 km
+1395488,1529996,Tutachi,Herat,Afghanistan,Village,-,48 km
+1395488,1529996,Karokh,Herat,Afghanistan,Village,-,49 km
+1395488,1529996,Karez-i-Haydar Khan,Herat,Afghanistan,Village,-,49 km
+1395488,1529996,Ta Shur,Herat,Afghanistan,Village,-,49 km
+1395488,1529996,'Aliabad,Herat,Afghanistan,Village,-,49 km
+1395488,1529996,Baranabad,Herat,Afghanistan,Village,-,49 km
+1395488,1529996,Baldi,Herat,Afghanistan,Village,-,50 km
+1395488,1529996,Pahra,Herat,Afghanistan,Village,-,50 km
+1395488,1529996,Becaghi,Herat,Afghanistan,Village,-,50 km
+1395488,1529996,Shur Khalil,Herat,Afghanistan,Village,-,50 km
+1395488,1529996,Khush Asia,Herat,Afghanistan,Village,-,50 km
+1395488,1529996,Khvosh Asia,Herat,Afghanistan,Village,-,50 km
+1395488,1529996,Sakheri 'Olya,Herat,Afghanistan,Village,-,50 km
+1395488,1529996,Ne'mat,Herat,Afghanistan,Village,-,50 km
+1396085,1530685,Asya-i-Badak,Herat,Afghanistan,Village,-,8 km
+1396085,1530685,Khvajeh Sar Bur,Herat,Afghanistan,Village,-,12 km
+1396085,1530685,Rabat-i-Mirza,Herat,Afghanistan,Village,-,12 km
+1396085,1530685,Asya Bad,Herat,Afghanistan,Village,-,12 km
+1396085,1530685,Gandab,Herat,Afghanistan,Village,-,13 km
+1396085,1530685,Car Gholang,Herat,Afghanistan,Village,-,13 km
+1396085,1530685,Parvan,Herat,Afghanistan,Village,-,15 km
+1396085,1530685,Aybak,Herat,Afghanistan,Village,-,17 km
+1396085,1530685,'Abd ol Hakim,Herat,Afghanistan,Village,-,18 km
+1396085,1530685,Karez-i-Naw,Herat,Afghanistan,Village,-,18 km
+1396085,1530685,Deh-e Afzal,Herat,Afghanistan,Village,-,21 km
+1396085,1530685,Caghuldar,Herat,Afghanistan,Village,-,21 km
+1396085,1530685,Qasr-e Shirin,Herat,Afghanistan,Village,-,22 km
+1396085,1530685,Hadzrat-i-Baba,Herat,Afghanistan,Village,-,22 km
+1396085,1530685,'Ali Mansur,Herat,Afghanistan,Village,-,23 km
+1396085,1530685,Darvish 'Ali Khan,Herat,Afghanistan,Village,-,23 km
+1396085,1530685,Ginja'i,Herat,Afghanistan,Village,-,24 km
+1396085,1530685,Afdzal,Herat,Afghanistan,Village,-,24 km
+1396085,1530685,Casma-i-Ghuri,Herat,Afghanistan,Village,-,25 km
+1396085,1530685,Sali Patra,Herat,Afghanistan,Village,-,25 km
+1396085,1530685,Do Ab,Herat,Afghanistan,Village,-,26 km
+1396085,1530685,'Ayubi,Herat,Afghanistan,Village,-,26 km
+1396085,1530685,Ja'far Beg I,Herat,Afghanistan,Village,-,27 km
+1396085,1530685,Khwaja Gul Bed,Herat,Afghanistan,Village,-,27 km
+1396085,1530685,Deh Moghul,Herat,Afghanistan,Village,-,27 km
+1396085,1530685,Khvajeh Gol Bid,Herat,Afghanistan,Village,-,28 km
+1396085,1530685,Qarya-i-Hula,Herat,Afghanistan,Village,-,28 km
+1396085,1530685,Khvajeh Mosammad Shurab,Herat,Afghanistan,Village,-,28 km
+1396085,1530685,Karezak,Herat,Afghanistan,Village,-,28 km
+1396085,1530685,Jaya,Herat,Afghanistan,Village,-,28 km
+1396085,1530685,Herat,Herat,Afghanistan,Major city,170000 people,30 km
+1396085,1530685,Sufian,Herat,Afghanistan,Village,-,31 km
+1396085,1530685,Yaka Darakt,Herat,Afghanistan,Village,-,31 km
+1396085,1530685,Ab-e Barik,Herat,Afghanistan,Village,-,31 km
+1396085,1530685,Yakkeh Derakht,Herat,Afghanistan,Village,-,32 km
+1396085,1530685,Kharaba-I-Cazyadin,Herat,Afghanistan,Village,-,32 km
+1396085,1530685,Deh-e Puda,Herat,Afghanistan,Village,-,32 km
+1396085,1530685,Faydz Abad,Herat,Afghanistan,Village,-,32 km
+1396085,1530685,Dazwari,Herat,Afghanistan,Village,-,32 km
+1396085,1530685,Kaftarghal,Herat,Afghanistan,Village,-,33 km
+1396085,1530685,Kartah,Herat,Afghanistan,Village,-,33 km
+1396085,1530685,Alband,Herat,Afghanistan,Village,-,34 km
+1396085,1530685,Calaqhay,Herat,Afghanistan,Village,-,34 km
+1396085,1530685,Luka Sang,Herat,Afghanistan,Village,-,34 km
+1396085,1530685,'Ali Kaku,Herat,Afghanistan,Village,-,34 km
+1396085,1530685,Casma-i-Daraz,Herat,Afghanistan,Village,-,34 km
+1396085,1530685,Bedak,Herat,Afghanistan,Village,-,34 km
+1396085,1530685,Badagh,Herat,Afghanistan,Village,-,34 km
+1396085,1530685,Kahdestan,Herat,Afghanistan,Village,-,35 km
+1396085,1530685,Anjirak,Herat,Afghanistan,Village,-,35 km
+1396085,1530685,Arbabat,Herat,Afghanistan,Village,-,36 km
+1396085,1530685,Sayd Abad,Herat,Afghanistan,Village,-,37 km
+1396085,1530685,Sarif Abad,Herat,Afghanistan,Village,-,37 km
+1396085,1530685,Bastan,Herat,Afghanistan,Village,-,38 km
+1396085,1530685,Karez-i-Zaman-i-Kaigandi,Herat,Afghanistan,Village,-,38 km
+1396085,1530685,Qawm Ghazi,Herat,Afghanistan,Village,-,38 km
+1396085,1530685,'Abd ol Karim Khan,Herat,Afghanistan,Village,-,38 km
+1396085,1530685,Beland Ab-e Navin,Herat,Afghanistan,Village,-,38 km
+1396085,1530685,Buzan-e Pashna,Herat,Afghanistan,Village,-,39 km
+1396085,1530685,Ghuchinak,Herat,Afghanistan,Village,-,39 km
+1396085,1530685,Babu Sayda,Herat,Afghanistan,Village,-,40 km
+1396085,1530685,Alaf,Herat,Afghanistan,Village,-,40 km
+1396085,1530685,Shekiban,Herat,Afghanistan,Village,-,40 km
+1396085,1530685,Koshk,Herat,Afghanistan,Village,-,40 km
+1396085,1530685,Khvajeh Leni,Herat,Afghanistan,Village,-,40 km
+1396085,1530685,Murtadza'i,Herat,Afghanistan,Village,-,40 km
+1396085,1530685,Kariz-E Zaman-E Bala,Herat,Afghanistan,Village,-,41 km
+1396085,1530685,Nisan,Herat,Afghanistan,Village,-,42 km
+1396085,1530685,Casma-i-Mulla Mohammad,Herat,Afghanistan,Village,-,42 km
+1396085,1530685,Deh Zaq,Herat,Afghanistan,Village,-,42 km
+1396085,1530685,Casma-i-Bot,Herat,Afghanistan,Village,-,42 km
+1396085,1530685,Cahar Khana,Herat,Afghanistan,Village,-,42 km
+1396085,1530685,Rauzabagh,Herat,Afghanistan,Village,-,42 km
+1396085,1530685,Khaleqdad,Herat,Afghanistan,Village,-,42 km
+1396085,1530685,Taraka-i-'Abdullah Khan,Herat,Afghanistan,Village,-,43 km
+1396085,1530685,Kamar Zard,Herat,Afghanistan,Village,-,43 km
+1396085,1530685,Janda Khan,Herat,Afghanistan,Village,-,44 km
+1396085,1530685,Dahan-e Ghar,Herat,Afghanistan,Village,-,44 km
+1396085,1530685,'Aliabad,Herat,Afghanistan,Village,-,45 km
+1396085,1530685,Baldi,Herat,Afghanistan,Village,-,45 km
+1396085,1530685,Siahvashan,Herat,Afghanistan,Village,-,45 km
+1396085,1530685,Khvosh Asia,Herat,Afghanistan,Village,-,45 km
+1396085,1530685,Khush Asia,Herat,Afghanistan,Village,-,45 km
+1396085,1530685,Zendeh Jan,Herat,Afghanistan,Village,-,45 km
+1396085,1530685,Espaghan,Herat,Afghanistan,Village,-,45 km
+1396085,1530685,Shur Khalil,Herat,Afghanistan,Village,-,46 km
+1396085,1530685,Karokh,Herat,Afghanistan,Village,-,46 km
+1396085,1530685,Tutachi,Herat,Afghanistan,Village,-,46 km
+1396085,1530685,Ta Shur,Herat,Afghanistan,Village,-,46 km
+1396085,1530685,Koshk-e Kohneh,Herat,Afghanistan,Village,-,46 km
+1396085,1530685,Kort,Herat,Afghanistan,Village,-,47 km
+1396085,1530685,Sakheri 'Olya,Herat,Afghanistan,Village,-,47 km
+1396085,1530685,Ghorqand-i-Hazara,Herat,Afghanistan,Village,-,47 km
+1396085,1530685,Ba'i,Herat,Afghanistan,Village,-,48 km
+1396085,1530685,Hasan Abad,Herat,Afghanistan,Village,-,48 km
+1396085,1530685,Kham-I Kaj,Herat,Afghanistan,Village,-,48 km
+1396085,1530685,Kham-I-Sabz,Herat,Afghanistan,Village,-,48 km
+1396085,1530685,Karez-i-Haydar Khan,Herat,Afghanistan,Village,-,49 km
+1396085,1530685,Khamaku,Herat,Afghanistan,Village,-,49 km
+1396085,1530685,Dahan-I-Koklan,Herat,Afghanistan,Village,-,49 km
+1398938,1534231,Dumjala,Bheri,Nepal,Village,-,6 km
+1398938,1534231,Barikot,Bheri,Nepal,Village,-,14 km
+1398938,1534231,Dali,Rapti,Nepal,Village,-,15 km
+1398938,1534231,Jajarkot,Bheri,Nepal,City,-,17 km
+1398938,1534231,Baraban,Bheri,Nepal,Village,-,19 km
+1398938,1534231,Mujkot,Bheri,Nepal,Village,-,25 km
+1398938,1534231,Khadi,Rapti,Nepal,Village,-,26 km
+1398938,1534231,Bhurchaur,Bheri,Nepal,Village,-,26 km
+1398938,1534231,Phugru,Rapti,Nepal,Village,-,27 km
+1398938,1534231,Topla,Karnali,Nepal,Village,-,30 km
+1398938,1534231,Aulgurta,Karnali,Nepal,Village,-,31 km
+1398938,1534231,Nepa,Bheri,Nepal,Village,-,34 km
+1398938,1534231,Musikot,Rapti,Nepal,Village,-,36 km
+1398938,1534231,Buriali,Rapti,Nepal,Village,-,37 km
+1398938,1534231,Ulejula,Rapti,Nepal,Village,-,38 km
+1398938,1534231,Katti,Bheri,Nepal,City,-,39 km
+1398938,1534231,Munigaon,Karnali,Nepal,Village,-,39 km
+1398938,1534231,Lunh,Karnali,Nepal,Village,-,40 km
+1398938,1534231,Kurari,Karnali,Nepal,Village,-,43 km
+1398938,1534231,Munigaun,Karnali,Nepal,Village,-,44 km
+1398938,1534231,Cholpa,Bheri,Nepal,Village,-,45 km
+1398938,1534231,Jumla,Karnali,Nepal,Village,8900 people,45 km
+1398938,1534231,Lunishera,Karnali,Nepal,Village,-,47 km
+1398938,1534231,Dailekh,Bheri,Nepal,Village,-,47 km
+1398938,1534231,Gairagaon,Rapti,Nepal,Village,-,47 km
+1398938,1534231,Bubakone,Rapti,Nepal,Village,-,47 km
+1398938,1534231,Rimi,Karnali,Nepal,Village,-,49 km
+1398938,1534231,Lampakha,Rapti,Nepal,Village,-,49 km
+1398938,1534231,Dhimni,Karnali,Nepal,Village,-,50 km
+1398938,1534231,Baramelo,Rapti,Nepal,Village,-,50 km
+1398938,1534231,Neta,Bheri,Nepal,Village,-,51 km
+1398938,1534231,Para,Karnali,Nepal,Village,-,57 km
+1398938,1534231,Dullu,Bheri,Nepal,Village,-,57 km
+1398938,1534231,Bholi,Karnali,Nepal,Village,-,58 km
+1398938,1534231,Lawamjula,Rapti,Nepal,City,-,60 km
+1398938,1534231,Patdarha,Rapti,Nepal,Village,-,61 km
+1398938,1534231,Beteni,Bheri,Nepal,Village,-,61 km
+1398938,1534231,Padmi,Rapti,Nepal,Village,-,62 km
+1398938,1534231,Surkhet,Bheri,Nepal,Village,8000 people,63 km
+1398938,1534231,Ihingni,Bheri,Nepal,Village,-,65 km
+1398938,1534231,Manma,Karnali,Nepal,Village,-,65 km
+1398938,1534231,Thabang,Rapti,Nepal,Village,-,66 km
+1398938,1534231,Maya,Karnali,Nepal,Village,-,68 km
+1398938,1534231,Maikot,Rapti,Nepal,Village,-,69 km
+1398938,1534231,Chautha,Karnali,Nepal,Village,-,69 km
+1398938,1534231,Mailkot,Rapti,Nepal,Village,-,69 km
+1406601,1543048,Chuimatan,Gansu,China,Village,-,3 km
+1406601,1543048,Guanting,Gansu,China,Village,-,11 km
+1406601,1543048,Gurü,Qinghai,China,Village,-,20 km
+1406601,1543048,Jung-ching,Gansu,China,Village,-,22 km
+1406601,1543048,Dahejia,Qinghai,China,Village,-,22 km
+1406601,1543048,Ching-shui-kung,Qinghai,China,Village,-,29 km
+1406601,1543048,Xinsi,Gansu,China,Village,-,32 km
+1406601,1543048,Maying,Qinghai,China,Village,-,32 km
+1406601,1543048,Han-chia-chi,Gansu,China,Village,-,33 km
+1406601,1543048,Linxia,Gansu,China,City,200000 people,37 km
+1406601,1543048,Gushan,Qinghai,China,Village,-,38 km
+1406601,1543048,Jishi,Qinghai,China,Village,-,39 km
+1406601,1543048,Wendu,Qinghai,China,Village,-,42 km
+1406601,1543048,Dongxiangzu,Gansu,China,Village,-,43 km
+1406601,1543048,Yongjing,Gansu,China,Village,-,47 km
+1406601,1543048,Hsiao-ch'uan,Gansu,China,Village,-,48 km
+1406601,1543048,Gando,Qinghai,China,City,-,48 km
+1406601,1543048,Baihexian,Gansu,China,Village,-,52 km
+1406601,1543048,Zhazhatan,Gansu,China,Village,-,53 km
+1406601,1543048,Ganjia,Gansu,China,Village,-,54 km
+1406601,1543048,Honggucheng,Gansu,China,Village,-,55 km
+1406601,1543048,Maijiaji,Gansu,China,Village,-,55 km
+1406601,1543048,Bao'an,Qinghai,China,Village,-,57 km
+1406601,1543048,Hezheng,Gansu,China,Village,-,58 km
+1406601,1543048,Hsia-ho,Gansu,China,Village,-,60 km
+1406601,1543048,Dongzicun,Gansu,China,Village,-,60 km
+1406601,1543048,Tangwangchuan,Gansu,China,Village,-,62 km
+1406601,1543048,Dehenglong,Qinghai,China,Village,-,63 km
+1406601,1543048,Ponggartang,Gansu,China,Village,-,64 km
+1406601,1543048,Damai,Gansu,China,Village,-,64 km
+1406601,1543048,Hualong,Qinghai,China,City,-,64 km
+1406601,1543048,Minhe,Qinghai,China,Village,-,65 km
+1406601,1543048,Baïn rong,Qinghai,China,Village,-,67 km
+1406601,1543048,Lanzhou,Gansu,China,Major city,1.5 million people,89 km
+1420849,1560728,Suapmeri,East Sepik,Papua New Guinea,Village,-,3 km
+1420849,1560728,Korogo,East Sepik,Papua New Guinea,Village,-,3 km
+1420849,1560728,Nyaurengai,East Sepik,Papua New Guinea,Village,-,9 km
+1420849,1560728,Yensimango,East Sepik,Papua New Guinea,Village,-,9 km
+1420849,1560728,Yentchan,East Sepik,Papua New Guinea,Village,-,10 km
+1420849,1560728,Marap Number 2,East Sepik,Papua New Guinea,Village,-,11 km
+1420849,1560728,Tolembei Number 2,East Sepik,Papua New Guinea,Village,-,12 km
+1420849,1560728,Namangoa,East Sepik,Papua New Guinea,Village,-,13 km
+1420849,1560728,Nogosop,East Sepik,Papua New Guinea,Village,-,13 km
+1420849,1560728,Torembi,East Sepik,Papua New Guinea,Village,-,14 km
+1420849,1560728,Kapaimeri Mission,East Sepik,Papua New Guinea,Village,-,14 km
+1420849,1560728,Slei 1,East Sepik,Papua New Guinea,Village,-,15 km
+1420849,1560728,Gaikarobi,East Sepik,Papua New Guinea,Village,-,15 km
+1420849,1560728,Aibom,East Sepik,Papua New Guinea,Village,-,15 km
+1420849,1560728,Kilimbit,East Sepik,Papua New Guinea,Village,-,15 km
+1420849,1560728,Yamanumbo,East Sepik,Papua New Guinea,Village,-,17 km
+1420849,1560728,Yoguna,East Sepik,Papua New Guinea,Village,-,17 km
+1420849,1560728,Lukluk,East Sepik,Papua New Guinea,Village,-,18 km
+1420849,1560728,Pagwi,East Sepik,Papua New Guinea,Village,-,18 km
+1420849,1560728,Kosimbi Mission,East Sepik,Papua New Guinea,Village,-,19 km
+1420849,1560728,Kampupu,East Sepik,Papua New Guinea,Village,-,20 km
+1420849,1560728,Yindigum,East Sepik,Papua New Guinea,Village,-,21 km
+1420849,1560728,Kararau,East Sepik,Papua New Guinea,Village,-,22 km
+1420849,1560728,Sarum,East Sepik,Papua New Guinea,Village,-,22 km
+1420849,1560728,Burui Mission,East Sepik,Papua New Guinea,Village,-,23 km
+1420849,1560728,Nagotimbi,East Sepik,Papua New Guinea,Village,-,23 km
+1420849,1560728,Manganjangut,East Sepik,Papua New Guinea,Village,-,24 km
+1420849,1560728,Balmo,East Sepik,Papua New Guinea,Village,-,24 km
+1420849,1560728,Kaminimbit,East Sepik,Papua New Guinea,Village,-,25 km
+1420849,1560728,Yambongu,East Sepik,Papua New Guinea,Village,-,25 km
+1420849,1560728,Kumbiwingei,East Sepik,Papua New Guinea,Village,-,26 km
+1420849,1560728,Sengo,East Sepik,Papua New Guinea,Village,-,26 km
+1420849,1560728,Timbunmeri,East Sepik,Papua New Guinea,Village,-,26 km
+1420849,1560728,Avatip,East Sepik,Papua New Guinea,Village,-,27 km
+1420849,1560728,Jama,East Sepik,Papua New Guinea,Village,-,27 km
+1420849,1560728,Malimbo,East Sepik,Papua New Guinea,Village,-,27 km
+1420849,1560728,Banwingei,East Sepik,Papua New Guinea,Village,-,28 km
+1420849,1560728,Mensit,East Sepik,Papua New Guinea,Village,-,28 km
+1420849,1560728,Simangaui,East Sepik,Papua New Guinea,Village,-,28 km
+1420849,1560728,Kwaliangwa,East Sepik,Papua New Guinea,Village,-,29 km
+1420849,1560728,Kaniangua,East Sepik,Papua New Guinea,Village,-,29 km
+1420849,1560728,Changriman,East Sepik,Papua New Guinea,Village,-,30 km
+1420849,1560728,Kamaragu,East Sepik,Papua New Guinea,Village,-,30 km
+1420849,1560728,Mindibit,East Sepik,Papua New Guinea,Village,-,31 km
+1420849,1560728,Mensuat,East Sepik,Papua New Guinea,Village,-,31 km
+1420849,1560728,Kworo,East Sepik,Papua New Guinea,Village,-,32 km
+1420849,1560728,Mangul,East Sepik,Papua New Guinea,Village,-,33 km
+1420849,1560728,Mumeri,East Sepik,Papua New Guinea,Village,-,33 km
+1420849,1560728,Yambi,East Sepik,Papua New Guinea,Village,-,33 km
+1420849,1560728,Angriman,East Sepik,Papua New Guinea,Village,-,35 km
+1420849,1560728,Komsu,East Sepik,Papua New Guinea,Village,-,36 km
+1420849,1560728,Moi,East Sepik,Papua New Guinea,Village,-,36 km
+1420849,1560728,Wimat Mission,East Sepik,Papua New Guinea,Village,-,37 km
+1420849,1560728,Yambi Yambi,East Sepik,Papua New Guinea,Village,-,37 km
+1420849,1560728,Sangriman,East Sepik,Papua New Guinea,Village,-,37 km
+1420849,1560728,Witupe 2,East Sepik,Papua New Guinea,Village,-,37 km
+1420849,1560728,Pukago,East Sepik,Papua New Guinea,Village,-,37 km
+1420849,1560728,Suimbo,East Sepik,Papua New Guinea,Village,-,38 km
+1420849,1560728,Peringa,East Sepik,Papua New Guinea,Village,-,38 km
+1420849,1560728,Bima,East Sepik,Papua New Guinea,Village,-,38 km
+1420849,1560728,Saui,East Sepik,Papua New Guinea,Village,-,39 km
+1420849,1560728,Ambunti,East Sepik,Papua New Guinea,Village,2100 people,39 km
+1420849,1560728,Biananambu,East Sepik,Papua New Guinea,Village,-,39 km
+1420849,1560728,Kabriman,East Sepik,Papua New Guinea,Village,-,40 km
+1420849,1560728,Tungambit,East Sepik,Papua New Guinea,Village,-,41 km
+1420849,1560728,Bugamute,East Sepik,Papua New Guinea,Village,-,42 km
+1420849,1560728,Kunjingini,East Sepik,Papua New Guinea,Village,-,42 km
+1420849,1560728,Wanabrugu,East Sepik,Papua New Guinea,Village,-,42 km
+1420849,1560728,Kwaringia,East Sepik,Papua New Guinea,Village,-,42 km
+1420849,1560728,Bongoi,East Sepik,Papua New Guinea,Village,-,42 km
+1420849,1560728,Koiwat,East Sepik,Papua New Guinea,Village,-,43 km
+1420849,1560728,Yigei,East Sepik,Papua New Guinea,Village,-,44 km
+1420849,1560728,Abusit,East Sepik,Papua New Guinea,Village,-,44 km
+1420849,1560728,Apambi,East Sepik,Papua New Guinea,Village,-,44 km
+1420849,1560728,Bararat,East Sepik,Papua New Guinea,Village,-,45 km
+1420849,1560728,Haripmor,East Sepik,Papua New Guinea,Village,-,45 km
+1420849,1560728,Washkuk,East Sepik,Papua New Guinea,Village,-,46 km
+1420849,1560728,Waigamaga,East Sepik,Papua New Guinea,Village,-,46 km
+1420849,1560728,Papa,East Sepik,Papua New Guinea,Village,-,46 km
+1420849,1560728,Jibako,East Sepik,Papua New Guinea,Village,-,47 km
+1420849,1560728,Yambon,East Sepik,Papua New Guinea,Village,-,47 km
+1420849,1560728,Nunguaiia,East Sepik,Papua New Guinea,Village,-,47 km
+1420849,1560728,Kuvanmas,East Sepik,Papua New Guinea,Village,-,47 km
+1420849,1560728,Kamangaui,East Sepik,Papua New Guinea,Village,-,48 km
+1420849,1560728,Turingi,East Sepik,Papua New Guinea,Village,-,49 km
+1420849,1560728,Mariamei,East Sepik,Papua New Guinea,Village,-,49 km
+1420849,1560728,Sara,East Sepik,Papua New Guinea,Village,-,49 km
+1420849,1560728,Boim,East Sepik,Papua New Guinea,Village,-,50 km
+1420849,1560728,Ugutagwa,East Sepik,Papua New Guinea,Village,-,50 km
+1420849,1560728,Masiagana,East Sepik,Papua New Guinea,Village,-,50 km
+1420849,1560728,Tongwinjamb,East Sepik,Papua New Guinea,Village,-,50 km
+1420849,1560728,Kraimbit,East Sepik,Papua New Guinea,Village,-,51 km
+1420849,1560728,Walangal,East Sepik,Papua New Guinea,Village,-,51 km
+1420849,1560728,Meskia,East Sepik,Papua New Guinea,Village,-,51 km
+1420849,1560728,Bainyik,East Sepik,Papua New Guinea,Village,-,51 km
+1420849,1560728,Tarakai,East Sepik,Papua New Guinea,Village,-,52 km
+1420849,1560728,Anganamei,East Sepik,Papua New Guinea,Village,-,52 km
+1420849,1560728,Rabundogum,East Sepik,Papua New Guinea,Village,-,52 km
+1420849,1560728,Masandenai,East Sepik,Papua New Guinea,Village,-,52 km
+1420849,1560728,Seraba,East Sepik,Papua New Guinea,Village,-,52 km

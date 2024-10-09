@@ -1,0 +1,567 @@
+Event_id,Episode,Name,Region_Province,Country,City_class
+1000667,18,Longtian,Fujian,China,City
+1000667,18,Yuxi,Fujian,China,City
+1000667,18,Kongcheng,Fujian,China,City
+1000667,18,Tangbian,Fujian,China,City
+1000667,18,Hanjiang,Fujian,China,City
+1000667,18,Putian,Fujian,China,City
+1000667,18,Luozhou,Fujian,China,City
+1000667,18,Daitou,Fujian,China,City
+1000667,18,Hushi,Fujian,China,City
+1000667,18,Wuhang,Fujian,China,City
+1000667,18,Fuzhou,Fujian,China,Major city
+1000667,18,Zhangcheng,Fujian,China,City
+1000667,18,Langqi,Fujian,China,City
+1000667,18,Shangjie,Fujian,China,City
+1000667,18,Rongan,Fujian,China,City
+1000667,18,Fengcheng,Fujian,China,City
+1000667,18,Licheng,Fujian,China,City
+1000667,18,Meicheng,Fujian,China,City
+1000667,18,Mabi,Fujian,China,City
+1000667,18,Chongwu,Fujian,China,City
+1000667,18,Fengshan,Fujian,China,City
+1000667,18,Huyang,Fujian,China,City
+1000667,18,Honglai,Fujian,China,City
+1000667,18,Fengzhou,Fujian,China,City
+1000667,18,Quanzhou,Fujian,China,City
+1000667,18,Yongchun,Fujian,China,City
+1000667,18,Jiaocheng,Fujian,China,City
+1000667,18,Shishan,Fujian,China,City
+1000667,18,Zhanghuban,Fujian,China,City
+1000667,18,Xincheng,Fujian,China,City
+1000667,18,Guanqiao,Fujian,China,City
+1000667,18,Youxikou,Fujian,China,City
+1000667,18,Anhai,Fujian,China,City
+1000667,18,Fengcheng,Fujian,China,City
+1000667,18,Banmian,Fujian,China,City
+1000667,18,Youxi,Fujian,China,City
+1000667,18,Hutou,Fujian,China,City
+1000667,18,Songcheng,Fujian,China,City
+1000667,18,Chin-men Tao,Chin-men (Jinmen),Taiwan,City
+1000667,18,Junxi,Fujian,China,City
+1000667,18,Yang-chai,Chin-men (Jinmen),Taiwan,City
+1000667,18,Xindian,Fujian,China,City
+1000667,18,Datong,Fujian,China,City
+1000667,18,Muyang,Fujian,China,City
+1000667,18,Hanyang,Fujian,China,City
+1000667,18,Xiqin,Fujian,China,City
+1000667,18,Nanping,Fujian,China,City
+1000667,18,Chin-men,Chin-men (Jinmen),Taiwan,City
+1000667,18,Anfengqiao,Fujian,China,City
+1000667,18,Xiaoqiao,Fujian,China,City
+1000667,18,Dianqian,Fujian,China,City
+1000667,18,Tung-hsiao,Miao-li,Taiwan,City
+1000667,18,Yüan-li,Miao-li,Taiwan,City
+1000667,18,Chu-nan,Hsin-chu Shih,Taiwan,City
+1000667,18,Hsin-chu,Hsin-chu Shih,Taiwan,Major city
+1000667,18,Miao-li,Miao-li,Taiwan,Major city
+1000667,18,Xiamen,Fujian,China,City
+1000667,18,San-wan,Hsin-chu Shih,Taiwan,City
+1000667,18,Ching-shui,T'ai-chung,Taiwan,City
+1000667,18,Dongyou,Fujian,China,City
+1000667,18,Gulangyu,Fujian,China,City
+1000667,18,Jiaomei,Fujian,China,City
+1000667,18,Xiayang,Fujian,China,City
+1000667,18,Zhicheng,Fujian,China,City
+1000667,18,Sanming,Fujian,China,City
+1000667,18,Gaoqiao,Fujian,China,City
+1000667,18,Xinkou,Fujian,China,City
+1000667,18,Chung-li,T'ao-yuan,Taiwan,City
+1000667,18,Ho-mel,Chang-hua,Taiwan,City
+1000667,18,Tai-chung-hsien,T'ai-chung,Taiwan,City
+1000667,18,Lu-kang,Chang-hua,Taiwan,City
+1000667,18,Shih-kang,T'ai-chung,Taiwan,City
+1000667,18,Fweng-yüan,T'ai-chung,Taiwan,Major city
+1000667,18,Jingcheng,Fujian,China,City
+1000667,18,Tao-yüan,T'ao-yuan,Taiwan,Major city
+1000667,18,Xiongshan,Fujian,China,City
+1000667,18,Chang-hua,Chang-hua,Taiwan,Major city
+1000667,18,Gongchuan,Fujian,China,City
+1000667,18,Nei-wan,Hsin-chu,Taiwan,City
+1000667,18,Haicheng,Fujian,China,City
+1000667,18,Shima,Fujian,China,City
+1000667,18,Tai-chung,T'ai-chung Shih,Taiwan,Major city
+1000667,18,Aoyang,Fujian,China,City
+1000667,18,Tongshan,Fujian,China,City
+1000667,18,Shuangxi,Fujian,China,City
+1000667,18,Zhongxiu,Fujian,China,City
+1000667,18,Yongan,Fujian,China,City
+1000667,18,Tan-shui,T'ai-pei Chuan-Shih,Taiwan,City
+1000667,18,Erh-lin,Chang-hua,Taiwan,City
+1000667,18,Zhangzhou,Fujian,China,City
+1000667,18,San-chih,T'ai-pei,Taiwan,City
+1000667,18,Yuan Lin,Chang-hua,Taiwan,City
+1000667,18,Fotan,Fujian,China,City
+1000667,18,Pan-ch'iao,T'ai-pei,Taiwan,Major city
+1000667,18,Luoyang,Zhejiang,China,City
+1000667,18,Baisha,Fujian,China,City
+1000667,18,Taipei,T'ai-pei Chuan-Shih,Taiwan,Capital
+1000667,18,Songyuan,Fujian,China,City
+1000667,18,Huxi,Fujian,China,City
+1000667,18,Chihu,Fujian,China,City
+1000673,4,Badlapur,Maharashtra,India,City
+1000673,4,Pimpri,Maharashtra,India,City
+1000673,4,Kopargaon,Maharashtra,India,City
+1000673,4,Manmad,Maharashtra,India,City
+1000673,4,Jalgaon,Maharashtra,India,City
+1000673,4,Bhusawal,Maharashtra,India,City
+1000702,24,Tong Hua,Jilin,China,Major city
+1000702,24,Jian,Jilin,China,City
+1000702,24,Badaojiang,Jilin,China,City
+1000702,24,Hunjiang,Jilin,China,City
+1000702,24,Lihue,Jilin,China,City
+1000702,24,Shanchengzhen,Jilin,China,City
+1000702,24,Kanggye,Chagang-do,Democratic People's Republic of Korea,City
+1000702,24,Qingyu,Jilin,China,City
+1000702,24,Dongfeng,Jilin,China,City
+1000702,24,Kuandian,Liaoning,China,City
+1000702,24,Liaoyuan,Jilin,China,City
+1000702,24,Fushun,Liaoning,China,Major city
+1000702,24,Huadian,Jilin,China,City
+1000702,24,Benxi,Liaoning,China,City
+1000702,24,Kaiyuan,Liaoning,China,City
+1000702,24,Tieling,Liaoning,China,City
+1000702,24,Laocheng,Liaoning,China,City
+1000702,24,Dongling,Liaoning,China,City
+1000702,24,Yantongshan,Jilin,China,City
+1000702,24,Feng Cheng,Liaoning,China,City
+1000702,24,Yitong,Jilin,China,City
+1000702,24,Laochengzhen,Liaoning,China,City
+1000702,24,Hyesan,Yanggang-do,Democratic People's Republic of Korea,City
+1000702,24,Shenyang,Liaoning,China,Major city
+1000702,24,Sinuiju,P'yongan-bukto,Democratic People's Republic of Korea,City
+1000702,24,Sujiatun,Liaoning,China,City
+1000702,24,Dandong,Liaoning,China,City
+1000702,24,Siping,Jilin,China,City
+1000702,24,Kaechon,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000702,24,Chongju,P'yongan-bukto,Democratic People's Republic of Korea,City
+1000702,24,Anju,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000702,24,Faku,Liaoning,China,City
+1000702,24,Liaoyang,Liaoning,China,City
+1000702,24,Gongzhuling,Jilin,China,City
+1000702,24,Bamiancheng,Liaoning,China,City
+1000702,24,Sin-ni,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000702,24,Xinan,Jilin,China,City
+1000702,24,Hamhung,Hamgyong-namdo,Democratic People's Republic of Korea,City
+1000702,24,Chigyong,Hamgyong-namdo,Democratic People's Republic of Korea,City
+1000702,24,Anshan,Liaoning,China,Major city
+1000702,24,Sunchon,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000702,24,Fanjiatun,Jilin,China,City
+1000702,24,Sukchon,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000702,24,Jiupu,Liaoning,China,City
+1000702,24,Datun,Jilin,China,City
+1000702,24,Xinmin,Liaoning,China,City
+1000702,24,Hongwon,Hamgyong-namdo,Democratic People's Republic of Korea,City
+1000702,24,Tengaopu,Liaoning,China,City
+1000702,24,Pyongwon,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000702,24,Liaozhong,Liaoning,China,City
+1000702,24,Changchun,Jilin,China,Major city
+1000702,24,Jilin,Jilin,China,Major city
+1000702,24,Xiuyan,Liaoning,China,City
+1000702,24,Juliuhe,Liaoning,China,City
+1000702,24,Jiaohe,Jilin,China,City
+1000702,24,Haicheng,Liaoning,China,City
+1000702,24,Dunhua,Jilin,China,City
+1000702,24,Niuzhuang,Liaoning,China,City
+1000702,24,Jiutai,Jilin,China,City
+1000702,24,Pyongyang,P'yongyang-si,Democratic People's Republic of Korea,Capital
+1000702,24,Dashioiao,Liaoning,China,City
+1000702,24,Wonsan,Kangwon-do,Democratic People's Republic of Korea,City
+1000702,24,Jishu,Jilin,China,City
+1000702,24,Nampo,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000702,24,Gaizhou,Liaoning,China,City
+1000702,24,Songnim,Hwanghae-bukto,Democratic People's Republic of Korea,City
+1000702,24,Hwangju,Hwanghae-bukto,Democratic People's Republic of Korea,City
+1000702,24,Dehui,Jilin,China,City
+1000702,24,Longjing,Jilin,China,City
+1000702,24,Chongsong,Jilin,China,City
+1000702,24,Yanji,Jilin,China,City
+1000702,24,Hoeryong,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000702,24,Sariwon,Hwanghae-bukto,Democratic People's Republic of Korea,City
+1000702,24,Anak,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000702,24,Kaishantun,Jilin,China,City
+1000702,24,Chaeryong,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000702,24,Sinchon,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000702,24,Yushu,Jilin,China,City
+1000702,24,Chengzitan,Liaoning,China,City
+1000702,24,Ayang-ni,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000702,24,Pyonggang,Kangwon-do,Democratic People's Republic of Korea,City
+1000702,24,Changyon,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000702,24,Dongjingcheng,Heilongjiang,China,City
+1000702,24,Pyoksong,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000702,24,Haeju,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000702,24,Kaesong,Kaesong-si,Democratic People's Republic of Korea,City
+1000702,24,Ongjin,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000702,24,Lalin,Heilongjiang,China,City
+1000702,24,Shuangcheng,Heilongjiang,China,City
+1000702,24,Dongducheon,Kyonggi-do,Republic of Korea,City
+1000702,24,Yimianpo,Heilongjiang,China,City
+1000702,24,Ningan,Heilongjiang,China,City
+1000702,24,Euijeongbu,Kyonggi-do,Republic of Korea,City
+1000702,24,Acheng,Heilongjiang,China,City
+1000702,24,Mudanjiang,Heilongjiang,China,City
+1000702,24,Seoul,Seoul,Republic of Korea,Capital
+1000702,24,Bucheon,Kyonggi-do,Republic of Korea,City
+1000702,24,Incheon,Inchon,Republic of Korea,Major city
+1000702,24,Hualin,Heilongjiang,China,City
+1000702,24,Harbin,Heilongjiang,China,Major city
+1000705,24,Ulsan,Kyongsangnam-Do,Republic of Korea,City
+1000705,24,Busan,Kyongsangnam-Do,Republic of Korea,Major city
+1000705,24,Gyeongju,Kyongsangbuk-Do,Republic of Korea,City
+1000705,24,Chinhae,Kyongsangnam-Do,Republic of Korea,City
+1000705,24,Masan,Kyongsangnam-Do,Republic of Korea,City
+1000705,24,Daegu,Taegu,Republic of Korea,Major city
+1000705,24,Pohang,Kyongsangbuk-Do,Republic of Korea,City
+1000705,24,Yangmog,Kyongsangbuk-Do,Republic of Korea,City
+1000705,24,Jinju,Kyongsangnam-Do,Republic of Korea,City
+1000705,24,Gumi,Kyongsangbuk-Do,Republic of Korea,City
+1000705,24,Sacheon,Kyongsangnam-Do,Republic of Korea,City
+1000705,24,Gimcheon,Kyongsangbuk-Do,Republic of Korea,City
+1000705,24,Samcheongpo,Kyongsangnam-Do,Republic of Korea,City
+1000705,24,Andong,Kyongsangbuk-Do,Republic of Korea,City
+1000705,24,Yecheon,Kyongsangbuk-Do,Republic of Korea,City
+1000705,24,Yeosu,Chollanam-Do,Republic of Korea,City
+1000705,24,Yeongweol,Kang-Won-Do,Republic of Korea,City
+1000705,24,Chechon,Chungchongbuk-Do,Republic of Korea,City
+1000705,24,Weonju,Kang-Won-Do,Republic of Korea,City
+1000705,24,Gangneung,Kang-Won-Do,Republic of Korea,City
+1000705,24,Fukue,Nagasaki,Japan,City
+1000705,24,Hongwon,Hamgyong-namdo,Democratic People's Republic of Korea,City
+1000705,24,Kimchaek,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000705,24,Ssangpoi-dong,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000705,24,Hyesan,Yanggang-do,Democratic People's Republic of Korea,City
+1000705,24,Naha,Okinawa,Japan,City
+1000706,29,Kimchaek,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000706,29,Ssangpoi-dong,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000706,29,Hyesan,Yanggang-do,Democratic People's Republic of Korea,City
+1000706,29,Hongwon,Hamgyong-namdo,Democratic People's Republic of Korea,City
+1000706,29,Chongjin,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000706,29,Hamhung,Hamgyong-namdo,Democratic People's Republic of Korea,City
+1000706,29,Chigyong,Hamgyong-namdo,Democratic People's Republic of Korea,City
+1000706,29,Kanggye,Chagang-do,Democratic People's Republic of Korea,City
+1000706,29,Hoeryong,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000706,29,Wonsan,Kangwon-do,Democratic People's Republic of Korea,City
+1000706,29,Unggi,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000706,29,Kaishantun,Jilin,China,City
+1000706,29,Jian,Jilin,China,City
+1000706,29,Longjing,Jilin,China,City
+1000706,29,Kyongchung,Hamgyong-bukto,Democratic People's Republic of Korea,City
+1000706,29,Chongsong,Jilin,China,City
+1000706,29,Badaojiang,Jilin,China,City
+1000706,29,Hunjiang,Jilin,China,City
+1000706,29,Yanji,Jilin,China,City
+1000706,29,Qingyu,Jilin,China,City
+1000706,29,Tong Hua,Jilin,China,Major city
+1000706,29,Kaechon,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000706,29,Pyonggang,Kangwon-do,Democratic People's Republic of Korea,City
+1000706,29,Sunchon,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000706,29,Dunhua,Jilin,China,City
+1000706,29,Anju,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000706,29,Huadian,Jilin,China,City
+1000706,29,Sukchon,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000706,29,Lihue,Jilin,China,City
+1000706,29,Pyongwon,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000706,29,Sin-ni,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000706,29,Gangneung,Kang-Won-Do,Republic of Korea,City
+1000706,29,Pyongyang,P'yongyang-si,Democratic People's Republic of Korea,Capital
+1000706,29,Chuncheon,Kang-Won-Do,Republic of Korea,City
+1000706,29,Chongju,P'yongan-bukto,Democratic People's Republic of Korea,City
+1000706,29,Shanchengzhen,Jilin,China,City
+1000706,29,Dongducheon,Kyonggi-do,Republic of Korea,City
+1000706,29,Kuandian,Liaoning,China,City
+1000706,29,Hwangju,Hwanghae-bukto,Democratic People's Republic of Korea,City
+1000706,29,Songnim,Hwanghae-bukto,Democratic People's Republic of Korea,City
+1000706,29,Dongfeng,Jilin,China,City
+1000706,29,Sariwon,Hwanghae-bukto,Democratic People's Republic of Korea,City
+1000706,29,Kaesong,Kaesong-si,Democratic People's Republic of Korea,City
+1000706,29,Vladivostok,Primorskiy,Russia,Major city
+1000706,29,Euijeongbu,Kyonggi-do,Republic of Korea,City
+1000706,29,Nampo,P'yongan-namdo,Democratic People's Republic of Korea,City
+1000706,29,Vtoraya Rechka,Primorskiy,Russia,City
+1000706,29,Jiaohe,Jilin,China,City
+1000706,29,Yantongshan,Jilin,China,City
+1000706,29,Dongjingcheng,Heilongjiang,China,City
+1000706,29,Anak,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000706,29,Weonju,Kang-Won-Do,Republic of Korea,City
+1000706,29,Chaeryong,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000706,29,Trudovoye,Primorskiy,Russia,City
+1000706,29,Ayang-ni,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000706,29,Sinuiju,P'yongan-bukto,Democratic People's Republic of Korea,City
+1000706,29,Uglovoye,Primorskiy,Russia,City
+1000706,29,Seoul,Seoul,Republic of Korea,Capital
+1000706,29,Bolshoy Kamen,Primorskiy,Russia,City
+1000706,29,Dandong,Liaoning,China,City
+1000706,29,Sinchon,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000706,29,Yeongweol,Kang-Won-Do,Republic of Korea,City
+1000706,29,Liaoyuan,Jilin,China,City
+1000706,29,Jilin,Jilin,China,Major city
+1000706,29,Bucheon,Kyonggi-do,Republic of Korea,City
+1000706,29,Razdolnoye,Primorskiy,Russia,City
+1000706,29,Chechon,Chungchongbuk-Do,Republic of Korea,City
+1000706,29,Haeju,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000706,29,Artëm,Primorskiy,Russia,City
+1000706,29,Nakhodka,Primorskiy,Russia,City
+1000706,29,Anyang,Kyonggi-do,Republic of Korea,City
+1000706,29,Ningan,Heilongjiang,China,City
+1000706,29,Incheon,Inchon,Republic of Korea,Major city
+1000706,29,Nahodka,Primorskiy,Russia,City
+1000706,29,Feng Cheng,Liaoning,China,City
+1000706,29,Pyoksong,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000706,29,Suweon,Kyonggi-do,Republic of Korea,City
+1000706,29,Yitong,Jilin,China,City
+1000706,29,Chungju,Chungchongbuk-Do,Republic of Korea,City
+1000706,29,Osan,Kyonggi-do,Republic of Korea,City
+1000706,29,Pokrovka,Primorskiy,Russia,City
+1000706,29,Changyon,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000706,29,Ussuriysk,Primorskiy,Russia,City
+1000706,29,Xinan,Jilin,China,City
+1000706,29,Eumseong,Chungchongbuk-Do,Republic of Korea,City
+1000706,29,Ongjin,Hwanghae-namdo,Democratic People's Republic of Korea,City
+1000706,29,Pyeongtaeg,Kyonggi-do,Republic of Korea,City
+1000706,29,Jishu,Jilin,China,City
+1000706,29,Mudanjiang,Heilongjiang,China,City
+1000706,29,Benxi,Liaoning,China,City
+1000706,29,Fushun,Liaoning,China,Major city
+1000706,29,Muleng,Heilongjiang,China,City
+1000706,29,Partizansk,Primorskiy,Russia,City
+1000706,29,Hualin,Heilongjiang,China,City
+1000706,29,Yecheon,Kyongsangbuk-Do,Republic of Korea,City
+1000706,29,Kaiyuan,Liaoning,China,City
+1000706,29,Laocheng,Liaoning,China,City
+1000706,29,Uglekamensk,Primorskiy,Russia,City
+1000706,29,Cheonan,Chungchongnam-Do,Republic of Korea,City
+1000706,29,Tieling,Liaoning,China,City
+1000726,24,Greenville,Mississippi,United States,City
+1000726,24,Indianola,Mississippi,United States,City
+1000726,24,Yazoo City,Mississippi,United States,City
+1000726,24,Cleveland,Mississippi,United States,City
+1000726,24,Greenwood,Mississippi,United States,City
+1000726,24,Vicksburg,Mississippi,United States,City
+1000726,24,Tallulah,Louisiana,United States,City
+1000726,24,Canton,Mississippi,United States,City
+1000726,24,Jackson,Mississippi,United States,Major city
+1000726,24,Crossett,Arkansas,United States,City
+1000726,24,Monroe,Louisiana,United States,City
+1000726,24,Brookhaven,Mississippi,United States,City
+1000726,24,Natchez,Mississippi,United States,City
+1000726,24,Ruston,Louisiana,United States,City
+1000726,24,McComb,Mississippi,United States,City
+1000726,24,Winnfield,Louisiana,United States,City
+1000726,24,Minden,Louisiana,United States,City
+1000726,24,Alexandria,Louisiana,United States,City
+1000726,24,Natchitoches,Louisiana,United States,City
+1000726,24,Bossier City,Louisiana,United States,City
+1000726,24,Shreveport,Louisiana,United States,City
+1000726,24,Hammond,Louisiana,United States,City
+1000726,24,Baton Rouge,Louisiana,United States,Major city
+1000726,24,Mansfield,Louisiana,United States,City
+1000726,24,Covington,Louisiana,United States,City
+1000726,24,Oakdale,Louisiana,United States,City
+1000726,24,Opelousas,Louisiana,United States,City
+1000726,24,Ville Platte,Louisiana,United States,City
+1000726,24,Plaquemine,Louisiana,United States,City
+1000726,24,Eunice,Louisiana,United States,City
+1000726,24,Convent,Louisiana,United States,City
+1000726,24,Lafayette,Louisiana,United States,City
+1000726,24,De Ridder,Louisiana,United States,City
+1000726,24,Rayne,Louisiana,United States,City
+1000726,24,Carthage,Texas,United States,City
+1000726,24,Metairie,Louisiana,United States,City
+1000726,24,Crowley,Louisiana,United States,City
+1000726,24,New Orleans,Louisiana,United States,Major city
+1000726,24,New Iberia,Louisiana,United States,City
+1000726,24,Jeanerette,Louisiana,United States,City
+1000726,24,Woodmere,Louisiana,United States,City
+1000726,24,Thibodaux,Louisiana,United States,City
+1000726,24,Abbeville,Louisiana,United States,City
+1000726,24,Jennings,Louisiana,United States,City
+1000726,24,Kaplan,Louisiana,United States,City
+1000726,24,Morgan City,Louisiana,United States,City
+1000726,24,Houma,Louisiana,United States,City
+1000726,24,Lake Charles,Louisiana,United States,City
+1000726,24,Nacogdoches,Texas,United States,City
+1000726,24,Sulphur,Louisiana,United States,City
+1000726,24,Lufkin,Texas,United States,City
+1000726,24,Lake Charles,Louisiana,United States,City
+1000726,24,Silsbee,Texas,United States,City
+1000726,24,Beaumont,Texas,United States,City
+1000726,24,Port Arthur,Texas,United States,City
+1000726,24,Liberty,Texas,United States,City
+1000726,24,Cleveland,Texas,United States,City
+1000726,24,Dayton,Texas,United States,City
+1000726,24,Atascocita,Texas,United States,City
+1000726,24,Conroe,Texas,United States,City
+1000726,24,Baytown,Texas,United States,City
+1000726,24,Pasadena,Texas,United States,City
+1000726,24,Houston,Texas,United States,Major city
+1000726,24,Texas City,Texas,United States,City
+1000726,24,Galveston,Texas,United States,City
+1000726,24,Cinco Ranch,Texas,United States,City
+1000726,24,New Territory,Texas,United States,City
+1000726,24,Angleton,Texas,United States,City
+1000726,24,Freeport,Texas,United States,City
+1000726,24,Bay City,Texas,United States,City
+1000726,24,Dzilam de Gonzalez,Yucatan,Mexico,City
+1000726,24,Dzidzantún,Yucatán,Mexico,City
+1000726,24,Temax,Yucatán,Mexico,City
+1000726,24,Motul,Yucatán,Mexico,City
+1000726,24,Hunucmá,Yucatán,Mexico,City
+1000726,24,Tixkokob,Yucatán,Mexico,City
+1000726,24,Mérida,Yucatán,Mexico,Major city
+1000726,24,Tizimín,Yucatán,Mexico,City
+1000726,24,Kanasín,Yucatán,Mexico,City
+1000726,24,Izamal,Yucatán,Mexico,City
+1000726,24,Espita,Yucatán,Mexico,City
+1000726,24,Calotmul,Yucatán,Mexico,City
+1000726,24,Acancéh,Yucatán,Mexico,City
+1000726,24,Tekoh,Yucatan,Mexico,City
+1000726,24,Cancún,Quintana Roo,Mexico,Major city
+1000726,24,Maxcanú,Yucatán,Mexico,City
+1000726,24,Valladolid,Yucatán,Mexico,City
+1000726,24,Tekit,Yucatán,Mexico,City
+1000726,24,Muna,Yucatán,Mexico,City
+1000726,24,Ticul,Yucatán,Mexico,City
+1000726,24,Oxkutzcab,Yucatán,Mexico,City
+1000726,24,Tekax,Yucatán,Mexico,City
+1000726,24,Peto,Yucatán,Mexico,City
+1000734,18,Tam Ky,Quang Nam,Vietnam,City
+1000734,18,Quang Ngãi,Quang Ngai,Vietnam,City
+1000734,18,Naga,Bicol,Philippines,City
+1000736,37,Olongapo,Central Luzon,Philippines,City
+1000736,37,Dagupan,Ilocos,Philippines,City
+1000736,37,Angeles,Central Luzon,Philippines,City
+1000736,37,Guagua,Central Luzon,Philippines,City
+1000736,37,Tarlac,Central Luzon,Philippines,City
+1000736,37,Hagonoy,Central Luzon,Philippines,City
+1000736,37,San Fernando,Central Luzon,Philippines,City
+1000736,37,Naic,Southern Tagalog,Philippines,City
+1000736,37,Baguio,Cordillera Administrative Region,Philippines,City
+1000736,37,Malolos,Central Luzon,Philippines,City
+1000736,37,Pulilan,Central Luzon,Philippines,City
+1000736,37,Cavite,Cavite City,Philippines,City
+1000736,37,Meycauayan,Central Luzon,Philippines,City
+1000736,37,Baliuag,Central Luzon,Philippines,City
+1000736,37,Imus,Southern Tagalog,Philippines,City
+1000736,37,Silang,Southern Tagalog,Philippines,City
+1000736,37,Manila,National Capital Region,Philippines,Capital
+1000736,37,San Miguel,Central Luzon,Philippines,City
+1000736,37,Cabanatuan,Central Luzon,Philippines,City
+1000736,37,Batangas,Southern Tagalog,Philippines,City
+1000736,37,Quezon City,National Capital Region,Philippines,Major city
+1000736,37,Binãn,Southern Tagalog,Philippines,City
+1000736,37,Santa Rosa,Southern Tagalog,Philippines,City
+1000736,37,San Mateo,Southern Tagalog,Philippines,City
+1000736,37,Taytay,Southern Tagalog,Philippines,City
+1000736,37,Calamba,Southern Tagalog,Philippines,City
+1000736,37,Lipa,Southern Tagalog,Philippines,City
+1000736,37,Antipolo,Southern Tagalog,Philippines,City
+1000736,37,Binangonan,Southern Tagalog,Philippines,City
+1000736,37,San Pablo,Southern Tagalog,Philippines,City
+1000736,37,Santa Cruz,Southern Tagalog,Philippines,City
+1000736,37,Lucena,Southern Tagalog,Philippines,City
+1000736,37,Kalibo,Western Visayas,Philippines,City
+1000736,37,Roxas,Western Visayas,Philippines,City
+1000736,37,Naga,Bicol,Philippines,City
+1000736,37,Bulan,Bicol,Philippines,City
+1000736,37,Calbayog,Eastern Visayas,Philippines,City
+1000736,37,Babatñgon,Leyte,Philippines,City
+1000738,52,Wilmington,North Carolina,United States,City
+1000738,52,Charleston,South Carolina,United States,City
+1000738,52,North Charleston,South Carolina,United States,City
+1000738,52,Savannah,Georgia,United States,City
+1000738,52,Hinesville,Georgia,United States,City
+1000738,52,Brunswick,Georgia,United States,City
+1000738,52,Jesup,Georgia,United States,City
+1000738,52,Fernandina Beach,Florida,United States,City
+1000738,52,Jacksonville,Florida,United States,Major city
+1000738,52,Saint Augustine,Florida,United States,City
+1000738,52,Waycross,Georgia,United States,City
+1000738,52,Douglas,Georgia,United States,City
+1000738,52,Daytona Beach,Florida,United States,City
+1000738,52,Palatka,Florida,United States,City
+1000738,52,New Smyrna Beach,Florida,United States,City
+1000738,52,DeLand,Florida,United States,City
+1000738,52,Deltona,Florida,United States,City
+1000738,52,Merritt Island,Florida,United States,City
+1000738,52,Titusville,Florida,United States,City
+1000738,52,Lake City,Florida,United States,City
+1000738,52,Statenville,Georgia,United States,City
+1000738,52,Sanford,Florida,United States,City
+1000738,52,Gainesville,Florida,United States,City
+1000738,52,Cocoa,Florida,United States,City
+1000738,52,Valdosta,Georgia,United States,City
+1000738,52,Live Oak,Florida,United States,City
+1000738,52,Eustis,Florida,United States,City
+1000738,52,Ocala,Florida,United States,City
+1000738,52,Orlando,Florida,United States,Major city
+1000738,52,Leesburg,Florida,United States,City
+1000738,52,Palm Bay,Florida,United States,City
+1000738,52,Saint Cloud,Florida,United States,City
+1000738,52,Kissimmee,Florida,United States,City
+1000738,52,Vero Beach,Florida,United States,City
+1000738,52,Fort Pierce,Florida,United States,City
+1000738,52,Perry,Florida,United States,City
+1000738,52,Yeehaw Junction,Florida,United States,City
+1000738,52,Haines City,Florida,United States,City
+1000738,52,Port Saint Lucie,Florida,United States,City
+1000738,52,Winter Haven,Florida,United States,City
+1000738,52,Lake Wales,Florida,United States,City
+1000738,52,Lakeland,Florida,United States,City
+1000738,52,Bartow,Florida,United States,City
+1000738,52,Freeport,Bahamas,The Bahamas,City
+1000738,52,Plant City,Florida,United States,City
+1000738,52,Avon Park,Florida,United States,City
+1000738,52,Sebring,Florida,United States,City
+1000738,52,Riviera Beach,Florida,United States,City
+1000738,52,West Palm Beach,Florida,United States,City
+1000738,52,Brandon,Florida,United States,City
+1000738,52,Palm Beach,Florida,United States,City
+1000738,52,Crawfordville,Florida,United States,City
+1000738,52,Keystone,Florida,United States,City
+1000738,52,Tampa,Florida,United States,Major city
+1000738,52,Lake Worth,Florida,United States,City
+1000738,52,West Chase,Florida,United States,City
+1000738,52,East Lake,Florida,United States,City
+1000738,52,Town 'n' Country,Florida,United States,City
+1000738,52,Tarpon Springs,Florida,United States,City
+1000738,52,Palm Harbor,Florida,United States,City
+1000738,52,Boynton Beach,Florida,United States,City
+1000738,52,Dunedin,Florida,United States,City
+1000738,52,Belle Glade,Florida,United States,City
+1000738,52,Clearwater,Florida,United States,City
+1000738,52,Largo,Florida,United States,City
+1000738,52,Arcadia,Florida,United States,City
+1000738,52,Boca Raton,Florida,United States,City
+1000738,52,Saint Petersburg,Florida,United States,City
+1000738,52,Deerfield Beach,Florida,United States,City
+1000738,52,Bradenton,Florida,United States,City
+1000738,52,Pompano Beach,Florida,United States,City
+1000738,52,Coral Springs,Florida,United States,City
+1000738,52,Fort Lauderdale,Florida,United States,City
+1000738,52,Sarasota,Florida,United States,City
+1000738,52,Sunrise,Florida,United States,City
+1000738,52,Plantation,Florida,United States,City
+1000738,52,Weston,Florida,United States,City
+1000738,52,Hollywood,Florida,United States,City
+1000738,52,Pembroke Pines,Florida,United States,City
+1000738,52,Carol City,Florida,United States,City
+1000738,52,Fort Myers,Florida,United States,City
+1000738,52,Opa-locka,Florida,United States,City
+1000738,52,Miami Beach,Florida,United States,City
+1000738,52,Hialeah,Florida,United States,City
+1000738,52,Cape Coral,Florida,United States,City
+1000738,52,Miami,Florida,United States,Major city
+1000738,52,Fountainbleau,Florida,United States,City
+1000738,52,Pinecrest,Florida,United States,City
+1000738,52,Kendall,Florida,United States,City
+1000738,52,Nassau,Bahamas,The Bahamas,Capital
+1000738,52,Country Walk,Florida,United States,City
+1000738,52,Richmond West,Florida,United States,City
+1000738,52,Goulds,Florida,United States,City
+1000738,52,Homestead,Florida,United States,City
+1000738,52,Key West,Florida,United States,City
+1000738,52,Sagua la Grande,Villa Clara,Cuba,City
+1000738,52,Cárdenas,Matanzas,Cuba,City
+1000738,52,Caibarién,Villa Clara,Cuba,City
+1000738,52,Matanzas,Matanzas,Cuba,City
+1000738,52,Campo Florido,Ciudad de La Habana,Cuba,City

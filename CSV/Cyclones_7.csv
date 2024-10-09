@@ -1,0 +1,579 @@
+Event_id,Episode,Name,IATA_Code,Elevation_in_m,Usage,Runway_type,IFR,Runway_Length_in_ft
+1000667,18,,,15,,,,0
+1000667,18,,,19,,,,0
+1000667,18,Changle,FOC,14,Civ.,Paved,Yes,11800
+1000667,18,Matsu South,,30,,,,0
+1000667,18,,,24,,,,0
+1000667,18,Ma Tsu,,13,Civ.,Paved,No,2900
+1000667,18,Qingyang,IQN,21,,,,0
+1000667,18,Jinjiang,JJN,6,,,,0
+1000667,18,Shang-Yi,KNH,12,Mil.,Paved,Yes,9800
+1000667,18,Shatou,,9,,,,0
+1000667,18,Xiamen / Gaoqi,XMN,18,Civ.,Paved,Yes,8800
+1000667,18,Ta Shan Ting,,40,,,,0
+1000667,18,Hsinchu,HSZ,8,Civ.,Paved,Yes,12000
+1000667,18,Ao Hu Kou,,152,,,,0
+1000667,18,Ching Chuan Kang AB,,203,Mil.,Paved,No,12000
+1000667,18,Chiang Kai Shek International,TPE,33,Civ.,Paved,Yes,12000
+1000667,18,Highway Strip 58 60,,120,,,,0
+1000667,18,Taoyuan,,45,Mil.,Paved,No,10000
+1000667,18,Taichung,TXG,112,Mil.,Paved,Yes,5300
+1000667,18,Lung Tan,,241,Civ.,Paved,No,3200
+1000667,18,Pa Kuei,,141,,,,0
+1000667,18,,,17,,,,0
+1000667,18,Highway Strip 206,,23,,,,0
+1000667,18,Sungshan,TSA,6,Civ.,Paved,Yes,8500
+1000667,18,Makung AB,MZG,31,Mil.,Paved,Yes,6500
+1000667,18,Jiangluo,,183,,,,0
+1000667,18,P Eng Hu,,21,,,,0
+1000667,18,Lishan,LHN,unknown,,,,0
+1000667,18,Sun Moon Lake,SMT,unknown,,,,0
+1000667,18,Wang An,,30,,,,0
+1000667,18,Highway Strip 260,,30,,,,0
+1000667,18,,,9,,,,0
+1000667,18,Chiayi,CYI,25,Civ.,Paved,Yes,10000
+1000667,18,Chi Mei,CMJ,unknown,,,,0
+1000667,18,Liangcheng,,381,,,,0
+1000667,18,,,210,,,,0
+1000667,18,Highway Strip 296 298,,9,,,,0
+1000667,18,Hualien,HUN,16,Civ.,Paved,Yes,9000
+1000667,18,Wenzhou,WNZ,4,,,,0
+1000667,18,Kuei Jen,,30,,,,0
+1000667,18,Tainan,TNN,19,Mil.,Paved,Yes,10000
+1000667,18,Highway Strip 331 334,,11,,,,0
+1000667,18,Kangshan,,10,Mil.,Paved,No,7500
+1000667,18,Tso Ying,,9,,,,0
+1000667,18,Pingtung North,,29,Mil.,Paved,No,8000
+1000667,18,Pingtung South,,24,Mil.,Paved,Yes,7800
+1000667,18,Kaohsiung International,KHH,9,Civ.,Paved,Yes,10300
+1000667,18,Meixian,MXZ,93,,,,0
+1000667,18,Feng Nin,,42,Civ.,Paved,Yes,7900
+1000667,18,Shantou Northeast,SWA,3,,,,0
+1000667,18,Taitung,TTT,37,Mil.,Paved,No,11000
+1000667,18,Meixian Af P,,101,,,,0
+1000667,18,Quxian,,58,,,,0
+1000667,18,Yonaguni,OGN,21,Civ.,Paved,Yes,4900
+1000667,18,Green Island,GNI,8,Civ.,Paved,No,3300
+1000667,18,,,44,,,,0
+1000667,18,Long You,,60,,,,0
+1000667,18,Hengchun,HCN,13,Civ.,Paved,No,3500
+1000667,18,Yiwu,YIW,56,,,,0
+1000667,18,Orchid Island,KYD,10,Civ.,Paved,No,4500
+1000667,18,Nanchang / Xiangtang,,30,,,,0
+1000667,18,Linjiang,,39,,,,0
+1000667,18,Fouliang Af P,JDZ,61,,,,0
+1000667,18,Tunxi,TXN,107,,,,0
+1000667,18,Jian,,59,,,,0
+1000667,18,Hateruma,HTR,unknown,,,,0
+1000667,18,Iriomote Jima,,12,,,,0
+1000667,18,Nanchang New,,30,,,,0
+1000667,18,Changbei,KHN,40,,,,0
+1000667,18,Ishigaki,ISG,26,Civ.,Paved,Yes,4900
+1000667,18,,,9,,,,0
+1000667,18,Mahuiling,JIU,40,,,,0
+1000667,18,Lushan,LUZ,unknown,,,,0
+1000667,18,Shimojishima,SHI,16,Civ.,Paved,Yes,9800
+1000667,18,Hirara,MMY,45,Civ.,Paved,Yes,6500
+1000667,18,Basco,BSO,56,Civ.,Paved,No,4100
+1000667,18,Kumejima,UEO,7,Civ.,Paved,Yes,6500
+1000667,18,Taggat,,5,,,,0
+1000673,4,Jalgaon,,244,,,,0
+1000702,24,Sanyuan Pu,,360,,,,0
+1000702,24,Manpo,,249,,,,0
+1000702,24,Liuhe,,375,,,,0
+1000702,24,Dongfeng,,411,,,,0
+1000702,24,Kuandian West,,269,,,,0
+1000702,24,Sangwon Ni Hwy Strip,,98,,,,0
+1000702,24,Dapu,,74,,,,0
+1000702,24,Jichang,,299,,,,0
+1000702,24,,,91,,,,0
+1000702,24,Changjin Up,,1074,,,,0
+1000702,24,Shenyang / Dongta,,49,,,,0
+1000702,24,Taechon Airfield,,23,,,,0
+1000702,24,Panghyon Airfield,,76,,,,0
+1000702,24,Shenyang / Taoxian,SHE,60,Civ.,Paved,Yes,10400
+1000702,24,Uiju,,9,,,,0
+1000702,24,Taechon,,24,,,,0
+1000702,24,Shenyang / Beiling,,41,,,,0
+1000702,24,Panghyon,,75,,,,0
+1000702,24,Hyesan,,997,,,,0
+1000702,24,Shenyang / Hunhe,,40,,,,0
+1000702,24,Sinuiju,,9,,,,0
+1000702,24,Panghyon South Hwy Strip,,122,,,,0
+1000702,24,Kaechon Airfield,,34,,,,0
+1000702,24,Shenyang / Yu Hung Tun,,19,,,,0
+1000702,24,Sonchon,,41,,,,0
+1000702,24,Kaechon,,35,,,,0
+1000702,24,Siping 1,,194,,,,0
+1000702,24,Sinanju Highway Strip,,29999,,,,0
+1000702,24,Sinhung Highway Strip,,75,,,,0
+1000702,24,Dandong,DDG,8,,,,0
+1000702,24,Dandong Langtou Af P,,9,,,,0
+1000702,24,Samjiyon,,1341,,,,0
+1000702,24,Siring 2 Af P,,168,,,,0
+1000702,24,Kwaksan,,6,,,,0
+1000702,24,Hwangsuwon,,1228,,,,0
+1000702,24,Sonchon Southwest,,5,,,,0
+1000702,24,Huaide,,187,,,,0
+1000702,24,,,18,,,,0
+1000702,24,Dandong Dadonggou Afld P,,6,,,,0
+1000702,24,Pukchang Airfield,,49,,,,0
+1000702,24,Ta Tong Kou,,6,,,,0
+1000702,24,Toksan Airfield,,33,,,,0
+1000702,24,Maengsan,,509,,,,0
+1000702,24,Pukchang,,41,,,,0
+1000702,24,Changchun / Datun,,239,,,,0
+1000702,24,Toksan,,35,,,,0
+1000702,24,Sunchon Airfield,,36,,,,0
+1000702,24,Yonpo Airfield,,15,,,,0
+1000702,24,Sondok Airfield,,29999,,,,0
+1000702,24,Sunchon,,32,,,,0
+1000702,24,,,12,,,,0
+1000702,24,Paegam,,994,,,,0
+1000702,24,Sondok,,8,,,,0
+1000702,24,Chang Chun East,,213,,,,0
+1000702,24,Keng-Chuang-Tzu,,12,,,,0
+1000702,24,Changchun / Dafang Shen,CGQ,232,Civ.,Paved,Yes,8500
+1000702,24,Pyong Ni South Highway Strip,,59,,,,0
+1000702,24,Sunan Auxiliary Airfield,,29999,,,,0
+1000702,24,Pyongyang Sunan,FNJ,31,Civ.,Paved,Yes,13100
+1000702,24,Yonghung Highway Strip,,64,,,,0
+1000702,24,Jilin / Erh Thi Tzu,JIL,166,,,,0
+1000702,24,Kangdong,,24,,,,0
+1000702,24,Jiaohe,,318,,,,0
+1000702,24,Mirim Airfield,,3,,,,0
+1000702,24,Mirim,,9,,,,0
+1000702,24,Okpyong Ni Highway Strip,,9,,,,0
+1000702,24,Onchon Airfield,,12,,,,0
+1000702,24,Wonsan Airfield,,3,,,,0
+1000702,24,Sangwon Highway Strip,,29999,,,,0
+1000702,24,Sangwon Hwy Strip,,30,,,,0
+1000702,24,Wonsan,,3,,,,0
+1000702,24,Kangda Ri Hwy Strip,,38,,,,0
+1000702,24,Koksan South Highway Strip,,219,,,,0
+1000702,24,Hwangju Airfield,,10,,,,0
+1000702,24,Koksan Airfield,,241,,,,0
+1000702,24,Toha Ri North,,153,,,,0
+1000702,24,Yanji South,YNJ,177,,,,0
+1000702,24,Hwangju,,3,,,,0
+1000702,24,Koksan South Hwy Strip,,219,,,,0
+1000702,24,Koksan,,227,,,,0
+1000702,24,Yanji East Af P,,152,,,,0
+1000702,24,Wongyo Ri Highway Strip,,179,,,,0
+1000702,24,Ichon Northeast,,146,,,,0
+1000702,24,Unchon Up,,141,,,,0
+1000702,24,Cho Do,,15,,,,0
+1000702,24,Kwail Airfield,,14,,,,0
+1000702,24,Hyon Ni Airfield,,584,,,,0
+1000702,24,Kwail,,11,,,,0
+1000702,24,Ichon,,89,,,,0
+1000702,24,Hyon Ni,,573,,,,0
+1000702,24,Sohung,,140,,,,0
+1000702,24,Nuchon Ni Airfield,,79,,,,0
+1000702,24,Ayang Ni Hwy Strip,,80,,,,0
+1000702,24,Nuchon Ni,,50,,,,0
+1000702,24,Nuchon Ni Hwy Strip,,19,,,,0
+1000702,24,Changyon Hwy Strip,,20,,,,0
+1000702,24,Taetan Airfield,,31,,,,0
+1000702,24,Ihyon Ni,,116,,,,0
+1000702,24,Taetan,,24,,,,0
+1000702,24,Mudanjiang / Dongjingcheng,,282,,,,0
+1000705,24,Onyang Highway Strip,,100,,,,0
+1000705,24,Ulsan,USN,9,Civ.,Paved,Yes,6500
+1000705,24,Pusan Gimhae International,PUS,4,Civ.,Paved,Yes,8900
+1000705,24,Pusan,,2,Mil.,Paved,No,6500
+1000705,24,R 802,,34,,,,0
+1000705,24,R 806,,26,,,,0
+1000705,24,R 813,CHF,2,Mil.,Paved,No,3600
+1000705,24,Daegu AB,TAE,35,Mil.,Paved,Yes,9000
+1000705,24,Pohang,KPO,21,Mil.,Paved,Yes,7000
+1000705,24,Geoje Heliport,JGE,unknown,,,,0
+1000705,24,Sachon,HIN,8,Mil.,Paved,Yes,8900
+1000705,24,Tsushima,TSJ,65,Civ.,Paved,Yes,6200
+1000705,24,Yechon AB,YEC,108,Mil.,Paved,Yes,8900
+1000705,24,Yosu,RSU,unknown,,,,0
+1000705,24,Yeosu,SYS,21,Civ.,Paved,Yes,5000
+1000705,24,R 605,,291,,,,0
+1000705,24,R 430,,2,,,,0
+1000705,24,R 418,,283,,,,0
+1000705,24,Samchok,SUK,unknown,,,,0
+1000705,24,Hoengsong,WJU,100,Mil.,Paved,Yes,8900
+1000705,24,R 417,,525,,,,0
+1000705,24,Gangneung,KAG,11,Mil.,Paved,Yes,8900
+1000705,24,R 420,,274,,,,0
+1000705,24,Yangyang International,,73,Mil.,Paved,No,3600
+1000705,24,Seolak,SHO,28,Mil.,Paved,Yes,5100
+1000705,24,R 414,,205,,,,0
+1000705,24,R 404,,206,,,,0
+1000705,24,R 405,,220,,,,0
+1000705,24,R 406,,200,,,,0
+1000705,24,R 412,,290,,,,0
+1000705,24,Fukue,FUJ,83,Civ.,Paved,Yes,6500
+1000705,24,R 413,,50,,,,0
+1000705,24,Kumgang,,443,,,,0
+1000705,24,Kojo Hwy Strip,,62,,,,0
+1000705,24,Kuum Ni Airfield,,29999,,,,0
+1000705,24,Iwon,,10,,,,0
+1000705,24,Tanchon South Highway Strip,,9,,,,0
+1000705,24,Hwangsuwon,,1228,,,,0
+1000705,24,Kilchu Highway Strip,,76,,,,0
+1000705,24,Kuktong,,61,,,,0
+1000705,24,Hyesan,,997,,,,0
+1000705,24,Kadena AB,DNA,45,Mil.,Paved,Yes,12100
+1000705,24,Futenma Mcas,,75,Mil.,Paved,Yes,9000
+1000705,24,Kumejima,UEO,7,Civ.,Paved,Yes,6500
+1000705,24,Naha,OKA,5,Civ.,Paved,Yes,9800
+1000706,29,Tanchon South Highway Strip,,9,,,,0
+1000706,29,Iwon,,10,,,,0
+1000706,29,Kilchu Highway Strip,,76,,,,0
+1000706,29,Hwangsuwon,,1228,,,,0
+1000706,29,Kuktong,,61,,,,0
+1000706,29,Hyesan,,997,,,,0
+1000706,29,Orang,,40,,,,0
+1000706,29,Kyongsong,,12,,,,0
+1000706,29,Sinhung Highway Strip,,75,,,,0
+1000706,29,Toksan Airfield,,33,,,,0
+1000706,29,Toksan,,35,,,,0
+1000706,29,Paegam,,994,,,,0
+1000706,29,Chongjin,,9,,,,0
+1000706,29,Samjiyon,,1341,,,,0
+1000706,29,Changjin Up,,1074,,,,0
+1000706,29,Yonpo Airfield,,15,,,,0
+1000706,29,Sondok Airfield,,29999,,,,0
+1000706,29,Sondok,,8,,,,0
+1000706,29,Yonghung Highway Strip,,64,,,,0
+1000706,29,Wonsan Airfield,,3,,,,0
+1000706,29,Okpyong Ni Highway Strip,,9,,,,0
+1000706,29,Wonsan,,3,,,,0
+1000706,29,Manpo,,249,,,,0
+1000706,29,Kuum Ni Airfield,,29999,,,,0
+1000706,29,Maengsan,,509,,,,0
+1000706,29,Kangda Ri Hwy Strip,,38,,,,0
+1000706,29,Kojo Hwy Strip,,62,,,,0
+1000706,29,Yanji South,YNJ,177,,,,0
+1000706,29,Kumgang,,443,,,,0
+1000706,29,Yanji East Af P,,152,,,,0
+1000706,29,Hoeyang Southeast,,425,,,,0
+1000706,29,R 413,,50,,,,0
+1000706,29,Hyon Ni Airfield,,584,,,,0
+1000706,29,Sangwon Ni Hwy Strip,,98,,,,0
+1000706,29,Hyon Ni,,573,,,,0
+1000706,29,Kaechon Airfield,,34,,,,0
+1000706,29,Kaechon,,35,,,,0
+1000706,29,R 412,,290,,,,0
+1000706,29,Pukchang Airfield,,49,,,,0
+1000706,29,Seolak,SHO,28,Mil.,Paved,Yes,5100
+1000706,29,Pukchang,,41,,,,0
+1000706,29,Ichon Northeast,,146,,,,0
+1000706,29,Koksan South Highway Strip,,219,,,,0
+1000706,29,Yangyang International,,73,Mil.,Paved,No,3600
+1000706,29,R 321,,274,,,,0
+1000706,29,Sunchon Airfield,,36,,,,0
+1000706,29,R 414,,205,,,,0
+1000706,29,R 406,,200,,,,0
+1000706,29,Sunchon,,32,,,,0
+1000706,29,R 317,,229,,,,0
+1000706,29,R 405,,220,,,,0
+1000706,29,Koksan South Hwy Strip,,219,,,,0
+1000706,29,Sinanju Highway Strip,,29999,,,,0
+1000706,29,Koksan Airfield,,241,,,,0
+1000706,29,R 404,,206,,,,0
+1000706,29,Kangdong,,24,,,,0
+1000706,29,R 314,,183,,,,0
+1000706,29,R 240,,192,,,,0
+1000706,29,Koksan,,227,,,,0
+1000706,29,Pyong Ni South Highway Strip,,59,,,,0
+1000706,29,Taechon,,24,,,,0
+1000706,29,Taechon Airfield,,23,,,,0
+1000706,29,Sanyuan Pu,,360,,,,0
+1000706,29,R 313,,140,,,,0
+1000706,29,Ichon,,89,,,,0
+1000706,29,R 420,,274,,,,0
+1000706,29,R 311,,180,,,,0
+1000706,29,R 239,,192,,,,0
+1000706,29,R 237,,155,,,,0
+1000706,29,Wongyo Ri Highway Strip,,179,,,,0
+1000706,29,R 312,,261,,,,0
+1000706,29,Liuhe,,375,,,,0
+1000706,29,Sangwon Highway Strip,,29999,,,,0
+1000706,29,Toha Ri North,,153,,,,0
+1000706,29,Sunan Auxiliary Airfield,,29999,,,,0
+1000706,29,R 238,,80,,,,0
+1000706,29,Sangwon Hwy Strip,,30,,,,0
+1000706,29,Mirim Airfield,,3,,,,0
+1000706,29,Pyongyang Sunan,FNJ,31,Civ.,Paved,Yes,13100
+1000706,29,R 307,,82,,,,0
+1000706,29,R 233,,104,,,,0
+1000706,29,Mirim,,9,,,,0
+1000706,29,R 231,,130,,,,0
+1000706,29,Panghyon Airfield,,76,,,,0
+1000706,29,Panghyon,,75,,,,0
+1000706,29,Gangneung,KAG,11,Mil.,Paved,Yes,8900
+1000706,29,A 306,QUN,75,Mil.,Paved,No,4000
+1000706,29,Panghyon South Hwy Strip,,122,,,,0
+1000706,29,R 228,,70,,,,0
+1000706,29,R 417,,525,,,,0
+1000706,29,Kwaksan,,6,,,,0
+1000706,29,R 225,,30,,,,0
+1000706,29,R 419,,137,,,,0
+1000706,29,R 213,,128,,,,0
+1000706,29,R 217,,100,,,,0
+1000706,29,R 129,,35,,,,0
+1000706,29,R 219,,90,,,,0
+1000706,29,Hwangju Airfield,,10,,,,0
+1000706,29,Sohung,,140,,,,0
+1000706,29,R 218,,110,,,,0
+1000726,24,Hollandale Municipal,,35,,,,0
+1000726,24,Eifling Farms,,34,,,,0
+1000726,24,Tonnar,,33,,,,0
+1000726,24,Nicks Flying Service,,30,,,,0
+1000726,24,Wade,,32,,,,0
+1000726,24,Lewis,,34,,,,0
+1000726,24,Lake Washington,,35,,,,0
+1000726,24,Tgp Station 843,,32,,,,0
+1000726,24,Oglesby Farms Inc.,,34,,,,0
+1000726,24,Belzoni Municipal,,34,,,,0
+1000726,24,Abide Airpark,,35,,,,0
+1000726,24,Heigle Field,,32,,,,0
+1000726,24,Lang Flying Service,,35,,,,0
+1000726,24,Lester Field,,35,,,,0
+1000726,24,Country Club,,36,,,,0
+1000726,24,Lewis Air Service,,37,,,,0
+1000726,24,Montgomery,,37,,,,0
+1000726,24,Huntley,,36,,,,0
+1000726,24,Tgp Station 54,,37,,,,0
+1000726,24,Yazoo County,,33,,,,0
+1000726,24,Cottonwood,,37,,,,0
+1000726,24,Delta Regional Medical Center,,37,,,,0
+1000726,24,Baker Flying Service,,35,,,,0
+1000726,24,Indianola Municipal,,38,Civ.,Paved,Yes,6900
+1000726,24,Hobbs,,35,,,,0
+1000726,24,Greenville Municipal,GLH,40,Civ.,Paved,Yes,8000
+1000726,24,Reality Plantation,,30,,,,0
+1000726,24,Byerley,,32,,,,0
+1000726,24,Bell,,40,,,,0
+1000726,24,Chicot Memorial Hospital,,38,,,,0
+1000726,24,Southland Flying Service Inc.,,35,,,,0
+1000726,24,Lake Village Municipal,,38,,,,0
+1000726,24,Tapley,,39,,,,0
+1000726,24,Berry,,34,,,,0
+1000726,24,Murphey Flying Service,,37,,,,0
+1000726,24,Costello,,23,,,,0
+1000726,24,Whitaker,,30,,,,0
+1000726,24,Kelly,,34,,,,0
+1000726,24,West Bolivar Flying Service,,41,,,,0
+1000726,24,Johnson Memorial,,32,,,,0
+1000726,24,Bayou Meadows,,26,,,,0
+1000726,24,Linwood,,87,,,,0
+1000726,24,C A Moore,,104,,,,0
+1000726,24,Greenwood-Leflore Hospital,,40,,,,0
+1000726,24,Cleveland Municipal,,43,Civ.,Paved,Yes,4000
+1000726,24,Dermott Municipal,,41,,,,0
+1000726,24,Catfish Point,,47,,,,0
+1000726,24,Highland Hospital,,79,,,,0
+1000726,24,E E Lane,,82,,,,0
+1000726,24,McGehee Municipal,,43,,,,0
+1000726,24,Mississippi Petrified Forest,,81,,,,0
+1000726,24,Ruleville Drew,,42,,,,0
+1000726,24,Greenwood Leflore,GWO,47,Civ.,Paved,Yes,6500
+1000726,24,Slobovia Outernational,,76,,,,0
+1000726,24,Scott,,26,,,,0
+1000726,24,Peterson,,73,,,,0
+1000726,24,Dorr Field,,43,,,,0
+1000726,24,Cochran,,73,,,,0
+1000726,24,Parkview Regional Medical Center,,77,,,,0
+1000726,24,Flying G Ranch,,46,,,,0
+1000726,24,Vicksburg Tallulah Regional,,26,Civ.,Paved,Yes,5000
+1000726,24,Vicksburg Medical Center,,34,,,,0
+1000726,24,Rudder Field,,70,,,,0
+1000726,24,Gustafson,,24,,,,0
+1000726,24,Christmas,,47,,,,0
+1000726,24,Tillar,,46,,,,0
+1000726,24,4b Ranch,,24,,,,0
+1000726,24,Supplejack,,104,,,,0
+1000726,24,Mitchell's,,98,,,,0
+1000726,24,Red Beard Dusting Service,,26,,,,0
+1000726,24,John Bell Williams,,75,,,,0
+1000726,24,Vicksburg Municipal,VKS,32,Civ.,Paved,Yes,5000
+1000726,24,Joe Sanford Field,,55,,,,0
+1000726,24,Travis,,37,,,,0
+1000726,24,Echelon,,104,,,,0
+1000726,24,Bruce Campbell Field,,99,Civ.,Paved,Yes,4400
+1000726,24,Flautt,,44,,,,0
+1000726,24,Walnut Creek,,96,,,,0
+1000726,24,Arkla Flyers Inc,,27,,,,0
+1000726,24,Delhi Municipal,,27,,,,0
+1000726,24,Hawkins Field,HKS,104,Civ.,Paved,Yes,5300
+1000726,24,Yancopin,,46,,,,0
+1000726,24,Crossett Municipal,CRT,56,Civ.,Paved,Yes,5000
+1000726,24,Methodist Medical Center,,112,,,,0
+1000726,24,University Hospital,,105,,,,0
+1000726,24,Dogwood Acres,,76,,,,0
+1000726,24,Barham,,27,,,,0
+1000726,24,Flying Y Service,,45,,,,0
+1000726,24,Ashley County Hospital,,50,,,,0
+1000726,24,Monticello Municipal,,82,Civ.,Paved,Yes,5000
+1000726,24,Winona Montgomery County,,111,,,,0
+1000726,24,Morehouse Memorial,,51,,,,0
+1000726,24,Dale Landing Strip,,26,,,,0
+1000726,24,Billy Free Municipal,,50,,,,0
+1000726,24,Jackson International,JAN,105,Civ.,Paved,Yes,8500
+1000726,24,Drew Memorial Hospital,,90,,,,0
+1000726,24,Davis Plantation,,46,,,,0
+1000726,24,Rayville Municipal,,25,,,,0
+1000726,24,Squires,,24,,,,0
+1000726,24,Stephen's Flying Service,,27,,,,0
+1000734,18,Tam Ky,,10,,,,0
+1000734,18,Chu Lai,,18,,,,0
+1000734,18,Tien Phuoc,,60,,,,0
+1000734,18,Ha Thanh,,40,,,,0
+1000734,18,,,11,,,,0
+1000734,18,Minh Long,,76,,,,0
+1000734,18,An Hoa,,20,,,,0
+1000734,18,Mo Duc,,40,,,,0
+1000734,18,Cu Lao Re,,5,,,,0
+1000734,18,Kham Duc,,340,,,,0
+1000734,18,Duc Pho,,10,,,,0
+1000734,18,Saravane,VNA,175,Civ.,Unpaved,No,4900
+1000734,18,Mamburao,MBO,4,Civ.,Paved,No,3900
+1000734,18,Pinamalayan,,32,,,,0
+1000734,18,Marinduque,MRQ,5,Civ.,Paved,No,4500
+1000734,18,Naga,WNP,43,Civ.,Paved,No,4600
+1000736,37,Iba,,3,Civ.,Paved,No,3200
+1000736,37,Lubang,LBX,5,Civ.,Paved,No,3900
+1000736,37,Subic Bay International Airpt,SFS,17,Civ.,Paved,Yes,9000
+1000736,37,Lingayen,,2,,,,0
+1000736,37,Basa AB,,46,Mil.,Paved,No,8300
+1000736,37,San Fernando,SFE,4,Civ.,Paved,No,3900
+1000736,37,Clark AB,CRK,146,Civ.,Paved,Yes,10400
+1000736,37,Mamburao,MBO,4,Civ.,Paved,No,3900
+1000736,37,Loakan,BAG,1292,Civ.,Paved,No,5500
+1000736,37,Sangley Point AB,SGL,2,Mil.,Paved,No,8600
+1000736,37,Ninoy Aquino International,MNL,23,Civ.,Paved,Yes,12200
+1000736,37,Fernando AB,,372,Mil.,Paved,No,4900
+1000736,37,Luzon Is Cubi Pt,NCP,unknown,,,,0
+1000736,37,Fort Magsaysay,,57,Mil.,Paved,No,6300
+1000736,37,San Jose,SJI,3,Civ.,Paved,No,6000
+1000736,37,Pinamalayan,,32,,,,0
+1000736,37,Wasig,,5,,,,0
+1000736,37,Lucena,,12,Civ.,Unpaved,No,3200
+1000736,37,Baler,BQA,9,Civ.,Paved,No,3900
+1000736,37,Pagbilao Grande Island,,4,,,,0
+1000736,37,Marinduque,MRQ,5,Civ.,Paved,No,4500
+1000736,37,Caticlan Malay,MPH,unknown,,,,0
+1000736,37,Romblon,TBH,3,Civ.,Paved,No,3900
+1000736,37,Kalib0,KLO,6,Civ.,Paved,No,6000
+1000736,37,Larap,,5,,,,0
+1000736,37,Daet,DTE,3,Civ.,Paved,No,3700
+1000736,37,Roxas,RXS,3,Civ.,Paved,No,6200
+1000736,37,Naga,WNP,43,Civ.,Paved,No,4600
+1000736,37,Sicogon Island,ICO,unknown,,,,0
+1000736,37,Masbate,MBT,15,Civ.,Paved,No,3900
+1000736,37,Legaspi,LGP,20,Civ.,Paved,No,6800
+1000736,37,Sorsogon,,37,Civ.,Unpaved,No,3200
+1000736,37,Virac,VRC,37,Civ.,Paved,No,5100
+1000736,37,Biliran Natl,,89,,,,0
+1000736,37,Calbayog,CYP,3,Civ.,Paved,No,4800
+1000736,37,Catarman,CRM,2,Civ.,Paved,No,4400
+1000736,37,Catbalogan,,15,,,,0
+1000736,37,Dolores,,2,,,,0
+1000738,52,Brunswick Media Center,,8,,,,0
+1000738,52,Pilots Ridge,,11,,,,0
+1000738,52,Brunswick County,,7,Civ.,Paved,Yes,4000
+1000738,52,New Hanover County,ILM,10,Civ.,Paved,Yes,8000
+1000738,52,Topsail Airpark,,20,,,,0
+1000738,52,Camp Davis Mcolf,,18,,,,0
+1000738,52,Whitewood Forest,,9,,,,0
+1000738,52,Winnabow,,10,,,,0
+1000738,52,Bogue Field Mcalf,,7,Mil.,Unpaved,No,4000
+1000738,52,Morehead City State Port Terminal,,2,,,,0
+1000738,52,The Brunswick Hospital,,8,,,,0
+1000738,52,Beaufort Morehead City,,3,Civ.,Paved,Yes,4200
+1000738,52,Triple M,,9,,,,0
+1000738,52,Circle P Farm,,9,,,,0
+1000738,52,Brickhouse Fld,,9,,,,0
+1000738,52,Sandy Run Acres,,18,,,,0
+1000738,52,Ocean Isle,,10,,,,0
+1000738,52,New River Mcas,,8,Mil.,Paved,Yes,5100
+1000738,52,Stag Air Park,,7,,,,0
+1000738,52,Bear Pen,,19,,,,0
+1000738,52,Pettigrew Moore Aerodrome,,9,,,,0
+1000738,52,Sky Manor,,18,,,,0
+1000738,52,Catino Ranch,,15,,,,0
+1000738,52,Dogwood Farm,,8,,,,0
+1000738,52,Epley,,12,,,,0
+1000738,52,Cherry Point Mcas,NKT,9,Mil.,Paved,Yes,8900
+1000738,52,Deppe Landing Strip,,14,,,,0
+1000738,52,Atlantic Mcolf,,7,,,,0
+1000738,52,Hickory Hill,,9,,,,0
+1000738,52,Albert J Ellis,OAJ,29,Civ.,Paved,Yes,7100
+1000738,52,Grand Strand,CRE,10,Civ.,Paved,Yes,5900
+1000738,52,Mitchell Field,,7,,,,0
+1000738,52,Wolf's Den,,3,,,,0
+1000738,52,Bell Strip,,11,,,,0
+1000738,52,Oak Grove Mcolf,,8,,,,0
+1000738,52,Craven Co Regional,EWN,6,Civ.,Paved,Yes,6000
+1000738,52,Canaan Air Base,,10,,,,0
+1000738,52,Hardee,,14,,,,0
+1000738,52,Myrtle Beach AFB,MYR,8,Civ.,Paved,Yes,9500
+1000738,52,Craven Regional Medical Center,,2,,,,0
+1000738,52,Pamlico,,6,,,,0
+1000738,52,Columbus County Municipal,,27,Civ.,Paved,Yes,5500
+1000738,52,Javika,,8,,,,0
+1000738,52,Twin City,,31,,,,0
+1000738,52,Loris Community Hospital,,28,,,,0
+1000738,52,Bay Creek,,1,,,,0
+1000738,52,Ocracoke Island,,2,,,,0
+1000738,52,Conway Horry County,,11,Civ.,Paved,Yes,4400
+1000738,52,Turbeville,,32,,,,0
+1000738,52,Green Sea,,29,,,,0
+1000738,52,Georgetown County,GGE,12,Civ.,Paved,Yes,5000
+1000738,52,Hodges Farm,,2,,,,0
+1000738,52,Billy Mitchell,HNC,5,Civ.,Paved,Yes,3000
+1000738,52,Andrews Municipal,ADR,8,Civ.,Paved,No,3000
+1000738,52,Jordan,,11,,,,0
+1000738,52,Laurel Hill Farms,,4,,,,0
+1000738,52,Hemingway Stuckey,,16,,,,0
+1000738,52,Hyde County,,2,,,,0
+1000738,52,East Cooper,,4,,,,0
+1000738,52,Raven's Run,,2,,,,0
+1000738,52,Williamsburg County,,20,Civ.,Paved,Yes,5000
+1000738,52,Medical University of South Carolina,,5,,,,0
+1000738,52,Berkeley County,,23,,,,0
+1000738,52,Charleston AFB International,CHS,14,Civ.,Paved,Yes,9000
+1000738,52,Charleston Executive,,6,Civ.,Paved,Yes,5000
+1000738,52,Mount Holly,,17,,,,0
+1000738,52,Dare County Regional,MEO,4,Civ.,Paved,Yes,4300
+1000738,52,Pluff Mud Field,,5,,,,0
+1000738,52,Clarendon County,,32,Civ.,Paved,Yes,3600
+1000738,52,Crosswinds-Wilson (Private),,27,,,,0
+1000738,52,Dorchester County,,16,Civ.,Paved,Yes,3700
+1000738,52,Yonges Island,,3,,,,0
+1000738,52,Holly Hill,,29,,,,0
+1000738,52,Avinger Field,,42,,,,0
+1000738,52,Russell,,34,,,,0
+1000738,52,St George Municipal,,26,,,,0
+1000738,52,Airy Hall,,6,,,,0
+1000738,52,Walterboro Municipal,RBW,30,Civ.,Paved,Yes,5700
+1000738,52,Fripp Island Emergency,,2,,,,0
+1000738,52,Marsh Point,,4,,,,0
+1000738,52,Laurel Hill Plantation,,3,,,,0
+1000738,52,Beaufort County,,3,,,,0
+1000738,52,Bell's Branch,,29,,,,0
+1000738,52,Beaufort County Memorial Hospital,,6,,,,0
+1000738,52,Beaufort Mcas,BFT,12,Mil.,Paved,Yes,12200
+1000738,52,Hilton Head,HHH,6,Civ.,Paved,Yes,4300
+1000738,52,Shiloh Plantation,,40,,,,0
+1000738,52,Salty Fare Landng,,unknown,,,,0
+1000738,52,Ehrhardt,,45,,,,0
+1000738,52,Broxton Bridge Plantation,,37,,,,0
+1000738,52,Ridgeland,,24,,,,0
+1000738,52,Melrose Landing,,unknown,,,,0
+1000738,52,Hampton Varnville,,34,,,,0
+1000738,52,Harpers,,34,,,,0
+1000738,52,Allendale County,,49,,,,0
+1000738,52,Sugar Hill,,62,,,,0
+1000738,52,Hyatt Regency Hotel,,37,,,,0
+1000738,52,Memorial Hospital,,6,,,,0
+1000738,52,Davis,,25,,,,0
+1000738,52,Swaids Field,,26,,,,0
