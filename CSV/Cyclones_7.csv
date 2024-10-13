@@ -577,3 +577,25 @@ Event_id,Episode,Name,IATA_Code,Elevation_in_m,Usage,Runway_type,IFR,Runway_Leng
 1000738,52,Memorial Hospital,,6,,,,0
 1000738,52,Davis,,25,,,,0
 1000738,52,Swaids Field,,26,,,,0
+1000741,25,Ban Nape,,762,,,,0
+1000741,25,Da Nang,DAD,6,Civ.,Paved,Yes,10000
+1000741,25,Marble Mountain,,9,,,,0
+1000741,25,Iba,,3,Civ.,Paved,No,3200
+1000741,25,San Fernando,SFE,4,Civ.,Paved,No,3900
+1000741,25,Lingayen,,2,,,,0
+1000741,25,Subic Bay International Airpt,SFS,17,Civ.,Paved,Yes,9000
+1000741,25,Loakan,BAG,1292,Civ.,Paved,No,5500
+1000741,25,Lubang,LBX,5,Civ.,Paved,No,3900
+1000741,25,Basa AB,,46,Mil.,Paved,No,8300
+1000741,25,Clark AB,CRK,146,Civ.,Paved,Yes,10400
+1000741,25,Luzon Is Cubi Pt,NCP,unknown,,,,0
+1000741,25,Bagabag,,249,Civ.,Paved,No,3200
+1000741,25,Fort Magsaysay,,57,Mil.,Paved,No,6300
+1000741,25,Sangley Point AB,SGL,2,Mil.,Paved,No,8600
+1000741,25,Ninoy Aquino International,MNL,23,Civ.,Paved,Yes,12200
+1000741,25,Fernando AB,,372,Mil.,Paved,No,4900
+1000741,25,Baler,BQA,9,Civ.,Paved,No,3900
+1000741,25,Lucena,,12,Civ.,Unpaved,No,3200
+1000741,25,Pagbilao Grande Island,,4,,,,0
+1000741,25,Larap,,5,,,,0
+1000741,25,Daet,DTE,3,Civ.,Paved,No,3700

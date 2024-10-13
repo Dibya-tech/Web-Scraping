@@ -11172,3 +11172,1277 @@ Event_id,Episode,Alert,Date ,Name,Country,Storm_Surge_Height
 1000738,52,SS,11 Nov 2020 10:00,Arcos de Canasi,Cuba,0.1
 1000738,52,SS,10 Nov 2020 23:00,Mexico Beach,United States,0.1
 1000738,52,SS,10 Nov 2020 23:00,Beacon Hill,United States,0.1
+1000741,25,Alert,Date (UTC),Name,Country,Storm surge height (m)
+1000741,25,SS,15 Nov 2020 06:00,Tho Ngoa,Vietnam,1.5
+1000741,25,SS,15 Nov 2020 06:00,Ba Don,Vietnam,1.3
+1000741,25,SS,11 Nov 2020 22:00,Abucay,Philippines,1.3
+1000741,25,SS,15 Nov 2020 06:00,Kiem Long,Vietnam,1.2
+1000741,25,SS,11 Nov 2020 23:00,Hermosa,Philippines,1.1
+1000741,25,SS,11 Nov 2020 23:00,Orani,Philippines,1.1
+1000741,25,SS,11 Nov 2020 23:00,Samal,Philippines,1.1
+1000741,25,SS,11 Nov 2020 23:00,Pamarauan,Philippines,1.1
+1000741,25,SS,15 Nov 2020 05:00,Ly Nhon Thon,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 12:00,Hoi Thong,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 08:00,Trung Nghia,Vietnam,1.0
+1000741,25,SS,11 Nov 2020 22:00,Balanga,Philippines,1.0
+1000741,25,SS,11 Nov 2020 21:00,Meycauayan,Philippines,1.0
+1000741,25,SS,15 Nov 2020 08:00,Trung Thinh,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 12:00,Cau Lo,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 08:00,Thuan Thien,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 08:00,Ha Tinh,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 08:00,Trung Tiet,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 08:00,Cau Thuong,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 07:00,Con Soi,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 08:00,Thien Linh,Vietnam,1.0
+1000741,25,SS,15 Nov 2020 07:00,Hau Con,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 07:00,Ky Anh,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 20:00,Rach Gia,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 06:00,Vinh Son,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 12:00,Hoa Cam,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 12:00,Tap Phuc,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 12:00,Vinh Ngai,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 20:00,Kien Thanh,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 12:00,Tien Yen,Vietnam,0.9
+1000741,25,SS,11 Nov 2020 21:00,Tanza,Philippines,0.9
+1000741,25,SS,11 Nov 2020 21:00,Tinajeros,Philippines,0.9
+1000741,25,SS,11 Nov 2020 21:00,Caloocan,Philippines,0.9
+1000741,25,SS,15 Nov 2020 06:00,Lang Loi,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 06:00,Vinh Ang,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 06:00,Hai Khau,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 06:00,Van Trang,Vietnam,0.9
+1000741,25,SS,15 Nov 2020 04:00,Cua Thon,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Yen Cat,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Diem Phe,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Xa Loan,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Van Lam Trai,Vietnam,0.8
+1000741,25,SS,11 Nov 2020 20:00,Manila,Philippines,0.8
+1000741,25,SS,15 Nov 2020 17:00,Xuan Moc,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 20:00,Dong Dui,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Luc Linh,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Cuu Doi,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Nam Dong,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 05:00,Dong Hoi,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 13:00,Ca Lu,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 14:00,Hoang Xa,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 13:00,Xi Dua,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Dot Dong,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 20:00,Dang Noi,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 20:00,Dong Cay,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 03:00,Xom Lap,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 13:00,Ba Lang,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 20:00,Mong Duong,Vietnam,0.8
+1000741,25,SS,11 Nov 2020 22:00,Pilar,Philippines,0.8
+1000741,25,SS,15 Nov 2020 17:00,Hai Phong,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 16:00,Sam Son,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 17:00,Nam Son,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 20:00,Dam Ha,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 18:00,Hoang Chau,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 19:00,Cai Kien,Vietnam,0.8
+1000741,25,SS,15 Nov 2020 19:00,Mong Cai,Vietnam,0.8
+1000741,25,SS,11 Nov 2020 23:00,Imus,Philippines,0.7
+1000741,25,SS,15 Nov 2020 19:00,Jiangpingxu,China,0.7
+1000741,25,SS,15 Nov 2020 17:00,Con Van,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 20:00,Cot Doai,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 20:00,Vinh Thuc,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 19:00,Jiangping,China,0.7
+1000741,25,SS,15 Nov 2020 19:00,Wanwei,China,0.7
+1000741,25,SS,15 Nov 2020 17:00,Long Chau,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 17:00,Quan Phuong Trung Trai,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 17:00,Lien Phu,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 02:00,Mui Lay,Vietnam,0.7
+1000741,25,SS,14 Nov 2020 19:00,Thai Duong Thuong,Vietnam,0.7
+1000741,25,SS,14 Nov 2020 19:00,Thon Phu An,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 20:00,Ap Giong Ke,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 16:00,An Co,Vietnam,0.7
+1000741,25,SS,14 Nov 2020 19:00,Thon My Khanh,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 17:00,Quan Phuong Ha,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 17:00,Gia Luan,Vietnam,0.7
+1000741,25,SS,14 Nov 2020 19:00,Thon Thai Duong Ha,Vietnam,0.7
+1000741,25,SS,14 Nov 2020 20:00,Phu Bai,Vietnam,0.7
+1000741,25,SS,11 Nov 2020 22:00,Orion,Philippines,0.7
+1000741,25,SS,15 Nov 2020 16:00,Dai Loc,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 20:00,Taiping,China,0.7
+1000741,25,SS,15 Nov 2020 20:00,Baishawan,China,0.7
+1000741,25,SS,15 Nov 2020 19:00,Ch'i-sha,China,0.7
+1000741,25,SS,14 Nov 2020 19:00,An Thuan,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 19:00,Bailong,China,0.7
+1000741,25,SS,14 Nov 2020 19:00,The Chi Tay,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 16:00,Nghoung Nhan,Vietnam,0.7
+1000741,25,SS,15 Nov 2020 21:00,Xom Ba Tra,Vietnam,0.7
+1000741,25,SS,14 Nov 2020 22:00,Thon My Thuy,Vietnam,0.6
+1000741,25,SS,11 Nov 2020 14:00,Jomalig,Philippines,0.6
+1000741,25,SS,11 Nov 2020 16:00,Binibitinan,Philippines,0.6
+1000741,25,SS,15 Nov 2020 01:00,Giem Ha Trung,Vietnam,0.6
+1000741,25,SS,15 Nov 2020 20:00,Ra Ghe,Vietnam,0.6
+1000741,25,SS,11 Nov 2020 16:00,Abucay,Philippines,0.6
+1000741,25,SS,15 Nov 2020 19:00,Jiangshan,China,0.6
+1000741,25,SS,15 Nov 2020 01:00,Cat Son Phuong,Vietnam,0.6
+1000741,25,SS,15 Nov 2020 20:00,Longshe,China,0.6
+1000741,25,SS,14 Nov 2020 19:00,Phung Chinh,Vietnam,0.6
+1000741,25,SS,14 Nov 2020 18:00,Dong Ha,Vietnam,0.6
+1000741,25,SS,15 Nov 2020 20:00,Kim Qui,Vietnam,0.6
+1000741,25,SS,15 Nov 2020 19:00,Hsi-niu-chiao,China,0.6
+1000741,25,SS,14 Nov 2020 17:00,Mui Chon Dong,Vietnam,0.6
+1000741,25,SS,11 Nov 2020 15:00,Patnanongan,Philippines,0.6
+1000741,25,SS,15 Nov 2020 19:00,Ban Sen,Vietnam,0.6
+1000741,25,SS,11 Nov 2020 22:00,Limay,Philippines,0.6
+1000741,25,SS,15 Nov 2020 20:00,Guanjing,China,0.6
+1000741,25,SS,15 Nov 2020 21:00,Ha Tien,Vietnam,0.6
+1000741,25,SS,11 Nov 2020 16:00,Panukulan,Philippines,0.6
+1000741,25,SS,11 Nov 2020 16:00,Ngalan,Philippines,0.6
+1000741,25,SS,11 Nov 2020 12:00,Banacboc,Philippines,0.5
+1000741,25,SS,11 Nov 2020 22:00,Cavite,Philippines,0.5
+1000741,25,SS,15 Nov 2020 21:00,Wai-lo,China,0.5
+1000741,25,SS,15 Nov 2020 19:00,Bengtang,China,0.5
+1000741,25,SS,15 Nov 2020 19:00,Houhai,China,0.5
+1000741,25,SS,15 Nov 2020 19:00,Baisha,China,0.5
+1000741,25,SS,15 Nov 2020 19:00,Shaoyao,China,0.5
+1000741,25,SS,15 Nov 2020 19:00,Xingyou,China,0.5
+1000741,25,SS,15 Nov 2020 21:00,Phumi Damnak Chang aeur,Cambodia,0.5
+1000741,25,SS,15 Nov 2020 21:00,Khum Angkol,Cambodia,0.5
+1000741,25,SS,11 Nov 2020 12:00,Jose Panganiban,Philippines,0.5
+1000741,25,SS,11 Nov 2020 12:00,Alayao,Philippines,0.5
+1000741,25,SS,11 Nov 2020 15:00,Calutcot,Philippines,0.5
+1000741,25,SS,15 Nov 2020 20:00,Hsi-ch'ang-hsu,China,0.5
+1000741,25,SS,15 Nov 2020 21:00,Guchengling,China,0.5
+1000741,25,SS,14 Nov 2020 16:00,An Cu,Vietnam,0.5
+1000741,25,SS,11 Nov 2020 16:00,Polillo,Philippines,0.5
+1000741,25,SS,15 Nov 2020 21:00,Hsi-ch'ang,China,0.5
+1000741,25,SS,14 Nov 2020 13:00,Ky Tan,Vietnam,0.5
+1000741,25,SS,11 Nov 2020 22:00,General Trias,Philippines,0.5
+1000741,25,SS,11 Nov 2020 22:00,Tanza,Philippines,0.5
+1000741,25,SS,11 Nov 2020 22:00,Binakayan,Philippines,0.5
+1000741,25,SS,16 Nov 2020 00:00,Bailong,China,0.5
+1000741,25,SS,15 Nov 2020 20:00,Huangpo,China,0.5
+1000741,25,SS,15 Nov 2020 20:00,Chiu-wu-ch'uan,China,0.5
+1000741,25,SS,14 Nov 2020 13:00,Tuyet iem,Vietnam,0.5
+1000741,25,SS,16 Nov 2020 00:00,Beimu,China,0.5
+1000741,25,SS,16 Nov 2020 01:00,Yong'an,China,0.5
+1000741,25,SS,15 Nov 2020 22:00,Kampot,Cambodia,0.5
+1000741,25,SS,16 Nov 2020 01:00,Beihai,China,0.5
+1000741,25,SS,11 Nov 2020 17:00,Kinasakitan,Philippines,0.5
+1000741,25,SS,14 Nov 2020 16:00,Mui Da Nang,Vietnam,0.5
+1000741,25,SS,15 Nov 2020 20:00,Batruong,Cambodia,0.4
+1000741,25,SS,15 Nov 2020 20:00,Phumi Bei Smau,Cambodia,0.4
+1000741,25,SS,11 Nov 2020 16:00,Libjo,Philippines,0.4
+1000741,25,SS,15 Nov 2020 19:00,Meilu,China,0.4
+1000741,25,SS,15 Nov 2020 19:00,Hai-lu,China,0.4
+1000741,25,SS,16 Nov 2020 02:00,Yingluo,China,0.4
+1000741,25,SS,16 Nov 2020 00:00,Caotan,China,0.4
+1000741,25,SS,11 Nov 2020 22:00,Tehero,Philippines,0.4
+1000741,25,SS,14 Nov 2020 13:00,Duc Pho,Vietnam,0.4
+1000741,25,SS,15 Nov 2020 22:00,Kaoh Toch,Cambodia,0.4
+1000741,25,SS,11 Nov 2020 15:00,Cabungalunan,Philippines,0.4
+1000741,25,SS,11 Nov 2020 03:00,Miguel,Philippines,0.4
+1000741,25,SS,11 Nov 2020 19:00,Manolib,Philippines,0.4
+1000741,25,SS,11 Nov 2020 19:00,Calumpang,Philippines,0.4
+1000741,25,SS,11 Nov 2020 22:00,Cabcaben,Philippines,0.4
+1000741,25,SS,14 Nov 2020 16:00,Hoi An,Vietnam,0.4
+1000741,25,SS,16 Nov 2020 03:00,Dangjiang,China,0.4
+1000741,25,SS,11 Nov 2020 16:00,Infanta,Philippines,0.4
+1000741,25,SS,11 Nov 2020 23:00,Cabangan,Philippines,0.4
+1000741,25,SS,11 Nov 2020 23:00,Maloma,Philippines,0.4
+1000741,25,SS,16 Nov 2020 03:00,Gaode,China,0.4
+1000741,25,SS,15 Nov 2020 19:00,Jinhe,China,0.4
+1000741,25,SS,13 Nov 2020 19:00,Hele,China,0.4
+1000741,25,SS,14 Nov 2020 15:00,Da Nang,Vietnam,0.4
+1000741,25,SS,16 Nov 2020 03:00,Qianjiang,China,0.4
+1000741,25,SS,10 Nov 2020 08:00,Barceloneta,Philippines,0.4
+1000741,25,SS,11 Nov 2020 22:00,Naic,Philippines,0.4
+1000741,25,SS,11 Nov 2020 22:00,Amaya,Philippines,0.4
+1000741,25,SS,14 Nov 2020 13:00,An Hai,Vietnam,0.4
+1000741,25,SS,15 Nov 2020 04:00,Chongpo,China,0.4
+1000741,25,SS,15 Nov 2020 04:00,Chiu-so,China,0.4
+1000741,25,SS,15 Nov 2020 04:00,Jiusuo,China,0.4
+1000741,25,SS,15 Nov 2020 04:00,Lingtou,China,0.4
+1000741,25,SS,16 Nov 2020 02:00,Longtousha,China,0.4
+1000741,25,SS,11 Nov 2020 07:00,Magtang,Philippines,0.4
+1000741,25,SS,11 Nov 2020 07:00,Lamon,Philippines,0.4
+1000741,25,SS,11 Nov 2020 07:00,Union,Philippines,0.4
+1000741,25,SS,11 Nov 2020 07:00,Tinambac,Philippines,0.4
+1000741,25,SS,11 Nov 2020 23:00,Iba,Philippines,0.4
+1000741,25,SS,11 Nov 2020 23:00,Botolan,Philippines,0.4
+1000741,25,SS,14 Nov 2020 13:00,Phu Xuan Ha,Vietnam,0.4
+1000741,25,SS,11 Nov 2020 13:00,Lopez,Philippines,0.4
+1000741,25,SS,11 Nov 2020 12:00,Talingting,Philippines,0.4
+1000741,25,SS,11 Nov 2020 13:00,Capuluan,Philippines,0.4
+1000741,25,SS,14 Nov 2020 15:00,Ap Quan Nam,Vietnam,0.4
+1000741,25,SS,11 Nov 2020 19:00,Asid,Philippines,0.4
+1000741,25,SS,11 Nov 2020 18:00,Borongan,Philippines,0.4
+1000741,25,SS,11 Nov 2020 19:00,Barra,Philippines,0.4
+1000741,25,SS,11 Nov 2020 19:00,Kandamal,Philippines,0.4
+1000741,25,SS,15 Nov 2020 19:00,Shuidong,China,0.4
+1000741,25,SS,15 Nov 2020 19:00,Song Ong Doc,Vietnam,0.4
+1000741,25,SS,16 Nov 2020 00:00,Ch'i-shui,China,0.4
+1000741,25,SS,16 Nov 2020 00:00,Haikang,China,0.4
+1000741,25,SS,14 Nov 2020 18:00,Phu Loc,Vietnam,0.4
+1000741,25,SS,15 Nov 2020 02:00,Yinggehai,China,0.4
+1000741,25,SS,15 Nov 2020 02:00,Foluo,China,0.4
+1000741,25,SS,11 Nov 2020 18:00,Malbug,Philippines,0.3
+1000741,25,SS,11 Nov 2020 18:00,Labigan,Philippines,0.3
+1000741,25,SS,11 Nov 2020 22:00,Maragondon,Philippines,0.3
+1000741,25,SS,13 Nov 2020 19:00,Boao,China,0.3
+1000741,25,SS,14 Nov 2020 13:00,Thanh Thuy,Vietnam,0.3
+1000741,25,SS,15 Nov 2020 18:00,Huangliu,China,0.3
+1000741,25,SS,10 Nov 2020 08:00,Mandao,Philippines,0.3
+1000741,25,SS,11 Nov 2020 06:00,Tandoc,Philippines,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kampong Bukit Kechil,Malaysia,0.3
+1000741,25,SS,14 Nov 2020 18:00,Ha Tru,Vietnam,0.3
+1000741,25,SS,15 Nov 2020 20:00,Chengcun,China,0.3
+1000741,25,SS,11 Nov 2020 19:00,Bangad,Philippines,0.3
+1000741,25,SS,11 Nov 2020 13:00,Mactang,Philippines,0.3
+1000741,25,SS,11 Nov 2020 13:00,Capalonga,Philippines,0.3
+1000741,25,SS,16 Nov 2020 00:00,Melaka,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kampong Kandang,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Pajak,Indonesia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Port Dickson,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Liu-sha-ying,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Liusha,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Dianbai,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Ch'i-ching,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Danchang,China,0.3
+1000741,25,SS,14 Nov 2020 18:00,La Son,Vietnam,0.3
+1000741,25,SS,15 Nov 2020 19:00,Kanbyin,Myanmar,0.3
+1000741,25,SS,15 Nov 2020 23:00,Muar,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kuala Selangor,Malaysia,0.3
+1000741,25,SS,13 Nov 2020 18:00,Xianmai,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Mergui,Myanmar,0.3
+1000741,25,SS,15 Nov 2020 19:00,Kyaukpya,Myanmar,0.3
+1000741,25,SS,11 Nov 2020 13:00,Binauangan,Philippines,0.3
+1000741,25,SS,11 Nov 2020 12:00,Paracale,Philippines,0.3
+1000741,25,SS,11 Nov 2020 20:00,Guiom,Philippines,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kampong Tanjong Dahan,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kampong Baharu,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kampong Baharu Sungai Udang,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kampong Lereh,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Batu Berendam,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kampong Mati,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kampong Endah,Malaysia,0.3
+1000741,25,SS,11 Nov 2020 23:00,Palauig,Philippines,0.3
+1000741,25,SS,16 Nov 2020 00:00,Shuiwei,China,0.3
+1000741,25,SS,15 Nov 2020 06:00,Nanluo,China,0.3
+1000741,25,SS,15 Nov 2020 06:00,Haitou,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Magang,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Diancheng,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Pinggang,China,0.3
+1000741,25,SS,14 Nov 2020 14:00,An Thach,Vietnam,0.3
+1000741,25,SS,15 Nov 2020 06:00,Beili,China,0.3
+1000741,25,SS,15 Nov 2020 23:00,Kampong Sekinchang,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Jiangcheng,China,0.3
+1000741,25,SS,13 Nov 2020 18:00,Dongli,China,0.3
+1000741,25,SS,11 Nov 2020 00:00,Bagas,Philippines,0.3
+1000741,25,SS,11 Nov 2020 00:00,Bikal,Philippines,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kampong Baru,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kampong Solok Kemang,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Sinabol,Indonesia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Sungai Pelek,Malaysia,0.3
+1000741,25,SS,14 Nov 2020 01:00,Bakam,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Bang Krassop,Cambodia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Kas Kapig,Cambodia,0.3
+1000741,25,SS,11 Nov 2020 19:00,Bugallon,Philippines,0.3
+1000741,25,SS,16 Nov 2020 00:00,Mai-ch'en-hsu,China,0.3
+1000741,25,SS,15 Nov 2020 06:00,Haiwei,China,0.3
+1000741,25,SS,14 Nov 2020 14:00,Xom Da Me,Vietnam,0.3
+1000741,25,SS,15 Nov 2020 05:00,Duntou,China,0.3
+1000741,25,SS,15 Nov 2020 05:00,Longyou,China,0.3
+1000741,25,SS,15 Nov 2020 05:00,Gancheng,China,0.3
+1000741,25,SS,15 Nov 2020 05:00,Banqiao,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Tharawuntaungnge,Myanmar,0.3
+1000741,25,SS,15 Nov 2020 19:00,Ma-ainggyon,Myanmar,0.3
+1000741,25,SS,13 Nov 2020 18:00,Tung-li,China,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kampong Kaum Asli,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kador,Indonesia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kampong Perigi Nanas,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Sala Srok Kaoh Kong,Cambodia,0.3
+1000741,25,SS,11 Nov 2020 17:00,Cabog,Philippines,0.3
+1000741,25,SS,16 Nov 2020 00:00,Guangcun,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Maichen,China,0.3
+1000741,25,SS,15 Nov 2020 06:00,Changhua,China,0.3
+1000741,25,SS,15 Nov 2020 20:00,Lengzilin,China,0.3
+1000741,25,SS,15 Nov 2020 20:00,Baipu,China,0.3
+1000741,25,SS,15 Nov 2020 23:00,Basuo,China,0.3
+1000741,25,SS,14 Nov 2020 22:00,Yacheng,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kampong Tengah Padang,Malaysia,0.3
+1000741,25,SS,11 Nov 2020 13:00,Argosino,Philippines,0.3
+1000741,25,SS,11 Nov 2020 13:00,Calauag,Philippines,0.3
+1000741,25,SS,11 Nov 2020 13:00,Apad Lutao,Philippines,0.3
+1000741,25,SS,11 Nov 2020 13:00,Pangas,Philippines,0.3
+1000741,25,SS,11 Nov 2020 05:00,San Vicente,Philippines,0.3
+1000741,25,SS,11 Nov 2020 01:00,Calolbon,Philippines,0.3
+1000741,25,SS,11 Nov 2020 02:00,Pandan,Philippines,0.3
+1000741,25,SS,11 Nov 2020 22:00,Hiwasayan,Philippines,0.3
+1000741,25,SS,16 Nov 2020 02:00,Ajabajani,Indonesia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Kubu,Indonesia,0.3
+1000741,25,SS,16 Nov 2020 01:00,Titiakar,Indonesia,0.3
+1000741,25,SS,14 Nov 2020 01:00,Miri,Malaysia,0.3
+1000741,25,SS,11 Nov 2020 18:00,Dingalan,Philippines,0.3
+1000741,25,SS,16 Nov 2020 00:00,Hsin-ying,China,0.3
+1000741,25,SS,14 Nov 2020 14:00,Linwang,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Tanjong Karang,Malaysia,0.3
+1000741,25,SS,11 Nov 2020 13:00,Apad,Philippines,0.3
+1000741,25,SS,11 Nov 2020 13:00,Gumaca,Philippines,0.3
+1000741,25,SS,11 Nov 2020 02:00,Barana,Philippines,0.3
+1000741,25,SS,11 Nov 2020 20:00,Lo-oc,Philippines,0.3
+1000741,25,SS,11 Nov 2020 19:00,Bogtong,Philippines,0.3
+1000741,25,SS,15 Nov 2020 19:00,O Pyam,Cambodia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Phumi Cheung Kruk,Cambodia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Phumi Thnal Krabei,Cambodia,0.3
+1000741,25,SS,15 Nov 2020 21:00,Phumi Sre Cham Kraom,Cambodia,0.3
+1000741,25,SS,15 Nov 2020 21:00,An Thoi,Vietnam,0.3
+1000741,25,SS,11 Nov 2020 19:00,Gubat,Philippines,0.3
+1000741,25,SS,15 Nov 2020 07:00,Paipu,China,0.3
+1000741,25,SS,15 Nov 2020 23:00,Baimajing,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Eman,China,0.3
+1000741,25,SS,15 Nov 2020 07:00,Taan,China,0.3
+1000741,25,SS,12 Nov 2020 13:00,Shenquan,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Xinxing,China,0.3
+1000741,25,SS,13 Nov 2020 18:00,Houhu,China,0.3
+1000741,25,SS,15 Nov 2020 20:00,Santouzui,China,0.3
+1000741,25,SS,15 Nov 2020 20:00,Hsi-t'ou,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Kampung Jeram Kijang,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Kampung Gula,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Pantai Remis,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Kampong Terong,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Bagan Sungai Burong,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kampong Batu Dua Puloh Tiga,Malaysia,0.3
+1000741,25,SS,11 Nov 2020 18:00,Valencia,Philippines,0.3
+1000741,25,SS,11 Nov 2020 18:00,Sum-ag,Philippines,0.3
+1000741,25,SS,11 Nov 2020 18:00,Bacolod,Philippines,0.3
+1000741,25,SS,11 Nov 2020 18:00,Barcelona,Philippines,0.3
+1000741,25,SS,11 Nov 2020 18:00,Pontevedra,Philippines,0.3
+1000741,25,SS,11 Nov 2020 18:00,Alobijod,Philippines,0.3
+1000741,25,SS,11 Nov 2020 18:00,Panobolon,Philippines,0.3
+1000741,25,SS,16 Nov 2020 01:00,Sungaisiakap,Indonesia,0.3
+1000741,25,SS,15 Nov 2020 20:00,Xom Rach Tau,Vietnam,0.3
+1000741,25,SS,11 Nov 2020 15:00,Magdalo,Philippines,0.3
+1000741,25,SS,15 Nov 2020 07:00,Hsin-chou,China,0.3
+1000741,25,SS,15 Nov 2020 19:00,Rudong,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Haian,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Bagan Sungai Belukang,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 00:00,Kampong Sungai Lang,Malaysia,0.3
+1000741,25,SS,13 Nov 2020 18:00,Dongjian,China,0.3
+1000741,25,SS,11 Nov 2020 22:00,Catabanga,Philippines,0.3
+1000741,25,SS,11 Nov 2020 19:00,Hinigaran,Philippines,0.3
+1000741,25,SS,14 Nov 2020 01:00,Lutong,Malaysia,0.3
+1000741,25,SS,16 Nov 2020 02:00,Rajaberiamu,Indonesia,0.3
+1000741,25,SS,11 Nov 2020 19:00,San Isidro,Philippines,0.3
+1000741,25,SS,11 Nov 2020 22:00,Silanguin,Philippines,0.3
+1000741,25,SS,11 Nov 2020 22:00,Morong,Philippines,0.3
+1000741,25,SS,13 Nov 2020 21:00,Dalangwan,China,0.3
+1000741,25,SS,14 Nov 2020 04:00,Qianshan,China,0.3
+1000741,25,SS,16 Nov 2020 00:00,Qiaotou,China,0.3
+1000741,25,SS,14 Nov 2020 19:00,Tiandu,China,0.3
+1000741,25,SS,15 Nov 2020 20:00,Kampong Bakan,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Kampong Sungai Pia,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Yan,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Bakong,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 19:00,Kampong Banggol,Malaysia,0.3
+1000741,25,SS,15 Nov 2020 20:00,Nangin,Myanmar,0.3
+1000741,25,SS,16 Nov 2020 01:00,Bagancina,Indonesia,0.3
+1000741,25,SS,11 Nov 2020 13:00,Calaguikhik,Philippines,0.2
+1000741,25,SS,11 Nov 2020 02:00,Gongonan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 02:00,Mapid,Philippines,0.2
+1000741,25,SS,11 Nov 2020 02:00,Balaton,Philippines,0.2
+1000741,25,SS,11 Nov 2020 02:00,Garchitorena,Philippines,0.2
+1000741,25,SS,11 Nov 2020 01:00,Guijalo,Philippines,0.2
+1000741,25,SS,11 Nov 2020 01:00,Pandanan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 01:00,Colongcogong,Philippines,0.2
+1000741,25,SS,11 Nov 2020 01:00,Manambrag,Philippines,0.2
+1000741,25,SS,11 Nov 2020 01:00,Gitoma,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Cabag,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Buenavista,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Bulusan,Philippines,0.2
+1000741,25,SS,15 Nov 2020 22:00,Phumi Kaoh Krabei,Cambodia,0.2
+1000741,25,SS,12 Nov 2020 13:00,Haimen,China,0.2
+1000741,25,SS,15 Nov 2020 23:00,Boshegang,China,0.2
+1000741,25,SS,15 Nov 2020 23:00,Longtang,China,0.2
+1000741,25,SS,15 Nov 2020 19:00,Pidat,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Palaw,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Shangan,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Palawgon,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Hangapru,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Karathuri,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Kampong Kuala Kedah,Malaysia,0.2
+1000741,25,SS,15 Nov 2020 20:00,Bayan Lepas,Malaysia,0.2
+1000741,25,SS,15 Nov 2020 20:00,Changkat Kledang,Malaysia,0.2
+1000741,25,SS,16 Nov 2020 00:00,Bagan Datch,Malaysia,0.2
+1000741,25,SS,15 Nov 2020 20:00,Bagan Ayer Itam,Malaysia,0.2
+1000741,25,SS,15 Nov 2020 20:00,Georgetown,Malaysia,0.2
+1000741,25,SS,16 Nov 2020 01:00,Bagansitoekang,Indonesia,0.2
+1000741,25,SS,11 Nov 2020 07:00,Vinzons,Philippines,0.2
+1000741,25,SS,11 Nov 2020 07:00,Talaga,Philippines,0.2
+1000741,25,SS,11 Nov 2020 07:00,Tagontong,Philippines,0.2
+1000741,25,SS,11 Nov 2020 07:00,Mambongalon,Philippines,0.2
+1000741,25,SS,11 Nov 2020 19:00,Panguiranan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 02:00,Adiagnao,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Liboro,Philippines,0.2
+1000741,25,SS,16 Nov 2020 01:00,Panipahan,Indonesia,0.2
+1000741,25,SS,12 Nov 2020 13:00,Changqingwei,China,0.2
+1000741,25,SS,16 Nov 2020 00:00,Xiuying,China,0.2
+1000741,25,SS,15 Nov 2020 20:00,Simpang Ampat,Malaysia,0.2
+1000741,25,SS,16 Nov 2020 00:00,Lumut,Malaysia,0.2
+1000741,25,SS,16 Nov 2020 01:00,Jawi Jawi,Indonesia,0.2
+1000741,25,SS,16 Nov 2020 01:00,Sungaiberombang,Indonesia,0.2
+1000741,25,SS,16 Nov 2020 01:00,Soengaipantaipoekat,Indonesia,0.2
+1000741,25,SS,16 Nov 2020 01:00,Labuhanbilik,Indonesia,0.2
+1000741,25,SS,10 Nov 2020 11:00,Bantayan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 01:00,Caramoan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Tagkawayan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Cavayan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Placer,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Domorog,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Daraga,Philippines,0.2
+1000741,25,SS,16 Nov 2020 01:00,Teloktelgatagonang,Indonesia,0.2
+1000741,25,SS,11 Nov 2020 15:00,Bisliang,Philippines,0.2
+1000741,25,SS,15 Nov 2020 20:00,Shangyang,China,0.2
+1000741,25,SS,13 Nov 2020 19:00,Yandun,China,0.2
+1000741,25,SS,14 Nov 2020 01:00,Chen Lan,China,0.2
+1000741,25,SS,13 Nov 2020 19:00,Qinglan,China,0.2
+1000741,25,SS,16 Nov 2020 00:00,Haikou,China,0.2
+1000741,25,SS,15 Nov 2020 20:00,Phuruk Tew,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Atwin Bokpyin,Myanmar,0.2
+1000741,25,SS,16 Nov 2020 00:00,Koh,Malaysia,0.2
+1000741,25,SS,16 Nov 2020 00:00,Kampong Kayan,Malaysia,0.2
+1000741,25,SS,11 Nov 2020 13:00,Concepcion,Philippines,0.2
+1000741,25,SS,11 Nov 2020 13:00,Mascarina,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Bahao,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Binobon,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Binahian,Philippines,0.2
+1000741,25,SS,14 Nov 2020 01:00,Kuala Baram,Malaysia,0.2
+1000741,25,SS,11 Nov 2020 19:00,Calaya,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Panasgasan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Nabaul,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Capantolan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Mangas,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Lingayen,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Labangan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Damaloguen,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Baloboc,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Maniboc,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Binmale,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Canaoalan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Carael,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Dagupan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Bateng,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Lucena,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Paysawan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Bagac,Philippines,0.2
+1000741,25,SS,15 Nov 2020 20:00,Taipa,Macau (China),0.2
+1000741,25,SS,15 Nov 2020 20:00,Coloane,Macau (China),0.2
+1000741,25,SS,12 Nov 2020 13:00,Jinghai,China,0.2
+1000741,25,SS,13 Nov 2020 19:00,Huiwen,China,0.2
+1000741,25,SS,15 Nov 2020 01:00,Sanya,China,0.2
+1000741,25,SS,15 Nov 2020 18:00,Anyou,China,0.2
+1000741,25,SS,15 Nov 2020 21:00,Kuala Perlis,Malaysia,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Khon Khlan,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,King Amphoe Thung Wa,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Langu,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban To Hui,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Bawi,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Na Thale,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Palian,Thailand,0.2
+1000741,25,SS,16 Nov 2020 01:00,Pangkalanlunanag,Indonesia,0.2
+1000741,25,SS,16 Nov 2020 01:00,Teluk-pulaidalam,Indonesia,0.2
+1000741,25,SS,16 Nov 2020 01:00,Pangkalanlunang,Indonesia,0.2
+1000741,25,SS,15 Nov 2020 20:00,Cuihengcun,China,0.2
+1000741,25,SS,15 Nov 2020 20:00,Qishan,China,0.2
+1000741,25,SS,15 Nov 2020 21:00,Beidou,China,0.2
+1000741,25,SS,15 Nov 2020 21:00,Chen-hai,China,0.2
+1000741,25,SS,11 Nov 2020 20:00,Pag-aguasan,Philippines,0.2
+1000741,25,SS,10 Nov 2020 11:00,Sillon,Philippines,0.2
+1000741,25,SS,11 Nov 2020 01:00,Sialat,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Bagasacay,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,San Narciso,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Bahay,Philippines,0.2
+1000741,25,SS,11 Nov 2020 19:00,Cataingan,Philippines,0.2
+1000741,25,SS,15 Nov 2020 20:00,Lau Fau Sha,Hong Kong (China),0.2
+1000741,25,SS,15 Nov 2020 20:00,Ngau Kwu Long,Hong Kong (China),0.2
+1000741,25,SS,16 Nov 2020 00:00,Puqian,China,0.2
+1000741,25,SS,14 Nov 2020 13:00,An Lac,Vietnam,0.2
+1000741,25,SS,14 Nov 2020 14:00,Hsin-ts'un,China,0.2
+1000741,25,SS,14 Nov 2020 14:00,Lingcheng,China,0.2
+1000741,25,SS,14 Nov 2020 01:00,Chanh Giao,Vietnam,0.2
+1000741,25,SS,14 Nov 2020 14:00,Tang Kiu,China,0.2
+1000741,25,SS,14 Nov 2020 14:00,Tengqiao,China,0.2
+1000741,25,SS,14 Nov 2020 14:00,Yingzhou,China,0.2
+1000741,25,SS,15 Nov 2020 20:00,Taung-pi Ywa,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Kalonga Ywa,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Sadeinchaungoya,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Bendahari,Malaysia,0.2
+1000741,25,SS,15 Nov 2020 21:00,Yedwindaung Ywa,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 23:00,Sakanthit,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 21:00,Sidongyaung,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Ayer Hangat,Malaysia,0.2
+1000741,25,SS,15 Nov 2020 19:00,Kyatchaung,Myanmar,0.2
+1000741,25,SS,16 Nov 2020 00:00,Pangkor,Malaysia,0.2
+1000741,25,SS,16 Nov 2020 01:00,Baganasahan,Indonesia,0.2
+1000741,25,SS,11 Nov 2020 18:00,Banate,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Barotac Viejo,Philippines,0.2
+1000741,25,SS,11 Nov 2020 23:00,Toos,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Tagaytay,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Catmon,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Tindog,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Borbon,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Tagnucan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 14:00,Caluekan,Philippines,0.2
+1000741,25,SS,10 Nov 2020 11:00,Madridejos,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,San Andres,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Aran,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Pasacao,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Mainit,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Fundado,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Caorasan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Balatan,Philippines,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ap Ong Lang,Vietnam,0.2
+1000741,25,SS,15 Nov 2020 19:00,Duong Dong,Vietnam,0.2
+1000741,25,SS,11 Nov 2020 22:00,Amontay,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,San Rafael,Philippines,0.2
+1000741,25,SS,15 Nov 2020 19:00,Phumi Chrouy Kaoh,Cambodia,0.2
+1000741,25,SS,15 Nov 2020 19:00,Phumi Thmei,Cambodia,0.2
+1000741,25,SS,15 Nov 2020 19:00,Phumi Prek Svay,Cambodia,0.2
+1000741,25,SS,15 Nov 2020 19:00,Phumi Kaoh Chas,Cambodia,0.2
+1000741,25,SS,15 Nov 2020 19:00,Phumi Prek Kduoch,Cambodia,0.2
+1000741,25,SS,15 Nov 2020 19:00,Phumi Chrouy Pros,Cambodia,0.2
+1000741,25,SS,11 Nov 2020 20:00,Tondol,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,San Antonio,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Tenagbac,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Dancalan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Donsol,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Pinagsalog,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Lucero,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Pilar,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Dolaoan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Alaminos,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Lucap,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Santiago,Philippines,0.2
+1000741,25,SS,12 Nov 2020 15:00,Doulongcun,China,0.2
+1000741,25,SS,14 Nov 2020 19:00,Yulin,China,0.2
+1000741,25,SS,15 Nov 2020 19:00,Bokpyin,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Kampong Mah Puteh,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Talok Babai,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 23:00,Tawbyagyi,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Thedangyi,Myanmar,0.2
+1000741,25,SS,11 Nov 2020 13:00,Atimonan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 13:00,Alabat,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Bahay,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Bagacay,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Guintampilan,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Tatabunan,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Macalonud,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Mualbual,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Catbalogan,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,San Andres,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Narombacan,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Bangon,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Igot,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Wright,Philippines,0.2
+1000741,25,SS,14 Nov 2020 01:00,Sibuti,Malaysia,0.2
+1000741,25,SS,11 Nov 2020 19:00,Alegria,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Bondoc Pt,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Mangero,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Gampongan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,General Luna,Philippines,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Tachilep,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Laem Sing,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Cham Han,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Pak Nam,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Ta Lian,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Khao Ta Nui,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Naung Chim,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Khlong Hok,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Bang Kadan,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Dan Kao,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Laem Thong Lang,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Phsar Ream,Cambodia,0.2
+1000741,25,SS,11 Nov 2020 21:00,Biten,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Guiangra,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Danao,Philippines,0.2
+1000741,25,SS,11 Nov 2020 19:00,Aringay,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Macalaya,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Magallanes,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Pangpang,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,San Isidro,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Laguisoc,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Amutag,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Sumaguil,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Castanas,Philippines,0.2
+1000741,25,SS,11 Nov 2020 23:00,Lauis,Philippines,0.2
+1000741,25,SS,11 Nov 2020 23:00,Oyong,Philippines,0.2
+1000741,25,SS,11 Nov 2020 23:00,Masinloc,Philippines,0.2
+1000741,25,SS,12 Nov 2020 15:00,Tianqian,China,0.2
+1000741,25,SS,12 Nov 2020 15:00,Zhelang,China,0.2
+1000741,25,SS,14 Nov 2020 01:00,Chung-yuan,China,0.2
+1000741,25,SS,15 Nov 2020 19:00,Yemyitkyi,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Kabingyaung,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Kanti,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Bodaungseik,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Taungkamet,Myanmar,0.2
+1000741,25,SS,16 Nov 2020 01:00,Laboehanroekoe,Indonesia,0.2
+1000741,25,SS,11 Nov 2020 18:00,Oton,Philippines,0.2
+1000741,25,SS,10 Nov 2020 20:00,Silanga,Philippines,0.2
+1000741,25,SS,10 Nov 2020 20:00,Capitun-an,Philippines,0.2
+1000741,25,SS,10 Nov 2020 20:00,Paet,Philippines,0.2
+1000741,25,SS,10 Nov 2020 20:00,Rizal,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Carcar,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Abaca,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Cebu,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,San Pascual,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Napo,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Santa Cruz,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Payte,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,San Isidro,Philippines,0.2
+1000741,25,SS,11 Nov 2020 19:00,Alacan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Looc,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Buenavista,Philippines,0.2
+1000741,25,SS,11 Nov 2020 17:00,Baler,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Laiya,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Pagbilao,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Nasugbu,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Lian,Philippines,0.2
+1000741,25,SS,12 Nov 2020 17:00,Tain Sha Tsui,Hong Kong (China),0.2
+1000741,25,SS,12 Nov 2020 17:00,Central,Hong Kong (China),0.2
+1000741,25,SS,12 Nov 2020 17:00,Wan Chai,Hong Kong (China),0.2
+1000741,25,SS,13 Nov 2020 06:00,Luewei,China,0.2
+1000741,25,SS,13 Nov 2020 06:00,Dayang,China,0.2
+1000741,25,SS,13 Nov 2020 06:00,Shadi,China,0.2
+1000741,25,SS,13 Nov 2020 06:00,Guanghai,China,0.2
+1000741,25,SS,13 Nov 2020 06:00,Tiantou,China,0.2
+1000741,25,SS,13 Nov 2020 06:00,Tonggu,China,0.2
+1000741,25,SS,13 Nov 2020 06:00,Chixi,China,0.2
+1000741,25,SS,15 Nov 2020 20:00,San-tsao,China,0.2
+1000741,25,SS,12 Nov 2020 18:00,Huangwu,China,0.2
+1000741,25,SS,15 Nov 2020 20:00,Pase Panjang,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Kampong Tengah,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Kampong Lama,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Kawthaung,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Bankachon,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Ban Sin Hai,Thailand,0.2
+1000741,25,SS,16 Nov 2020 00:00,Soengaipariok,Indonesia,0.2
+1000741,25,SS,16 Nov 2020 00:00,Pangkalan Dodek,Indonesia,0.2
+1000741,25,SS,11 Nov 2020 18:00,Silay,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Saravia,Philippines,0.2
+1000741,25,SS,11 Nov 2020 14:00,Perez,Philippines,0.2
+1000741,25,SS,11 Nov 2020 14:00,Cavilla,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,San Vicente,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Pagsanjan,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Santa Margarita,Philippines,0.2
+1000741,25,SS,10 Nov 2020 21:00,Balud,Philippines,0.2
+1000741,25,SS,11 Nov 2020 19:00,Pulupandan,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Alo,Philippines,0.2
+1000741,25,SS,10 Nov 2020 12:00,Boljoon,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Binalbagan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Aguisan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Himamaylan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Dancalan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Aragao,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Datingbayan,Philippines,0.2
+1000741,25,SS,15 Nov 2020 20:00,Kampong Saom,Cambodia,0.2
+1000741,25,SS,11 Nov 2020 21:00,Mabini,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Cagotaw,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Pagnanitojan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Panganiran,Philippines,0.2
+1000741,25,SS,11 Nov 2020 20:00,Binubusan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Lobo,Philippines,0.2
+1000741,25,SS,12 Nov 2020 17:00,Jieshi,China,0.2
+1000741,25,SS,12 Nov 2020 18:00,Nayan,China,0.2
+1000741,25,SS,14 Nov 2020 05:00,Dong'ao,China,0.2
+1000741,25,SS,15 Nov 2020 19:00,Kanmaw,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Kampong Pulo Chili,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Kuah,Malaysia,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Nam Rap,Thailand,0.2
+1000741,25,SS,10 Nov 2020 08:00,Carigara,Philippines,0.2
+1000741,25,SS,10 Nov 2020 08:00,Barugo,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Gapus,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Mandaon,Philippines,0.2
+1000741,25,SS,10 Nov 2020 15:00,Calubian,Philippines,0.2
+1000741,25,SS,10 Nov 2020 15:00,Biliran,Philippines,0.2
+1000741,25,SS,10 Nov 2020 15:00,Daram,Philippines,0.2
+1000741,25,SS,10 Nov 2020 15:00,Babatngon,Philippines,0.2
+1000741,25,SS,11 Nov 2020 21:00,Sipitang,Malaysia,0.2
+1000741,25,SS,11 Nov 2020 21:00,Mesapol,Malaysia,0.2
+1000741,25,SS,11 Nov 2020 21:00,Weston,Malaysia,0.2
+1000741,25,SS,11 Nov 2020 14:00,Calamias,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Mulanay,Philippines,0.2
+1000741,25,SS,11 Nov 2020 18:00,Calbayog,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Bongalonan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Kanmansad,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Aurora,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Lamaoan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Boac,Philippines,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Chek Bae,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Ao Fat,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Ao Cho,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Ao Salat,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Saphan Hin,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Mai Rut,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Suan Khat,Thailand,0.2
+1000741,25,SS,11 Nov 2020 22:00,Madanlog,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Bocaengano,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Tagalan Sadit,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Danao,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Bonliw,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Balo,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Gasan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Pajo,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Ilihan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Calapan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Suki,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,Naujan,Philippines,0.2
+1000741,25,SS,11 Nov 2020 22:00,San Jose,Philippines,0.2
+1000741,25,SS,12 Nov 2020 17:00,Pak Sha Au,Hong Kong (China),0.2
+1000741,25,SS,13 Nov 2020 01:00,Long Ke,Hong Kong (China),0.2
+1000741,25,SS,12 Nov 2020 17:00,Taipang,China,0.2
+1000741,25,SS,12 Nov 2020 15:00,Luzui,China,0.2
+1000741,25,SS,12 Nov 2020 14:00,Hudong,China,0.2
+1000741,25,SS,14 Nov 2020 04:00,Dien Truong,Vietnam,0.2
+1000741,25,SS,14 Nov 2020 14:00,Sancai,China,0.2
+1000741,25,SS,15 Nov 2020 20:00,Kyaukkayan,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Sinmadan,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Ale-hman,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Ban Sadein,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Mong Klang,Thailand,0.2
+1000741,25,SS,15 Nov 2020 19:00,Ban Ratcha Krut,Thailand,0.2
+1000741,25,SS,15 Nov 2020 20:00,Thabyichaung,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Nga Thamok,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 20:00,Amaw,Myanmar,0.2
+1000741,25,SS,15 Nov 2020 23:00,Belawan,Indonesia,0.2
+1000741,25,SS,15 Nov 2020 23:00,Kotapari,Indonesia,0.2
+1000741,25,SS,16 Nov 2020 00:00,Sialang Buah,Indonesia,0.2
+1000741,25,SS,16 Nov 2020 00:00,Tanjungberingin,Indonesia,0.2
+1000741,25,SS,10 Nov 2020 08:00,Capoocan,Philippines,0.2
+1000741,25,SS,12 Nov 2020 17:00,Khitschhung,China,0.2
+1000741,25,SS,10 Nov 2020 11:00,Vito,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Escalante,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Tabuelan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Tabunok,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Batad,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,San Remigio,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Antipolo,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Tindog Sur,Philippines,0.1
+1000741,25,SS,10 Nov 2020 15:00,Culaba,Philippines,0.1
+1000741,25,SS,10 Nov 2020 15:00,Tabojab,Philippines,0.1
+1000741,25,SS,10 Nov 2020 15:00,Cabucgayan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 15:00,Caibiran,Philippines,0.1
+1000741,25,SS,10 Nov 2020 15:00,Bonga,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Kpg Ganggarak,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Kpg Menumbok,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Kpg Manggis,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Kpg Banting,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Kampong Suasa,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 20:00,Guindawahan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 01:00,Magnesia,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Allen,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Lavezares,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Bulan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Casiguran,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Apis,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,San Jose,Philippines,0.1
+1000741,25,SS,15 Nov 2020 19:00,Ban Khlong Chao,Thailand,0.1
+1000741,25,SS,15 Nov 2020 19:00,Ban Ao Yai,Thailand,0.1
+1000741,25,SS,11 Nov 2020 22:00,Guindahap,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Lahong Interior,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Loca,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,San Francisco,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Debutunan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Colorado,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Cabugaan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Lagang,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Bagacay,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Romblon,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Concepcion,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Calatagan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Canda,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Balayan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Dao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Calaca,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Calawang,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Bagalangit,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Taal,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Gamao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Mabini,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Bauan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Batangas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Pola,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Magulon,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Pinamalayan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 18:00,San Narciso,Philippines,0.1
+1000741,25,SS,11 Nov 2020 18:00,San Antonio,Philippines,0.1
+1000741,25,SS,12 Nov 2020 00:00,Dasol,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Lacapon,Philippines,0.1
+1000741,25,SS,12 Nov 2020 18:00,Lo Tik Wan,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 18:00,Lo So Shing,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 18:00,Pok Fu Lam,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Chung Hom Kok,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,North Point,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Chek Chue,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Tai Tam,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Stanley,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,San Wan Ho Shau,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,A Kung Ngam,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Chai Wan,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Hok Tsui Wan,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Chik Sha,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Tei Tong Tsui,Hong Kong (China),0.1
+1000741,25,SS,13 Nov 2020 01:00,Tai Wan Tau,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 16:00,Jiazi,China,0.1
+1000741,25,SS,12 Nov 2020 18:00,Ham Tin,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Hoi Pa,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Kowloon,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Tsz Wa Chan,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Crocodile Hill,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Yau Tong,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Rennie's Mill,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Sau Mau Ping,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Yau Ma Po,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Sai Kung,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Shagang,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Pinghai,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Gangkou,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Jizhongtuo,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Shanwei,China,0.1
+1000741,25,SS,14 Nov 2020 07:00,Tam Quan,Vietnam,0.1
+1000741,25,SS,14 Nov 2020 07:00,Ca Cong,Vietnam,0.1
+1000741,25,SS,10 Nov 2020 15:00,Managasnas,Philippines,0.1
+1000741,25,SS,12 Nov 2020 18:00,Sz Pak,Hong Kong (China),0.1
+1000741,25,SS,11 Nov 2020 02:00,Daet,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Pulanduta,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Toboso,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Salamanca,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Tuburan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 22:00,Balat-guti,Philippines,0.1
+1000741,25,SS,10 Nov 2020 22:00,Corocauayan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 21:00,Santo Nino,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Lico,Philippines,0.1
+1000741,25,SS,10 Nov 2020 21:00,Tucdao,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Gerigat,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 12:00,Rajang,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 14:00,San Jose,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Cadiz Viejo,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Catapud,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Tigbon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Cankamalig,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Calatrava,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Awihao,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Balamban,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Plaridel,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Caridad,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Bitoon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Maya,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Talisay,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Ynalad,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Vilalon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Naval,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,San Jose,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Maragat,Philippines,0.1
+1000741,25,SS,11 Nov 2020 07:00,Malaga,Philippines,0.1
+1000741,25,SS,10 Nov 2020 22:00,Tinambacan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 08:00,Ilog,Philippines,0.1
+1000741,25,SS,10 Nov 2020 08:00,Binicuil,Philippines,0.1
+1000741,25,SS,12 Nov 2020 13:00,Kampong Rentis,Malaysia,0.1
+1000741,25,SS,12 Nov 2020 13:00,Kuala Belait,Brunei Darussalam,0.1
+1000741,25,SS,12 Nov 2020 02:00,Camago,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Manlalec,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Palarican,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Oton,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Togoron,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,San Jacinto,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Butag,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Anas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 17:00,Real,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Magdiwang,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Danao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Caba,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,San Cornelio,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Carman,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Sablayan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Espana,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Cajidiocan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Azagra,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Bucal,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Navotas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Maricaban,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Puerto Galera,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Ayon-Dao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Pamaoran,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Anda,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Bansud,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Batingan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Quezon,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Batang,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Damipac,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Ugnisan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Bonongan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Busuanga,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Calauit,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Salvacion,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Bogtong,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Carigmalan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Concepcion,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Kiwit,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Culion,Philippines,0.1
+1000741,25,SS,12 Nov 2020 07:00,Decalachao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Mansalay,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Calmung,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Pagauanen,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Binaluan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Liminancong,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Bebeladan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,El Nido,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Barotuan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 04:00,Tambobong,Philippines,0.1
+1000741,25,SS,12 Nov 2020 04:00,Amalbalan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Baluarte,Philippines,0.1
+1000741,25,SS,12 Nov 2020 04:00,Egnia,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Infanta,Philippines,0.1
+1000741,25,SS,12 Nov 2020 18:00,Wa Fu Estate,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 18:00,Kennedy Town,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 18:00,Aberdeen,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 18:00,Won Hang,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 16:00,Jiesheng,China,0.1
+1000741,25,SS,13 Nov 2020 05:00,Wanshan,China,0.1
+1000741,25,SS,12 Nov 2020 18:00,Lajiwei,China,0.1
+1000741,25,SS,12 Nov 2020 18:00,Tai Long Wan,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 18:00,Tsuen Wan,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 18:00,Ha Kwai Chung,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 18:00,Cheung Sha Wan,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Cheung Kang,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Hang Hau,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Cheung Wo,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 17:00,Fanhe,China,0.1
+1000741,25,SS,12 Nov 2020 17:00,Houmen,China,0.1
+1000741,25,SS,12 Nov 2020 17:00,Magong,China,0.1
+1000741,25,SS,14 Nov 2020 09:00,Kin-hon,Vietnam,0.1
+1000741,25,SS,14 Nov 2020 09:00,Vinh Hoi,Vietnam,0.1
+1000741,25,SS,15 Nov 2020 19:00,Bok,Myanmar,0.1
+1000741,25,SS,15 Nov 2020 19:00,Aukthayetchaung,Myanmar,0.1
+1000741,25,SS,15 Nov 2020 19:00,Gosongtelaga,Indonesia,0.1
+1000741,25,SS,15 Nov 2020 19:00,Silabuhan,Indonesia,0.1
+1000741,25,SS,15 Nov 2020 19:00,Barus,Indonesia,0.1
+1000741,25,SS,16 Nov 2020 00:00,T'an-chou,China,0.1
+1000741,25,SS,15 Nov 2020 23:00,Belingru,Indonesia,0.1
+1000741,25,SS,10 Nov 2020 08:00,Consuegra,Philippines,0.1
+1000741,25,SS,12 Nov 2020 18:00,Nam Wan,Hong Kong (China),0.1
+1000741,25,SS,15 Nov 2020 21:00,Medaw,Myanmar,0.1
+1000741,25,SS,15 Nov 2020 21:00,Tawbya,Myanmar,0.1
+1000741,25,SS,11 Nov 2020 22:00,Guimbanwahan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Bahud,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Palani,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Sagay,Philippines,0.1
+1000741,25,SS,10 Nov 2020 13:00,Kampong Kedang,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 10:00,Mukah,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 10:00,Penipah,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 10:00,Kampung Kuala Bedengan,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 09:00,Kuala Tatau,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 09:00,Bintulu,Malaysia,0.1
+1000741,25,SS,12 Nov 2020 13:00,Kampong Kuala Sibuti,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Sundar Bazaar,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Victoria,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 12:00,La Libertad,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Guihulngan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Calamba,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Basak,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Tabon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Santo Nino,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Moalboal,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Ronda,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,San Carlos,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Dumanjug,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Candugay,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Aloquinsan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Gigantangan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 01:00,Panganiban,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Kawayan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Daraon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 18:00,Leyte,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Hiongas,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Bato,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Bais,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Manjuyod,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Malatapay,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Tanjay,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Anao,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Alegria,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Badian,Philippines,0.1
+1000741,25,SS,10 Nov 2020 22:00,Bacjao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Capul,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Masbate,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Mobo,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Salvacion,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Batuan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Beri,Philippines,0.1
+1000741,25,SS,12 Nov 2020 13:00,Kpg Lumut,Brunei Darussalam,0.1
+1000741,25,SS,12 Nov 2020 13:00,Kampong Telamba,Brunei Darussalam,0.1
+1000741,25,SS,12 Nov 2020 13:00,Pekan Tutong,Brunei Darussalam,0.1
+1000741,25,SS,12 Nov 2020 13:00,Kampong Tanjong Menugan,Brunei Darussalam,0.1
+1000741,25,SS,15 Nov 2020 20:00,Kaoh Rung,Cambodia,0.1
+1000741,25,SS,15 Nov 2020 19:00,Khlong Yai,Thailand,0.1
+1000741,25,SS,11 Nov 2020 22:00,Bilat,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Sorsogon,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Abuyog,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Agoo,Philippines,0.1
+1000741,25,SS,11 Nov 2020 00:00,Bagalay,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Cataja,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Calatrava,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Malubago,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Calonacon,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Bocboc,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Labasan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Bongabong,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Roxas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Cawayan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Tabay,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Looc,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Alcantara,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Nipa,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Caruray,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Barton,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Inandeng,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Alimanguan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,San Miguel,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Roxas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,San Nicholas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Bolboc,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Looc,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Bulalacao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Balatasan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Gulang-gulang,Philippines,0.1
+1000741,25,SS,12 Nov 2020 16:00,Shantou,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Dahao,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Aotou,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Daitou,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Guangao,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Siwei,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Houzhai,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Shenao,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Gongqiancun,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Chendai,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Hsi-pu,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Huqiu,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Wutian,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Chengguanzhen,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Guleitou,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Gangkou,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Hsia-mei,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Liu'ao,China,0.1
+1000741,25,SS,15 Nov 2020 21:00,Fan Kwai Tong,Hong Kong (China),0.1
+1000741,25,SS,12 Nov 2020 16:00,Donghong,China,0.1
+1000741,25,SS,12 Nov 2020 12:00,Chencheng,China,0.1
+1000741,25,SS,15 Nov 2020 21:00,Mawgaungdon Ywa,Myanmar,0.1
+1000741,25,SS,10 Nov 2020 11:00,Cadiz,Philippines,0.1
+1000741,25,SS,10 Nov 2020 09:00,Kuala Balingian,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Pekan Muara,Brunei Darussalam,0.1
+1000741,25,SS,11 Nov 2020 09:00,Mauban,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Carles,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Tayasan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Jimalalud,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,San Isidro,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Arevalo,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Bilangbilangan Island,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Ubay,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Basiao,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Pitogo,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Bonbonon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Aguining,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Tugas,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Guadalupe,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Matalom,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Tabonoc,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Maasin,Philippines,0.1
+1000741,25,SS,11 Nov 2020 14:00,Labayat,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Ayungon,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Sogud,Philippines,0.1
+1000741,25,SS,11 Nov 2020 00:00,Pilar,Philippines,0.1
+1000741,25,SS,10 Nov 2020 22:00,Almagro,Philippines,0.1
+1000741,25,SS,10 Nov 2020 16:00,Agutay,Philippines,0.1
+1000741,25,SS,11 Nov 2020 00:00,Calagundi-an,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Sauang,Philippines,0.1
+1000741,25,SS,15 Nov 2020 21:00,Kaoh Rong,Cambodia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Canipo,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Banda,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Maringian,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Balaguen,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Cuyo,Philippines,0.1
+1000741,25,SS,12 Nov 2020 13:00,Mariveles,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Debutunan Pt,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Santander,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Buruanga,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Boayahan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Union,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Acogon,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Mati,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Santa Fe,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Tabugon,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Nabas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Pandan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Parao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Balagnam,Philippines,0.1
+1000741,25,SS,11 Nov 2020 19:00,Wawa,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Abalete,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Paluan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Santa Teresa,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Mangarin B,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Semirara,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Imba,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Hininga-an,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Odiongan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Calibangbangan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,San Pedro,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Maroyogroyog,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,San Nicolas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Guadalupe,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Linapacan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Molpok,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Lubang,Philippines,0.1
+1000741,25,SS,11 Nov 2020 21:00,Calamias,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Bauang,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Baccuit,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Palintocang,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Tupa,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Bolinao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 18:00,Pundaquit,Philippines,0.1
+1000741,25,SS,12 Nov 2020 00:00,Baruan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 00:00,Betogoc,Philippines,0.1
+1000741,25,SS,12 Nov 2020 00:00,Ul,Philippines,0.1
+1000741,25,SS,12 Nov 2020 01:00,Rena Pt,Philippines,0.1
+1000741,25,SS,12 Nov 2020 01:00,Agno,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Bogbog,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Silomsilom,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Ramos,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Loudan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Pandanan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Buliluyan,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Capandang,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Wangle,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Bacabaca,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Valdez,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Sebaring,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Malatub,Philippines,0.1
+1000741,25,SS,12 Nov 2020 12:00,Coral,Philippines,0.1
+1000741,25,SS,12 Nov 2020 17:00,Nanao,China,0.1
+1000741,25,SS,12 Nov 2020 16:00,Ch'ao-yang-hsien,China,0.1
+1000741,25,SS,15 Nov 2020 19:00,Ban Kam Phuam,Thailand,0.1
+1000741,25,SS,15 Nov 2020 21:00,Thechaung,Myanmar,0.1
+1000741,25,SS,15 Nov 2020 20:00,Kampung Padang Masirat,Malaysia,0.1
+1000741,25,SS,15 Nov 2020 23:00,Pangkalansusu,Indonesia,0.1
+1000741,25,SS,15 Nov 2020 23:00,Poelaukampai,Indonesia,0.1
+1000741,25,SS,15 Nov 2020 23:00,Oedjoengdamak,Indonesia,0.1
+1000741,25,SS,15 Nov 2020 23:00,Selotong 2,Indonesia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Bundu,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Kampong Kekansa,Malaysia,0.1
+1000741,25,SS,11 Nov 2020 21:00,Kuala Penyu,Malaysia,0.1
+1000741,25,SS,13 Nov 2020 16:00,Pingsha,China,0.1
+1000741,25,SS,15 Nov 2020 22:00,Bemagyauk Ywa,Myanmar,0.1
+1000741,25,SS,11 Nov 2020 20:00,Gabi,Philippines,0.1
+1000741,25,SS,11 Nov 2020 01:00,Bitaogan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Bogo,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Tabogon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Nailon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Calape,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Salag,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Odlot,Philippines,0.1
+1000741,25,SS,10 Nov 2020 13:00,Kampong Belatanak,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 13:00,Bruit,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 11:00,Punta Buri,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Tabango,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Hindang,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Inopacan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 10:00,Igan,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 10:00,Kpg Oya,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 10:00,Kampung Teh,Malaysia,0.1
+1000741,25,SS,10 Nov 2020 11:00,Concepcion,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Santander,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Talamban Viejo,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Cordova,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Tilhaong,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Malobago,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Punta Engana,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Compostela,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Carmen,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Danao,Philippines,0.1
+1000741,25,SS,10 Nov 2020 10:00,Jetafe,Philippines,0.1
+1000741,25,SS,10 Nov 2020 10:00,Talibon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Bigot,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Consuelo,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Unidos,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Monte Alegre,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,San Francisco,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Santa Cruz,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Himensulan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Bien Unido,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Palompon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Villaba,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Campokpok,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Esperanza,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Baranbang,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,San Jose,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Quiot,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Tubud,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Tolingon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Puertobello,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Calunangan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Puertobello,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Merida,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Lilo-an,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Pilar,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Ormoc,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Donghol,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Seguinon,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Balugo,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Plaridel,Philippines,0.1
+1000741,25,SS,10 Nov 2020 11:00,Lagolago,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Montefolka,Philippines,0.1
+1000741,25,SS,10 Nov 2020 17:00,Baybay,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Palanas,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Uson,Philippines,0.1
+1000741,25,SS,15 Nov 2020 19:00,Ban Bang Bao,Thailand,0.1
+1000741,25,SS,15 Nov 2020 19:00,Ban Wai Chaek,Thailand,0.1
+1000741,25,SS,11 Nov 2020 21:00,Maputat,Philippines,0.1
+1000741,25,SS,11 Nov 2020 01:00,Abihao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 17:00,Casiguran,Philippines,0.1
+1000741,25,SS,11 Nov 2020 17:00,Dinipan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Bachauan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Ignonoc,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Maslud,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Sibay,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Calagonsao,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Ambulong,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,San Jose,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Culasi,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Sebaste,Philippines,0.1
+1000741,25,SS,11 Nov 2020 22:00,Ibajay,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Pandan,Philippines,0.1
+1000741,25,SS,11 Nov 2020 20:00,Zaragoza,Philippines,0.1
+1000741,25,SS,11 Nov 2020 18:00,San Felipe,Philippines,0.1
+1000741,25,SS,12 Nov 2020 00:00,Tupa,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Afga,Philippines,0.1
+1000741,25,SS,11 Nov 2020 23:00,Kalibo,Philippines,0.1
+1000741,25,SS,12 Nov 2020 02:00,Olanen,Philippines,0.1
+1000741,25,SS,16 Nov 2020 02:00,Pekan Seria,Brunei Darussalam,0.1
+1000741,25,SS,12 Nov 2020 16:00,Zhelin,China,0.1
+1000741,25,SS,15 Nov 2020 21:00,Huanggang,China,0.1
+1000741,25,SS,15 Nov 2020 21:00,Raoping,China,0.1
+1000741,25,SS,15 Nov 2020 21:00,Chelim,China,0.1
+1000741,25,SS,14 Nov 2020 13:00,Song Cau,Vietnam,0.1
+1000741,25,SS,14 Nov 2020 13:00,Tuo Nham,Vietnam,0.1
+1000741,25,SS,14 Nov 2020 13:00,Dan Phu,Vietnam,0.1
+1000741,25,SS,15 Nov 2020 19:00,Ban Hua Thanon,Thailand,0.1
+1000741,25,SS,15 Nov 2020 19:00,Ban Chang Lang,Thailand,0.1
+1000741,25,SS,16 Nov 2020 02:00,Xincheng,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Samkong,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Dagang,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Yuwotou,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Huangge,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Heng-ch'ung-hsu,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Shuangshui,China,0.1
+1000741,25,SS,16 Nov 2020 06:00,Gujing,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Huangpu,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Shating,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Lianhuashan,China,0.1
+1000741,25,SS,12 Nov 2020 09:00,Anilao,Philippines,0.1
+1000741,25,SS,12 Nov 2020 09:00,Talisay,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Sibulan,Philippines,0.1
+1000741,25,SS,10 Nov 2020 12:00,Dumaguete,Philippines,0.1
+1000741,25,SS,11 Nov 2020 06:00,Linao,Philippines,0.1
+1000741,25,SS,16 Nov 2020 06:00,Mei-ko,China,0.1
+1000741,25,SS,16 Nov 2020 06:00,Doumen,China,0.1
+1000741,25,SS,16 Nov 2020 04:00,Miaojiao,China,0.1
