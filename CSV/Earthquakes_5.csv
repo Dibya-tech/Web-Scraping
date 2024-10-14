@@ -1,4 +1,4 @@
-Event_id,Episode,Name,RegionProvince,Country,CityClass,Population,Distance
+Event_id,Episode,Name,Region_Province,Country,City_class,Population,Distance
 1269679,1376314,Hsia-chieh-hsiang,Yunnan,China,Village,-,11 km
 1269679,1376314,Yangbi,Yunnan,China,City,-,13 km
 1269679,1376314,Hsi-chou,Yunnan,China,Village,-,15 km

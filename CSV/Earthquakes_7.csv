@@ -1,4 +1,4 @@
-Event_id,Episode,Reservoir,Dam Name,River,col_6
+Event_id,Episode,Name,LOCODE,Country,Distance
 1281677,1391652,Aquin,,Haiti,19 km
 1281677,1391652,Les Cayes,HTACA,Haiti,37 km
 1281677,1391652,Miragoane,HTMIR,Haiti,41 km

@@ -1,4 +1,4 @@
-Event_id,Episode,Name,IATA Code,Elevation,Usage,Runway Type,IFR,Runway Length,Distance
+Event_id,Episode,Name,IATA_Code,Elevation_in_m,Usage,Runway_type,IFR,Runway_Length_in_ft,Distance
 1269679,1376314,Dali,DLU,2155,,,,0,34 km
 1269679,1376314,Xiangyun,,1954,,,,0,81 km
 1281677,1391652,Les Cayes,CYA,30,,,,0,36 km
