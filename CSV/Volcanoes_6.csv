@@ -1,0 +1,13 @@
+Event_id,Episode,Name,IATA_Code,Elevation_in_m,Usage,Runway_type,IFR,Runway_Length_in_ft,Distance
+1000023,7,Goma International,GOM,1551,Civ.,Paved,No,3200,17 km
+1000023,7,Katale,,1400,Civ.,Unpaved,No,3600,28 km
+1000023,7,Ruhengeri,RHG,1860,Civ.,Unpaved,No,4800,43 km
+1000023,7,Rutshuru,,1130,Civ.,Unpaved,No,3500,43 km
+1000023,7,Ishasha,,250,Civ.,Unpaved,No,3600,95 km
+1000036,5,Fua'amotu International,TBU,38,Civ.,Paved,Yes,8700,82 km
+1000086,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
+1000086,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
+1000086,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
+1000086,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
+1000086,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
+1000086,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km

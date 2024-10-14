@@ -1,0 +1,15 @@
+Event_id,Episode,ID,Alert,Date,Eruption_details,Source
+1000023,7,1,VO,23 May 2021 00:00,Eruption at 2021-05-22 18:00 UTC no significant eruption detected.,TOULOUSE
+1000023,7,2,VO,24 May 2021 00:00,Eruption at 2021-05-22 18:00 UTC no significant eruption detected.,TOULOUSE
+1000023,7,3,VO,25 May 2021 00:00,Eruption at 2021-05-22 18:00 UTC no significant eruption detected.,TOULOUSE
+1000023,7,4,VO,26 May 2021 00:00,Eruption at 2021-05-22 16:30 UTC strong seismic activity.,TOULOUSE
+1000023,7,5,VO,27 May 2021 00:00,Eruption at 2021-05-22 16:30 UTC volcanic activity is decreasing.,TOULOUSE
+1000023,7,6,VO,31 May 2021 00:00,Eruption at 2021-05-22 16:30 UTC still ongoing.,TOULOUSE
+1000023,7,7,VO,04 Jun 2021 00:00,Eruption at 2021-05-22 16:30 UTC eruption still ongoing.,TOULOUSE
+1000036,5,1,VO,20 Dec 2021 00:00,Steam.,WELLINGTON
+1000036,5,2,VO,23 Dec 2021 00:00,"Eruption at 2021-12-19 20:30 UTC ongoing, cyclic eruption with plume extending to flight level 340 (10200m).",WELLINGTON
+1000036,5,3,VO,14 Jan 2022 00:00,,WELLINGTON
+1000036,5,4,VO,16 Jan 2022 22:10,Large eruption observation volcanic ash dtg: 16 2130 UTC.,WELLINGTON
+1000036,5,5,VO,18 Jan 2022 00:00,High level volcanic ash 420/630 observation move w at 18/1800z.,DARWIN
+1000086,1,1,VO,23 Jan 2024 08:31,,DARWIN
+1000086,1,1,VO,23 Jan 2024 08:31,,DARWIN

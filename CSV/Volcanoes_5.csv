@@ -1,0 +1,288 @@
+Event_id,Episode,Name,Region_Province,Country,City_class,Population,Distance
+1000023,7,Kibati,,Democratic Republic of the Congo,Village,-,8 km
+1000023,7,Rutoke,,Democratic Republic of the Congo,Village,-,8 km
+1000023,7,Buhumba,,Democratic Republic of the Congo,Village,-,11 km
+1000023,7,Colline Bugu,Gisenyi,Rwanda,Village,-,14 km
+1000023,7,Kanzenze,,Democratic Republic of the Congo,Village,-,16 km
+1000023,7,Keshero,,Democratic Republic of the Congo,Village,-,16 km
+1000023,7,Colline Nyaruteme,Gisenyi,Rwanda,Village,-,17 km
+1000023,7,Ngiko,,Democratic Republic of the Congo,Village,-,19 km
+1000023,7,Goma,,Democratic Republic of the Congo,City,140000 people,19 km
+1000023,7,Gisenyi,Gisenyi,Rwanda,Village,83000 people,19 km
+1000023,7,Bugembwe,,Democratic Republic of the Congo,Village,-,20 km
+1000023,7,Kabare,,Democratic Republic of the Congo,Village,-,20 km
+1000023,7,Basa,Gisenyi,Rwanda,Village,-,21 km
+1000023,7,Tshubi,,Democratic Republic of the Congo,Village,-,22 km
+1000023,7,Rumangabo,,Democratic Republic of the Congo,Village,-,23 km
+1000023,7,Sake,,Democratic Republic of the Congo,Village,-,24 km
+1000023,7,Colline Kiraga,Gisenyi,Rwanda,Village,-,24 km
+1000023,7,Bibatama,,Democratic Republic of the Congo,Village,-,25 km
+1000023,7,Colline Gatatara,Gisenyi,Rwanda,Village,-,26 km
+1000023,7,Katagara,,Democratic Republic of the Congo,Village,-,27 km
+1000023,7,Kashari,,Democratic Republic of the Congo,Village,-,27 km
+1000023,7,Biluma,,Democratic Republic of the Congo,Village,-,30 km
+1000023,7,Colline Gitwa,Gisenyi,Rwanda,Village,-,30 km
+1000023,7,Karuba,,Democratic Republic of the Congo,Village,-,30 km
+1000023,7,Colline Rukoma,Ruhengeri,Rwanda,Village,-,32 km
+1000023,7,Burungu,,Democratic Republic of the Congo,Village,-,32 km
+1000023,7,Colline Kabyaza,Ruhengeri,Rwanda,Village,-,32 km
+1000023,7,Colline Kinihira,Gisenyi,Rwanda,Village,-,32 km
+1000023,7,Bishusha,,Democratic Republic of the Congo,Village,-,32 km
+1000023,7,Colline Kununya,Gisenyi,Rwanda,Village,-,33 km
+1000023,7,Kabase,,Democratic Republic of the Congo,Village,-,33 km
+1000023,7,Buniole,,Democratic Republic of the Congo,Village,-,33 km
+1000023,7,Bobandana,,Democratic Republic of the Congo,Village,-,33 km
+1000023,7,Busenene,,Democratic Republic of the Congo,Village,-,34 km
+1000023,7,Bweza,,Democratic Republic of the Congo,Village,-,34 km
+1000023,7,Colline Nyarugina,Ruhengeri,Rwanda,Village,-,34 km
+1000023,7,Mukaka,,Democratic Republic of the Congo,Village,-,35 km
+1000023,7,Rubare,,Democratic Republic of the Congo,Village,-,37 km
+1000023,7,Colline Kataretare,Gisenyi,Rwanda,Village,-,37 km
+1000023,7,Bikaniro,,Democratic Republic of the Congo,Village,-,38 km
+1000023,7,Colline Syogi,Gisenyi,Rwanda,Village,-,39 km
+1000023,7,Kalonge,,Democratic Republic of the Congo,Village,-,39 km
+1000023,7,Kahundu,,Democratic Republic of the Congo,Village,-,39 km
+1000023,7,Kabaya,Gisenyi,Rwanda,Village,-,40 km
+1000023,7,Buhongo,Gisenyi,Rwanda,Village,-,41 km
+1000023,7,Kalambahiro,,Democratic Republic of the Congo,Village,-,41 km
+1000023,7,Kabindi,,Democratic Republic of the Congo,Village,-,41 km
+1000023,7,Kinyamahura,,Democratic Republic of the Congo,Village,-,41 km
+1000023,7,Colline Nyarutembe,Ruhengeri,Rwanda,Village,-,42 km
+1000023,7,Ruhengeri,Ruhengeri,Rwanda,Village,87000 people,42 km
+1000023,7,Kisungwe,,Democratic Republic of the Congo,Village,-,43 km
+1000023,7,Ngololo,,Democratic Republic of the Congo,Village,-,43 km
+1000023,7,Lusirandaka,,Democratic Republic of the Congo,Village,-,43 km
+1000023,7,Rutshuru,,Democratic Republic of the Congo,Village,-,43 km
+1000023,7,Bweremane,,Democratic Republic of the Congo,Village,-,44 km
+1000023,7,Bihiro,,Democratic Republic of the Congo,Village,-,44 km
+1000023,7,Colline Magaba,Gisenyi,Rwanda,Village,-,44 km
+1000023,7,Shekatiti,,Democratic Republic of the Congo,Village,-,45 km
+1000023,7,Bunagana,,Democratic Republic of the Congo,Village,-,45 km
+1000023,7,Bambo,,Democratic Republic of the Congo,Village,-,45 km
+1000023,7,Colline Gahanga,Ruhengeri,Rwanda,Village,-,45 km
+1000023,7,Colline Gatete,Ruhengeri,Rwanda,Village,-,46 km
+1000023,7,Colline Rugoti,Gisenyi,Rwanda,Village,-,46 km
+1000023,7,Kibahi,,Democratic Republic of the Congo,Village,-,46 km
+1000023,7,Colline Kumutaka,Kibuye,Rwanda,Village,-,47 km
+1000023,7,Mifuti,,Democratic Republic of the Congo,Village,-,47 km
+1000023,7,Lutiba,,Democratic Republic of the Congo,Village,-,47 km
+1000023,7,Colline Kiganda,Ruhengeri,Rwanda,Village,-,48 km
+1000023,7,Kirumba,,Democratic Republic of the Congo,Village,-,48 km
+1000023,7,Shango,,Democratic Republic of the Congo,Village,-,48 km
+1000023,7,Colline Gitega,Gisenyi,Rwanda,Village,-,48 km
+1000023,7,Kirumbu,,Democratic Republic of the Congo,Village,-,49 km
+1000023,7,Mukwinja,,Democratic Republic of the Congo,Village,-,50 km
+1000023,7,Binana,Gisenyi,Rwanda,Village,-,50 km
+1000023,7,Numbi,,Democratic Republic of the Congo,Village,-,50 km
+1000023,7,Kiumba,,Democratic Republic of the Congo,Village,-,50 km
+1000023,7,Nkanda,Kisoro,Uganda,Village,-,50 km
+1000023,7,Karambi,,Democratic Republic of the Congo,Village,-,50 km
+1000023,7,Mutabo,,Democratic Republic of the Congo,Village,-,50 km
+1000023,7,Colline Butambwe,Ruhengeri,Rwanda,Village,-,50 km
+1000023,7,Kanyamondo,,Democratic Republic of the Congo,Village,-,50 km
+1000023,7,Colline Gakoro,Ruhengeri,Rwanda,Village,-,51 km
+1000023,7,Mweso,,Democratic Republic of the Congo,Village,-,51 km
+1000023,7,Mindi,,Democratic Republic of the Congo,Village,-,51 km
+1000023,7,Masisi,,Democratic Republic of the Congo,Village,-,51 km
+1000023,7,Bugina,,Democratic Republic of the Congo,Village,-,51 km
+1000023,7,Busengo,Kisoro,Uganda,Village,-,52 km
+1000023,7,Kinigi,,Democratic Republic of the Congo,Village,-,53 km
+1000023,7,Kihondo,,Democratic Republic of the Congo,Village,-,54 km
+1000023,7,Colline Kiziguru,Gisenyi,Rwanda,Village,-,54 km
+1000023,7,Sinda,,Democratic Republic of the Congo,Village,-,55 km
+1000023,7,Kisoro,Kisoro,Uganda,Village,11000 people,55 km
+1000023,7,Buhuga,Ruhengeri,Rwanda,Village,-,55 km
+1000023,7,Kamuhole,,Democratic Republic of the Congo,Village,-,55 km
+1000023,7,Dutu,,Democratic Republic of the Congo,Village,-,55 km
+1000023,7,Colline Ryandinzi,Ruhengeri,Rwanda,Village,-,56 km
+1000023,7,Butete,Ruhengeri,Rwanda,Village,-,56 km
+1000023,7,Nyalutembe,Kisoro,Uganda,Village,-,57 km
+1000023,7,Mabenga,,Democratic Republic of the Congo,Village,-,57 km
+1000023,7,Butezi,Gisenyi,Rwanda,Village,-,57 km
+1000036,5,Foui,,Tonga,Village,-,64 km
+1000036,5,Nukunuku,,Tonga,Village,-,67 km
+1000036,5,Nuku'alofa,,Tonga,Capital,24000 people,69 km
+1000086,1,Gatakan,Jawa Tengah,Indonesia,Village,-,4 km
+1000086,1,Banjumari,Jawa Tengah,Indonesia,Village,-,12 km
+1000086,1,Bedojo,Yogyakarta,Indonesia,Village,-,13 km
+1000086,1,Bandjarsari,Yogyakarta,Indonesia,Village,-,13 km
+1000086,1,Ampel,Jawa Tengah,Indonesia,Village,-,15 km
+1000086,1,Srumbung,Jawa Tengah,Indonesia,Village,-,16 km
+1000086,1,Bojolali,Jawa Tengah,Indonesia,Village,-,17 km
+1000086,1,Dalangan,Jawa Tengah,Indonesia,Village,-,18 km
+1000086,1,Sleman,Yogyakarta,Indonesia,Village,56000 people,23 km
+1000086,1,Kalasan,Yogyakarta,Indonesia,Village,-,24 km
+1000086,1,Klaten,Jawa Tengah,Indonesia,City,130000 people,25 km
+1000086,1,Balaboedoer,Jawa Tengah,Indonesia,Village,-,26 km
+1000086,1,Candiumbul,Jawa Tengah,Indonesia,Village,-,26 km
+1000086,1,Magelang,Jawa Tengah,Indonesia,City,110000 people,26 km
+1000086,1,Salatiga,Jawa Tengah,Indonesia,City,170000 people,26 km
+1000086,1,Pangkalan,Jawa Tengah,Indonesia,Village,-,27 km
+1000086,1,Babadan,Jawa Tengah,Indonesia,Village,-,27 km
+1000086,1,Kutu,Yogyakarta,Indonesia,Village,-,28 km
+1000086,1,Yogyakarta,Yogyakarta,Indonesia,Major city,630000 people,30 km
+1000086,1,Ambarawa,Jawa Tengah,Indonesia,Village,83000 people,31 km
+1000086,1,Kaligesing,Yogyakarta,Indonesia,Village,-,33 km
+1000086,1,Kartosuro,Jawa Tengah,Indonesia,Village,-,33 km
+1000086,1,Bandoeng,Jawa Tengah,Indonesia,Village,-,35 km
+1000086,1,Cawas,Jawa Tengah,Indonesia,Village,-,35 km
+1000086,1,Naggulan,Yogyakarta,Indonesia,Village,-,36 km
+1000086,1,Gogodalem,Jawa Tengah,Indonesia,Village,-,38 km
+1000086,1,Kaliredjo,Jawa Tengah,Indonesia,Village,-,38 km
+1000086,1,Kaloran,Jawa Tengah,Indonesia,Village,-,39 km
+1000086,1,Bangsri,Jawa Tengah,Indonesia,Village,-,39 km
+1000086,1,Temanggung,Jawa Tengah,Indonesia,Village,42000 people,39 km
+1000086,1,Andong,Jawa Tengah,Indonesia,Village,-,39 km
+1000086,1,Awonggo,Jawa Tengah,Indonesia,Village,-,39 km
+1000086,1,Bantul,Yogyakarta,Indonesia,Village,58000 people,40 km
+1000086,1,Surakarta,Jawa Tengah,Indonesia,City,550000 people,42 km
+1000086,1,Kalipenten,Yogyakarta,Indonesia,Village,-,42 km
+1000086,1,Imagiri,Yogyakarta,Indonesia,Village,-,43 km
+1000086,1,Bener,Jawa Tengah,Indonesia,Village,-,45 km
+1000086,1,Oengaran,Jawa Tengah,Indonesia,Village,-,45 km
+1000086,1,Penawangan,Jawa Tengah,Indonesia,Village,-,45 km
+1000086,1,Bendung,Jawa Tengah,Indonesia,Village,-,45 km
+1000086,1,Plajen,Yogyakarta,Indonesia,Village,-,46 km
+1000086,1,Parakan,Jawa Tengah,Indonesia,Village,24000 people,47 km
+1000086,1,Gedangan,Jawa Tengah,Indonesia,Village,-,47 km
+1000086,1,Sentol,Yogyakarta,Indonesia,Village,-,47 km
+1000086,1,Ranousari,Jawa Tengah,Indonesia,Village,-,47 km
+1000086,1,Pudakpajung,Jawa Tengah,Indonesia,Village,-,48 km
+1000086,1,Srandakan,Yogyakarta,Indonesia,Village,29000 people,49 km
+1000086,1,Genengan,Jawa Tengah,Indonesia,Village,-,50 km
+1000086,1,Banjumudal,Jawa Tengah,Indonesia,Village,-,50 km
+1000086,1,Wonosari,Yogyakarta,Indonesia,Village,27000 people,50 km
+1000086,1,Galur,Yogyakarta,Indonesia,Village,-,50 km
+1000086,1,Kebonongan,Yogyakarta,Indonesia,Village,-,51 km
+1000086,1,Purworejo,Jawa Tengah,Indonesia,Village,-,52 km
+1000086,1,Bendungan,Yogyakarta,Indonesia,Village,-,52 km
+1000086,1,Purworedjo,Jawa Tengah,Indonesia,Village,-,52 km
+1000086,1,Bodja,Jawa Tengah,Indonesia,Village,-,53 km
+1000086,1,Panggang,Yogyakarta,Indonesia,Village,-,53 km
+1000086,1,Karangasem,Jawa Tengah,Indonesia,Village,-,53 km
+1000086,1,Tirtohardjo,Yogyakarta,Indonesia,Village,-,54 km
+1000086,1,Djaranmati,Yogyakarta,Indonesia,Village,-,54 km
+1000086,1,Muntung,Jawa Tengah,Indonesia,Village,-,57 km
+1000086,1,Djambean,Jawa Tengah,Indonesia,Village,-,57 km
+1000086,1,Ngandong,Jawa Tengah,Indonesia,Village,-,57 km
+1000086,1,Pulebener,Yogyakarta,Indonesia,Village,-,57 km
+1000086,1,Djambangan,Jawa Tengah,Indonesia,Village,-,58 km
+1000086,1,Karangaweh,Jawa Tengah,Indonesia,Village,-,58 km
+1000086,1,Koeangsan,Jawa Tengah,Indonesia,Village,-,58 km
+1000086,1,Tempuredj,Jawa Tengah,Indonesia,Village,-,58 km
+1000086,1,Broena,Jawa Tengah,Indonesia,Village,-,59 km
+1000086,1,Djagalaja,Yogyakarta,Indonesia,Village,-,59 km
+1000086,1,Goeboeg,Jawa Tengah,Indonesia,Village,-,59 km
+1000086,1,Djomblang,Jawa Tengah,Indonesia,Village,-,60 km
+1000086,1,Karangrajung,Jawa Tengah,Indonesia,Village,-,60 km
+1000086,1,Wonogiri,Jawa Tengah,Indonesia,Village,38000 people,61 km
+1000086,1,Wurjantoro,Jawa Tengah,Indonesia,Village,-,61 km
+1000086,1,Panggul,Yogyakarta,Indonesia,Village,-,62 km
+1000086,1,Kedungsurem,Jawa Tengah,Indonesia,Village,-,63 km
+1000086,1,Semarang,Jawa Tengah,Indonesia,Major city,1.3 million people,63 km
+1000086,1,Wonosobo,Jawa Tengah,Indonesia,Village,93000 people,63 km
+1000086,1,Bintaos,Yogyakarta,Indonesia,Village,-,64 km
+1000086,1,Kemiri,Jawa Tengah,Indonesia,Village,-,64 km
+1000086,1,Sragen,Jawa Tengah,Indonesia,Village,71000 people,65 km
+1000086,1,Petir,Yogyakarta,Indonesia,Village,-,65 km
+1000086,1,Karangroto,Jawa Tengah,Indonesia,Village,-,65 km
+1000086,1,Mangkang-Kulan,Jawa Tengah,Indonesia,Village,-,65 km
+1000086,1,Kepek,Jawa Tengah,Indonesia,Village,-,66 km
+1000086,1,Sukoredjo,Jawa Tengah,Indonesia,Village,-,67 km
+1000086,1,Pablengan,Jawa Tengah,Indonesia,Village,-,67 km
+1000086,1,Dukun,Jawa Tengah,Indonesia,Village,-,69 km
+1000086,1,Pracimantoro,Yogyakarta,Indonesia,Village,-,69 km
+1000086,1,Bakulan,Jawa Tengah,Indonesia,Village,-,69 km
+1000086,1,Belang,Jawa Tengah,Indonesia,Village,-,70 km
+1000086,1,Gatakan,Jawa Tengah,Indonesia,Village,-,4 km
+1000086,1,Banjumari,Jawa Tengah,Indonesia,Village,-,12 km
+1000086,1,Bedojo,Yogyakarta,Indonesia,Village,-,13 km
+1000086,1,Bandjarsari,Yogyakarta,Indonesia,Village,-,13 km
+1000086,1,Ampel,Jawa Tengah,Indonesia,Village,-,15 km
+1000086,1,Srumbung,Jawa Tengah,Indonesia,Village,-,16 km
+1000086,1,Bojolali,Jawa Tengah,Indonesia,Village,-,17 km
+1000086,1,Dalangan,Jawa Tengah,Indonesia,Village,-,18 km
+1000086,1,Sleman,Yogyakarta,Indonesia,Village,56000 people,23 km
+1000086,1,Kalasan,Yogyakarta,Indonesia,Village,-,24 km
+1000086,1,Klaten,Jawa Tengah,Indonesia,City,130000 people,25 km
+1000086,1,Balaboedoer,Jawa Tengah,Indonesia,Village,-,26 km
+1000086,1,Candiumbul,Jawa Tengah,Indonesia,Village,-,26 km
+1000086,1,Magelang,Jawa Tengah,Indonesia,City,110000 people,26 km
+1000086,1,Salatiga,Jawa Tengah,Indonesia,City,170000 people,26 km
+1000086,1,Pangkalan,Jawa Tengah,Indonesia,Village,-,27 km
+1000086,1,Babadan,Jawa Tengah,Indonesia,Village,-,27 km
+1000086,1,Kutu,Yogyakarta,Indonesia,Village,-,28 km
+1000086,1,Yogyakarta,Yogyakarta,Indonesia,Major city,630000 people,30 km
+1000086,1,Ambarawa,Jawa Tengah,Indonesia,Village,83000 people,31 km
+1000086,1,Kaligesing,Yogyakarta,Indonesia,Village,-,33 km
+1000086,1,Kartosuro,Jawa Tengah,Indonesia,Village,-,33 km
+1000086,1,Bandoeng,Jawa Tengah,Indonesia,Village,-,35 km
+1000086,1,Cawas,Jawa Tengah,Indonesia,Village,-,35 km
+1000086,1,Naggulan,Yogyakarta,Indonesia,Village,-,36 km
+1000086,1,Gogodalem,Jawa Tengah,Indonesia,Village,-,38 km
+1000086,1,Kaliredjo,Jawa Tengah,Indonesia,Village,-,38 km
+1000086,1,Kaloran,Jawa Tengah,Indonesia,Village,-,39 km
+1000086,1,Bangsri,Jawa Tengah,Indonesia,Village,-,39 km
+1000086,1,Temanggung,Jawa Tengah,Indonesia,Village,42000 people,39 km
+1000086,1,Andong,Jawa Tengah,Indonesia,Village,-,39 km
+1000086,1,Awonggo,Jawa Tengah,Indonesia,Village,-,39 km
+1000086,1,Bantul,Yogyakarta,Indonesia,Village,58000 people,40 km
+1000086,1,Surakarta,Jawa Tengah,Indonesia,City,550000 people,42 km
+1000086,1,Kalipenten,Yogyakarta,Indonesia,Village,-,42 km
+1000086,1,Imagiri,Yogyakarta,Indonesia,Village,-,43 km
+1000086,1,Bener,Jawa Tengah,Indonesia,Village,-,45 km
+1000086,1,Oengaran,Jawa Tengah,Indonesia,Village,-,45 km
+1000086,1,Penawangan,Jawa Tengah,Indonesia,Village,-,45 km
+1000086,1,Bendung,Jawa Tengah,Indonesia,Village,-,45 km
+1000086,1,Plajen,Yogyakarta,Indonesia,Village,-,46 km
+1000086,1,Parakan,Jawa Tengah,Indonesia,Village,24000 people,47 km
+1000086,1,Gedangan,Jawa Tengah,Indonesia,Village,-,47 km
+1000086,1,Sentol,Yogyakarta,Indonesia,Village,-,47 km
+1000086,1,Ranousari,Jawa Tengah,Indonesia,Village,-,47 km
+1000086,1,Pudakpajung,Jawa Tengah,Indonesia,Village,-,48 km
+1000086,1,Srandakan,Yogyakarta,Indonesia,Village,29000 people,49 km
+1000086,1,Genengan,Jawa Tengah,Indonesia,Village,-,50 km
+1000086,1,Banjumudal,Jawa Tengah,Indonesia,Village,-,50 km
+1000086,1,Wonosari,Yogyakarta,Indonesia,Village,27000 people,50 km
+1000086,1,Galur,Yogyakarta,Indonesia,Village,-,50 km
+1000086,1,Kebonongan,Yogyakarta,Indonesia,Village,-,51 km
+1000086,1,Purworejo,Jawa Tengah,Indonesia,Village,-,52 km
+1000086,1,Bendungan,Yogyakarta,Indonesia,Village,-,52 km
+1000086,1,Purworedjo,Jawa Tengah,Indonesia,Village,-,52 km
+1000086,1,Bodja,Jawa Tengah,Indonesia,Village,-,53 km
+1000086,1,Panggang,Yogyakarta,Indonesia,Village,-,53 km
+1000086,1,Karangasem,Jawa Tengah,Indonesia,Village,-,53 km
+1000086,1,Tirtohardjo,Yogyakarta,Indonesia,Village,-,54 km
+1000086,1,Djaranmati,Yogyakarta,Indonesia,Village,-,54 km
+1000086,1,Muntung,Jawa Tengah,Indonesia,Village,-,57 km
+1000086,1,Djambean,Jawa Tengah,Indonesia,Village,-,57 km
+1000086,1,Ngandong,Jawa Tengah,Indonesia,Village,-,57 km
+1000086,1,Pulebener,Yogyakarta,Indonesia,Village,-,57 km
+1000086,1,Djambangan,Jawa Tengah,Indonesia,Village,-,58 km
+1000086,1,Karangaweh,Jawa Tengah,Indonesia,Village,-,58 km
+1000086,1,Koeangsan,Jawa Tengah,Indonesia,Village,-,58 km
+1000086,1,Tempuredj,Jawa Tengah,Indonesia,Village,-,58 km
+1000086,1,Broena,Jawa Tengah,Indonesia,Village,-,59 km
+1000086,1,Djagalaja,Yogyakarta,Indonesia,Village,-,59 km
+1000086,1,Goeboeg,Jawa Tengah,Indonesia,Village,-,59 km
+1000086,1,Djomblang,Jawa Tengah,Indonesia,Village,-,60 km
+1000086,1,Karangrajung,Jawa Tengah,Indonesia,Village,-,60 km
+1000086,1,Wonogiri,Jawa Tengah,Indonesia,Village,38000 people,61 km
+1000086,1,Wurjantoro,Jawa Tengah,Indonesia,Village,-,61 km
+1000086,1,Panggul,Yogyakarta,Indonesia,Village,-,62 km
+1000086,1,Kedungsurem,Jawa Tengah,Indonesia,Village,-,63 km
+1000086,1,Semarang,Jawa Tengah,Indonesia,Major city,1.3 million people,63 km
+1000086,1,Wonosobo,Jawa Tengah,Indonesia,Village,93000 people,63 km
+1000086,1,Bintaos,Yogyakarta,Indonesia,Village,-,64 km
+1000086,1,Kemiri,Jawa Tengah,Indonesia,Village,-,64 km
+1000086,1,Sragen,Jawa Tengah,Indonesia,Village,71000 people,65 km
+1000086,1,Petir,Yogyakarta,Indonesia,Village,-,65 km
+1000086,1,Karangroto,Jawa Tengah,Indonesia,Village,-,65 km
+1000086,1,Mangkang-Kulan,Jawa Tengah,Indonesia,Village,-,65 km
+1000086,1,Kepek,Jawa Tengah,Indonesia,Village,-,66 km
+1000086,1,Sukoredjo,Jawa Tengah,Indonesia,Village,-,67 km
+1000086,1,Pablengan,Jawa Tengah,Indonesia,Village,-,67 km
+1000086,1,Dukun,Jawa Tengah,Indonesia,Village,-,69 km
+1000086,1,Pracimantoro,Yogyakarta,Indonesia,Village,-,69 km
+1000086,1,Bakulan,Jawa Tengah,Indonesia,Village,-,69 km
+1000086,1,Belang,Jawa Tengah,Indonesia,Village,-,70 km
