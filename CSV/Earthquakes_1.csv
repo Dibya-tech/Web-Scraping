@@ -1,47 +1,201 @@
 Event_id,Episode,Depth,Lat/lon,Event_Date,Population,Source,Inserted_at,INFORM_Score,Event_summary
-1269679,1376314,10 Km,"25.7614 , 100.0076","21 May 2021 13:48 UTC
-21 May 2021 21:48 Local","About 1000 people in MMI
-3800000 people within 100km",NEIC us7000e532,21 May 2021 14:23 UTC,3.6 (China),This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1281677,1391652,EQ-2021-000116-HTI,10 Km,"18.4079 , -73.4753","14 Aug 2021 12:29 UTC
-14 Aug 2021 08:29 Local","About 31000 people in MMI
-960 thousand (in MMI>=VII)",NEIC us6000f65h,14 Aug 2021 16:07 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1298872,1412418,EQ-2021-000192-PER,112.48 Km,"-4.4898 , -76.8461","28 Nov 2021 10:52 UTC
-28 Nov 2021 05:52 Local","About 19000 people in MMI
-190 thousand (in MMI>=VII)",NEIC us7000fxq2,28 Nov 2021 11:09 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1307299,1422907,EQ-2022-000150-HTI,10 Km,"18.4723 , -73.3346","24 Jan 2022 13:16 UTC
-24 Jan 2022 08:16 Local","About 63000 people in MMI
-60 thousand (in MMI>=VII)",NEIC us7000gek3,24 Jan 2022 13:50 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1327560,1449790,EQ-2022-000232-AFG,10 Km,"33.0924 , 69.5135","21 Jun 2022 20:54 UTC
-22 Jun 2022 01:24 Local","About 17000 people in MMI
-290 thousand (in MMI>=VII)",NEIC us7000hj3u,21 Jun 2022 21:52 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1337179,1461351,EQ-2022-000308-PNG,90.013 Km,"-6.2557 , 146.4692","10 Sep 2022 23:46 UTC
-11 Sep 2022 09:46 Local","220000 people in MMI
-1.2 million (in MMI>=VII)",NEIC us6000iitd,11 Sep 2022 00:56 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1347183,1474345,EQ-2022-000363-IDN,10 Km,"-6.8531 , 107.0946","21 Nov 2022 06:21 UTC
-21 Nov 2022 13:21 Local","About 7000 people in MMI
-610 thousand (in MMI>=VII)",NEIC us7000ir9t,21 Nov 2022 07:12 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1357372,1487096,EQ-2023-000015-TUR,17.925 Km,"37.1736 , 37.032","06 Feb 2023 01:17 UTC
-06 Feb 2023 04:17 Local","Less than 100 people in MMI X
-9.2 million (in MMI>=VII)",NEIC us6000jllz,06 Feb 2023 01:40 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1357560,1487318,EQ-2023-000015-TUR,10 Km,"38.0235 , 37.203","06 Feb 2023 10:24 UTC
-06 Feb 2023 13:24 Local",1.7 million (in MMI>=VII),NEIC us6000jlqa,06 Feb 2023 10:46 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1365556,1496206,EQ-2023-000038-ECU,66.421 Km,"-2.8273 , -79.862799999999993","18 Mar 2023 17:12 UTC
-18 Mar 2023 12:12 Local",650 thousand (in MMI>=VII),NEIC us7000jl3s,18 Mar 2023 17:51 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1390643,1524529,EQ-2023-000166-MAR,26.3 Km,"31.07 , -8.3815","08 Sep 2023 22:11 UTC
-08 Sep 2023 23:11 Local",920 thousand (in MMI>=VII),NEIC us7000kufc,09 Sep 2023 15:52 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1394952,1529360,EQ-2023-000184-AFG,14 Km,"34.6102 , 61.9242","07 Oct 2023 06:41 UTC
-07 Oct 2023 11:11 Local",70 thousand (in MMI>=VII),NEIC us6000ldpg,07 Oct 2023 07:33 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1394958,1529364,EQ-2023-000184-AFG,10 Km,"34.5743 , 61.9037","07 Oct 2023 07:12 UTC
-07 Oct 2023 11:42 Local",80 thousand (in MMI>=VII),NEIC us6000ldpm,07 Oct 2023 08:04 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1394961,1529363,EQ-2023-000184-AFG,7.7 Km,"34.6391 , 62.0327","07 Oct 2023 07:40 UTC
-07 Oct 2023 12:10 Local",10 thousand (in MMI>=VII),NEIC us6000ldpv,07 Oct 2023 07:57 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1395488,1529996,EQ-2023-000188-AFG,10 Km,"34.5798 , 62.0717","11 Oct 2023 00:41 UTC
-11 Oct 2023 05:11 Local",290 thousand (in MMI>=VII),NEIC us6000len8,11 Oct 2023 00:55 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1396085,1530685,EQ-2023-000195-AFG,6.3 Km,"34.6094 , 62.1115","15 Oct 2023 03:36 UTC
-15 Oct 2023 08:06 Local",80 thousand (in MMI>=VII),NEIC us6000lfn5,15 Oct 2023 04:20 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1398938,1534231,EQ-2023-000214-NPL,16.5 Km,"28.8482 , 82.1874","03 Nov 2023 18:02 UTC
-03 Nov 2023 23:47 Local",130 thousand (in MMI>=VII),NEIC us7000l8p5,04 Nov 2023 22:16 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1406601,1543048,EQ-2023-000252-CHN,10 Km,"35.7432 , 102.8272","18 Dec 2023 15:59 UTC
-18 Dec 2023 23:59 Local",100 thousand (in MMI>=VII),NEIC us7000ljvg,18 Dec 2023 16:41 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
-1420849,1560728,EQ-2024-000034-PNG,40.2 Km,"-4.1388 , 143.1594","23 Mar 2024 20:22 UTC
-24 Mar 2024 06:22 Local",180 thousand (in MMI>=VII),NEIC us6000mksx,23 Mar 2024 21:58 UTC,This earthquake is expected to have a high humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448468,1596951,10 Km,"34.8624 , 26.2324","07 Oct 2024 05:54 UTC
+07 Oct 2024 08:54 Local",10 thousand in MMI&>=IV,NEIC us6000nx0t,07 Oct 2024 08:14 UTC,2.5 (Greece),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448470,1596927,10 Km,"-18.9802 , -173.1591","07 Oct 2024 05:51 UTC
+06 Oct 2024 17:51 Local",20 thousand in MMI III,NEIC us6000nx0s,07 Oct 2024 06:11 UTC,1.1 (Tonga),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448473,1596948,10 Km,"38.2858 , 23.2711","07 Oct 2024 06:18 UTC
+07 Oct 2024 09:18 Local",40 thousand in MMI&>=V,NEIC us6000nx0u,07 Oct 2024 07:40 UTC,2.5 (Greece),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448492,1596959,139.2 Km,"-19.5916 , 169.0501","07 Oct 2024 09:36 UTC
+07 Oct 2024 20:36 Local",40 thousand in MMI IV,NEIC us6000nx1e,07 Oct 2024 10:21 UTC,6.1 (Vanuatu),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448502,1596970,105.6 Km,"10.7725 , -62.8594","07 Oct 2024 12:21 UTC
+07 Oct 2024 08:21 Local",450 thousand in MMI IV,NEIC us6000nx1y,07 Oct 2024 13:06 UTC,4.3 (Venezuela),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448539,1597014,10 Km,"7.3985 , 126.1923","07 Oct 2024 20:20 UTC
+08 Oct 2024 04:20 Local",4 thousand in MMI VI,NEIC us6000nx4s,07 Oct 2024 20:46 UTC,4.2 (Philippines),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448553,1597034,10 Km,"-33.4979 , -178.5577","07 Oct 2024 23:59 UTC
+07 Oct 2024 11:59 Local",,NEIC us6000nx6d,08 Oct 2024 00:20 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448556,1597039,10 Km,"-36.2784 , -99.2002","08 Oct 2024 00:35 UTC
+07 Oct 2024 17:35 Local",,NEIC us6000nx6t,08 Oct 2024 00:54 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448563,1597059,35 Km,"2.3297 , 126.9413","08 Oct 2024 01:28 UTC
+08 Oct 2024 10:28 Local",10 thousand in MMI III,NEIC us6000nx76,08 Oct 2024 02:17 UTC,1.1 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448566,1597164,10 Km,"-33.4367 , -178.3861","08 Oct 2024 01:27 UTC
+07 Oct 2024 13:27 Local",,NEIC us6000nx73,08 Oct 2024 22:00 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448589,1597089,18.9 Km,"-33.7344 , -178.5654","08 Oct 2024 08:07 UTC
+07 Oct 2024 20:07 Local",,NEIC us6000nx8f,08 Oct 2024 08:59 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448594,1597094,10 Km,"-33.8625 , -177.5999","08 Oct 2024 09:07 UTC
+07 Oct 2024 21:07 Local",,NEIC us6000nx8m,08 Oct 2024 09:56 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448599,1597101,314 Km,"-5.7382 , 107.4531","08 Oct 2024 10:38 UTC
+08 Oct 2024 17:38 Local",30.9 million in MMI II,NEIC us6000nx8z,08 Oct 2024 11:02 UTC,1.1 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448605,1597108,162.9 Km,"-21.2007 , -67.7548","08 Oct 2024 12:51 UTC
+08 Oct 2024 08:51 Local",40 thousand in MMI II,NEIC us6000nx9j,08 Oct 2024 13:12 UTC,5.4 (Bolivia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448606,1597115,49.2 Km,"-7.5359 , 106.6386","08 Oct 2024 14:12 UTC
+08 Oct 2024 21:12 Local",8.2 million in MMI III,NEIC us6000nxa0,08 Oct 2024 15:48 UTC,4.8 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448634,1597154,10 Km,"10.4233 , -86.2383","08 Oct 2024 20:25 UTC
+08 Oct 2024 14:25 Local",250 thousand in MMI III,NEIC us6000nxe5,08 Oct 2024 20:53 UTC,1.1 (Nicaragua),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448653,1597176,74.5 Km,"-6.9953 , 154.9327","08 Oct 2024 23:37 UTC
+09 Oct 2024 09:37 Local",100 thousand in MMI III,NEIC us6000nxfa,09 Oct 2024 00:09 UTC,1.1 (Papua New Guinea),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448685,1597356,35 Km,"51.8996 , -170.7951","09 Oct 2024 04:41 UTC
+08 Oct 2024 17:41 Local",,NEIC us6000nxg5,09 Oct 2024 22:08 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448696,1597303,10 Km,"-11.2865 , 161.663","08 Oct 2024 19:22 UTC
+09 Oct 2024 06:22 Local",7 thousand in MMI III,NEIC us6000nxgz,09 Oct 2024 16:37 UTC,1.1 (Solomon Is.),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448699,1597241,10 Km,"-33.769 , -178.1584","09 Oct 2024 06:50 UTC
+08 Oct 2024 18:50 Local",,NEIC us6000nxgy,09 Oct 2024 08:17 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448714,1597270,10 Km,"37.547 , 137.4245","09 Oct 2024 11:19 UTC
+09 Oct 2024 20:19 Local",10 thousand in MMI IV,NEIC us6000nxhs,09 Oct 2024 16:41 UTC,1.5 (Japan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448764,1597315,63.6 Km,"53.2226 , 159.7783","09 Oct 2024 17:22 UTC
+10 Oct 2024 05:22 Local",250 thousand in MMI&>=III,NEIC us6000nxld,09 Oct 2024 17:52 UTC,4.6 (Russia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448765,1597319,10 Km,"28.0928 , 105.2507","09 Oct 2024 17:52 UTC
+10 Oct 2024 01:52 Local",140 thousand in MMI&>=V,NEIC us6000nxlt,09 Oct 2024 19:12 UTC,3.6 (China),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448773,1597328,43 Km,"-31.7198 , -178.4643","09 Oct 2024 19:57 UTC
+09 Oct 2024 07:57 Local",,NEIC us6000nxmm,09 Oct 2024 20:22 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448786,1597350,35 Km,"-23.2846 , -175.9367","09 Oct 2024 21:26 UTC
+09 Oct 2024 09:26 Local",,NEIC us6000nxnq,09 Oct 2024 21:53 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448791,1597364,35 Km,"-3.6882 , 100.9513","09 Oct 2024 22:57 UTC
+10 Oct 2024 05:57 Local",20 thousand in MMI III,NEIC us6000nxpk,09 Oct 2024 23:16 UTC,1.1 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448817,1597398,48.8 Km,"42.1926 , 143.3339","10 Oct 2024 02:33 UTC
+10 Oct 2024 11:33 Local",130 thousand in MMI III,NEIC us6000nxqp,10 Oct 2024 02:55 UTC,1.5 (Japan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448819,1597401,194.5 Km,"-24.0966 , -67.2109","10 Oct 2024 03:13 UTC
+10 Oct 2024 00:13 Local",10 thousand in MMI II,NEIC us6000nxqv,10 Oct 2024 03:31 UTC,3.7 (Argentina),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448827,1597411,10 Km,"-37.2944 , 47.6955","10 Oct 2024 04:46 UTC
+10 Oct 2024 07:46 Local",,NEIC us6000nxr6,10 Oct 2024 05:08 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448828,1597413,48.8 Km,"55.0063 , -160.4183","10 Oct 2024 04:51 UTC
+09 Oct 2024 20:51 Local",Few people affected in MMI -,NEIC us6000nxr5,10 Oct 2024 05:10 UTC,2.2 (United States),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448835,1597423,115 Km,"1.9215 , 127.2259","10 Oct 2024 07:22 UTC
+10 Oct 2024 16:22 Local",10 thousand in MMI IV,NEIC us6000nxsh,10 Oct 2024 07:41 UTC,1.1 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448845,1597469,10 Km,"-47.5338 , 99.958","10 Oct 2024 09:44 UTC
+10 Oct 2024 16:44 Local",,NEIC us6000nxt5,10 Oct 2024 15:49 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448872,1597468,10 Km,"37.0185 , 4.5404","10 Oct 2024 13:59 UTC
+10 Oct 2024 14:59 Local",10 thousand in MMI IV,NEIC us6000nxv3,10 Oct 2024 15:52 UTC,4.6 (Algeria),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448886,1597488,10 Km,"-0.9254 , -22.0667","10 Oct 2024 18:12 UTC
+10 Oct 2024 17:12 Local",,NEIC us6000nxws,10 Oct 2024 18:39 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448892,1597617,227.9 Km,"-16.5045 , -174.7115","10 Oct 2024 20:37 UTC
+10 Oct 2024 08:37 Local",Few people affected in MMI -,NEIC us6000nxy6,11 Oct 2024 15:07 UTC,1.1 (Tonga),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448903,1597508,554 Km,"-17.8796 , -178.6754","10 Oct 2024 23:11 UTC
+11 Oct 2024 11:11 Local",7 thousand in MMI I,NEIC us6000nxzd,10 Oct 2024 23:28 UTC,1.1 (Fiji),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448904,1597510,10 Km,"-33.7555 , -178.5458","10 Oct 2024 22:23 UTC
+10 Oct 2024 10:23 Local",,NEIC us6000nxz4,10 Oct 2024 23:35 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448907,1597518,103.4 Km,"5.7958 , 126.5347","11 Oct 2024 00:16 UTC
+11 Oct 2024 08:16 Local",100 thousand in MMI&>=III,NEIC us6000nxzn,11 Oct 2024 00:45 UTC,1.1 (Philippines),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448908,1597522,35 Km,"24.1778 , 124.229","11 Oct 2024 00:15 UTC
+11 Oct 2024 09:15 Local",50 thousand in MMI III,NEIC us6000nxzm,11 Oct 2024 01:17 UTC,1.5 (Japan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448930,1597547,10 Km,"22.9814 , 95.8755","11 Oct 2024 04:40 UTC
+11 Oct 2024 11:10 Local",6 thousand in MMI VI,NEIC us6000ny0s,11 Oct 2024 04:59 UTC,6.4 (Myanmar),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448934,1597634,10 Km,"-56.0665 , -25.5835","10 Oct 2024 17:59 UTC
+10 Oct 2024 15:59 Local",,NEIC us6000ny13,11 Oct 2024 17:00 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448937,1597557,10 Km,"42.6543 , 31.3671","11 Oct 2024 07:16 UTC
+11 Oct 2024 09:16 Local",7 thousand in MMI II,NEIC us6000ny1h,11 Oct 2024 07:36 UTC,1.1 (Türkiye),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448952,1597577,160.8 Km,"-5.6469 , 149.36","11 Oct 2024 09:26 UTC
+11 Oct 2024 19:26 Local",140 thousand in MMI III,NEIC us6000ny1w,11 Oct 2024 09:49 UTC,7.6 (Papua New Guinea),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448963,1597593,31.1 Km,"55.2529 , 163.0569","11 Oct 2024 12:54 UTC
+11 Oct 2024 23:54 Local",Few people affected in MMI&>=II,NEIC us6000ny2k,11 Oct 2024 13:30 UTC,1.1 (Russia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1448989,1597791,10 Km,"17.5158 , -83.2656","11 Oct 2024 15:40 UTC
+11 Oct 2024 09:40 Local",,NEIC us6000ny3q,12 Oct 2024 17:22 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449001,1597642,22.3 Km,"-58.2922 , -25.15","11 Oct 2024 18:05 UTC
+11 Oct 2024 16:05 Local",,NEIC us6000ny56,11 Oct 2024 18:37 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449008,1597652,71 Km,"62.7563 , -148.9423","11 Oct 2024 19:17 UTC
+11 Oct 2024 11:17 Local",4 thousand in MMI III,ALASKA EC ak024d3nkv0i,11 Oct 2024 19:26 UTC,2.2 (United States),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449021,1597676,102.8 Km,"37.642 , 140.9046","11 Oct 2024 22:35 UTC
+12 Oct 2024 07:35 Local",150 thousand in MMI IV,NEIC us6000ny74,11 Oct 2024 22:58 UTC,1.5 (Japan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449028,1597683,10 Km,"55.3507 , 163.0619","12 Oct 2024 00:18 UTC
+12 Oct 2024 11:18 Local",1 thousand in MMI III,NEIC us6000ny7m,12 Oct 2024 00:39 UTC,1.1 (Russia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449032,1597691,48.4 Km,"-0.121 , 125.0235","12 Oct 2024 01:11 UTC
+12 Oct 2024 09:11 Local",210 thousand in MMI&>=III,NEIC us6000ny7w,12 Oct 2024 01:33 UTC,1.1 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449033,1597690,10 Km,"-33.2558 , -177.7155","12 Oct 2024 01:06 UTC
+11 Oct 2024 13:06 Local",,NEIC us6000ny7s,12 Oct 2024 01:29 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449035,1597694,84 Km,"2.206 , 98.0418","12 Oct 2024 01:11 UTC
+12 Oct 2024 08:11 Local",80 thousand in MMI IV,NEIC us6000ny7x,12 Oct 2024 01:42 UTC,4.8 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449038,1597698,48.9 Km,"-4.7845 , 101.707","12 Oct 2024 01:37 UTC
+12 Oct 2024 08:37 Local",2 thousand in MMI III,NEIC us6000ny82,12 Oct 2024 01:59 UTC,1.1 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449057,1597720,10 Km,"55.2547 , 162.9232","12 Oct 2024 03:50 UTC
+12 Oct 2024 14:50 Local",Few people affected in MMI -,NEIC us6000ny8n,12 Oct 2024 04:11 UTC,1.1 (Russia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449059,1597722,43.3 Km,"-56.291 , -26.7113","12 Oct 2024 03:43 UTC
+12 Oct 2024 01:43 Local",,NEIC us6000ny8l,12 Oct 2024 04:20 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449060,1597724,527.1 Km,"-23.671 , -179.4649","12 Oct 2024 03:43 UTC
+11 Oct 2024 15:43 Local",Few people affected in MMI -,NEIC us6000ny8m,12 Oct 2024 04:35 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449064,1597731,10 Km,"-18.2055 , 173.1592","12 Oct 2024 04:19 UTC
+12 Oct 2024 16:19 Local",,NEIC us6000ny8q,12 Oct 2024 04:51 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449066,1597734,12.2 Km,"23.6899 , 121.4807","11 Oct 2024 12:52 UTC
+11 Oct 2024 20:52 Local",20 thousand in MMI V,NEIC us6000ny2j,12 Oct 2024 05:51 UTC,3.6 (Taiwan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449069,1597740,10 Km,"-24.9437 , 70.012","12 Oct 2024 06:32 UTC
+12 Oct 2024 11:32 Local",,NEIC us6000ny95,12 Oct 2024 06:53 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449072,1597745,5 Km,"57.1224 , -154.9104","12 Oct 2024 07:57 UTC
+11 Oct 2024 23:57 Local",Few people affected in MMI&>=II,ALASKA EC ak024d547kc3,12 Oct 2024 08:00 UTC,2.2 (United States),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449087,1597765,10 Km,"33.4756 , 142.5706","12 Oct 2024 12:26 UTC
+12 Oct 2024 22:26 Local",,NEIC us6000ny9z,12 Oct 2024 13:11 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449091,1597770,44.3 Km,"-16.9047 , -173.465","12 Oct 2024 12:55 UTC
+12 Oct 2024 00:55 Local",,NEIC us6000nya7,12 Oct 2024 13:31 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449097,1597782,580.2 Km,"-25.1398 , 178.4058","12 Oct 2024 15:44 UTC
+13 Oct 2024 03:44 Local",Few people affected in MMI -,NEIC us6000nyaf,12 Oct 2024 16:19 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449098,1597823,62.1 Km,"-12.3624 , 166.4556","12 Oct 2024 15:44 UTC
+13 Oct 2024 02:44 Local",5 thousand in MMI III,NEIC us6000nyag,12 Oct 2024 20:31 UTC,1.1 (Solomon Is.),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449106,1598135,16 Km,"10.487 , -86.1712","12 Oct 2024 17:43 UTC
+12 Oct 2024 11:43 Local",30 thousand in MMI V,NEIC us6000nyau,14 Oct 2024 18:36 UTC,1.1 (Nicaragua),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449115,1598137,56.4 Km,"10.6148 , -85.9468","12 Oct 2024 18:17 UTC
+12 Oct 2024 12:17 Local",190 thousand in MMI IV,NEIC us6000nyb6,14 Oct 2024 19:00 UTC,1.1 (Nicaragua),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449117,1598138,56.5 Km,"35.961 , 139.9069","12 Oct 2024 18:50 UTC
+13 Oct 2024 03:50 Local",31.4 million in MMI IV,NEIC us6000nybc,14 Oct 2024 19:13 UTC,1.5 (Japan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449120,1597812,49.2 Km,"10.471 , -86.0885","12 Oct 2024 18:12 UTC
+12 Oct 2024 12:12 Local",30 thousand in MMI IV,NEIC us6000nyb0,12 Oct 2024 19:12 UTC,1.1 (Nicaragua),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449123,1597839,10 Km,"28.3481 , 142.7391","12 Oct 2024 17:28 UTC
+13 Oct 2024 03:28 Local",Few people affected in MMI -,NEIC us6000nyat,12 Oct 2024 22:03 UTC,1.1 (Japan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449129,1597822,52.5 Km,"10.5348 , -86.1604","11 Oct 2024 20:40 UTC
+11 Oct 2024 14:40 Local",340 thousand in MMI&>=III,NEIC us6000ny6e,12 Oct 2024 20:31 UTC,1.1 (Nicaragua),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449145,1597844,10 Km,"17.271 , -101.1611","12 Oct 2024 21:53 UTC
+12 Oct 2024 15:53 Local",60 thousand in MMI&>=IV,NEIC us6000nyc2,12 Oct 2024 22:21 UTC,4.4 (Mexico),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449152,1597856,101 Km,"-7.6191 , 128.4075","12 Oct 2024 22:42 UTC
+13 Oct 2024 07:42 Local",50 thousand in MMI IV,NEIC us6000nycb,12 Oct 2024 23:03 UTC,1.1 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449158,1597863,10 Km,"40.7337 , 84.3408","12 Oct 2024 23:30 UTC
+13 Oct 2024 07:30 Local",60 thousand in MMI IV,NEIC us6000nycl,12 Oct 2024 23:48 UTC,3.6 (China),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449161,1597867,10 Km,"80.287 , -111.1822","12 Oct 2024 23:36 UTC
+12 Oct 2024 16:36 Local",,NEIC us6000nycn,13 Oct 2024 00:24 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449164,1597871,10 Km,"-57.8928 , -24.8993","12 Oct 2024 23:35 UTC
+12 Oct 2024 21:35 Local",,NEIC us6000nycp,13 Oct 2024 00:29 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449189,1597902,10 Km,"57.1904 , 120.7767","13 Oct 2024 03:31 UTC
+13 Oct 2024 12:31 Local",1 thousand in MMI IV,NEIC us6000nydn,13 Oct 2024 04:19 UTC,4.6 (Russia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449198,1597915,10 Km,"8.8276 , 40.141","13 Oct 2024 04:37 UTC
+13 Oct 2024 07:37 Local",3 thousand in MMI VI,NEIC us6000nyds,13 Oct 2024 05:01 UTC,6.8 (Ethiopia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449209,1597932,10 Km,"-36.374 , -98.1045","13 Oct 2024 06:15 UTC
+12 Oct 2024 23:15 Local",,NEIC us6000nye7,13 Oct 2024 06:36 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449220,1597941,55.2 Km,"5.3951 , 94.3026","13 Oct 2024 07:01 UTC
+13 Oct 2024 13:01 Local",7 thousand in MMI III,NEIC us6000nyee,13 Oct 2024 07:21 UTC,1.1 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449223,1597944,10 Km,"-33.7078 , -178.55","13 Oct 2024 07:24 UTC
+12 Oct 2024 19:24 Local",,NEIC us6000nyej,13 Oct 2024 08:53 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449230,1597953,21.5 Km,"23.9662 , 121.6155","13 Oct 2024 11:36 UTC
+13 Oct 2024 19:36 Local",90 thousand in MMI VI,NEIC us6000nyf8,13 Oct 2024 12:24 UTC,3.6 (Taiwan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449263,1597993,144.2 Km,"51.8956 , 178.1216","13 Oct 2024 17:04 UTC
+13 Oct 2024 08:04 Local",,NEIC us6000nygi,13 Oct 2024 17:19 UTC,2.2 (United States),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449270,1598111,10 Km,"-59.2495 , 149.3445","13 Oct 2024 16:17 UTC
+14 Oct 2024 02:17 Local",,NEIC us6000nygc,14 Oct 2024 14:46 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449293,1598028,10 Km,"-3.8687 , 87.1597","13 Oct 2024 22:35 UTC
+14 Oct 2024 04:35 Local",,NEIC us6000nyhv,13 Oct 2024 23:00 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449294,1598030,10 Km,"-35.9897 , -100.5649","13 Oct 2024 22:48 UTC
+13 Oct 2024 15:48 Local",,NEIC us6000nyhx,13 Oct 2024 23:07 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449314,1598055,99.3 Km,"-20.1927 , -69.3253","14 Oct 2024 03:21 UTC
+14 Oct 2024 00:21 Local",200 thousand in MMI III,NEIC us6000nyim,14 Oct 2024 03:47 UTC,3 (Chile),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449326,1598070,614.5 Km,"-17.7479 , -179.9459","14 Oct 2024 07:40 UTC
+14 Oct 2024 19:40 Local",10 thousand in MMI I,NEIC us6000nyjf,14 Oct 2024 08:12 UTC,1.1 (Fiji),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449336,1598085,68.5 Km,"35.5021 , 140.1716","14 Oct 2024 10:45 UTC
+14 Oct 2024 19:45 Local",28.4 million in MMI IV,NEIC us6000nyk2,14 Oct 2024 11:48 UTC,1.5 (Japan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449342,1598089,35.4 Km,"30.0623 , 131.0184","14 Oct 2024 11:52 UTC
+14 Oct 2024 20:52 Local",50 thousand in MMI III,NEIC us6000nyk6,14 Oct 2024 12:34 UTC,1.1 (Japan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449346,1598095,111 Km,"14.135 , -91.2206","14 Oct 2024 13:10 UTC
+14 Oct 2024 07:10 Local",3 thousand in MMI IV,NEIC us6000nykg,14 Oct 2024 13:40 UTC,5.5 (Guatemala),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449347,1598114,39.7 Km,"24.1381 , 121.8499","14 Oct 2024 13:17 UTC
+14 Oct 2024 21:17 Local",2 thousand in MMI IV,NEIC us6000nykn,14 Oct 2024 15:13 UTC,3.6 (Taiwan),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449348,1598099,75.9 Km,"8.9762 , 126.2395","14 Oct 2024 13:21 UTC
+14 Oct 2024 21:21 Local",250 thousand in MMI IV,NEIC us6000nykv,14 Oct 2024 13:53 UTC,4.2 (Philippines),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449354,1598106,187.4 Km,"13.7366 , -89.0523","14 Oct 2024 13:08 UTC
+14 Oct 2024 07:08 Local",6.7 million in MMI III,NEIC us6000nykd,14 Oct 2024 14:10 UTC,4.6 (El Salvador),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449362,1598125,252.6 Km,"-36.8755 , 177.0832","14 Oct 2024 16:01 UTC
+15 Oct 2024 04:01 Local",80 thousand in MMI III,NEIC us6000nymi,14 Oct 2024 16:22 UTC,1.1 (New Zealand),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449364,1598126,16.9 Km,"-23.9455 , -64.2139","14 Oct 2024 15:48 UTC
+14 Oct 2024 12:48 Local",2 thousand in MMI VI,NEIC us6000nyme,14 Oct 2024 16:32 UTC,3.7 (Argentina),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449369,1598127,10 Km,"19.276 , -70.107","14 Oct 2024 16:24 UTC
+14 Oct 2024 12:24 Local",30 thousand in MMI V,PTWC pt24288050,14 Oct 2024 16:32 UTC,4.7 (Dominican Republic),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449395,1598167,10 Km,"-3.1406 , 139.1881","14 Oct 2024 21:30 UTC
+15 Oct 2024 06:30 Local",1 thousand in MMI IV,NEIC us6000nyq0,14 Oct 2024 21:54 UTC,4.8 (Indonesia),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449402,1598177,9.5 Km,"8.7904 , 127.1369","14 Oct 2024 23:42 UTC
+15 Oct 2024 07:42 Local",290 thousand in MMI&>=II,NEIC us6000nyqm,15 Oct 2024 00:04 UTC,1.1 (Philippines),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449406,1598183,10 Km,"10.4441 , -86.2297","15 Oct 2024 00:10 UTC
+14 Oct 2024 18:10 Local",190 thousand in MMI III,NEIC us6000nyqq,15 Oct 2024 00:27 UTC,1.1 (Nicaragua),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.
+1449447,1598231,530 Km,"-24.1892 , -179.7405","15 Oct 2024 08:05 UTC
+14 Oct 2024 20:05 Local",Few people affected in MMI -,NEIC us6000nysi,15 Oct 2024 08:28 UTC,1.1 (),This earthquake is expected to have a low humanitarian impact based on the magnitude and the affected population and their vulnerability.

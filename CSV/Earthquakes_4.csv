@@ -1,31 +1,58 @@
 Event_id,Episode,Region_province,Country,Population
-1269679,1376314,Yunnan,China,41 million people
-1281677,1391652,Nippes,Haiti,-
-1281677,1391652,Sud,Haiti,630000 people
-1298872,1412418,Loreto,Peru,720000 people
-1307299,1422907,Nippes,Haiti,-
-1307299,1422907,Sud,Haiti,630000 people
-1327560,1449790,Paktika,Afghanistan,83000 people
-1327560,1449790,Federally Administered Tribal Areas,Pakistan,<1000 people
-1327560,1449790,Paktia,Afghanistan,23000 people
-1337179,1461351,Morobe,Papua New Guinea,5900 people
-1347183,1474345,Jawa Barat,Indonesia,3.1 million people
-1357372,1487096,Gaziantep,Türkiye,150000 people
-1357372,1487096,Kahraman Maras,Türkiye,15000 people
-1357560,1487318,Kahraman Maras,Türkiye,140000 people
-1365556,1496206,Guayas,Ecuador,32000 people
-1365556,1496206,Azuay,Ecuador,2800 people
-1365556,1496206,El Oro,Ecuador,no people
-1390643,1524529,Tensift,Morocco,98000 people
-1390643,1524529,South,Morocco,no people
-1394952,1529360,Herat,Afghanistan,7200 people
-1394958,1529364,Herat,Afghanistan,43000 people
-1394961,1529363,Herat,Afghanistan,37000 people
-1395488,1529996,Herat,Afghanistan,160000 people
-1396085,1530685,Herat,Afghanistan,38000 people
-1398938,1534231,Bheri,Nepal,140000 people
-1398938,1534231,Rapti,Nepal,34000 people
-1398938,1534231,Karnali,Nepal,<1000 people
-1406601,1543048,Qinghai,China,130000 people
-1406601,1543048,Gansu,China,200000 people
-1420849,1560728,East Sepik,Papua New Guinea,16000 people
+1448468,1596951,Crete,Greece,<1000 people
+1448473,1596948,Central Greece and Evvoia,Greece,57000 people
+1448492,1596959,Vanuatu,Vanuatu,5500 people
+1448502,1596970,Sucre,Venezuela,30000 people
+1448539,1597014,Southern Mindanao,Philippines,210000 people
+1448605,1597108,Potosi,Bolivia,2200 people
+1448606,1597115,Jawa Barat,Indonesia,120000 people
+1448714,1597270,Chubu,Japan,15000 people
+1448764,1597315,Kamchatskaya oblast',Russian Federation,<1000 people
+1448765,1597319,Sichuan,China,390000 people
+1448765,1597319,Yunnan,China,84000 people
+1448817,1597398,Hokkaido,Japan,10000 people
+1448819,1597401,Salta,Argentina,<1000 people
+1448819,1597401,Antofagasta,Chile,no people
+1448828,1597413,Alaska,United States,no people
+1448872,1597468,Tizi Ouzou,Algeria,20000 people
+1448872,1597468,Bejaia,Algeria,3400 people
+1448908,1597522,Okinawa,Japan,45000 people
+1448930,1597547,Sagaing,Myanmar,41000 people
+1448930,1597547,Mandalay,Myanmar,32000 people
+1448952,1597577,West New Britain,Papua New Guinea,3700 people
+1449008,1597652,Alaska,United States,no people
+1449021,1597676,Tohoku,Japan,140000 people
+1449035,1597694,Aceh,Indonesia,64000 people
+1449035,1597694,Sumatera Utara,Indonesia,17000 people
+1449066,1597734,Taiwan,Taiwan,44000 people
+1449072,1597745,Alaska,United States,no people
+1449117,1598138,Kanto,Japan,5.9 million people
+1449145,1597844,Guerrero,Mexico,15000 people
+1449158,1597863,Xinjiang,China,<1000 people
+1449189,1597902,Respublika Sakha(Yakutiya),Russian Federation,<1000 people
+1449189,1597902,Amurskaya oblast',Russian Federation,<1000 people
+1449198,1597915,Arsi,Ethiopia,62000 people
+1449198,1597915,Harerge,Ethiopia,92000 people
+1449198,1597915,Shewa,Ethiopia,77000 people
+1449230,1597953,Taiwan,Taiwan,160000 people
+1449263,1597993,Alaska,United States,no people
+1449314,1598055,Tarapaca,Chile,3700 people
+1449336,1598085,Kanto,Japan,2 million people
+1449346,1598095,Escuintla,Guatemala,190000 people
+1449346,1598095,Suchitepequez,Guatemala,4500 people
+1449347,1598114,Taiwan,Taiwan,6900 people
+1449348,1598099,Southern Mindanao,Philippines,140000 people
+1449354,1598106,San Salvador,El Salvador,1.6 million people
+1449354,1598106,Cuscatlan,El Salvador,260000 people
+1449354,1598106,La Paz,El Salvador,88000 people
+1449354,1598106,Cabanas,El Salvador,54000 people
+1449354,1598106,San Vicente,El Salvador,23000 people
+1449354,1598106,La Libertad,El Salvador,110000 people
+1449364,1598126,Jujuy,Argentina,4600 people
+1449364,1598126,Salta,Argentina,<1000 people
+1449369,1598127,Duarte,Dominican Republic,280000 people
+1449369,1598127,Maria Trinidad S,Dominican Republic,49000 people
+1449369,1598127,Sanchez Ramirez,Dominican Republic,63000 people
+1449369,1598127,La Vega,Dominican Republic,2600 people
+1449369,1598127,Salcedo,Dominican Republic,1100 people
+1449395,1598167,Irian Jaya,Indonesia,<1000 people

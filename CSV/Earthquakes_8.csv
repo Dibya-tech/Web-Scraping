@@ -1,35 +1,126 @@
 Event_id,Episode,Reservoir,Dam_Name,River,Year,Distance
-1269679,1376314,,Zibihe,Trib. Yangbi Jiang,n/a,42 km
-1269679,1376314,,Haixihai,Trib. Yangbi Jiang,n/a,59 km
-1269679,1376314,,Haishao,Trib. Jinsha Jiang,1963,65 km
-1269679,1376314,,Beimiao,Dong He,1962,99 km
-1327560,1449790,,Baran,Baran,1962,93 km
-1337179,1461351,,Yonki,Ramu,1992,54 km
-1347183,1474345,,Saguling,Citarum,1986,31 km
-1347183,1474345,,Cirata,Citarum,1988,34 km
-1347183,1474345,,Jatiluhur,Citarum,1967,49 km
-1357372,1487096,,Kartalkaya,Aksu,1971,38 km
-1357372,1487096,,Tahtakopru,Karasu,1975,47 km
-1357372,1487096,,Sir,Ceyhan,1991,53 km
-1357372,1487096,,Menzelet,Ceyhan,1993,58 km
-1357372,1487096,,Kayacik,Aynifar,1997,61 km
-1357372,1487096,,Aslantas,Ceyhan,1984,69 km
-1357372,1487096,,Birecik,Firat,2000,77 km
-1357372,1487096,,Hancagiz,Nizip,1989,80 km
-1357372,1487096,,Karkamis,Firat,1999,95 km
-1357372,1487096,,Kesiksuyu,Kesiksuyu,1971,97 km
-1357560,1487318,,Menzelet,Ceyhan,1993,49 km
-1357560,1487318,,Surgu,Surgu,1969,59 km
-1357560,1487318,,Kartalkaya,Aksu,1971,62 km
-1357560,1487318,,Sir,Ceyhan,1991,79 km
-1357560,1487318,,Sultansuyu,Sultansuyu,1992,81 km
-1357560,1487318,Adiyaman,Cat,Abdulharap,1996,97 km
-1365556,1496206,,Tahuin,Arenillas,1988,90 km
-1390643,1524529,,Lalla Takerkoust,N'Fis,1935,39 km
-1390643,1524529,,Aoulouz,Souss-Massa,1991,48 km
-1390643,1524529,,Abdelmoumen,Issen,1981,90 km
-1406601,1543048,,Jishixia,Yellow,2011,15 km
-1406601,1543048,,Liujiaxia,Huang He,1968,49 km
-1406601,1543048,,Yanguoxia,Huang He,1970,50 km
-1406601,1543048,,Gongboxia,Huang He,2000,57 km
-1406601,1543048,,Bapanxia,Huang He,1975,66 km
+1448468,1596951,,Bramianos,Bramianos,1986,52 km
+1448473,1596948,,Marathon,Haradros,1931,57 km
+1448502,1596970,,Clavellinos,Cariaco,1967,94 km
+1448599,1597101,,Jatiluhur,Citarum,1967,87 km
+1448714,1597270,Tane,Tane,Kumabuchigawa,1973,75 km
+1448714,1597270,Shozenjiko,Shozenji,Shozenjigawa,1984,81 km
+1448714,1597270,Dashidaira,Dashidaira,Kurobegawa,1985,88 km
+1448714,1597270,Otomiko,Sasagamine,Sekigawa,1979,96 km
+1448714,1597270,Kamiichigawa,Kamiichigawa,Kamiichigawa,1964,96 km
+1448714,1597270,Kamiichigawadaini,Kamiichigawadaini,Kamiichigawa,1985,98 km
+1448714,1597270,Akaiwa,Akaiwa,Tannegawa,1990,100 km
+1448765,1597319,,Mamiao,,1959,68 km
+1448765,1597319,,Haojiacun,,n/a,78 km
+1448817,1597398,Horomanko,Horomangawadaisan,Horomangawa,1954,23 km
+1448817,1597398,Samaniko,Samani,Samanigawa,1974,31 km
+1448817,1597398,Higashinosawachoseichi,Higashinosawa,Koikakushushibicharigawa,1987,56 km
+1448817,1597398,Mitsuishi,Mitsuishi,Mitsuishigawa,1991,57 km
+1448817,1597398,Takamiko,Takami,Shizunaigawa,1983,64 km
+1448817,1597398,Shizunaichoseichi,Shizunai,Shizunaigawa,1966,68 km
+1448817,1597398,Poroshiriko,Okunikappu,Nikappugawa,1963,76 km
+1448817,1597398,Shimonikappu,Shimonikappu,Nikappugawa,1969,78 km
+1448817,1597398,Niikappu,Niikappu,Niikappugawa,1974,79 km
+1448872,1597468,,Taksebt,Taxuxt,2004,53 km
+1448872,1597468,,Tilesdit,Eddous,2004,83 km
+1448872,1597468,,Ighil Emda,Agrioum,1954,89 km
+1448908,1597522,Nagura,Nagura,Naguragawa,1996,26 km
+1448908,1597522,Maezato,Maezato,Miyaragawa,1982,27 km
+1448908,1597522,Sokobaru,Sokobaru,Sokobarugawa,1992,27 km
+1448930,1597547,,Kabo Dam,Offstream Mu River,n/a,44 km
+1448930,1597547,,Kintat,Mu,1997,58 km
+1448930,1597547,,Thaphanseik,Mu,2001,64 km
+1448930,1597547,,Sedawgyi,Chaungmagyi,1989,84 km
+1449021,1597676,Takanokura,Takanokura,Mizunashigawa,1975,2 km
+1449021,1597676,Yokokawa,Yokokawa,Otagawa,1983,5 km
+1449021,1597676,Ogaki,Ogaki,Ukedogawa,1985,14 km
+1449021,1597676,Tamanotameike,Tamano,Udagawa,1945,21 km
+1449021,1597676,Sakashita,Sakashita,Okawaragawa,1973,29 km
+1449021,1597676,,,,1991,49 km
+1449021,1597676,,Surikamigawa,Surikamigawa,2005,54 km
+1449021,1597676,Kawarago,Kawarago,Shiroishigawa,1968,55 km
+1449021,1597676,Tarumizuko,Tarumizu,Masudagawa,1976,60 km
+1449021,1597676,Bobatako,Sengozawa,Kitasugawa,1974,62 km
+1449021,1597676,Fukadachoseichi,Fukadachoseichi,Tadanogawa,1982,64 km
+1449021,1597676,Kamafusako,Kamafusa,Goishigawa,1970,65 km
+1449021,1597676,Houjonoumi,Mizukubo,Kariyasugawa,1971,69 km
+1449021,1597676,Birusawako,Birusawatameike,Yashirogawa,1948,73 km
+1449021,1597676,Fujinumachosuichi,Fujimuna,Ebanagawa,1948,74 km
+1449021,1597676,Takashibako,Takashiba,Samekawa,1961,77 km
+1449021,1597676,Okurako,Okura,Okuragawa,1961,78 km
+1449021,1597676,Maekawa,Maekawa,Maekawa,1982,80 km
+1449021,1597676,Nanakita,Nanakita,Nanakitagawa,1984,81 km
+1449021,1597676,Yoshigadaira,Yoshigadaira,Harakawa,1970,82 km
+1449021,1597676,Shitokiko,Shitoki,Shitokigawa,1983,83 km
+1449021,1597676,Hatoriko,Hatori,Tsurunumagawa,1955,84 km
+1449021,1597676,Yunoiriko,Higashiyama,Yugawa,1982,85 km
+1449021,1597676,Sekishiba,Sekishiba,Ubadogawa,1958,86 km
+1449021,1597676,Nanatsumoriko,Minamikawa,Minamikawa,1987,88 km
+1449021,1597676,Nicchuhizawako,Nicchu,Oshikirigawa,1991,89 km
+1449021,1597676,Mizunuma,Mizunuma,Hanazonokawa,1966,90 km
+1449021,1597676,Wakasatoko,Okawa,Agagawa,1987,94 km
+1449021,1597676,Ouchi,Ouchi,Onogawa,1991,97 km
+1449021,1597676,Kamigo,Kamigo,Mogamigawa,1962,98 km
+1449066,1597734,,Guguan,Dajiaxi,1961,75 km
+1449117,1598138,Miyukiko,Gongendochosetsuchi,Nakagawa,1991,24 km
+1449117,1598138,Yanakako,Wataraseyusuichi,Watarasegawa,1989,34 km
+1449117,1598138,Tamako,Murayamashimo,Tamagawa,2008,48 km
+1449117,1598138,Sayamako,Yamaguchi,Tamagawa,2002,49 km
+1449117,1598138,Tamako,Murayamakami,Tamagawa,1924,49 km
+1449117,1598138,Miyazawako,Miyazawatameike,Koazegawa,1941,53 km
+1449117,1598138,Kasumigaura,Kasumigaura-Kaihatsu,Tonegawa,1995,54 km
+1449117,1598138,Yamakura,Yamakura,Yamakuragawa,1964,56 km
+1449117,1598138,Naguriko,Arima,Arimagawa,1985,67 km
+1449117,1598138,Jajanboike,Kozogawa,Kozogawa,1985,67 km
+1449117,1598138,Tsukuiko,Shiroyama,Sagamigawa,1964,70 km
+1449117,1598138,Takatakiko,Takataki,Yorogawa,1990,71 km
+1449117,1598138,Kori,Kori,Korigawa,1972,74 km
+1449117,1598138,Sagamiko,Sagami,Sagamigawa,1947,75 km
+1449117,1598138,Miyagaseko,Miyagase,Nakatsugawa,2001,76 km
+1449117,1598138,Okutamako,Ogohchi,Tamagawa,1957,80 km
+1449117,1598138,Kusakiko,Kusaki,Watarasegawa,1976,81 km
+1449117,1598138,Kannako,Shimokubo,Kannagawa,1968,82 km
+1449117,1598138,Kameyamako,Kameyama,Obitsugawa,1980,83 km
+1449117,1598138,Ono,Ono,Yatagawa,1914,86 km
+1449117,1598138,Chichibuko,Futase,Arakawa,1961,90 km
+1449117,1598138,Sakuma,Sakuma,Okuzuregawa,1990,93 km
+1449117,1598138,Chuzenjiko,Chuzenji,Daiyagawa,1998,94 km
+1449117,1598138,Higashikoyako,Nishiarakawa,Nishiarakawa,1967,96 km
+1449117,1598138,Makabechoseichi,Makabe,Tonegawa,1928,97 km
+1449117,1598138,Oshioko,Oshio,Nanmokugawa,1968,97 km
+1449117,1598138,Terayama,Terayama,Miyakawa,1984,99 km
+1449117,1598138,Imaichichoseichi,Imaichi,Togawa,1988,99 km
+1449117,1598138,Narusawako,Narusawa,Harunashirakawa,1950,99 km
+1449117,1598138,Tanzawako,Miho,Kawauchigawa,1978,99 km
+1449117,1598138,Sonoharako,Sonohara,Katashinagawa,1965,100 km
+1449198,1597915,,Kessem,Kessem,2015,46 km
+1449230,1597953,,Guguan,Dajiaxi,1961,67 km
+1449336,1598085,Yamakura,Yamakura,Yamakuragawa,1964,4 km
+1449336,1598085,Takatakiko,Takataki,Yorogawa,1990,16 km
+1449336,1598085,Kameyamako,Kameyama,Obitsugawa,1980,31 km
+1449336,1598085,Kori,Kori,Korigawa,1972,33 km
+1449336,1598085,Sakuma,Sakuma,Okuzuregawa,1990,49 km
+1449336,1598085,Kasumigaura,Kasumigaura-Kaihatsu,Tonegawa,1995,59 km
+1449336,1598085,Tamako,Murayamashimo,Tamagawa,2008,72 km
+1449336,1598085,Tamako,Murayamakami,Tamagawa,1924,74 km
+1449336,1598085,Sayamako,Yamaguchi,Tamagawa,2002,75 km
+1449336,1598085,Miyukiko,Gongendochosetsuchi,Nakagawa,1991,80 km
+1449336,1598085,Tsukuiko,Shiroyama,Sagamigawa,1964,81 km
+1449336,1598085,Miyagaseko,Miyagase,Nakatsugawa,2001,84 km
+1449336,1598085,Miyazawako,Miyazawatameike,Koazegawa,1941,87 km
+1449336,1598085,Sagamiko,Sagami,Sagamigawa,1947,89 km
+1449336,1598085,Yanakako,Wataraseyusuichi,Watarasegawa,1989,90 km
+1449336,1598085,Iizumishusuizeki,Iizumishusuizeki,Sakawagawa,1973,95 km
+1449336,1598085,Naguriko,Arima,Arimagawa,1985,99 km
+1449342,1598089,Saikyo,Saikyo,Matanobugawa,1984,78 km
+1449347,1598114,,Guguan,Dajiaxi,1961,85 km
+1449347,1598114,,Shihmen,Tahan,1964,96 km
+1449354,1598106,,Cerron Grande,Lempa,1973,26 km
+1449354,1598106,,5 de Noviembre,Lempa,1954,42 km
+1449354,1598106,,15 de Septiembre,Lempa,1983,55 km
+1449369,1598127,,Hatillo,Yuna,1984,29 km
+1449369,1598127,,Rincon,Jima,1978,37 km
+1449369,1598127,,Tavera,Yaque del Norte,1974,65 km
+1449369,1598127,,Bao,Bao,1985,67 km
+1449369,1598127,,Jiguey,Nizao,1992,86 km
+1449369,1598127,,Valdesia,Nizao,1975,99 km
