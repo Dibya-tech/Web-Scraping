@@ -1,71 +1,328 @@
 Event_id,Episode,SendAI Indicator B,N,Country,Location
-1100902,1,displaced,10773,India,Jharkhand
-1100902,1,displaced,809830,India,West Bengal
-1100902,1,displaced,593656,India,Odisha
-1100902,1,displaced,7476,India,Tamil Nadu
-1100902,1,displaced,703058,India,Odisha
-1100902,1,displaced,17165,India,Jharkhand
-1100902,1,displaced,702986,India,Odisha
-1100902,1,displaced,1504506,India,West Bengal
-1100902,1,displaced,611,India,Tamil Nadu
-1100932,7,affected,42000,China,Heilongjiang
-1100932,7,affected,47000,China,Hulunbuir
-1100932,7,affected,1080000,China,Jiangxi
-1100932,7,affected,589400,China,Sichuan
-1100932,7,affected,2000000,China,Xinxiang
-1100932,7,displaced,1500000,China,Zhejiang
-1100932,7,displaced,360000,China,Shanghai
-1100932,7,displaced,19000,China,Heilongjiang
-1100932,7,displaced,376000,China,Henan
-1100932,7,displaced,100000,China,Henan
-1100932,7,displaced,63000,China,Jiangxi
-1100932,7,displaced,100000,China,Sichuan
-1100932,7,rescued,50,China,Dalian
-1100932,7,rescued,50,China,Du an Yao Autonomous County
-1100977,26,affected,2,India,Goa
-1100977,26,affected,400,India,Kandivali West
-1100977,26,affected,252000,India,Bihar
-1100977,26,affected,2700000,India,Bihar
-1100977,26,affected,104704,India,Uttar Pradesh
-1100977,26,affected,22022,India,Assam
-1100977,26,affected,1200000,India,West Bengal
-1100977,26,affected,90000,India,Uttar Pradesh
-1100977,26,affected,2600000,India,West Bengal
-1100977,26,displaced,500000,India,West Bengal
-1100977,26,displaced,1200,India,Uttar Pradesh
-1100977,26,displaced,22468,India,Odisha
-1100977,26,displaced,512,India,Srikakulam
-1100977,26,displaced,3940,India,Srikakulam
-1100977,26,displaced,46075,India,Odisha
-1100977,26,displaced,1300,India,West Bengal
-1100977,26,displaced,5000,India,Krishna district
-1100977,26,displaced,770,India,Assam
-1100977,26,displaced,6237,India,Uttar Pradesh
-1100977,26,displaced,85000,India,Bihar
-1100977,26,displaced,400,India,Goa
-1100977,26,displaced,29280,India,Madhya Pradesh
-1100977,26,displaced,31360,India,Karnataka
-1100977,26,displaced,375178,India,Maharashtra
-1100977,26,displaced,250000,India,West Bengal
-1100977,26,injured,17,India,Kishtwar District
-1100977,26,injured,2,India,Belonia
-1100977,26,injured,1,India,Chamoli
-1100977,26,rescued,5950,India,Madhya Pradesh
-1100977,26,rescued,8832,India,Madhya Pradesh
-1100977,26,rescued,40,India,Itawa
-1100977,26,rescued,9,India,Baran
-1101522,1,displaced,215997,Pakistan,"Gilgit-Baltistan, Balochistan, Azad Kashmir, Khyber Pakhtunkhwa, Punjab"
-1101522,1,injured,1575,Pakistan,"Punjab, Gilgit-Baltistan, Azad Kashmir, Khyber Pakhtunkhwa, Sindh, Balochistan"
-1101659,5,affected,35200,Nigeria,Uzo-Uwani
-1101659,5,affected,2504000,Nigeria,"Bayelsa State, Delta State, Anambra State, Abuja, Cross River State, Rivers State"
-1101659,5,affected,1,Nigeria,Mariga
-1101659,5,displaced,3000,Nigeria,Lokoja
-1101659,5,displaced,1303000,Nigeria,"Cross River State, Delta State, Rivers State, Bayelsa State, Abuja, Anambra State"
-1101659,5,injured,2400,Nigeria,"Delta State, Abuja, Anambra State, Cross River State, Rivers State, Bayelsa State"
-1101659,5,rescued,9,Nigeria,Maryland
-1101664,1,displaced,395000,China,Shanghai
-1101664,1,displaced,838000,China,Zhejiang
-1102000,1,displaced,100000,Myanmar,"Sittwe Township, Sittwe District"
-1102000,1,displaced,750000,Bangladesh,Cox s Bazar District
-1102000,1,injured,700,Myanmar,"Sittwe District, Sittwe Township"
-1102204,2,displaced,33000,Libya,"Benghazi, Darnah, Susah, Derna"
+1102678,30,affected,105786,India,Assam
+1102678,30,affected,30,India,Haridwar
+1102678,30,affected,8400,India,Arunachal Pradesh
+1102678,30,affected,8,India,New Delhi
+1102678,30,affected,3,India,New Delhi
+1102678,30,affected,11165,India,Manipur
+1102678,30,affected,720998,India,Uttar Pradesh
+1102678,30,affected,200000,India,Muzaffarpur District
+1102678,30,affected,8,India,Shirur
+1102678,30,affected,8,India,Uttarkashi
+1102678,30,affected,18281,India,Maharashtra
+1102678,30,affected,1600,India,Maharashtra
+1102678,30,affected,240,India,Wayanad District
+1102678,30,affected,28,India,Rampur
+1102678,30,affected,9,India,Padhar
+1102678,30,affected,7,India,Gujarat
+1102678,30,affected,200000,India,Telangana
+1102678,30,displaced,4000,India,Telangana
+1102678,30,displaced,5607,India,Tripura
+1102678,30,displaced,23871,India,Gujarat
+1102678,30,displaced,150000,India,West Bengal
+1102678,30,displaced,8571,India,Uttar Pradesh
+1102678,30,displaced,14427,India,Gujarat
+1102678,30,displaced,800,India,Manipur
+1102678,30,displaced,100,India,Aizawl
+1102678,30,displaced,247,India,Arunachal Pradesh
+1102678,30,displaced,3168,India,Assam
+1102678,30,relocated,17800,India,-
+1102678,30,rescued,1653,India,Gujarat
+1102678,30,rescued,3800,India,Telangana
+1102678,30,rescued,425,India,Uttarakhand
+1102678,30,rescued,1,India,Jaijon Doaba
+1102678,30,rescued,151,India,Shahapur
+1102678,30,rescued,3000,India,Wayanad District
+1102720,24,affected,20,Nigeria,Nangere
+1102720,24,affected,25,Nigeria,Makurdi
+1102720,24,affected,2000,Nigeria,Makurdi
+1102720,24,affected,450,Nigeria,Oluyole
+1102720,24,affected,1664,Nigeria,Gada
+1102720,24,affected,5000,Nigeria,Yorro
+1102720,24,affected,512,Nigeria,Kirfi
+1102720,24,affected,8,Nigeria,Kirfi
+1102720,24,affected,3049,Nigeria,Sokoto State
+1102720,24,affected,2360,Nigeria,Talata Mafara
+1102720,24,affected,14820,Nigeria,Ilaje
+1102720,24,affected,3000,Nigeria,Yobe State
+1102720,24,affected,5000,Nigeria,Taraba State
+1102720,24,affected,832,Nigeria,Plateau
+1102720,24,affected,3000,Nigeria,Cross River State
+1102720,24,displaced,209,Nigeria,Taraba State
+1102720,24,displaced,2436,Nigeria,Numan
+1102720,24,displaced,2470,Nigeria,Ilaje
+1102720,24,displaced,1200,Nigeria,Buji
+1102720,24,displaced,2000,Nigeria,Talata Mafara
+1102720,24,displaced,469,Nigeria,Kirfi
+1102720,24,displaced,200,Nigeria,Oluyole
+1102720,24,displaced,1200,Nigeria,Makurdi
+1102720,24,displaced,100,Nigeria,Kargo Garki
+1102720,24,injured,4,Nigeria,Dukku
+1102782,8,displaced,3832,China,Yisuhe
+1102782,8,displaced,5000,China,Linjiang
+1102782,8,displaced,30000,China,Liaoning
+1102782,8,displaced,5000,China,Zhidan County
+1102782,8,displaced,821,China,Songshan
+1102782,8,rescued,1,China,Wuhai
+1102783,14,affected,2451,Indonesia,Penajam Paser Utara
+1102783,14,affected,1200,Indonesia,Tanah Laut
+1102783,14,affected,10752,Indonesia,Wajo
+1102783,14,affected,1500,Indonesia,-
+1102783,14,affected,2872,Indonesia,Mamuju
+1102783,14,affected,8000,Indonesia,"Sorong, Sorong Selatan"
+1102783,14,affected,600,Indonesia,Lombok Barat
+1102783,14,affected,320,Indonesia,Parigi Moutong
+1102783,14,affected,2,Indonesia,Pulau Ternate
+1102783,14,affected,2964,Indonesia,Melawi
+1102783,14,affected,295,Indonesia,Sorong City
+1102783,14,affected,120,Indonesia,Palu City
+1102783,14,affected,587,Indonesia,Parigi Moutong
+1102783,14,affected,985,Indonesia,Medan City
+1102783,14,affected,106,Indonesia,-
+1102783,14,affected,3871,Indonesia,Gorontalo
+1102783,14,affected,1812,Indonesia,Sulawesi
+1102783,14,affected,151,Indonesia,Halmahera Timur
+1102783,14,affected,895,Indonesia,Halmahera Tengah
+1102783,14,affected,2810,Indonesia,Balikpapan City
+1102783,14,injured,1,Indonesia,Balikpapan City
+1102833,22,affected,50,Italy,San Benedetto del Tronto
+1102833,22,affected,100,Italy,Province of Rovigo
+1102833,22,affected,1,Italy,Barcis
+1102833,22,affected,63,Italy,Province of Brescia
+1102833,22,affected,33,Italy,Province of Varese
+1102833,22,affected,2,Italy,-
+1102833,22,affected,66,Italy,-
+1102833,22,affected,1,Italy,-
+1102833,22,affected,100,Italy,Veneto Region
+1102833,22,affected,200,Italy,Metropolitan City of Milan
+1102833,22,affected,1,Italy,Boara Polesine
+1102833,22,affected,50,Italy,Turin
+1102833,22,affected,1,Italy,Cabuderra/Capoterra
+1102833,22,affected,50,Italy,Province of Lecco
+1102833,22,affected,50,Italy,Friuli-Venezia Giulia
+1102833,22,affected,200,Italy,Province of Pescara
+1102833,22,affected,100,Italy,-
+1102833,22,affected,80,Italy,Province of Sassari
+1102833,22,affected,30,Italy,Province of Perugia
+1102833,22,displaced,3,Italy,Casale Cremasco-Vidolasco
+1102833,22,displaced,20,Italy,Sant Orsola
+1102833,22,displaced,20,Italy,Darfo Boario Terme
+1102833,22,displaced,850,Italy,Bagnacavallo
+1102833,22,displaced,20,Italy,-
+1102833,22,displaced,15,Italy,Pitigliano
+1102833,22,displaced,150,Italy,Montemurlo
+1102833,22,rescued,1,Italy,Vignano
+1102833,22,rescued,20,Italy,Metropolitan City of Milan
+1102833,22,rescued,1,Italy,Erchie
+1102833,22,rescued,1,Italy,Civitanova Marche
+1102833,22,rescued,1,Italy,Ponte Pattoli
+1102833,22,rescued,2,Italy,Alzano Lombardo
+1102833,22,rescued,2,Italy,Campiglia Marittima
+1102853,2,affected,1,Papua New Guinea,Lae Morobe Province
+1102853,2,affected,2000,Papua New Guinea,Mendi
+1102859,8,affected,3,United States,Ketchikan
+1102859,8,affected,1,United States,Havasu Creek
+1102859,8,affected,12,United States,Southport
+1102859,8,displaced,25,United States,Danbury
+1102859,8,displaced,30,United States,Carolina Beach
+1102859,8,rescued,104,United States,Havasu Creek
+1102859,8,rescued,18,United States,San Antonio
+1102859,8,rescued,5,United States,San Angelo
+1102859,8,rescued,1,United States,Lakeview
+1102859,8,rescued,20,United States,Brunswick County
+1102859,8,rescued,30,United States,New Hanover County
+1102861,1,displaced,39,Malaysia,Kedah
+1102862,1,affected,1,Nepal,Baglung
+1102864,1,affected,1,Algeria,Tamanrasset
+1102864,1,affected,5,Algeria,Béchar Province
+1102864,1,displaced,2500,Algeria,Algeria
+1102864,1,rescued,12,Algeria,Béchar Province
+1102865,2,affected,100,Democratic Republic of Congo,bagata
+1102865,2,affected,500,Democratic Republic of Congo,Beni
+1102866,1,displaced,800,Guinea,Manéah
+1102868,1,displaced,150,Kenya,Kaptembwa
+1102869,1,affected,9,Morocco,Morocco
+1102870,3,affected,26687,Nigeria,Borno State
+1102870,3,affected,1659,Nigeria,Kogi State
+1102870,3,affected,32099,Nigeria,Niger State
+1102870,3,displaced,29332,Nigeria,Niger State
+1102870,3,displaced,517,Nigeria,Kogi State
+1102870,3,displaced,7198,Nigeria,Borno State
+1102871,1,displaced,45,Belgium,Geer
+1102872,2,affected,1,France,Urdos
+1102872,2,affected,1,France,Termignon
+1102872,2,displaced,3,France,Borce
+1102872,2,rescued,70,France,Pyrénées-Atlantiques
+1102874,1,affected,400,Germany,Bremen
+1102875,1,rescued,2,Italy,Arzignano
+1102877,2,displaced,50,Norway,Bø
+1102877,2,displaced,25,Norway,Fåvang
+1102877,2,displaced,17,Norway,Ringsaker
+1102878,1,affected,800,Romania,Romania
+1102878,1,rescued,65,Romania,Romania
+1102879,2,affected,70,Spain,Region of Murcia
+1102879,2,affected,26,Spain,Hellín
+1102879,2,affected,135,Spain,Balearic Islands
+1102879,2,affected,1,Spain,Puebla de Híjar
+1102879,2,displaced,500,Spain,Báguena
+1102879,2,displaced,12,Spain,Majorca
+1102879,2,rescued,6,Spain,Hellín
+1102880,1,displaced,4,United Kingdom,Cwmafan
+1102880,1,rescued,1,United Kingdom,Bridgend
+1102880,1,rescued,2,United Kingdom,Roath
+1102881,1,affected,250,Switzerland,Canton of Zug
+1102881,1,affected,90,Switzerland,Canton of Lucerne
+1102881,1,affected,2,Switzerland,Baar
+1102881,1,affected,1,Switzerland,Eisten
+1102881,1,rescued,2200,Switzerland,Saas-Fee
+1102882,1,affected,1000,Uganda,Nyamwamba
+1102883,1,affected,40,Croatia,Municipality of Lumbarda
+1102883,1,affected,10,Croatia,Orebic
+1102883,1,affected,30,Croatia,Dubrovnik-Neretva County
+1102884,2,affected,236,Guatemala,Morazán
+1102884,2,displaced,12,Guatemala,Huehuetenango
+1102884,2,displaced,100,Guatemala,Siquinala
+1102885,7,displaced,92,Mexico,San Luis Ayucan
+1102885,7,rescued,2,Mexico,Zapopan
+1102885,7,rescued,1,Mexico,Juárez
+1102887,1,affected,35,Panama,Mariato
+1102887,1,rescued,6,Panama,Pacora
+1102889,1,affected,39,Vietnam,Vietnam
+1102889,1,affected,752,Vietnam,Vietnam
+1102889,1,displaced,52979,Vietnam,Vietnam
+1102890,1,affected,1,Laos,Luang Namtha Province
+1102890,1,affected,200,Laos,Luang Namtha Province
+1102891,1,affected,5,Thailand,Thailand
+1102891,1,affected,4,Thailand,Thailand
+1102891,1,affected,14328,Thailand,Thailand
+1102892,2,affected,54,Greece,Attica
+1102892,2,affected,6,Greece,Kavala
+1102892,2,affected,25,Greece,Chios
+1102895,1,affected,468,Slovenia,Slovenia
+1102896,3,affected,6,Türkiye,Menderes
+1102896,3,affected,1,Türkiye,-
+1102896,3,affected,1,Türkiye,Arhavi
+1102896,3,rescued,1,Türkiye,Hopa
+1102899,3,affected,15000,Romania,Gala?i
+1102899,3,affected,12600,Czech Republic,"Olomouc Region, Moravian-Silesian Region"
+1102899,3,affected,12600,Czech Republic,"Moravian-Silesian Region, Olomouc Region"
+1102899,3,affected,1,Czech Republic,Jankovice-Traplice
+1102899,3,affected,3,Czech Republic,Lipová-lázne
+1102899,3,affected,260000,Czech Republic,Central Bohemia
+1102899,3,affected,5000,Romania,Gala?i County
+1102899,3,displaced,1900,Czech Republic,Olomouc Region
+1102899,3,displaced,1750,Austria,Lower Austria
+1102899,3,displaced,100,Czech Republic,Zdounky
+1102899,3,displaced,3000,Czech Republic,Moravian-Silesian Region
+1102899,3,displaced,252,Romania,Gala?i County
+1102899,3,displaced,40,Romania,Vaslui County
+1102899,3,rescued,8,Romania,Vaslui County
+1102899,3,rescued,45,Czech Republic,Olomouc Region
+1102899,3,rescued,87,Romania,Gala?i County
+1102901,1,affected,33,Libya,Sebha
+1102902,1,affected,500,Poland,Opole Voivodeship
+1102902,1,displaced,400,Poland,Glucholazy
+1102902,1,displaced,100,Poland,Morów
+1102903,1,rescued,1,Spain,Benicarló
+1102904,1,displaced,100,Slovakia,Kuchyna
+1102905,1,displaced,3985,Malaysia,Kedah
+1102905,1,displaced,144,Malaysia,Perlis
+1102905,1,displaced,590,Malaysia,Pulau Pinang
+1102905,1,displaced,21,Malaysia,Selangor
+1102906,1,affected,5000,Senegal,Touba
+1102907,6,affected,80,Italy,Province of Forlì-Cesena
+1102907,6,affected,1,Italy,Pesaro
+1102907,6,affected,200,Italy,Marche
+1102907,6,affected,280,Italy,Veneto Region
+1102907,6,displaced,40,Italy,Sarno
+1102907,6,displaced,800,Italy,Ravenna
+1102907,6,displaced,165,Italy,Bologna
+1102907,6,displaced,20,Italy,Rocca San Casciano
+1102907,6,displaced,10,Italy,Numana
+1102907,6,displaced,11,Italy,Villa del Conte
+1102907,6,displaced,4,Italy,Dovadola
+1102907,6,displaced,100,Italy,Rimini
+1102907,6,displaced,400,Italy,-
+1102907,6,rescued,1,Italy,Civitanova Marche
+1102907,6,rescued,20,Italy,Province of Livorno
+1102907,6,rescued,20,Italy,Province of Pisa
+1102908,1,affected,15,Morocco,Tata
+1102910,1,affected,1,Japan,Noto
+1102910,1,affected,4,Japan,Wajima
+1102910,1,affected,40000,Japan,Ishikawa
+1102910,1,displaced,1350,Japan,Ishikawa
+1102911,1,displaced,900,South Korea,South Korea
+1102913,1,displaced,200,Democratic Republic of Congo,Tshilenge
+1102914,1,affected,100,Tunisia,Tunisia
+1102914,1,displaced,150,Tunisia,Métlaoui
+1102916,1,displaced,2322,Vietnam,Vietnam
+1102917,1,rescued,9,United States,Iona
+1102919,1,affected,500,Panama,Panama
+1102919,1,displaced,12,Panama,-
+1102923,1,affected,64,Nepal,Nepal
+1102924,1,affected,77249,Philippines,Philippines
+1102924,1,displaced,1793,Philippines,Philippines
+1102925,2,displaced,100,Thailand,Mueang Chiang Rai District
+1102926,2,affected,5,Vietnam,Bac Quang
+1102926,2,affected,2,Vietnam,Bac Quang
+1102926,2,affected,300,Vietnam,Bac Quang
+1102926,2,affected,160,Vietnam,Long Ho
+1102927,1,affected,25,Ecuador,El Paraiso
+1102927,1,displaced,256,Ecuador,Quito
+1102928,5,affected,5039,Indonesia,Aceh Utara
+1102928,5,affected,5441,Indonesia,Padang Pariaman
+1102928,5,affected,9932,Indonesia,Tanjung Balai
+1102928,5,affected,156,Indonesia,-
+1102928,5,affected,2992,Indonesia,Halmahera
+1102928,5,affected,120,Indonesia,Indragiri Hulu Regency
+1102928,5,affected,580,Indonesia,Rokan Hulu Regency
+1102929,1,displaced,1,Liberia,Buutuo
+1102930,1,affected,21,Croatia,Istria County
+1102931,3,displaced,2,France,Devecey
+1102931,3,displaced,6,France,Lyon
+1102931,3,displaced,5,France,Dagneux
+1102931,3,displaced,13,France,Bricquebec
+1102931,3,displaced,30,France,Pégomas
+1102931,3,rescued,1,France,Pégomas
+1102932,1,displaced,100,New Zealand,Dunedin
+1102934,1,displaced,100,Albania,Vlora
+1102937,1,affected,200000,Bangladesh,Bangladesh
+1102938,1,affected,714,Taiwan,Taiwan
+1102938,1,displaced,2000,Taiwan,Taiwan
+1102942,1,affected,8865,Cambodia,Cambodia
+1102942,1,displaced,250,Cambodia,Cambodia
+1102943,2,affected,16568,Burkina Faso,Burkina Faso
+1102943,2,affected,6,Burkina Faso,Burkina Faso
+1102943,2,affected,4500,Burkina Faso,Burkina Faso
+1102944,1,affected,1,Brazil,Terra Preta
+1102945,5,affected,535000,India,Bihar
+1102945,5,affected,217464,India,Uttar Pradesh
+1102946,1,displaced,2505,Malaysia,Kedah
+1102946,1,displaced,686,Malaysia,Perlis
+1102946,1,displaced,36,Malaysia,Pahang
+1102946,1,displaced,168,Malaysia,Perak
+1102946,1,displaced,150,Malaysia,Selangor
+1102946,1,displaced,496,Malaysia,Johor
+1102946,1,displaced,22,Malaysia,Melaka
+1102949,1,affected,7200000,United States,Florida
+1102950,1,displaced,200,Senegal,Kanel
+1102951,1,displaced,23,Belgium,Couvin
+1102952,3,affected,4800,Philippines,Licab
+1102952,3,affected,1115,Philippines,Malabo
+1102952,3,affected,8335,Philippines,Maguindanao
+1102952,3,displaced,95,Philippines,Malabo
+1102954,1,displaced,400,Togo,Lomé
+1102955,2,affected,20,Spain,Fuente Obejuna
+1102955,2,displaced,2,Spain,Sanlúcar de Barrameda
+1102956,1,displaced,10,Oman,Muttrah
+1102956,1,rescued,6,Oman,Sur
+1102957,1,affected,137792,Sri Lanka,Sri Lanka
+1102957,1,displaced,9591,Sri Lanka,Sri Lanka
+1102958,1,affected,1125,Mauritania,Mauritania
+1102959,1,rescued,15,South Africa,Soweto
+1102960,1,affected,1942000,Chad,Lac
+1102961,1,displaced,15,Italy,Varazze
+1102961,1,rescued,1,Italy,Albenga
+1102961,1,rescued,15,Italy,Celle Ligure
+1102962,1,affected,612,Vietnam,Yen Bai Province
+1102962,1,displaced,150,Vietnam,Âu Lâu
