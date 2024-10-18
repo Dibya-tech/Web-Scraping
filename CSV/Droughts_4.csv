@@ -1,33 +1,912 @@
 Event_id,Episode,Agri,Name,Country
-1012728,52,- Low,Cuando Cubango,Angola
-1012728,52,- Low,Central,Botswana
-1012728,52,- Low,Chobe,Botswana
-1012728,52,- Low,Ngamiland,Botswana
-1012728,52,- Low,North East,Botswana
-1012728,52,- Medium,Inhambane,Mozambique
-1012728,52,- Low,Manica,Mozambique
-1012728,52,- Low,Sofala,Mozambique
-1012728,52,- Low,Caprivi,Namibia
-1012728,52,- Low,Kavango,Namibia
-1012728,52,- Low,Southern,Zambia
-1012728,52,- Low,Western,Zambia
-1012728,52,- Low,Mashonaland West,Zimbabwe
-1012728,52,- Low,Matabeleland South,Zimbabwe
-1012728,52,- Low,Midlands,Zimbabwe
-1012728,52,- Low,Matabeleland North,Zimbabwe
-1012728,52,- Low,Cuando Cubango,Angola
-1012728,52,- Low,Central,Botswana
-1012728,52,- Low,Chobe,Botswana
-1012728,52,- Low,Ngamiland,Botswana
-1012728,52,- Low,North East,Botswana
-1012728,52,- Medium,Inhambane,Mozambique
-1012728,52,- Low,Manica,Mozambique
-1012728,52,- Low,Sofala,Mozambique
-1012728,52,- Low,Caprivi,Namibia
-1012728,52,- Low,Kavango,Namibia
-1012728,52,- Low,Southern,Zambia
-1012728,52,- Low,Western,Zambia
-1012728,52,- Low,Mashonaland West,Zimbabwe
-1012728,52,- Low,Matabeleland South,Zimbabwe
-1012728,52,- Low,Midlands,Zimbabwe
-1012728,52,- Low,Matabeleland North,Zimbabwe
+1013868,152,- Medium,Catamarca,Argentina
+1013868,152,- Medium,Cordoba,Argentina
+1013868,152,- Medium,La Rioja,Argentina
+1013868,152,- Medium,Mendoza,Argentina
+1013868,152,- Medium,San Juan,Argentina
+1013868,152,- Medium,San Luis,Argentina
+1013981,26,- Low,Cabo Delgado,Mozambique
+1013981,26,- Low,Nampula,Mozambique
+1014149,10,- Low,Aguascalientes,Mexico
+1014149,10,- Low,Guanajuato,Mexico
+1014149,10,- Low,Jalisco,Mexico
+1014149,10,- Medium,San Luis Potosi,Mexico
+1014149,10,- Medium,Tamaulipas,Mexico
+1014149,10,- Low,Zacatecas,Mexico
+1014268,8,- Medium,Maranhao,Brazil
+1014268,8,- Medium,Para,Brazil
+1014268,8,- Low,Tocantins,Brazil
+1014313,12,- Medium,Nepal,Nepal
+1014313,12,- Medium,Xizang Zizhiqu,China
+1014313,12,- High,Uttar Pradesh,India
+1014313,12,- High,Uttarakhand,India
+1014313,12,- High,Haryana,India
+1014313,12,- Low,Himachal Pradesh,India
+1014313,12,- Low,Punjab,India
+1014313,12,- Low,Chandigarh,India
+1014320,28,- Low,Alberta,Canada
+1014320,28,- Low,Montana,United States
+1014392,36,- Medium,Armenia,Armenia
+1014392,36,- Medium,Azerbaijan,Azerbaijan
+1014392,36,- Medium,East Azarbayejan,Iran
+1014416,29,- Low,Benguela,Angola
+1014416,29,- Low,Namibe,Angola
+1014465,24,- Medium,Santa Cruz,Argentina
+1014465,24,- Medium,Tierra Del Fuego,Argentina
+1014465,24,- Medium,Magallanes y Antartica chilena,Chile
+1014473,54,- High,Afghanistan,Afghanistan
+1014473,54,- High,Tajikistan,Tajikistan
+1014473,54,- Medium,Mangistauskaya,Kazakhstan
+1014473,54,- Medium,Balkan,Turkmenistan
+1014495,98,- Low,Alaotra Mangoro,Madagascar
+1014495,98,- Low,Analanjirofo,Madagascar
+1014495,98,- Medium,Atsinanana,Madagascar
+1014495,98,- Medium,Haute Matsiatra,Madagascar
+1014495,98,- Medium,Vatovavy Fitovinany,Madagascar
+1014509,17,- Low,Nord - Ouest,Cameroon
+1014509,17,- Low,Benue,Nigeria
+1014509,17,- Low,Jigawa,Nigeria
+1014509,17,- Low,Kaduna,Nigeria
+1014509,17,- Low,Kano,Nigeria
+1014509,17,- Low,Katsina,Nigeria
+1014509,17,- Low,Kwara,Nigeria
+1014509,17,- Low,Niger,Nigeria
+1014509,17,- Low,Taraba,Nigeria
+1014509,17,- Low,Bauchi,Nigeria
+1014509,17,- Low,Nassarawa,Nigeria
+1014509,17,- Low,Plateau,Nigeria
+1014509,17,- Low,Zamfara,Nigeria
+1014614,13,- Medium,Emilia-romagna,Italy
+1014614,13,- Medium,Lombardia,Italy
+1014614,13,- Medium,Toscana,Italy
+1014614,13,- Low,Umbria,Italy
+1014614,13,- Medium,Veneto,Italy
+1014676,1,- Medium,Afghanistan,Afghanistan
+1014676,1,- Medium,Sistan-o baluchestan,Iran
+1014676,1,- Medium,Balochistan,Pakistan
+1014676,1,- Medium,Punjab,Pakistan
+1014695,36,- Medium,Tunisia,Tunisia
+1014695,36,- Medium,Batna,Algeria
+1014695,36,- Medium,Biskra,Algeria
+1014695,36,- Medium,El Oued,Algeria
+1014695,36,- Medium,Khenchela,Algeria
+1014695,36,- Low,Souk-Ahras,Algeria
+1014695,36,- Low,Tebessa,Algeria
+1014718,20,- Low,Arunachal Pradesh,India
+1014718,20,- Low,Bangladesh,Bangladesh
+1014718,20,- Medium,Myanmar,Myanmar
+1014718,20,- Medium,Assam,India
+1014718,20,- Low,Manipur,India
+1014718,20,- Low,Mizoram,India
+1014718,20,- Medium,Nagaland,India
+1014718,20,- Low,Tripura,India
+1014718,20,- Medium,Arunachal Pradesh,India
+1014726,1,- Low,Araucania,Chile
+1014726,1,- Low,Aisen del Gral. Carlos Ibañez del Campo,Chile
+1014726,1,- Low,Biobio,Chile
+1014726,1,- Low,Los Lagos,Chile
+1014726,1,- Low,Los Rios,Chile
+1014742,75,- Low,Afar,Ethiopia
+1014742,75,- Low,Dire Dawa,Ethiopia
+1014742,75,- Low,Gambela,Ethiopia
+1014742,75,- Low,Hareri,Ethiopia
+1014742,75,- Low,SNNPR,Ethiopia
+1014742,75,- Low,Awdal,Somalia
+1014742,75,- Low,Bakool,Somalia
+1014742,75,- Low,Bay,Somalia
+1014742,75,- Low,Galgaduud,Somalia
+1014742,75,- Low,Gedo,Somalia
+1014742,75,- Low,Hiraan,Somalia
+1014742,75,- Medium,Juba Hoose,Somalia
+1014742,75,- Low,Shabelle Hoose,Somalia
+1014742,75,- Low,Juba Dhexe,Somalia
+1014742,75,- Low,Shabelle Dhexe,Somalia
+1014742,75,- Low,Sanaag,Somalia
+1014742,75,- Low,Sool,Somalia
+1014742,75,- Low,Togdheer,Somalia
+1014742,75,- Low,Woqooyi Galbeed,Somalia
+1014742,75,- Low,Eastern Equatoria,South Sudan
+1014742,75,- Low,Jonglei,South Sudan
+1014742,75,- Medium,Oromia,Ethiopia
+1014742,75,- Medium,Somali,Ethiopia
+1014742,75,- Low,Coast,Kenya
+1014742,75,- Low,Eastern,Kenya
+1014742,75,- Low,North Eastern,Kenya
+1014756,6,- Low,Rwanda,Rwanda
+1014756,6,- Medium,Maniema,Democratic Republic of the Congo
+1014756,6,- Low,Nord-Kivu,Democratic Republic of the Congo
+1014756,6,- Low,Sud-Kivu,Democratic Republic of the Congo
+1014821,18,- Low,California,United States
+1014821,18,- Low,Nevada,United States
+1014821,18,- Medium,Oregon,United States
+1014875,3,- Low,Taiwan,China
+1014881,3,- High,Akmolinskaya,Kazakhstan
+1014881,3,- High,Aktyubinskaya,Kazakhstan
+1014881,3,- High,Atyrauskaya,Kazakhstan
+1014881,3,- High,Karagandinskaya,Kazakhstan
+1014881,3,- High,Kustanayskaya,Kazakhstan
+1014881,3,- High,Kyzylordinskaya,Kazakhstan
+1014881,3,- High,Mangistauskaya,Kazakhstan
+1014881,3,- High,Severo-kazachstanskaya,Kazakhstan
+1014881,3,- High,Bashkortostan Rep.,Russia
+1014881,3,- High,Chelyabinskaya Oblast,Russia
+1014881,3,- Medium,Khanty-mansyiskiy Okrug,Russia
+1014881,3,- Medium,Kurganskaya Oblast,Russia
+1014881,3,- Medium,Omskaya Oblast,Russia
+1014881,3,- High,Orenburgskaya Oblast,Russia
+1014881,3,- Medium,Permskaya Oblast,Russia
+1014881,3,- Medium,Sverdlovskaya Oblast,Russia
+1014881,3,- Medium,Tyumenskaya Oblast,Russia
+1014881,3,- High,Karakalpakstan,Uzbekistan
+1014881,3,- High,Almatinskaya,Kazakhstan
+1014881,3,- High,Pavlodarskaya,Kazakhstan
+1014881,3,- High,Vostochno-kazachstanskaya,Kazakhstan
+1014881,3,- Medium,Altayskiy Kray,Russia
+1014958,27,- Low,Biobio,Chile
+1014958,27,- Low,Maule,Chile
+1014958,27,- Medium,Santa Cruz,Argentina
+1014958,27,- Medium,Magallanes y Antartica chilena,Chile
+1015039,14,- Low,Cabinda,Angola
+1015039,14,- Low,Zaire,Angola
+1015039,14,- Medium,Bouenza,Republic of Congo
+1015039,14,- Medium,Lekoumou,Republic of Congo
+1015039,14,- Medium,Niari,Republic of Congo
+1015039,14,- Low,Bas-Congo,Democratic Republic of the Congo
+1015039,14,- Medium,Pool,Republic of Congo
+1015040,4,- Medium,Northern Bahr El Ghazal,South Sudan
+1015040,4,- High,Warab,South Sudan
+1015040,4,- High,Western Bahr El Ghazal,South Sudan
+1015084,2,- Medium,Sakha Rep.,Russia
+1015088,81,- Medium,Illinois,United States
+1015088,81,- Medium,Iowa,United States
+1015088,81,- Medium,Kansas,United States
+1015088,81,- Medium,Missouri,United States
+1015088,81,- Medium,Nebraska,United States
+1015088,81,- Medium,Wisconsin,United States
+1015187,9,- Low,Belize,Belize
+1015187,9,- Low,Guatemala,Guatemala
+1015187,9,- Medium,Honduras,Honduras
+1015187,9,- Low,Campeche,Mexico
+1015187,9,- Low,Quintana Roo,Mexico
+1015249,12,- Medium,Portugal,Portugal
+1015249,12,- Medium,Andalucía,Spain
+1015249,12,- Medium,Castilla y León,Spain
+1015249,12,- Medium,Extremadura,Spain
+1015249,12,- Low,Galicia,Spain
+1015257,88,- Medium,Kyrgyzstan,Kyrgyzstan
+1015257,88,- Low,Tajikistan,Tajikistan
+1015257,88,- Low,Khorasan,Iran
+1015257,88,- Low,Semnan,Iran
+1015257,88,- Medium,Andijan,Uzbekistan
+1015257,88,- Medium,Fergana,Uzbekistan
+1015257,88,- Medium,Namangan,Uzbekistan
+1015257,88,- Low,Surkhandarya,Uzbekistan
+1015257,88,- Medium,Mangistauskaya,Kazakhstan
+1015257,88,- High,Chardzhou,Turkmenistan
+1015257,88,- High,Tashauz,Turkmenistan
+1015257,88,- High,Bukhara,Uzbekistan
+1015257,88,- High,Karakalpakstan,Uzbekistan
+1015257,88,- High,Khorezm,Uzbekistan
+1015257,88,- High,Navoiy,Uzbekistan
+1015257,88,- High,Balkan,Turkmenistan
+1015257,88,- High,Ahal,Turkmenistan
+1015257,88,- High,Karakalpakstan,Uzbekistan
+1015257,88,- High,Balkan,Turkmenistan
+1015281,20,- Low,Katanga,Democratic Republic of the Congo
+1015281,20,- Low,Luapula,Zambia
+1015281,20,- Low,Northern,Zambia
+1015291,5,- Low,Haiti,Haiti
+1015356,22,- Low,Namibe,Angola
+1015426,42,- Low,Voreio Aigaio,Greece
+1015426,42,- Low,Antalya,Turkey
+1015426,42,- Low,Burdur,Turkey
+1015426,42,- Low,Denizli,Turkey
+1015426,42,- Low,Mugla,Turkey
+1015426,42,- Low,Notio Aigaio,Greece
+1015469,49,- Low,Monaco,Monaco
+1015469,49,- Low,"Provence-Alpes-Cote-d'Azur, Monaco",France
+1015469,49,- Low,Liguria,Italy
+1015511,3,- Medium,Holy See,Vatican City
+1015511,3,- Medium,Abruzzi,Italy
+1015511,3,- Medium,Campania,Italy
+1015511,3,- Medium,"Lazio, Holy See",Italy
+1015511,3,- Medium,"Marche, San Marino",Italy
+1015511,3,- Medium,Molise,Italy
+1015511,3,- Medium,Puglia,Italy
+1015511,3,- High,Toscana,Italy
+1015511,3,- Medium,Umbria,Italy
+1015512,3,- Medium,Saskatchewan,Canada
+1015512,3,- Medium,Montana,United States
+1015553,10,- Low,Montana,United States
+1015559,20,- Medium,Para,Brazil
+1015559,20,- Medium,Tocantins,Brazil
+1015559,20,- Medium,Minas Gerais,Brazil
+1015589,4,- Medium,Afyon,Turkey
+1015589,4,- Low,Aksaray,Turkey
+1015589,4,- Medium,Ankara,Turkey
+1015589,4,- Medium,Corum,Turkey
+1015589,4,- Medium,Isparta,Turkey
+1015589,4,- Low,Kayseri,Turkey
+1015589,4,- Medium,Kirikkale,Turkey
+1015589,4,- Medium,Kirsehir,Turkey
+1015589,4,- Medium,Konya,Turkey
+1015589,4,- Medium,Nevsehir,Turkey
+1015589,4,- Low,Sivas,Turkey
+1015589,4,- Low,Tokat,Turkey
+1015589,4,- Medium,Yozgat,Turkey
+1015605,8,- Medium,Luxembourg,Luxembourg
+1015605,8,- Medium,"Vlaams Gewest, Brussels",Belgium
+1015605,8,- Medium,Region wallonne,Belgium
+1015605,8,- Medium,Champagne-Ardenne,France
+1015605,8,- Medium,Lorraine,France
+1015605,8,- Medium,Nord-Pas-de-Calais,France
+1015605,8,- Medium,Pays-de-la-Loire,France
+1015605,8,- Medium,Picardie,France
+1015605,8,- Medium,Czech Republic,Czech Republic
+1015605,8,- Medium,Baden-Wuerttemberg,Germany
+1015605,8,- Medium,Bayern,Germany
+1015605,8,- Medium,"Brandenburg, Berlin",Germany
+1015605,8,- Medium,Hessen,Germany
+1015605,8,- Medium,Mecklenburg-Vorpommern,Germany
+1015605,8,- Medium,"Niedersachsen, Bremen",Germany
+1015605,8,- Medium,Nordrhein-Westfalen,Germany
+1015605,8,- Medium,Rheinland-Pfalz,Germany
+1015605,8,- Medium,Sachsen,Germany
+1015605,8,- Medium,Sachsen-Anhalt,Germany
+1015605,8,- Medium,Thueringen,Germany
+1015605,8,- Medium,Lubuskie,Poland
+1015605,8,- Low,Zachodnio-Pomorskie,Poland
+1015605,8,- Medium,Blekinge Laen,Sweden
+1015605,8,- Medium,Joenkoepings Laen,Sweden
+1015605,8,- Medium,Kalmar Laen,Sweden
+1015605,8,- Medium,Kronobergs Laen,Sweden
+1015605,8,- Medium,Oestergoetlands Laen,Sweden
+1015623,22,- Low,Xinjiang Uygur Zizhiqu,China
+1015623,22,- Low,Govi-Altai,Mongolia
+1015623,22,- Low,Uvs,Mongolia
+1015623,22,- Low,Zavxan,Mongolia
+1015708,43,- Medium,Portugal,Portugal
+1015708,43,- Medium,Andalucía,Spain
+1015708,43,- Medium,Extremadura,Spain
+1015709,40,- Low,Neuquen,Argentina
+1015709,40,- Medium,Araucania,Chile
+1015709,40,- Medium,Biobio,Chile
+1015709,40,- Medium,Maule,Chile
+1015767,25,- Low,Apurímac,Peru
+1015767,25,- Low,Cusco,Peru
+1015771,22,- Medium,Myanmar,Myanmar
+1015771,22,- Medium,Manipur,India
+1015792,29,- High,Benue,Nigeria
+1015792,29,- High,Abuja,Nigeria
+1015792,29,- Medium,Kaduna,Nigeria
+1015792,29,- High,Kogi,Nigeria
+1015792,29,- High,Taraba,Nigeria
+1015792,29,- High,Nassarawa,Nigeria
+1015792,29,- High,Plateau,Nigeria
+1015826,23,- Medium,Guizhou Sheng,China
+1015849,11,- Low,Khanty-mansyiskiy Okrug,Russia
+1015849,11,- Low,Kirovskaya Oblast,Russia
+1015849,11,- Low,Komi-permyatskiy Okrug,Russia
+1015849,11,- Low,Permskaya Oblast,Russia
+1015849,11,- Medium,Sverdlovskaya Oblast,Russia
+1015849,11,- Medium,Tyumenskaya Oblast,Russia
+1015974,12,- Low,California,United States
+1015974,12,- Medium,Nevada,United States
+1015974,12,- Medium,Oregon,United States
+1015981,33,- Medium,Ain-Temouchent,Algeria
+1015981,33,- Medium,Mascara,Algeria
+1015981,33,- Medium,Mostaganem,Algeria
+1015981,33,- Medium,Oran,Algeria
+1015981,33,- Medium,Saida,Algeria
+1015981,33,- Medium,Sidi Bel Abbes,Algeria
+1015981,33,- Medium,Tlemcen,Algeria
+1015981,33,- Low,Chaouia - Ouardigha,Morocco
+1015981,33,- Low,Doukkala - Abda,Morocco
+1015981,33,- Low,Marrakech - Tensift - Al Haouz,Morocco
+1015981,33,- Low,Tadla - Azilal,Morocco
+1016053,34,- Low,Arkansas,United States
+1016053,34,- Low,Louisiana,United States
+1016053,34,- Medium,New Mexico,United States
+1016076,4,- Medium,Caqueta,Colombia
+1016076,4,- Medium,Guaviare,Colombia
+1016076,4,- Medium,Meta,Colombia
+1016076,4,- Medium,Vichada,Colombia
+1016100,21,- Low,Hardap,Namibia
+1016100,21,- High,Karas,Namibia
+1016107,17,- Low,Dominican Republic,Dominican Republic
+1016107,17,- Low,Haiti,Haiti
+1016209,26,- Low,Lao People's Democratic Republic,Laos
+1016209,26,- Medium,Myanmar,Myanmar
+1016209,26,- Low,Thailand,Thailand
+1016209,26,- Medium,Yunnan Sheng,China
+1016231,4,- Low,Coahuila,Mexico
+1016231,4,- Medium,Nuevo Leon,Mexico
+1016231,4,- Low,San Luis Potosi,Mexico
+1016231,4,- Medium,Tamaulipas,Mexico
+1016231,4,- Medium,Veracruz,Mexico
+1016231,4,- Low,Zacatecas,Mexico
+1016287,15,- Low,Bihar,India
+1016287,15,- Low,Uttar Pradesh,India
+1016298,29,- Low,Alberta,Canada
+1016298,29,- Low,Saskatchewan,Canada
+1016315,12,- Medium,Antioquia,Colombia
+1016315,12,- Medium,Boyaca,Colombia
+1016315,12,- Medium,Caldas,Colombia
+1016315,12,- Low,Caqueta,Colombia
+1016315,12,- Low,Cauca,Colombia
+1016315,12,- Medium,Cundinamarca,Colombia
+1016315,12,- Low,Huila,Colombia
+1016315,12,- Medium,Santander,Colombia
+1016315,12,- Medium,Tolima,Colombia
+1016315,12,- Medium,Casanare,Colombia
+1016315,12,- Medium,Guaviare,Colombia
+1016315,12,- Medium,Meta,Colombia
+1016315,12,- Medium,Vichada,Colombia
+1016348,18,- Medium,Khanty-mansyiskiy Okrug,Russia
+1016348,18,- Medium,Sverdlovskaya Oblast,Russia
+1016348,18,- Medium,Tyumenskaya Oblast,Russia
+1016386,8,- Low,Abuja,Nigeria
+1016386,8,- Low,Kaduna,Nigeria
+1016386,8,- Low,Niger,Nigeria
+1016386,8,- Low,Nassarawa,Nigeria
+1016401,44,- Medium,Austria,Austria
+1016401,44,- Medium,Bulgaria,Bulgaria
+1016401,44,- High,Croatia,Croatia
+1016401,44,- High,Hungary,Hungary
+1016401,44,- High,Romania,Romania
+1016401,44,- Medium,Slovenia,Slovenia
+1016401,44,- High,Federacija Bosne I Hercegovine,Bosnia and Herzegovina
+1016401,44,- High,Republika Srpska,Bosnia and Herzegovina
+1016401,44,- Medium,Montenegro,Montenegro
+1016401,44,- High,Serbia,Serbia
+1016401,44,- Medium,Zakarpats'ka,Ukraine
+1016401,44,- Low,Czech Republic,Czech Republic
+1016401,44,- Medium,Lithuania,Lithuania
+1016401,44,- Low,Brest,Belarus
+1016401,44,- Medium,Grodno,Belarus
+1016401,44,- Low,Dolnoslaskie,Poland
+1016401,44,- Low,Lodzkie,Poland
+1016401,44,- Medium,Lubeiskie,Poland
+1016401,44,- Low,Mazowieckie,Poland
+1016401,44,- Low,Opolskie,Poland
+1016401,44,- Medium,Podkarpackie,Poland
+1016401,44,- Medium,Podlaskie,Poland
+1016401,44,- Low,Slaskie,Poland
+1016401,44,- Medium,Swietokrzyskie,Poland
+1016401,44,- Low,Warminsko-Mazurskie,Poland
+1016401,44,- Low,Wielkopolskie,Poland
+1016401,44,- Low,Kaliningradskaya Oblast,Russia
+1016401,44,- Medium,Chernivets'ka,Ukraine
+1016401,44,- Low,Ivano-frankivs'ka,Ukraine
+1016401,44,- Medium,Khmel'nyts'ka,Ukraine
+1016401,44,- Medium,L'vivs'ka,Ukraine
+1016401,44,- Low,Rivnens'ka,Ukraine
+1016401,44,- Medium,Ternopil's'ka,Ukraine
+1016401,44,- Medium,Volyns'ka,Ukraine
+1016410,9,- Low,Bakool,Somalia
+1016410,9,- Low,Bay,Somalia
+1016410,9,- High,Banadir,Somalia
+1016410,9,- Low,Galgaduud,Somalia
+1016410,9,- Low,Gedo,Somalia
+1016410,9,- Low,Hiraan,Somalia
+1016410,9,- Low,Juba Hoose,Somalia
+1016410,9,- High,Shabelle Hoose,Somalia
+1016410,9,- Low,Juba Dhexe,Somalia
+1016410,9,- Low,Shabelle Dhexe,Somalia
+1016410,9,- Low,Mudug,Somalia
+1016449,39,- Medium,Paraguay,Paraguay
+1016449,39,- Medium,Pando,Bolivia
+1016449,39,- Medium,Administrative unit not available,Brazil
+1016449,39,- Medium,Acre,Brazil
+1016449,39,- Medium,Amazonas,Brazil
+1016449,39,- High,Espirito Santo,Brazil
+1016449,39,- Medium,"Goias, Distrito Federal",Brazil
+1016449,39,- Medium,Maranhao,Brazil
+1016449,39,- High,Mato Grosso,Brazil
+1016449,39,- Medium,Mato Grosso Do Sul,Brazil
+1016449,39,- Medium,Minas Gerais,Brazil
+1016449,39,- Medium,Para,Brazil
+1016449,39,- Medium,Parana,Brazil
+1016449,39,- Medium,Piaui,Brazil
+1016449,39,- High,Rio De Janeiro,Brazil
+1016449,39,- High,Rondonia,Brazil
+1016449,39,- Medium,Sao Paulo,Brazil
+1016449,39,- Medium,Tocantins,Brazil
+1016449,39,- Medium,Callao,Peru
+1016449,39,- Medium,Madre de Dios,Peru
+1016449,39,- Medium,Moquegua,Peru
+1016449,39,- Medium,Puno,Peru
+1016449,39,- Medium,Beni,Bolivia
+1016449,39,- Medium,Chuquisaca,Bolivia
+1016449,39,- Medium,Cochabamba,Bolivia
+1016449,39,- Medium,La Paz,Bolivia
+1016449,39,- Medium,Oruro,Bolivia
+1016449,39,- Medium,Potosi,Bolivia
+1016449,39,- High,Santa Cruz,Bolivia
+1016449,39,- Low,Amazonas,Colombia
+1016449,39,- Medium,Loreto,Peru
+1016449,39,- Medium,Arauca,Colombia
+1016449,39,- Medium,Boyaca,Colombia
+1016449,39,- Medium,Caqueta,Colombia
+1016449,39,- Medium,Casanare,Colombia
+1016449,39,- Medium,Guaviare,Colombia
+1016449,39,- Medium,Huila,Colombia
+1016449,39,- Medium,Meta,Colombia
+1016449,39,- Medium,Vichada,Colombia
+1016449,39,- Medium,Amazonas,Venezuela
+1016449,39,- Medium,Anzoategui,Venezuela
+1016449,39,- Medium,Apure,Venezuela
+1016449,39,- Medium,Aragua,Venezuela
+1016449,39,- Medium,Barinas,Venezuela
+1016449,39,- Medium,Bolivar,Venezuela
+1016449,39,- Medium,Carabobo,Venezuela
+1016449,39,- Medium,Cojedes,Venezuela
+1016449,39,- Medium,Falcon,Venezuela
+1016449,39,- Medium,Guarico,Venezuela
+1016449,39,- Medium,Lara,Venezuela
+1016449,39,- Medium,Merida,Venezuela
+1016449,39,- Medium,Miranda,Venezuela
+1016449,39,- Medium,Nueva Esparta,Venezuela
+1016449,39,- Medium,Portuguesa,Venezuela
+1016449,39,- Medium,Tachira,Venezuela
+1016449,39,- Medium,Trujillo,Venezuela
+1016449,39,- Medium,Yaracuy,Venezuela
+1016449,39,- Medium,Zulia,Venezuela
+1016449,39,- Medium,Vargas,Venezuela
+1016449,39,- Medium,Distrito Capital,Venezuela
+1016449,39,- Medium,Boyaca,Colombia
+1016449,39,- Medium,Casanare,Colombia
+1016449,39,- Low,Cundinamarca,Colombia
+1016449,39,- Medium,Meta,Colombia
+1016449,39,- Low,Tolima,Colombia
+1016449,39,- Medium,Cauca,Colombia
+1016449,39,- Medium,Putumayo,Colombia
+1016449,39,- Medium,"Azuay, Canar, Morona Santiago",Ecuador
+1016449,39,- Medium,"Chimborazo, Tunguarhua, Pastaza, Cotopaxi",Ecuador
+1016449,39,- Medium,"Imbabura, Esmeraldas, Carchi, Sucumbios",Ecuador
+1016449,39,- Medium,"Loja, El Oro, Zamora Chinchipe",Ecuador
+1016449,39,- Medium,"Napo, Pichincha, Orellana",Ecuador
+1016449,39,- Medium,Amazonas,Peru
+1016449,39,- Medium,Ancash,Peru
+1016449,39,- Medium,Apurímac,Peru
+1016449,39,- Medium,Arequipa,Peru
+1016449,39,- Medium,Ayacucho,Peru
+1016449,39,- Medium,Cajamarca,Peru
+1016449,39,- Medium,Cusco,Peru
+1016449,39,- Medium,Huancavelica,Peru
+1016449,39,- Medium,Huánuco,Peru
+1016449,39,- Medium,Ica,Peru
+1016449,39,- Medium,Junín,Peru
+1016449,39,- Medium,La Libertad,Peru
+1016449,39,- Medium,Lima,Peru
+1016449,39,- Medium,Loreto,Peru
+1016449,39,- Medium,Pasco,Peru
+1016449,39,- Medium,San Martín,Peru
+1016449,39,- Medium,Ucayali,Peru
+1016449,39,- Medium,"Guayas, Santa Elena, Los Rios, Bolivar",Ecuador
+1016449,39,- Medium,"Azuay, Canar, Morona Santiago",Ecuador
+1016449,39,- Medium,"Chimborazo, Tunguarhua, Pastaza, Cotopaxi",Ecuador
+1016449,39,- Low,"Manabi, Tunguarhua, St Domingo Tsachilas",Ecuador
+1016449,39,- Medium,"Napo, Pichincha, Orellana",Ecuador
+1016449,39,- Medium,Zona No Delimitada,Ecuador
+1016449,39,- Low,"Guayas, Santa Elena, Los Rios, Bolivar",Ecuador
+1016504,1,- Medium,Austria,Austria
+1016504,1,- Medium,Liechtenstein,Liechtenstein
+1016504,1,- Medium,Luxembourg,Luxembourg
+1016504,1,- Medium,Switzerland,Switzerland
+1016504,1,- Medium,Region wallonne,Belgium
+1016504,1,- Medium,Alsace,France
+1016504,1,- Medium,Bourgogne,France
+1016504,1,- Medium,Champagne-Ardenne,France
+1016504,1,- Medium,Franche-Comte,France
+1016504,1,- Medium,Lorraine,France
+1016504,1,- Medium,Baden-Wuerttemberg,Germany
+1016504,1,- Medium,Bayern,Germany
+1016504,1,- Medium,Hessen,Germany
+1016504,1,- Medium,Nordrhein-Westfalen,Germany
+1016504,1,- Medium,Rheinland-Pfalz,Germany
+1016504,1,- Medium,Saarland,Germany
+1016527,2,- High,Bahia,Brazil
+1016527,2,- High,Espirito Santo,Brazil
+1016527,2,- High,Minas Gerais,Brazil
+1016527,2,- Medium,Sergipe,Brazil
+1016544,8,- Low,Uganda,Uganda
+1016573,1,- Medium,"Goias, Distrito Federal",Brazil
+1016573,1,- Medium,Minas Gerais,Brazil
+1016573,1,- Medium,Rio De Janeiro,Brazil
+1016573,1,- Medium,Sao Paulo,Brazil
+1016588,28,- Low,Western Australia,Australia
+1016597,5,- Medium,Goa,India
+1016597,5,- Medium,Karnataka,India
+1016597,5,- High,Kerala,India
+1016597,5,- Medium,Maharashtra,India
+1016597,5,- High,Tamil Nadu,India
+1016597,5,- Medium,Puducherry,India
+1016612,5,- High,Paraguay,Paraguay
+1016612,5,- Medium,Pando,Bolivia
+1016612,5,- Medium,Rondonia,Brazil
+1016612,5,- Medium,Puno,Peru
+1016612,5,- Medium,Beni,Bolivia
+1016612,5,- High,Cochabamba,Bolivia
+1016612,5,- High,La Paz,Bolivia
+1016612,5,- High,Santa Cruz,Bolivia
+1016677,9,- Low,New South Wales,Australia
+1016677,9,- Medium,Queensland,Australia
+1016679,35,- Low,Andorra,Andorra
+1016679,35,- Low,Aquitaine,France
+1016679,35,- Low,Auvergne,France
+1016679,35,- Low,Centre,France
+1016679,35,- Low,Languedoc-Rousillon,France
+1016679,35,- Low,Limousin,France
+1016679,35,- Low,Midi-Pyrenees,France
+1016679,35,- Low,Poitou-Charentes,France
+1016679,35,- Low,"Provence-Alpes-Cote-d'Azur, Monaco",France
+1016679,35,- Low,Rhone-Alpes,France
+1016679,35,- Low,Basilicata,Italy
+1016679,35,- Low,Calabria,Italy
+1016679,35,- Low,Campania,Italy
+1016679,35,- Low,Emilia-romagna,Italy
+1016679,35,- Low,"Lazio, Holy See",Italy
+1016679,35,- Low,Lombardia,Italy
+1016679,35,- Low,Puglia,Italy
+1016679,35,- Low,Sardegna,Italy
+1016679,35,- Low,Sicilia,Italy
+1016679,35,- Low,Toscana,Italy
+1016679,35,- Low,Umbria,Italy
+1016679,35,- Low,Veneto,Italy
+1016679,35,- Low,Cantabria,Spain
+1016679,35,- Low,Castilla y León,Spain
+1016679,35,- Low,Cataluña/Catalunya,Spain
+1016679,35,- Low,País Vasco/Euskadi,Spain
+1016679,35,- Low,La Rioja,Spain
+1016682,29,- Medium,Kgalagadi,Botswana
+1016682,29,- Medium,Hardap,Namibia
+1016682,29,- Medium,Karas,Namibia
+1016682,29,- Medium,Northern Cape,South Africa
+1016686,33,- Medium,Tunisia,Tunisia
+1016686,33,- Medium,Ain-Defla,Algeria
+1016686,33,- Medium,Alger,Algeria
+1016686,33,- Medium,Annaba,Algeria
+1016686,33,- Medium,Batna,Algeria
+1016686,33,- Medium,Bejaia,Algeria
+1016686,33,- Medium,Biskra,Algeria
+1016686,33,- Medium,Blida,Algeria
+1016686,33,- Medium,Bordj Bou Arrer,Algeria
+1016686,33,- Medium,Bouira,Algeria
+1016686,33,- Medium,Boumerdes,Algeria
+1016686,33,- Medium,Chlef,Algeria
+1016686,33,- Medium,Constantine,Algeria
+1016686,33,- Low,El Bayadh,Algeria
+1016686,33,- Medium,El Oued,Algeria
+1016686,33,- Medium,El-Tarf,Algeria
+1016686,33,- Medium,Guelma,Algeria
+1016686,33,- Medium,Jijel,Algeria
+1016686,33,- Medium,Khenchela,Algeria
+1016686,33,- Low,Laghouat,Algeria
+1016686,33,- Medium,Medea,Algeria
+1016686,33,- Medium,Mila,Algeria
+1016686,33,- Medium,M'Sila,Algeria
+1016686,33,- Medium,Oum El Bouaghi,Algeria
+1016686,33,- Medium,Relizane,Algeria
+1016686,33,- Medium,Setif,Algeria
+1016686,33,- Medium,Skikda,Algeria
+1016686,33,- Medium,Souk-Ahras,Algeria
+1016686,33,- Medium,Tebessa,Algeria
+1016686,33,- Medium,Tiaret,Algeria
+1016686,33,- Medium,Tipaza,Algeria
+1016686,33,- Medium,Tissemsilt,Algeria
+1016686,33,- Medium,Tizi Ouzou,Algeria
+1016686,33,- Medium,Meknès - Tafilalet,Morocco
+1016686,33,- Medium,Chaouia - Ouardigha,Morocco
+1016686,33,- Medium,Rabat - Salé - Zemmour - Zaer,Morocco
+1016686,33,- Low,Tadla - Azilal,Morocco
+1016686,33,- Low,Ain-Temouchent,Algeria
+1016686,33,- Low,Mascara,Algeria
+1016686,33,- Low,Mostaganem,Algeria
+1016686,33,- Low,Naama,Algeria
+1016686,33,- Low,Oran,Algeria
+1016686,33,- High,Saida,Algeria
+1016686,33,- Low,Sidi Bel Abbes,Algeria
+1016686,33,- High,Tlemcen,Algeria
+1016686,33,- Low,Oriental,Morocco
+1016686,33,- Low,Ciudad Autónoma de Melilla,Spain
+1016686,33,- Low,Fès - Boulemane,Morocco
+1016686,33,- Low,Souss - Massa - Draâ,Morocco
+1016686,33,- Low,Tanger - Tétouan,Morocco
+1016686,33,- Low,Taza - Al Hoceima - Taounate,Morocco
+1016696,6,- Medium,Esfahan,Iran
+1016696,6,- Medium,Khorasan,Iran
+1016696,6,- Medium,Semnan,Iran
+1016696,6,- High,Mangistauskaya,Kazakhstan
+1016696,6,- Medium,Chardzhou,Turkmenistan
+1016696,6,- High,Mary,Turkmenistan
+1016696,6,- Medium,Tashauz,Turkmenistan
+1016696,6,- High,Bukhara,Uzbekistan
+1016696,6,- Medium,Karakalpakstan,Uzbekistan
+1016696,6,- Medium,Khorezm,Uzbekistan
+1016696,6,- High,Navoiy,Uzbekistan
+1016696,6,- High,Balkan,Turkmenistan
+1016696,6,- Medium,Ahal,Turkmenistan
+1016696,6,- Medium,Kermanshah,Iran
+1016696,6,- Medium,East Azarbayejan,Iran
+1016696,6,- Medium,Gilan,Iran
+1016696,6,- Medium,Hamedan,Iran
+1016696,6,- Medium,Kordestan,Iran
+1016696,6,- Medium,Lorestan,Iran
+1016696,6,- Medium,Markazi,Iran
+1016696,6,- Medium,Mazandaran,Iran
+1016696,6,- Medium,Tehran,Iran
+1016696,6,- Medium,West Azarbayejan,Iran
+1016696,6,- Medium,Zanjan,Iran
+1016696,6,- Medium,Ardebil,Iran
+1016696,6,- Medium,Ghazvin,Iran
+1016696,6,- Medium,Ghom,Iran
+1016715,19,- Low,Bali,Indonesia
+1016715,19,- Medium,Nusatenggara Barat,Indonesia
+1016715,19,- Medium,Jawa Timur,Indonesia
+1016764,7,- Low,Andhra Pradesh,India
+1016764,7,- Low,Karnataka,India
+1016764,7,- Low,Orissa,India
+1016777,17,- Medium,Santa Cruz,Argentina
+1016777,17,- Low,Magallanes y Antartica chilena,Chile
+1016833,27,- Medium,Alaotra Mangoro,Madagascar
+1016833,27,- Medium,Amoron I Mania,Madagascar
+1016833,27,- Medium,Analamanga,Madagascar
+1016833,27,- Medium,Analanjirofo,Madagascar
+1016833,27,- Medium,Atsimo Atsinanana,Madagascar
+1016833,27,- Medium,Atsinanana,Madagascar
+1016833,27,- Medium,Betsiboka,Madagascar
+1016833,27,- Medium,Boeny,Madagascar
+1016833,27,- Medium,Bongolava,Madagascar
+1016833,27,- Medium,Diana,Madagascar
+1016833,27,- Medium,Haute Matsiatra,Madagascar
+1016833,27,- Medium,Ihorombe,Madagascar
+1016833,27,- Medium,Itasy,Madagascar
+1016833,27,- Medium,Melaky,Madagascar
+1016833,27,- Medium,Menabe,Madagascar
+1016833,27,- Medium,Sava,Madagascar
+1016833,27,- Medium,Sofia,Madagascar
+1016833,27,- Medium,Vakinankaratra,Madagascar
+1016833,27,- Medium,Vatovavy Fitovinany,Madagascar
+1016878,24,- Medium,Manica,Mozambique
+1016878,24,- Medium,Tete,Mozambique
+1016878,24,- Medium,Manicaland,Zimbabwe
+1016878,24,- Low,Gaza,Mozambique
+1016878,24,- Low,Limpopo,South Africa
+1016878,24,- Medium,Mpumalanga,South Africa
+1016878,24,- Medium,Lusaka,Zambia
+1016878,24,- Medium,Mashonaland Central,Zimbabwe
+1016878,24,- Medium,Mashonaland West,Zimbabwe
+1016878,24,- Medium,Cabo Delgado,Mozambique
+1016878,24,- Medium,Nampula,Mozambique
+1016878,24,- Medium,Niassa,Mozambique
+1016878,24,- Medium,Zambezia,Mozambique
+1016891,13,- Medium,Lesotho,Lesotho
+1016891,13,- Low,Eastern Cape,South Africa
+1016891,13,- Low,KwaZulu-Natal,South Africa
+1016906,18,- Low,Ajdabiya (agedabia),Libya
+1016906,18,- Low,Al Jufrah,Libya
+1016906,18,- Low,Al Kufrah,Libya
+1016906,18,- Low,Ash Shati,Libya
+1016906,18,- Low,Murzuq,Libya
+1016906,18,- Low,Sabha,Libya
+1016906,18,- Medium,Sawfajjin (sofuljeen),Libya
+1016906,18,- Medium,Surt (sirte),Libya
+1016955,9,- Medium,Western Australia,Australia
+1016959,17,- Medium,Burundi,Burundi
+1016959,17,- Medium,Equatorial Guinea,Equatorial Guinea
+1016959,17,- Low,Bengo,Angola
+1016959,17,- Medium,Cabinda,Angola
+1016959,17,- Medium,Kuanza Norte,Angola
+1016959,17,- Medium,Uige,Angola
+1016959,17,- Medium,Centre,Cameroon
+1016959,17,- Medium,Est,Cameroon
+1016959,17,- Medium,Sud,Cameroon
+1016959,17,- Medium,Basse-Kotto,Central African Republic
+1016959,17,- Medium,Kémo,Central African Republic
+1016959,17,- Medium,Lobaye,Central African Republic
+1016959,17,- Medium,Mambéré-Kadéï,Central African Republic
+1016959,17,- Medium,Nana-Mambéré,Central African Republic
+1016959,17,- Medium,Ombella M'Poko,Central African Republic
+1016959,17,- Medium,Ouaka,Central African Republic
+1016959,17,- Medium,Sangha-Mbaéré,Central African Republic
+1016959,17,- Medium,Bouenza,Republic of Congo
+1016959,17,- High,Cuvette,Republic of Congo
+1016959,17,- High,Cuvette-Ouest,Republic of Congo
+1016959,17,- Medium,Lekoumou,Republic of Congo
+1016959,17,- Medium,Likouala,Republic of Congo
+1016959,17,- Medium,Niari,Republic of Congo
+1016959,17,- High,Plateaux,Republic of Congo
+1016959,17,- Medium,Sangha,Republic of Congo
+1016959,17,- High,Bandundu,Democratic Republic of the Congo
+1016959,17,- High,Bas-Congo,Democratic Republic of the Congo
+1016959,17,- High,Equateur,Democratic Republic of the Congo
+1016959,17,- Medium,Kasai Occidental,Democratic Republic of the Congo
+1016959,17,- Medium,Kasai Oriental,Democratic Republic of the Congo
+1016959,17,- High,Kinshasa,Democratic Republic of the Congo
+1016959,17,- Medium,Orientale,Democratic Republic of the Congo
+1016959,17,- Medium,Sud-Kivu,Democratic Republic of the Congo
+1016959,17,- Medium,Estuaire,Gabon
+1016959,17,- Medium,Haut-Ogooue,Gabon
+1016959,17,- Medium,Moyen-Ogooue,Gabon
+1016959,17,- Medium,Ngounie,Gabon
+1016959,17,- Medium,Nyanga,Gabon
+1016959,17,- Medium,Ogooue-Ivindo,Gabon
+1016959,17,- Medium,Ogooue-lolo,Gabon
+1016959,17,- Medium,Ogooue-Maritime,Gabon
+1016959,17,- Medium,Woleu-Ntem,Gabon
+1016959,17,- Medium,Kigoma,Tanzania
+1016959,17,- High,Pool,Republic of Congo
+1016960,13,- Medium,Liberia,Liberia
+1016960,13,- Medium,Atakora,Benin
+1016960,13,- Medium,Borgou,Benin
+1016960,13,- Medium,Collines,Benin
+1016960,13,- Medium,Couffo,Benin
+1016960,13,- Medium,Donga,Benin
+1016960,13,- Medium,Zou,Benin
+1016960,13,- Medium,Zanzan,Côte d'Ivoire
+1016960,13,- Medium,Ashanti,Ghana
+1016960,13,- Medium,Brong Ahafo,Ghana
+1016960,13,- Medium,Eastern,Ghana
+1016960,13,- Medium,Greater Accra,Ghana
+1016960,13,- Medium,Northern,Ghana
+1016960,13,- Medium,Upper West,Ghana
+1016960,13,- Medium,Volta,Ghana
+1016960,13,- Medium,Centrale,Togo
+1016960,13,- Medium,Kara,Togo
+1016960,13,- Medium,Maritime,Togo
+1016960,13,- Medium,Plateaux,Togo
+1016960,13,- Medium,Savanes,Togo
+1016960,13,- Medium,District autonome de Yamoussoukro,Côte d'Ivoire
+1016960,13,- Medium,Gôh-Djiboua,Côte d'Ivoire
+1016960,13,- Medium,Lacs,Côte d'Ivoire
+1016960,13,- Medium,Lagunes,Côte d'Ivoire
+1016960,13,- Medium,Montagnes,Côte d'Ivoire
+1016960,13,- Medium,Sassandra-Marahoue,Côte d'Ivoire
+1016960,13,- Medium,Woroba,Côte d'Ivoire
+1016960,13,- Medium,Bas Sassandra,Côte d'Ivoire
+1016963,16,- Low,Campeche,Mexico
+1016963,16,- Low,Guerrero,Mexico
+1016963,16,- Low,Hidalgo,Mexico
+1016963,16,- Low,Mexico,Mexico
+1016963,16,- Low,Oaxaca,Mexico
+1016963,16,- Low,Puebla,Mexico
+1016963,16,- Low,Tabasco,Mexico
+1016963,16,- Low,Veracruz,Mexico
+1016963,16,- High,Chihuahua,Mexico
+1016963,16,- Medium,Coahuila,Mexico
+1016963,16,- Medium,Sonora,Mexico
+1016963,16,- Medium,New Mexico,United States
+1016963,16,- Medium,Texas,United States
+1016963,16,- Medium,Baja California Sur,Mexico
+1016995,15,- Low,Nord,Cameroon
+1016995,15,- Medium,Nord - Ouest,Cameroon
+1016995,15,- Medium,Sud - Ouest,Cameroon
+1016995,15,- High,Adamawa,Nigeria
+1016995,15,- Medium,Akwa Ibom,Nigeria
+1016995,15,- Medium,Anambra,Nigeria
+1016995,15,- Medium,Benue,Nigeria
+1016995,15,- High,Borno,Nigeria
+1016995,15,- Medium,Cross River,Nigeria
+1016995,15,- Medium,Delta,Nigeria
+1016995,15,- Medium,Edo,Nigeria
+1016995,15,- Medium,Abuja,Nigeria
+1016995,15,- Medium,Imo,Nigeria
+1016995,15,- High,Jigawa,Nigeria
+1016995,15,- Medium,Kaduna,Nigeria
+1016995,15,- Medium,Kano,Nigeria
+1016995,15,- Medium,Kogi,Nigeria
+1016995,15,- Medium,Kwara,Nigeria
+1016995,15,- Medium,Niger,Nigeria
+1016995,15,- Medium,Ogun,Nigeria
+1016995,15,- Medium,Osun,Nigeria
+1016995,15,- Medium,Oyo,Nigeria
+1016995,15,- Medium,Taraba,Nigeria
+1016995,15,- High,Yobe,Nigeria
+1016995,15,- Medium,Abia,Nigeria
+1016995,15,- High,Bauchi,Nigeria
+1016995,15,- Medium,Bayelsa,Nigeria
+1016995,15,- Medium,Ebonyi,Nigeria
+1016995,15,- Medium,Ekiti,Nigeria
+1016995,15,- Medium,Enugu,Nigeria
+1016995,15,- High,Gombe,Nigeria
+1016995,15,- Medium,Nassarawa,Nigeria
+1016995,15,- Medium,Ondo,Nigeria
+1016995,15,- Medium,Plateau,Nigeria
+1016995,15,- Medium,Rivers,Nigeria
+1016995,15,- Low,Zamfara,Nigeria
+1017005,12,- Medium,Thailand,Thailand
+1017005,12,- Low,Sichuan Sheng,China
+1017005,12,- Low,Yunnan Sheng,China
+1017005,12,- Medium,Kelantan,Malaysia
+1017005,12,- Low,Terengganu,Malaysia
+1017005,12,- Low,Region VI (Western Visayas),Philippines
+1017005,12,- Low,Region IV (Southern Tagalog),Philippines
+1017013,10,- Medium,South Australia,Australia
+1017013,10,- Medium,Victoria,Australia
+1017051,12,- Medium,Georgia,Georgia
+1017051,12,- Medium,Moldova,Moldova
+1017051,12,- High,Romania,Romania
+1017051,12,- Medium,Gomel,Belarus
+1017051,12,- Medium,Adygeya Rep.,Russia
+1017051,12,- Low,Astrakhanskaya Oblast,Russia
+1017051,12,- Medium,Belgorodskaya Oblast,Russia
+1017051,12,- Medium,Chechnya Rep.,Russia
+1017051,12,- Medium,Dagestan Rep.,Russia
+1017051,12,- Medium,Ingushetiya Rep.,Russia
+1017051,12,- Medium,Kabardino-balkariya Rep.,Russia
+1017051,12,- Medium,Kalmykiya Rep.,Russia
+1017051,12,- Medium,Karatchayevo-cherkesiya Rep.,Russia
+1017051,12,- Medium,Krasnodarskiy Kray,Russia
+1017051,12,- Medium,Kurskaya Oblast,Russia
+1017051,12,- Medium,Lipetskaya Oblast,Russia
+1017051,12,- Low,Mordoviya Rep.,Russia
+1017051,12,- Medium,Name Unknown,Russia
+1017051,12,- Low,Penzenskaya Oblast,Russia
+1017051,12,- Medium,Rostovskaya Oblast,Russia
+1017051,12,- Medium,Saratovskaya Oblast,Russia
+1017051,12,- Medium,Severnaya Osetiya-alaniya Rep.,Russia
+1017051,12,- Medium,Stavropolskiy Kray,Russia
+1017051,12,- Low,Ulyanovskaya Oblast,Russia
+1017051,12,- Medium,Volgogradskaya Oblast,Russia
+1017051,12,- Medium,Voronezhskaya Oblast,Russia
+1017051,12,- Medium,Cherkas'ka,Ukraine
+1017051,12,- Medium,Chernihivs'ka,Ukraine
+1017051,12,- High,Chernivets'ka,Ukraine
+1017051,12,- Medium,Dnipropetrovs'ka,Ukraine
+1017051,12,- Medium,Donets'ka,Ukraine
+1017051,12,- Medium,Ivano-frankivs'ka,Ukraine
+1017051,12,- Medium,Kharkivs'ka,Ukraine
+1017051,12,- Medium,Khersons'ka,Ukraine
+1017051,12,- Medium,Khmel'nyts'ka,Ukraine
+1017051,12,- Medium,Kirovohrads'ka,Ukraine
+1017051,12,- Medium,Krym,Ukraine
+1017051,12,- Medium,Kyyivs'ka,Ukraine
+1017051,12,- Medium,Luhans'ka,Ukraine
+1017051,12,- Medium,Mykolayivs'ka,Ukraine
+1017051,12,- Medium,Odes'ka,Ukraine
+1017051,12,- Medium,Poltavs'ka,Ukraine
+1017051,12,- Medium,Sums'ka,Ukraine
+1017051,12,- Medium,Ternopil's'ka,Ukraine
+1017051,12,- Medium,Vinnyts'ka,Ukraine
+1017051,12,- Medium,Zaporiz'ka,Ukraine
+1017051,12,- Medium,Zhytomyrs'ka,Ukraine
+1017111,9,- Medium,Alberta,Canada
+1017114,5,- Medium,Guera,Chad
+1017114,5,- Medium,Salamat,Chad
+1017114,5,- Low,Batha Est,Chad
+1017114,5,- Low,Batha Ouest,Chad
+1017114,5,- Low,Baguirmi,Chad
+1017114,5,- Low,Daraba,Chad
+1017114,5,- Low,Ouaddai,Chad
+1017217,5,- Low,Bihar,India
+1017217,5,- Low,Uttar Pradesh,India
+1017227,5,- Low,Virginia,United States
+1017227,5,- Low,West Virginia,United States
+1017227,5,- Low,Kentucky,United States
+1017227,5,- Low,Ohio,United States
+1017227,5,- Low,Pennsylvania,United States
+1017243,2,- High,Hebei Sheng,China
+1017243,2,- Medium,Shaanxi Sheng,China
+1017243,2,- High,Shanxi Sheng,China
+1017265,1,- Medium,Amurskaya Oblast,Russia
+1017265,1,- Medium,Buryatiya Rep.,Russia
+1017265,1,- Medium,Chitinskaya Oblast,Russia
+1017265,1,- Medium,Sakha Rep.,Russia
+1017286,2,- Medium,Catamarca,Argentina
+1017286,2,- Medium,Cordoba,Argentina
+1017286,2,- Medium,La Rioja,Argentina
+1017286,2,- Medium,Salta,Argentina
+1017286,2,- Medium,San Juan,Argentina
+1017286,2,- Medium,San Luis,Argentina
+1017286,2,- Medium,Santa Fe,Argentina
+1017286,2,- Medium,Santiago Del Estero,Argentina
+1017286,2,- Medium,Buenos Aires,Argentina
+1017334,1,- Medium,Arxangai,Mongolia
+1017334,1,- Medium,Bayan-O'lgii,Mongolia
+1017334,1,- Medium,Bayanxongor,Mongolia
+1017334,1,- Medium,Xovd,Mongolia
+1017334,1,- Medium,Xo'vsgol,Mongolia
+1017334,1,- Medium,Uvs,Mongolia
+1017334,1,- Medium,Zavxan,Mongolia
+1017334,1,- Medium,Tyva Rep.,Russia

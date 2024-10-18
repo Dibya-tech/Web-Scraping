@@ -1,13 +1,226 @@
 Event_id,Episode,Country
-1012728,52,Angola
-1012728,52,Botswana
-1012728,52,Mozambique
-1012728,52,Namibia
-1012728,52,Zambia
-1012728,52,Zimbabwe
-1012728,52,Angola
-1012728,52,Botswana
-1012728,52,Mozambique
-1012728,52,Namibia
-1012728,52,Zambia
-1012728,52,Zimbabwe
+1013868,152,Argentina
+1013981,26,Mozambique
+1014149,10,Mexico
+1014268,8,Brazil
+1014313,12,China
+1014313,12,India
+1014313,12,Nepal
+1014320,28,Canada
+1014320,28,United States
+1014392,36,Armenia
+1014392,36,Azerbaijan
+1014392,36,Iran
+1014416,29,Angola
+1014465,24,Argentina
+1014465,24,Chile
+1014473,54,Afghanistan
+1014473,54,Kazakhstan
+1014473,54,Tajikistan
+1014473,54,Turkmenistan
+1014495,98,Madagascar
+1014509,17,Cameroon
+1014509,17,Nigeria
+1014614,13,Italy
+1014676,1,Afghanistan
+1014676,1,Iran
+1014676,1,Pakistan
+1014695,36,Algeria
+1014695,36,Morocco
+1014695,36,Tunisia
+1014718,20,Bangladesh
+1014718,20,India
+1014718,20,Myanmar
+1014726,1,Chile
+1014742,75,Mozambique
+1014742,75,Tanzania
+1014756,6,Burundi
+1014756,6,Democratic Republic of the Congo
+1014756,6,Rwanda
+1014821,18,United States
+1014875,3,China
+1014881,3,Kazakhstan
+1014881,3,Russia
+1014881,3,Uzbekistan
+1014958,27,Argentina
+1014958,27,Chile
+1015039,14,Angola
+1015039,14,Democratic Republic of the Congo
+1015039,14,Republic of Congo
+1015040,4,South Sudan
+1015084,2,Russia
+1015088,81,United States
+1015187,9,Belize
+1015187,9,Guatemala
+1015187,9,Honduras
+1015187,9,Mexico
+1015249,12,Portugal
+1015249,12,Spain
+1015257,88,Iran
+1015257,88,Kazakhstan
+1015257,88,Kyrgyzstan
+1015257,88,Tajikistan
+1015257,88,Turkmenistan
+1015257,88,Uzbekistan
+1015281,20,Democratic Republic of the Congo
+1015281,20,Zambia
+1015291,5,Haiti
+1015356,22,Angola
+1015426,42,Greece
+1015426,42,Turkey
+1015469,49,France
+1015469,49,Italy
+1015469,49,Monaco
+1015511,3,Italy
+1015511,3,Vatican City
+1015512,3,Canada
+1015512,3,United States
+1015553,10,United States
+1015559,20,Brazil
+1015589,4,Turkey
+1015605,8,Belgium
+1015605,8,Czech Republic
+1015605,8,France
+1015605,8,Germany
+1015605,8,Luxembourg
+1015605,8,Poland
+1015605,8,Sweden
+1015623,22,China
+1015623,22,Mongolia
+1015708,43,Portugal
+1015708,43,Spain
+1015709,40,Argentina
+1015709,40,Chile
+1015767,25,Peru
+1015771,22,India
+1015771,22,Myanmar
+1015792,29,Nigeria
+1015826,23,China
+1015849,11,Russia
+1015974,12,United States
+1015981,33,Algeria
+1015981,33,Morocco
+1016053,34,United States
+1016076,4,Colombia
+1016100,21,Namibia
+1016107,17,Dominican Republic
+1016107,17,Haiti
+1016209,26,China
+1016209,26,Laos
+1016209,26,Myanmar
+1016209,26,Thailand
+1016231,4,Mexico
+1016287,15,India
+1016298,29,Canada
+1016315,12,Colombia
+1016348,18,Russia
+1016386,8,Nigeria
+1016401,44,Austria
+1016401,44,Belarus
+1016401,44,Bosnia and Herzegovina
+1016401,44,Bulgaria
+1016401,44,Croatia
+1016401,44,Hungary
+1016401,44,Lithuania
+1016401,44,Montenegro
+1016401,44,Poland
+1016401,44,Romania
+1016401,44,Russia
+1016401,44,Serbia
+1016401,44,Slovenia
+1016401,44,Ukraine
+1016410,9,Somalia
+1016449,39,Bolivia
+1016449,39,Brazil
+1016449,39,Colombia
+1016449,39,Ecuador
+1016449,39,Paraguay
+1016449,39,Peru
+1016449,39,Venezuela
+1016504,1,Austria
+1016504,1,Belgium
+1016504,1,France
+1016504,1,Germany
+1016504,1,Liechtenstein
+1016504,1,Luxembourg
+1016504,1,Switzerland
+1016527,2,Brazil
+1016544,8,Uganda
+1016573,1,Brazil
+1016588,28,Australia
+1016597,5,India
+1016612,5,Bolivia
+1016612,5,Brazil
+1016612,5,Paraguay
+1016612,5,Peru
+1016677,9,Australia
+1016679,35,Albania
+1016679,35,Bulgaria
+1016679,35,Cyprus
+1016679,35,Greece
+1016679,35,Italy
+1016679,35,Macedonia
+1016679,35,Malta
+1016679,35,Spain
+1016679,35,Turkey
+1016682,29,Namibia
+1016682,29,South Africa
+1016686,33,Algeria
+1016686,33,Morocco
+1016686,33,Spain
+1016686,33,Tunisia
+1016696,6,Iran
+1016696,6,Kazakhstan
+1016696,6,Turkmenistan
+1016696,6,Uzbekistan
+1016715,19,Indonesia
+1016764,7,India
+1016777,17,Argentina
+1016777,17,Chile
+1016833,27,Madagascar
+1016878,24,Mozambique
+1016878,24,South Africa
+1016878,24,Zambia
+1016878,24,Zimbabwe
+1016891,13,Lesotho
+1016891,13,South Africa
+1016906,18,Libya
+1016955,9,Australia
+1016959,17,Angola
+1016959,17,Burundi
+1016959,17,Cameroon
+1016959,17,Central African Republic
+1016959,17,Democratic Republic of the Congo
+1016959,17,Equatorial Guinea
+1016959,17,Gabon
+1016959,17,Republic of Congo
+1016959,17,Tanzania
+1016960,13,Benin
+1016960,13,Côte d'Ivoire
+1016960,13,Ghana
+1016960,13,Liberia
+1016960,13,Togo
+1016963,16,Mexico
+1016963,16,United States
+1016995,15,Cameroon
+1016995,15,Nigeria
+1017005,12,China
+1017005,12,Malaysia
+1017005,12,Philippines
+1017005,12,Thailand
+1017013,10,Australia
+1017051,12,Belarus
+1017051,12,Georgia
+1017051,12,Moldova
+1017051,12,Romania
+1017051,12,Russia
+1017051,12,Ukraine
+1017111,9,Canada
+1017114,5,Chad
+1017217,5,India
+1017227,5,United States
+1017243,2,China
+1017265,1,Russia
+1017286,2,Argentina
+1017334,1,Mongolia
+1017334,1,Russia
