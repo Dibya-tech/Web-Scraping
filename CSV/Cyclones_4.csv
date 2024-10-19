@@ -1,37 +1,162 @@
 Event_id,Episode,Countries
-1000667,18,China
-1000667,18,Taiwan
-1000667,18,Japan
-1000667,18,Philippines
-1000673,4,India
-1000702,24,China
-1000702,24,North Korea
-1000702,24,South Korea
-1000702,24,Russia
-1000702,24,Japan
-1000705,24,South Korea
-1000705,24,Japan
-1000705,24,North Korea
-1000705,24,China
-1000706,29,North Korea
-1000706,29,China
-1000706,29,Russia
-1000706,29,South Korea
-1000706,29,Japan
-1000726,24,United States
-1000726,24,Mexico
-1000726,24,Cuba
-1000734,18,Vietnam
-1000734,18,Laos
-1000734,18,Philippines
-1000736,37,Philippines
-1000738,52,United States
-1000738,52,The Bahamas
-1000738,52,Cuba
-1000738,52,Cayman Is.
-1000738,52,Honduras
-1000738,52,Nicaragua
-1000738,52,Colombia
-1000741,25,Vietnam
-1000741,25,Laos
-1000741,25,Philippines
+1001008,49,Canada
+1001008,49,St. Pierre & Miquelon
+1001008,49,United States
+1001008,49,Bermuda
+1001008,49,Canada
+1001008,49,St. Pierre & Miquelon
+1001008,49,United States
+1001008,49,Bermuda
+1001008,49,Canada
+1001008,49,St. Pierre & Miquelon
+1001008,49,United States
+1001008,49,Bermuda
+1001013,12,United States
+1001013,12,The Bahamas
+1001014,53,Bermuda
+1001014,53,United States
+1001014,53,British Virgin Is.
+1001014,53,Puerto Rico
+1001014,53,Virgin Is.
+1001014,53,Anguilla
+1001014,53,Canada
+1001014,53,Antigua & Barbuda
+1001014,53,St. Kitts & Nevis
+1001014,53,Montserrat
+1001014,53,Guadeloupe
+1001014,53,Dominica
+1001014,53,Martinique
+1001018,43,China
+1001018,43,Philippines
+1001018,43,Japan
+1001019,33,Mexico
+1001021,10,Mexico
+1001023,14,China
+1001024,24,Mexico
+1001025,40,Bermuda
+1001025,40,Antigua & Barbuda
+1001025,40,Anguilla
+1001025,40,British Virgin Is.
+1001025,40,St. Kitts & Nevis
+1001025,40,Virgin Is.
+1001025,40,Guadeloupe
+1001025,40,Montserrat
+1001025,40,Dominica
+1001025,40,Martinique
+1001025,40,St. Lucia
+1001025,40,Barbados
+1001025,40,St. Vincent & the Grenadines
+1001026,16,Yemen
+1001026,16,Oman
+1001027,18,Vanuatu
+1001027,18,Solomon Is.
+1001028,15,Mexico
+1001029,7,Bangladesh
+1001029,7,Myanmar
+1001029,7,India
+1001033,13,Fiji
+1001034,4,Bangladesh
+1001034,4,India
+1001037,8,India
+1001038,35,Australia
+1001038,35,Solomon Is.
+1001040,18,Madagascar
+1001041,27,Mauritius
+1001041,27,Reunion
+1001043,14,Australia
+1001044,13,Reunion
+1001044,13,Mauritius
+1001048,12,Vanuatu
+1001050,13,Australia
+1001051,4,Cook Is.
+1001052,20,Reunion
+1001052,20,Mauritius
+1001055,42,Christmas I.
+1001056,12,Australia
+1001057,11,Madagascar
+1001058,21,Australia
+1001060,15,Tanzania
+1001060,15,Comoros
+1001060,15,Seychelles
+1001061,24,Kenya
+1001061,24,Tanzania
+1001063,26,Japan
+1001063,26,Philippines
+1001064,6,India
+1001064,6,Bangladesh
+1001064,6,Bhutan
+1001066,13,Mexico
+1001066,13,United States
+1001066,13,Guatemala
+1001066,13,Belize
+1001067,43,United States
+1001067,43,Mexico
+1001067,43,Cuba
+1001067,43,Cayman Is.
+1001067,43,Jamaica
+1001067,43,Haiti
+1001067,43,Dominican Republic
+1001067,43,Venezuela
+1001067,43,St. Lucia
+1001067,43,St. Vincent & the Grenadines
+1001067,43,Grenada
+1001067,43,Barbados
+1001067,43,Trinidad & Tobago
+1001068,4,Mexico
+1001071,14,Vietnam
+1001071,14,China
+1001072,24,China
+1001072,24,Taiwan
+1001072,24,Japan
+1001072,24,Philippines
+1001075,27,United States
+1001075,27,Cuba
+1001079,24,Japan
+1001080,36,Canada
+1001080,36,St. Pierre & Miquelon
+1001080,36,Bermuda
+1001080,36,Anguilla
+1001080,36,Antigua & Barbuda
+1001080,36,British Virgin Is.
+1001080,36,Turks & Caicos Is.
+1001080,36,Virgin Is.
+1001080,36,St. Kitts & Nevis
+1001080,36,Puerto Rico
+1001080,36,Montserrat
+1001080,36,Guadeloupe
+1001080,36,Dominican Republic
+1001080,36,Dominica
+1001082,24,Japan
+1001085,8,South Korea
+1001086,42,Japan
+1001087,42,United States
+1001089,11,Pakistan
+1001089,11,India
+1001090,24,Vietnam
+1001090,24,China
+1001092,16,United States
+1001092,16,Mexico
+1001093,25,China
+1001093,25,Japan
+1001095,13,Mexico
+1001097,20,South Korea
+1001097,20,Japan
+1001097,20,China
+1001099,7,China
+1001099,7,Taiwan
+1001100,20,Mexico
+1001101,18,United States
+1001101,18,Cuba
+1001101,18,Mexico
+1001101,18,Belize
+1001104,24,Russia
+1001104,24,Japan
+1001104,24,United States
+1001105,27,Taiwan
+1001105,27,Philippines
+1001109,9,Mexico
+1001111,23,The Bahamas
+1001111,23,United States
+1001111,23,Bermuda
+1001111,23,Mexico
+1001112,15,Russia

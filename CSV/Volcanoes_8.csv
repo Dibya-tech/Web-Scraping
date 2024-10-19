@@ -1,7 +1,118 @@
 Event_id,Episode,Reservoir,Dam_Name,River,Year,Distance
+1000000,49,,Pozzillo,Salso,1959,35 km
+1000000,49,,Ancipa,Troina,1953,38 km
+1000000,49,,Lentini,Lentini,1991,48 km
+1000000,49,,Nicoletti,Bozzetta,1972,60 km
+1000000,49,,Villarosa,Morello,1971,72 km
+1000000,49,,Santa Rosalia,Irminio,1983,89 km
+1000004,6,,Kedung Ombo,Uter,1989,53 km
+1000004,6,,Wonogiri,Keduang,1982,62 km
+1000004,6,,Wadaslintang,Lunto,1987,74 km
+1000007,1,,Sengguruh,Lesti,1988,42 km
+1000007,1,,Lahor,Brantas,1975,52 km
+1000007,1,,Karang Kates,Brantas,1973,53 km
+1000007,1,,Selorejo,Konto,1970,68 km
+1000007,1,,Wlingi,Brantas,1977,74 km
+1000011,1,,Pueblo Viejo,Chixoy,1983,99 km
+1000012,5,Caliraya,Caliraya,Caliraya,1949,64 km
+1000016,1,Osumiko,Takakuma,Kushiragawa,1968,21 km
+1000016,1,Takeyama,Takeyama,Usonokigawa,1986,25 km
+1000016,1,Otsuruko,Tsuruda,Sendaigawa,1965,47 km
+1000016,1,Kogawa,Kogawa,Kogawa,1973,57 km
+1000016,1,Oyodogawadaiichi,Oyodogawadaiichi,Oyodogawa,1961,58 km
+1000016,1,Sakataniko,Nichinan,Sakatanigawa,1984,59 km
+1000016,1,Nojiriko,Iwase,Iwasegawa,1967,60 km
+1000016,1,Oyodogawadaini,Oyodogawadaini,Oyodogawa,1932,64 km
+1000016,1,Onoko,Ayaminami,Honjogawa,1958,68 km
+1000016,1,Tachibana,Tachibana,Jarogawa,1963,83 km
+1000016,1,Ichifusa,Ichifusa,Kumagawa,1959,87 km
+1000016,1,Hitotsuse,Hitotsuse,Hitotsusegawa,1963,91 km
+1000016,1,Uchitani,Uchitani,Itsukiogawa,1975,92 km
+1000024,1,,Pueblo Viejo,Chixoy,1983,99 km
+1000026,1,,Pueblo Viejo,Chixoy,1983,99 km
+1000027,1,,Kedung Ombo,Uter,1989,53 km
+1000027,1,,Wonogiri,Keduang,1982,62 km
+1000027,1,,Wadaslintang,Lunto,1987,74 km
+1000030,1,,Kedung Ombo,Uter,1989,53 km
+1000030,1,,Wonogiri,Keduang,1982,62 km
+1000030,1,,Wadaslintang,Lunto,1987,74 km
+1000034,1,,Ancipa,Troina,1953,72 km
+1000034,1,,Pozzillo,Salso,1959,87 km
+1000035,5,,Sengguruh,Lesti,1988,42 km
+1000035,5,,Lahor,Brantas,1975,52 km
+1000035,5,,Karang Kates,Brantas,1973,53 km
+1000035,5,,Selorejo,Konto,1970,68 km
+1000035,5,,Wlingi,Brantas,1977,74 km
+1000039,1,,Kedung Ombo,Uter,1989,53 km
+1000039,1,,Wonogiri,Keduang,1982,62 km
+1000039,1,,Wadaslintang,Lunto,1987,74 km
+1000040,1,,Sengguruh,Lesti,1988,42 km
+1000040,1,,Lahor,Brantas,1975,52 km
+1000040,1,,Karang Kates,Brantas,1973,53 km
+1000040,1,,Selorejo,Konto,1970,68 km
+1000040,1,,Wlingi,Brantas,1977,74 km
+1000047,1,,Pozzillo,Salso,1959,35 km
+1000047,1,,Ancipa,Troina,1953,38 km
+1000047,1,,Lentini,Lentini,1991,48 km
+1000047,1,,Nicoletti,Bozzetta,1972,60 km
+1000047,1,,Villarosa,Morello,1971,72 km
+1000047,1,,Santa Rosalia,Irminio,1983,89 km
+1000054,1,,15 de Septiembre,Lempa,n/a,38 km
+1000054,1,,5 de Noviembre,Lempa,n/a,82 km
+1000054,1,,Cerron Grande,Lempa,1973,91 km
+1000057,3,,Sengguruh,Lesti,1988,42 km
+1000057,3,,Lahor,Brantas,1975,52 km
+1000057,3,,Karang Kates,Brantas,1973,53 km
+1000057,3,,Selorejo,Konto,1970,68 km
+1000057,3,,Wlingi,Brantas,1977,74 km
+1000059,1,,Pueblo Viejo,Chixoy,1983,99 km
+1000062,1,,Kedung Ombo,Uter,1989,53 km
+1000062,1,,Wonogiri,Keduang,1982,62 km
+1000062,1,,Wadaslintang,Lunto,1987,74 km
+1000067,1,,Sengguruh,Lesti,1988,42 km
+1000067,1,,Lahor,Brantas,1975,52 km
+1000067,1,,Karang Kates,Brantas,1973,53 km
+1000067,1,,Selorejo,Konto,1970,68 km
+1000067,1,,Wlingi,Brantas,1977,74 km
+1000069,1,,Pueblo Viejo,Chixoy,1983,99 km
+1000070,2,,Manuel Avila Camacho,Atoyac,1946,55 km
+1000070,2,,San Jose Atlangatepec,Zahuapan,1959,74 km
+1000070,2,,Madin,Tlalnepantla,1976,88 km
+1000070,2,,Guadalupe,Cuautitla,1968,95 km
+1000071,1,,Pozzillo,Salso,1959,35 km
+1000071,1,,Ancipa,Troina,1953,38 km
+1000071,1,,Lentini,Lentini,1991,48 km
+1000071,1,,Nicoletti,Bozzetta,1972,60 km
+1000071,1,,Villarosa,Morello,1971,72 km
+1000071,1,,Santa Rosalia,Irminio,1983,89 km
+1000073,1,,Lagunillas,Ramis,1995,73 km
+1000074,1,,Kedung Ombo,Uter,1989,53 km
+1000074,1,,Wonogiri,Keduang,1982,62 km
+1000074,1,,Wadaslintang,Lunto,1987,74 km
+1000076,1,,Pozzillo,Salso,1959,35 km
+1000076,1,,Ancipa,Troina,1953,38 km
+1000076,1,,Lentini,Lentini,1991,48 km
+1000076,1,,Nicoletti,Bozzetta,1972,60 km
+1000076,1,,Villarosa,Morello,1971,72 km
+1000076,1,,Santa Rosalia,Irminio,1983,89 km
 1000086,1,,Kedung Ombo,Uter,1989,53 km
 1000086,1,,Wonogiri,Keduang,1982,63 km
 1000086,1,,Wadaslintang,Lunto,1987,74 km
-1000086,1,,Kedung Ombo,Uter,1989,53 km
-1000086,1,,Wonogiri,Keduang,1982,63 km
-1000086,1,,Wadaslintang,Lunto,1987,74 km
+1000087,1,,Manuel Avila Camacho,Atoyac,1946,55 km
+1000087,1,,San Jose Atlangatepec,Zahuapan,1959,74 km
+1000087,1,,Madin,Tlalnepantla,1976,87 km
+1000087,1,,Guadalupe,Cuautitla,1968,95 km
+1000095,2,,Pozzillo,Salso,1959,35 km
+1000095,2,,Ancipa,Troina,1953,38 km
+1000095,2,,Lentini,Lentini,1991,48 km
+1000095,2,,Nicoletti,Bozzetta,1972,60 km
+1000095,2,,Villarosa,Morello,1971,72 km
+1000095,2,,Santa Rosalia,Irminio,1983,89 km
+1000096,1,,Matahina,Rangataiki,1965,74 km
+1000096,1,,Aniwhenua Barrage,Rangitaiki,1980,94 km
+211060,11,,Pozzillo,Salso,1959,35 km
+211060,11,,Ancipa,Troina,1953,38 km
+211060,11,,Lentini,Lentini,1991,48 km
+211060,11,,Nicoletti,Bozzetta,1972,60 km
+211060,11,,Villarosa,Morello,1971,72 km
+211060,11,,Santa Rosalia,Irminio,1983,89 km

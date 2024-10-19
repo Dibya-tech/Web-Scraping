@@ -1,13 +1,392 @@
 Event_id,Episode,Name,IATA_Code,Elevation_in_m,Usage,Runway_type,IFR,Runway_Length_in_ft,Distance
+1000000,49,Catania Fontanarossa,CTA,13,Civ.,Paved,Yes,8100,32 km
+1000000,49,Sigonella,NSY,24,Mil.,Paved,Yes,8000,39 km
+1000000,49,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,68 km
+1000000,49,Comiso,CIY,unknown,,,,0,90 km
+1000002,1,Klyuchi,,66,,,,0,39 km
+1000002,1,Klyuchi Southeast,,32,,,,0,42 km
+1000002,1,Kozyrevsk,,30,,,,0,46 km
+1000003,1,Polonia,MES,27,Civ.,Paved,Yes,9500,53 km
+1000004,6,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
+1000004,6,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
+1000004,6,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
+1000005,1,Tanna Island Tanna,TAH,unknown,,,,0,25 km
+1000005,1,White Grass,,6,Civ.,Paved,Yes,5000,25 km
+1000005,1,Aniwa,AWD,unknown,,,,0,37 km
+1000005,1,Ipota,IPA,unknown,,,,0,77 km
+1000005,1,Futuna Island,FTA,unknown,,,,0,82 km
+1000005,1,Dillons Bay,DLY,unknown,,,,0,96 km
+1000006,4,Lewoleba,LWE,unknown,,,,0,17 km
+1000006,4,Larantuka,LKA,unknown,,,,0,59 km
+1000007,1,Abdulrachman Saleh,MLG,526,Civ.,Paved,No,6400,31 km
+1000007,1,Juanda,SUB,3,Civ.,Paved,Yes,9800,82 km
+1000008,1,St Pierre Pierrefonds,ZSE,16,,,,0,31 km
+1000008,1,Saint Denis Gillot,RUN,20,,,,0,44 km
+1000009,1,Rainshed,,1219,,,,0,3 km
+1000009,1,Mountain View Airstrip,,457,,,,0,23 km
+1000009,1,Pahala Airstrip,,364,,,,0,30 km
+1000009,1,Upper Paauau,,792,,,,0,32 km
+1000009,1,Hilo Hospital,,148,,,,0,35 km
+1000009,1,Mauna Kea-Honolii,,427,,,,0,41 km
+1000009,1,Hilo International,ITO,12,Civ.,Paved,Yes,9800,42 km
+1000009,1,Kaalaiki Airstrip,,599,,,,0,45 km
+1000009,1,Bradshaw AAF,BSF,1886,Civ.,Paved,No,3600,47 km
+1000009,1,Pepeekeo Airstrip,,206,,,,0,50 km
+1000009,1,Peleau,,332,,,,0,55 km
+1000009,1,Lucy Henriques Medical Center,,853,,,,0,62 km
+1000009,1,Upper Paauilo Airstrip,,463,,,,0,68 km
+1000009,1,Puu Waa Waa Ranch,,686,,,,0,72 km
+1000009,1,Kamuela,MUE,814,Civ.,Paved,No,5100,76 km
+1000009,1,Honokaa Airstrip,,439,,,,0,77 km
+1000009,1,Waikoloa,,33,,,,0,81 km
+1000009,1,Kaupulehu,,13,,,,0,86 km
+1000009,1,Keahole,KOA,13,Civ.,Paved,Yes,11000,87 km
+1000010,1,La Aurora,GUA,1509,Civ.,Paved,Yes,9800,24 km
+1000010,1,El Naranjo,ENJ,unknown,,,,0,40 km
+1000010,1,San Jose,,9,Civ.,Paved,No,6500,56 km
+1000011,1,La Aurora,GUA,1509,Civ.,Paved,Yes,9800,40 km
+1000011,1,El Naranjo,ENJ,unknown,,,,0,42 km
+1000011,1,San Jose,,9,Civ.,Paved,No,6500,60 km
+1000011,1,Quezaltenango,,2363,,,,0,80 km
+1000011,1,Retalhuleu,,200,Civ.,Paved,No,4900,88 km
+1000012,5,Fernando AB,,372,Mil.,Paved,No,4900,15 km
+1000012,5,Sangley Point AB,SGL,2,Mil.,Paved,No,8600,55 km
+1000012,5,Ninoy Aquino International,MNL,23,Civ.,Paved,Yes,12200,56 km
+1000012,5,Lucena,,12,Civ.,Unpaved,No,3200,66 km
+1000012,5,Pagbilao Grande Island,,4,,,,0,82 km
+1000012,5,Lubang,LBX,5,Civ.,Paved,No,3900,97 km
+1000012,5,Mamburao,MBO,4,Civ.,Paved,No,3900,97 km
+1000013,3,Polonia,MES,27,Civ.,Paved,Yes,9500,53 km
+1000014,5,La Aurora,GUA,1509,Civ.,Paved,Yes,9800,24 km
+1000014,5,El Naranjo,ENJ,unknown,,,,0,40 km
+1000014,5,San Jose,,9,Civ.,Paved,No,6500,56 km
+1000015,1,Fanor Urroz,,100,,,,0,32 km
+1000015,1,Los Brasiles,,80,Civ.,Paved,No,3200,91 km
+1000015,1,San Lorenzo,,20,,,,0,96 km
+1000015,1,Punta Huete,,66,,,,0,97 km
+1000016,1,Kagoshima,KOJ,276,Civ.,Paved,Yes,9800,24 km
+1000016,1,Kanoya,,65,Civ.,Paved,Yes,7300,30 km
+1000016,1,Miyazaki,KMI,6,Civ.,Paved,Yes,8200,81 km
+1000016,1,Nishinoomote,IIN,unknown,,,,0,94 km
+1000017,1,Macas,XMS,1000,Civ.,Paved,Yes,8200,41 km
+1000017,1,Chimborazo,,2790,Civ.,Paved,No,5200,52 km
+1000017,1,Sucua,SUQ,950,Civ.,Unpaved,No,3900,54 km
+1000017,1,Rio Amazonas,PTZ,1043,Civ.,Paved,Yes,5000,63 km
+1000017,1,Mendez,MZD,unknown,,,,0,79 km
+1000017,1,Patuca,,541,,,,0,83 km
+1000017,1,Chachoan,ATF,2564,Civ.,Paved,Yes,6500,91 km
+1000018,1,Keflavik International,KEF,52,Civ.,Paved,Yes,10000,28 km
+1000018,1,Reykjavik Domestic,RKV,14,Civ.,Paved,Yes,5700,28 km
+1000018,1,Borgarfjordur Eystri,BGJ,unknown,,,,0,65 km
+1000020,5,E T Joshua,SVD,20,Civ.,Paved,Yes,4600,21 km
+1000020,5,J F Mitchell,,4,Civ.,Paved,No,3600,39 km
+1000020,5,Hewanorra International,UVF,3,Civ.,Paved,Yes,9000,51 km
+1000020,5,Canouan,,5,Civ.,Paved,No,3600,72 km
+1000020,5,Vigie,SLU,6,Civ.,Paved,Yes,6200,79 km
+1000020,5,Union Island,UNI,unknown,,,,0,84 km
+1000020,5,Palm Island,PLI,unknown,,,,0,86 km
+1000021,1,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,88 km
 1000023,7,Goma International,GOM,1551,Civ.,Paved,No,3200,17 km
 1000023,7,Katale,,1400,Civ.,Unpaved,No,3600,28 km
 1000023,7,Ruhengeri,RHG,1860,Civ.,Unpaved,No,4800,43 km
 1000023,7,Rutshuru,,1130,Civ.,Unpaved,No,3500,43 km
 1000023,7,Ishasha,,250,Civ.,Unpaved,No,3600,95 km
+1000024,1,La Aurora,GUA,1509,Civ.,Paved,Yes,9800,40 km
+1000024,1,El Naranjo,ENJ,unknown,,,,0,42 km
+1000024,1,San Jose,,9,Civ.,Paved,No,6500,60 km
+1000024,1,Quezaltenango,,2363,,,,0,80 km
+1000024,1,Retalhuleu,,200,Civ.,Paved,No,4900,88 km
+1000025,1,Adak Naf,ADK,5,Mil.,Paved,Yes,7700,42 km
+1000026,1,La Aurora,GUA,1509,Civ.,Paved,Yes,9800,40 km
+1000026,1,El Naranjo,ENJ,unknown,,,,0,42 km
+1000026,1,San Jose,,9,Civ.,Paved,No,6500,60 km
+1000026,1,Quezaltenango,,2363,,,,0,80 km
+1000026,1,Retalhuleu,,200,Civ.,Paved,No,4900,88 km
+1000027,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
+1000027,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
+1000027,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
+1000029,1,Polonia,MES,27,Civ.,Paved,Yes,9500,53 km
+1000030,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
+1000030,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
+1000030,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
+1000031,41,La Palma,SPC,33,Civ.,Paved,Yes,7200,10 km
+1000031,41,Hierro,VDE,31,Civ.,Paved,Yes,4100,84 km
+1000031,41,La Gomera,GMZ,218,Civ.,Paved,No,4900,85 km
+1000032,1,Rainshed,,1219,,,,0,3 km
+1000032,1,Mountain View Airstrip,,457,,,,0,23 km
+1000032,1,Pahala Airstrip,,364,,,,0,30 km
+1000032,1,Upper Paauau,,792,,,,0,32 km
+1000032,1,Hilo Hospital,,148,,,,0,35 km
+1000032,1,Mauna Kea-Honolii,,427,,,,0,41 km
+1000032,1,Hilo International,ITO,12,Civ.,Paved,Yes,9800,42 km
+1000032,1,Kaalaiki Airstrip,,599,,,,0,45 km
+1000032,1,Bradshaw AAF,BSF,1886,Civ.,Paved,No,3600,47 km
+1000032,1,Pepeekeo Airstrip,,206,,,,0,50 km
+1000032,1,Peleau,,332,,,,0,55 km
+1000032,1,Lucy Henriques Medical Center,,853,,,,0,62 km
+1000032,1,Upper Paauilo Airstrip,,463,,,,0,68 km
+1000032,1,Puu Waa Waa Ranch,,686,,,,0,72 km
+1000032,1,Kamuela,MUE,814,Civ.,Paved,No,5100,76 km
+1000032,1,Honokaa Airstrip,,439,,,,0,77 km
+1000032,1,Waikoloa,,33,,,,0,81 km
+1000032,1,Kaupulehu,,13,,,,0,86 km
+1000032,1,Keahole,KOA,13,Civ.,Paved,Yes,11000,87 km
+1000033,4,Awar,AWR,unknown,,,,0,21 km
+1000033,4,Daup,DAF,unknown,,,,0,73 km
+1000033,4,Josephstaal,JOP,68,,,,0,74 km
+1000033,4,Wanuma,WNU,unknown,,,,0,96 km
+1000034,1,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,71 km
+1000035,5,Abdulrachman Saleh,MLG,526,Civ.,Paved,No,6400,31 km
+1000035,5,Juanda,SUB,3,Civ.,Paved,Yes,9800,82 km
 1000036,5,Fua'amotu International,TBU,38,Civ.,Paved,Yes,8700,82 km
+1000037,1,Branti,TKG,86,Civ.,Paved,No,6000,99 km
+1000038,1,Macas,XMS,1000,Civ.,Paved,Yes,8200,41 km
+1000038,1,Chimborazo,,2790,Civ.,Paved,No,5200,52 km
+1000038,1,Sucua,SUQ,950,Civ.,Unpaved,No,3900,54 km
+1000038,1,Rio Amazonas,PTZ,1043,Civ.,Paved,Yes,5000,63 km
+1000038,1,Mendez,MZD,unknown,,,,0,79 km
+1000038,1,Patuca,,541,,,,0,83 km
+1000038,1,Chachoan,ATF,2564,Civ.,Paved,Yes,6500,91 km
+1000039,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
+1000039,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
+1000039,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
+1000040,1,Abdulrachman Saleh,MLG,526,Civ.,Paved,No,6400,31 km
+1000040,1,Juanda,SUB,3,Civ.,Paved,Yes,9800,82 km
+1000041,2,Awar,AWR,unknown,,,,0,21 km
+1000041,2,Daup,DAF,unknown,,,,0,73 km
+1000041,2,Josephstaal,JOP,68,,,,0,74 km
+1000041,2,Wanuma,WNU,unknown,,,,0,96 km
+1000045,1,Branti,TKG,86,Civ.,Paved,No,6000,99 km
+1000047,1,Catania Fontanarossa,CTA,13,Civ.,Paved,Yes,8100,32 km
+1000047,1,Sigonella,NSY,24,Mil.,Paved,Yes,8000,39 km
+1000047,1,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,68 km
+1000047,1,Comiso,CIY,unknown,,,,0,90 km
+1000053,2,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,88 km
+1000054,1,El Papalon,,68,,,,0,16 km
+1000054,1,La Carrera,,52,,,,0,29 km
+1000054,1,Los Comandos,,280,,,,0,37 km
+1000054,1,Santa Rosa de Lima,,36,,,,0,48 km
+1000054,1,Tamarindo,,3,,,,0,49 km
+1000054,1,El Playon,,79,,,,0,53 km
+1000054,1,Erandique,EDQ,unknown,,,,0,79 km
+1000054,1,Marcala,MRJ,unknown,,,,0,81 km
+1000054,1,El Salvador International,SAL,31,Civ.,Paved,Yes,10500,85 km
+1000054,1,La Esperanza,LEZ,1670,Civ.,Unpaved,No,3300,85 km
+1000054,1,San Lorenzo,,20,,,,0,88 km
+1000054,1,Ilopango International,,616,Civ.,Paved,Yes,7300,97 km
+1000055,2,Upper Paauau,,792,,,,0,29 km
+1000055,2,Bradshaw AAF,BSF,1886,Civ.,Paved,No,3600,32 km
+1000055,2,Pahala Airstrip,,364,,,,0,32 km
+1000055,2,Rainshed,,1219,,,,0,37 km
+1000055,2,Kaalaiki Airstrip,,599,,,,0,39 km
+1000055,2,Puu Waa Waa Ranch,,686,,,,0,43 km
+1000055,2,Lucy Henriques Medical Center,,853,,,,0,43 km
+1000055,2,Mountain View Airstrip,,457,,,,0,53 km
+1000055,2,Keahole,KOA,13,Civ.,Paved,Yes,11000,54 km
+1000055,2,Waikoloa,,33,,,,0,55 km
+1000055,2,Kaupulehu,,13,,,,0,56 km
+1000055,2,Hilo Hospital,,148,,,,0,57 km
+1000055,2,Kamuela,MUE,814,Civ.,Paved,No,5100,59 km
+1000055,2,Mauna Kea-Honolii,,427,,,,0,59 km
+1000055,2,Hilo International,ITO,12,Civ.,Paved,Yes,9800,65 km
+1000055,2,Upper Paauilo Airstrip,,463,,,,0,65 km
+1000055,2,Pepeekeo Airstrip,,206,,,,0,66 km
+1000055,2,Peleau,,332,,,,0,66 km
+1000055,2,Honokaa Airstrip,,439,,,,0,68 km
+1000055,2,Upolu,UPP,29,Civ.,Paved,No,3800,91 km
+1000056,1,Cotopaxi,,2784,Civ.,Paved,Yes,12100,32 km
+1000056,1,Mariscal Sucre International,UIO,2811,Civ.,Paved,Yes,10200,60 km
+1000056,1,Chachoan,ATF,2564,Civ.,Paved,Yes,6500,61 km
+1000056,1,Mayor Galo Torres,,518,Civ.,Unpaved,No,3200,77 km
+1000056,1,Santo Domingo Los Colorados,,521,Civ.,Paved,No,3600,99 km
+1000057,3,Abdulrachman Saleh,MLG,526,Civ.,Paved,No,6400,31 km
+1000057,3,Juanda,SUB,3,Civ.,Paved,Yes,9800,82 km
+1000058,1,San Pedro de Atacama,,2418,Civ.,Unpaved,No,6300,66 km
+1000058,1,El Salar,,2300,Priv.,Unpaved,No,7200,66 km
+1000059,1,La Aurora,GUA,1509,Civ.,Paved,Yes,9800,40 km
+1000059,1,El Naranjo,ENJ,unknown,,,,0,42 km
+1000059,1,San Jose,,9,Civ.,Paved,No,6500,60 km
+1000059,1,Quezaltenango,,2363,,,,0,80 km
+1000059,1,Retalhuleu,,200,Civ.,Paved,No,4900,88 km
+1000060,1,Cotopaxi,,2784,Civ.,Paved,Yes,12100,32 km
+1000060,1,Mariscal Sucre International,UIO,2811,Civ.,Paved,Yes,10200,60 km
+1000060,1,Chachoan,ATF,2564,Civ.,Paved,Yes,6500,61 km
+1000060,1,Mayor Galo Torres,,518,Civ.,Unpaved,No,3200,77 km
+1000060,1,Santo Domingo Los Colorados,,521,Civ.,Paved,No,3600,99 km
+1000061,1,Rainshed,,1219,,,,0,3 km
+1000061,1,Mountain View Airstrip,,457,,,,0,23 km
+1000061,1,Pahala Airstrip,,364,,,,0,30 km
+1000061,1,Upper Paauau,,792,,,,0,32 km
+1000061,1,Hilo Hospital,,148,,,,0,35 km
+1000061,1,Mauna Kea-Honolii,,427,,,,0,41 km
+1000061,1,Hilo International,ITO,12,Civ.,Paved,Yes,9800,42 km
+1000061,1,Kaalaiki Airstrip,,599,,,,0,45 km
+1000061,1,Bradshaw AAF,BSF,1886,Civ.,Paved,No,3600,47 km
+1000061,1,Pepeekeo Airstrip,,206,,,,0,50 km
+1000061,1,Peleau,,332,,,,0,55 km
+1000061,1,Lucy Henriques Medical Center,,853,,,,0,62 km
+1000061,1,Upper Paauilo Airstrip,,463,,,,0,68 km
+1000061,1,Puu Waa Waa Ranch,,686,,,,0,72 km
+1000061,1,Kamuela,MUE,814,Civ.,Paved,No,5100,76 km
+1000061,1,Honokaa Airstrip,,439,,,,0,77 km
+1000061,1,Waikoloa,,33,,,,0,81 km
+1000061,1,Kaupulehu,,13,,,,0,86 km
+1000061,1,Keahole,KOA,13,Civ.,Paved,Yes,11000,87 km
+1000062,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
+1000062,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
+1000062,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
+1000063,1,Katale,,1400,Civ.,Unpaved,No,3600,23 km
+1000063,1,Goma International,GOM,1551,Civ.,Paved,No,3200,29 km
+1000063,1,Rutshuru,,1130,Civ.,Unpaved,No,3500,36 km
+1000063,1,Ruhengeri,RHG,1860,Civ.,Unpaved,No,4800,49 km
+1000063,1,Ishasha,,250,Civ.,Unpaved,No,3600,87 km
+1000064,1,Branti,TKG,86,Civ.,Paved,No,6000,99 km
+1000065,1,La Nubia,,2030,Civ.,Paved,No,4500,22 km
+1000065,1,Santagueda,,1030,,,,0,45 km
+1000065,1,Matecana,PEI,1346,Civ.,Paved,Yes,6600,47 km
+1000065,1,Perales,IBE,928,Civ.,Paved,Yes,4900,56 km
+1000065,1,Mariquita,MQU,467,Civ.,Paved,Yes,5800,60 km
+1000065,1,El Eden,AXM,1207,Civ.,Paved,Yes,6200,69 km
+1000065,1,Santa Ana,SQB,900,Civ.,Paved,Yes,7200,72 km
+1000065,1,Santiago Vila,GIR,285,Civ.,Paved,Yes,5200,90 km
+1000065,1,German Olano,PAL,173,Mil.,Paved,No,9900,99 km
+1000066,1,Yelovka,,244,,,,0,23 km
+1000066,1,Klyuchi Southeast,,32,,,,0,49 km
+1000066,1,Klyuchi,,66,,,,0,51 km
+1000066,1,Yelovka North,,152,,,,0,58 km
+1000066,1,,,91,,,,0,79 km
+1000067,1,Abdulrachman Saleh,MLG,526,Civ.,Paved,No,6400,31 km
+1000067,1,Juanda,SUB,3,Civ.,Paved,Yes,9800,82 km
+1000068,1,Macas,XMS,1000,Civ.,Paved,Yes,8200,41 km
+1000068,1,Chimborazo,,2790,Civ.,Paved,No,5200,52 km
+1000068,1,Sucua,SUQ,950,Civ.,Unpaved,No,3900,54 km
+1000068,1,Rio Amazonas,PTZ,1043,Civ.,Paved,Yes,5000,63 km
+1000068,1,Mendez,MZD,unknown,,,,0,79 km
+1000068,1,Patuca,,541,,,,0,83 km
+1000068,1,Chachoan,ATF,2564,Civ.,Paved,Yes,6500,91 km
+1000069,1,La Aurora,GUA,1509,Civ.,Paved,Yes,9800,40 km
+1000069,1,El Naranjo,ENJ,unknown,,,,0,42 km
+1000069,1,San Jose,,9,Civ.,Paved,No,6500,60 km
+1000069,1,Quezaltenango,,2363,,,,0,80 km
+1000069,1,Retalhuleu,,200,Civ.,Paved,No,4900,88 km
+1000070,2,Huejotsingo,PBC,2241,Civ.,Paved,Yes,11800,30 km
+1000070,2,Juarez International,MEX,2238,Civ.,Paved,Yes,12900,66 km
+1000070,2,Cuernavaca,CVJ,1280,Civ.,Paved,Yes,9000,71 km
+1000070,2,Tlaxcala,,2500,,,,0,74 km
+1000070,2,Santa Lucia,NLU,2240,,,,0,91 km
+1000070,2,Atizapan,AZP,2475,,,,0,93 km
+1000071,1,Catania Fontanarossa,CTA,13,Civ.,Paved,Yes,8100,32 km
+1000071,1,Sigonella,NSY,24,Mil.,Paved,Yes,8000,39 km
+1000071,1,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,68 km
+1000071,1,Comiso,CIY,unknown,,,,0,90 km
+1000072,7,Legaspi,LGP,20,Civ.,Paved,No,6800,12 km
+1000072,7,Sorsogon,,37,Civ.,Unpaved,No,3200,46 km
+1000072,7,Naga,WNP,43,Civ.,Paved,No,4600,58 km
+1000072,7,Virac,VRC,37,Civ.,Paved,No,5100,67 km
+1000072,7,Masbate,MBT,15,Civ.,Paved,No,3900,98 km
+1000073,1,Rodriguez Ballon,AQP,2562,Civ.,Paved,Yes,9700,72 km
+1000073,1,Cesar Torque Podesta,,1366,Civ.,Unpaved,No,5900,91 km
+1000074,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
+1000074,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
+1000074,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
+1000075,1,Boku,BOQ,unknown,,,,0,15 km
+1000075,1,Kurwina,KWV,unknown,,,,0,16 km
+1000075,1,Torokina,TOK,unknown,,,,0,19 km
+1000075,1,Manetai,MVI,unknown,,,,0,21 km
+1000075,1,Karato,KAF,unknown,,,,0,24 km
+1000075,1,Wakunai,WKN,3,,,,0,29 km
+1000075,1,Arawa,RAW,unknown,,,,0,33 km
+1000075,1,Inus,IUS,unknown,,,,0,36 km
+1000075,1,Tonu,TON,unknown,,,,0,50 km
+1000075,1,Aropa,KIE,3,,,,0,62 km
+1000075,1,Sabah,SBV,unknown,,,,0,63 km
+1000075,1,Lehu,LHP,unknown,,,,0,64 km
+1000075,1,Dios,DOS,unknown,,,,0,70 km
+1000075,1,Oria,OTY,unknown,,,,0,73 km
+1000075,1,Buin,UBI,unknown,,,,0,85 km
+1000075,1,Buka,BUA,3,,,,0,98 km
+1000076,1,Catania Fontanarossa,CTA,13,Civ.,Paved,Yes,8100,32 km
+1000076,1,Sigonella,NSY,24,Mil.,Paved,Yes,8000,39 km
+1000076,1,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,68 km
+1000076,1,Comiso,CIY,unknown,,,,0,90 km
+1000077,1,Pucon,ZPC,268,Civ.,Unpaved,No,3900,14 km
+1000078,1,Klyuchi,,66,,,,0,29 km
+1000078,1,Klyuchi Southeast,,32,,,,0,33 km
+1000078,1,Kozyrevsk,,30,,,,0,47 km
+1000080,10,Keflavik International,KEF,52,Civ.,Paved,Yes,10000,20 km
+1000080,10,Reykjavik Domestic,RKV,14,Civ.,Paved,Yes,5700,52 km
+1000081,1,Sule,ULE,unknown,,,,0,9 km
+1000081,1,Bialla,BAA,unknown,,,,0,44 km
+1000081,1,Open Bay,OPB,2,,,,0,49 km
+1000081,1,Gonaili,,1,,,,0,59 km
+1000081,1,Nutuve,NUT,unknown,,,,0,65 km
+1000081,1,Uvol,UVO,unknown,,,,0,69 km
+1000081,1,Jacquinot Bay,JAQ,64,,,,0,70 km
+1000081,1,Gonalia,GOE,unknown,,,,0,70 km
+1000081,1,Tol,TLO,unknown,,,,0,79 km
+1000081,1,Stockholm,SMP,unknown,,,,0,89 km
+1000082,1,Kau,KAZ,unknown,,,,0,58 km
+1000082,1,Pitu,,15,Civ.,Paved,No,9500,61 km
+1000082,1,Morotai Island,OTI,unknown,,,,0,92 km
+1000083,1,Branti,TKG,86,Civ.,Paved,No,6000,99 km
+1000084,3,Tabing,PDG,3,Civ.,Paved,Yes,7000,57 km
+1000084,3,Rokot,RKI,unknown,,,,0,70 km
+1000085,2,Larantuka,LKA,unknown,,,,0,31 km
+1000085,2,Wai Oti,MOF,35,Civ.,Paved,No,6000,60 km
+1000085,2,Lewoleba,LWE,unknown,,,,0,71 km
 1000086,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
 1000086,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
 1000086,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
-1000086,1,Adisucipto,JOG,107,Mil.,Paved,Yes,7200,27 km
-1000086,1,Adi Sumarmo Wiryokusumo,SOC,106,Civ.,Paved,Yes,8500,34 km
-1000086,1,Achmad Yani,SRG,3,Mil.,Paved,Yes,6000,63 km
+1000087,1,Huejotsingo,PBC,2241,Civ.,Paved,Yes,11800,30 km
+1000087,1,Juarez International,MEX,2238,Civ.,Paved,Yes,12900,66 km
+1000087,1,Cuernavaca,CVJ,1280,Civ.,Paved,Yes,9000,71 km
+1000087,1,Tlaxcala,,2500,,,,0,74 km
+1000087,1,Santa Lucia,NLU,2240,,,,0,91 km
+1000087,1,Atizapan,AZP,2475,,,,0,93 km
+1000088,3,Sangir,SAE,unknown,,,,0,6 km
+1000088,3,Sam Ratulangi,MDC,80,Civ.,Paved,Yes,8200,97 km
+1000089,3,Kau,KAZ,unknown,,,,0,45 km
+1000089,3,Babullah,TTE,15,Civ.,Paved,No,4600,78 km
+1000089,3,Pitu,,15,Civ.,Paved,No,9500,98 km
+1000090,2,Keflavik International,KEF,52,Civ.,Paved,Yes,10000,20 km
+1000090,2,Reykjavik Domestic,RKV,14,Civ.,Paved,Yes,5700,52 km
+1000091,1,Tabing,PDG,3,Civ.,Paved,Yes,7000,57 km
+1000091,1,Rokot,RKI,unknown,,,,0,70 km
+1000092,2,Bacolod,BCD,9,Civ.,Paved,Yes,6400,34 km
+1000092,2,Iloilo,ILO,7,Civ.,Paved,Yes,6800,72 km
+1000092,2,Lahug,,29,,,,0,85 km
+1000092,2,Mactan-Cebu International,NOP,11,Civ.,Paved,Yes,10800,94 km
+1000093,1,Larantuka,LKA,unknown,,,,0,31 km
+1000093,1,Wai Oti,MOF,35,Civ.,Paved,No,6000,60 km
+1000093,1,Lewoleba,LWE,unknown,,,,0,71 km
+1000094,2,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,88 km
+1000095,2,Catania Fontanarossa,CTA,13,Civ.,Paved,Yes,8100,32 km
+1000095,2,Sigonella,NSY,24,Mil.,Paved,Yes,8000,39 km
+1000095,2,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,68 km
+1000095,2,Comiso,CIY,unknown,,,,0,90 km
+1000096,1,Whakatane,WHK,6,Civ.,Paved,Yes,4100,50 km
+1000096,1,Opotiki,,8,Civ.,Unpaved,No,3400,57 km
+1000097,1,Keflavik International,KEF,52,Civ.,Paved,Yes,10000,20 km
+1000097,1,Reykjavik Domestic,RKV,14,Civ.,Paved,Yes,5700,52 km
+1000098,1,Bacolod,BCD,9,Civ.,Paved,Yes,6400,34 km
+1000098,1,Iloilo,ILO,7,Civ.,Paved,Yes,6800,72 km
+1000098,1,Lahug,,29,,,,0,85 km
+1000098,1,Mactan-Cebu International,NOP,11,Civ.,Paved,Yes,10800,94 km
+1000099,1,Larantuka,LKA,unknown,,,,0,31 km
+1000099,1,Wai Oti,MOF,35,Civ.,Paved,No,6000,60 km
+1000099,1,Lewoleba,LWE,unknown,,,,0,71 km
+211060,11,Catania Fontanarossa,CTA,13,Civ.,Paved,Yes,8100,32 km
+211060,11,Sigonella,NSY,24,Mil.,Paved,Yes,8000,39 km
+211060,11,Tito Menniti,REG,26,Civ.,Paved,Yes,6900,68 km
+211060,11,Comiso,CIY,unknown,,,,0,90 km
+252010,1,Cape Gloucester Gloucester,CGC,24,,,,0,7 km
+252010,1,Lablab,LAB,unknown,,,,0,41 km
+252010,1,Satwag,SWG,unknown,,,,0,67 km
+261080,3,Polonia,MES,27,Civ.,Paved,Yes,9500,53 km
+352090,7,Macas,XMS,1000,Civ.,Paved,Yes,8200,41 km
+352090,7,Chimborazo,,2790,Civ.,Paved,No,5200,52 km
+352090,7,Sucua,SUQ,950,Civ.,Unpaved,No,3900,54 km
+352090,7,Rio Amazonas,PTZ,1043,Civ.,Paved,Yes,5000,63 km
+352090,7,Mendez,MZD,unknown,,,,0,79 km
+352090,7,Patuca,,541,,,,0,83 km
+352090,7,Chachoan,ATF,2564,Civ.,Paved,Yes,6500,91 km

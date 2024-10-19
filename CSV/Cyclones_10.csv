@@ -1,19 +1,297 @@
 Event_id,Episode,Site,Type,Name,Country
-1000667,18,Site-Fuzhou,Nuclear Power Reactor,Fuqing-2,China
-1000667,18,Site-Fuqing,Nuclear Power Plant,Fuqing-6,China
-1000667,18,Site-Fuzhou,Nuclear Power Reactor,Fuqing-3,China
-1000667,18,Site-Fuzhou,Nuclear Power Reactor,Fuqing-1,China
-1000667,18,Site-Fuzhou,Nuclear Power Reactor,Fuqing-4,China
-1000667,18,Site-Fuqing,Nuclear Power Plant,Fuqing-5,China
-1000667,18,Site-Fuzhou,Nuclear Fuel Cycle,Fuzhou,China
-1000667,18,Site-Ningde,Nuclear Power Reactor,Nindge-2,China
-1000667,18,Site-Ningde,Nuclear Power Reactor,Nindge-4,China
-1000667,18,Site-Ningde,Nuclear Power Reactor,Nindge-1,China
-1000667,18,Site-Ningde,Nuclear Power Reactor,Nindge-3,China
-1000667,18,Site-Hsinchu City,Research reactor,THOR,Taiwan
-1000667,18,Site-Chinshan,Nuclear Power Plant,Chinshan-1,Taiwan
-1000667,18,Site-Chinshan,Nuclear Power Plant,Chinshan-2,Taiwan
-1000667,18,Site-New Taipei,Nuclear Power Reactor,Kuosheng-2,Taiwan
-1000667,18,Site-Kuosheng,Nuclear Power Plant,Kuosheng-1,Taiwan
-1000667,18,Site-Pingtung,Nuclear Power Reactor,Maanshan-2,Taiwan
-1000667,18,Site-Pingtung,Nuclear Power Reactor,Maanshan-1,Taiwan
+1001064,6,Site-Purbi Singhbhum,Nuclear Fuel Cycle,UCIL-Jaduguda,India
+1001064,6,Site-Dhaka,Research reactor,"BTRR, BAEC TRIGA Research Reactor",Bangladesh
+1001066,13,Site-Ocoyoacac,Research reactor,TRIGA Mark III,Mexico
+1001066,13,Site-Cuauhtémoc,Research reactor,Nuclear Chicago Mod 9000,Mexico
+1001066,13,Site-Webb,Nuclear Fuel Cycle,Vasquez,United States of America
+1001066,13,Site-Brooks,Nuclear Fuel Cycle,Alta Mesa,United States of America
+1001066,13,Site-Mexico-BWR,Nuclear Power Reactor,Laguna Verde-1,Mexico
+1001066,13,Site-Mexico-BWR,Nuclear Power Reactor,Laguna Verde-2,Mexico
+1001066,13,Site-Kleberg,Nuclear Fuel Cycle,Kingsville Dome,United States of America
+1001067,43,Site-Brazos,Research reactor,AGN-201 Texas A&M Univ.,United States of America
+1001067,43,Site-Brazos,Research reactor,NSCR Texas A&M Univ.,United States of America
+1001067,43,Site-Matagorda,Nuclear Power Reactor,South Texas-1,United States of America
+1001067,43,Site-Matagorda,Nuclear Power Reactor,South Texas-2,United States of America
+1001067,43,Site-Kingston,Research reactor,UWI CNS SLOWPOKE,Giamaica
+1001068,4,Site-Mexico-BWR,Nuclear Power Reactor,Laguna Verde-2,Mexico
+1001068,4,Site-Mexico-BWR,Nuclear Power Reactor,Laguna Verde-1,Mexico
+1001071,14,Site-Fangchenggang,Nuclear Power Reactor,Fangchenggang-1,China
+1001071,14,Site-Fangchenggang,Nuclear Power Plant,Fangchenggang-3,China
+1001071,14,Site-Fangchenggang,Nuclear Power Reactor,Fangchenggang-2,China
+1001071,14,Site-Hainan,Nuclear Power Reactor,Changjiang-2,China
+1001071,14,Site-Ningde,Nuclear Power Reactor,Changjiang-1,China
+1001072,24,Site-Fuzhou,Nuclear Power Reactor,Fuqing-2,China
+1001072,24,Site-Fuqing,Nuclear Power Plant,Fuqing-6,China
+1001072,24,Site-Fuzhou,Nuclear Power Reactor,Fuqing-3,China
+1001072,24,Site-Fuzhou,Nuclear Power Reactor,Fuqing-1,China
+1001072,24,Site-Fuzhou,Nuclear Power Reactor,Fuqing-4,China
+1001072,24,Site-Fuqing,Nuclear Power Plant,Fuqing-5,China
+1001072,24,Site-Fuzhou,Nuclear Fuel Cycle,Fuzhou,China
+1001072,24,Site-Ningde,Nuclear Power Reactor,Nindge-2,China
+1001072,24,Site-Ningde,Nuclear Power Reactor,Nindge-4,China
+1001072,24,Site-Ningde,Nuclear Power Reactor,Nindge-1,China
+1001072,24,Site-Ningde,Nuclear Power Reactor,Nindge-3,China
+1001072,24,Site-Hsinchu City,Research reactor,THOR,Taiwan
+1001072,24,Site-Chinshan,Nuclear Power Plant,Chinshan-1,Taiwan
+1001072,24,Site-Chinshan,Nuclear Power Plant,Chinshan-2,Taiwan
+1001072,24,Site-New Taipei,Nuclear Power Reactor,Kuosheng-2,Taiwan
+1001072,24,Site-Kuosheng,Nuclear Power Plant,Kuosheng-1,Taiwan
+1001072,24,Site-Pingtung,Nuclear Power Reactor,Maanshan-2,Taiwan
+1001072,24,Site-Pingtung,Nuclear Power Reactor,Maanshan-1,Taiwan
+1001075,27,Site-Mecklenburg,Nuclear Fuel Cycle,McGuire NPP Site ISFSI,United States of America
+1001075,27,Site-Mecklenburg,Nuclear Power Reactor,Mc Guire-1,United States of America
+1001075,27,Site-Mecklenburg,Nuclear Power Reactor,Mc Guire-2,United States of America
+1001075,27,Site-Wake,Nuclear Power Reactor,Harris-1,United States of America
+1001075,27,Site-Wake,Research reactor,PULSTAR North Carolina State Univ.,United States of America
+1001075,27,Site-York,Nuclear Power Reactor,Catawba-2,United States of America
+1001075,27,Site-York,Nuclear Fuel Cycle,Catawba NPP ISFSI,United States of America
+1001075,27,Site-York,Nuclear Fuel Cycle,Canon City,United States of America
+1001075,27,Site-York,Nuclear Power Reactor,Catawba-1,United States of America
+1001075,27,Site-Darlington,Nuclear Power Reactor,Robinson-2,United States of America
+1001075,27,Site-Darlington,Nuclear Fuel Cycle,H.B. Robinson NPP Site ISFSI,United States of America
+1001075,27,Site-Fairfield,Nuclear Power Reactor,Summer-1,United States of America
+1001075,27,Site-Richland,Nuclear Fuel Cycle,Columbia Fuel Fabrication Facility,United States of America
+1001075,27,Site-Oconee,Nuclear Power Reactor,Oconee-3,United States of America
+1001075,27,Site-Oconee,Nuclear Fuel Cycle,Oconee NPP Site ISFSI,United States of America
+1001075,27,Site-Oconee,Nuclear Power Reactor,Oconee-2,United States of America
+1001075,27,Site-Oconee,Nuclear Power Reactor,Oconee-1,United States of America
+1001075,27,Site-New Hanover,Nuclear Fuel Cycle,Wilmington Facility,United States of America
+1001075,27,Site-New Hanover,Nuclear Fuel Cycle,Wilmington,United States of America
+1001075,27,Smithville Township,Nuclear Fuel Cycle,Brunswick NPP ISFSI,United States of America
+1001075,27,Site-Brunswick,Nuclear Power Reactor,Brunswick-1,United States of America
+1001075,27,Site-Brunswick,Nuclear Power Reactor,Brunswick-2,United States of America
+1001075,27,Site-Aiken,Nuclear Fuel Cycle,Savannah River (SRS),United States of America
+1001075,27,Site-Charleston,Research reactor,MTS-635,United States of America
+1001075,27,Site-Charleston,Research reactor,MTS-626,United States of America
+1001075,27,Site-Vogtle,Nuclear Power Plant,Vogtle-3,United States of America
+1001075,27,Site-Burke,Nuclear Power Reactor,Vogtle-2,United States of America
+1001075,27,Site-Burke,Nuclear Power Reactor,Vogtle-1,United States of America
+1001075,27,Site-Vogtle,Nuclear Power Plant,Vogtle-4,United States of America
+1001075,27,Site-Appling,Nuclear Power Reactor,Hatch-2,United States of America
+1001075,27,Site-Appling,Nuclear Power Reactor,Hatch-1,United States of America
+1001075,27,Site-Appling,Nuclear Fuel Cycle,Hatch NPP Site,United States of America
+1001075,27,Site-Houston,Nuclear Power Reactor,Farley-1,United States of America
+1001075,27,Site-Houston,Nuclear Fuel Cycle,Farley NPP Site,United States of America
+1001075,27,Site-Houston,Nuclear Power Reactor,Farley-2,United States of America
+1001075,27,Site-Alachua,Research reactor,UFTR Univ. Florida,United States of America
+1001079,24,Site-Rokkasho,Nuclear Fuel Cycle,Rokkasho Uranium Enrichment Plant,Japan
+1001079,24,Site-Rokkasho,Nuclear Fuel Cycle,Rokkasho Spent Fuel Storage,Japan
+1001079,24,Site-Onagawa,Nuclear Power Plant,Onagawa-1,Japan
+1001079,24,Site-Onagawa,Nuclear Power Reactor,Onagawa-2,Japan
+1001079,24,Site-Onagawa,Nuclear Power Reactor,Onagawa-3,Japan
+1001082,24,Site-Tokai,Nuclear Fuel Cycle,Tokai II NPP Site SFSF,Japan
+1001082,24,Site-Tokai,Nuclear Fuel Cycle,Tokai Works,Japan
+1001082,24,Site-Tokai,Nuclear Power Plant,Tokai-1,Japan
+1001082,24,Site-Tokai,Nuclear Fuel Cycle,JAEA Tokai (PFDF-MOX),Japan
+1001082,24,Site-Tokai,Nuclear Power Reactor,Tokai-2,Japan
+1001082,24,Site-Pendang,Research reactor,NSRR,Japan
+1001082,24,Site-Tokai-Mura,Research Reactor,STACY,Japan
+1001082,24,Site-Tokai-Naka,Research Reactor,TRACY,Japan
+1001082,24,Site-Tokai-Naka,Research Reactor,TCA Tank Critical Assembly,Japan
+1001082,24,Site-Tokai-Mura,Research Reactor,FCA,Japan
+1001082,24,Site-Tokai-Naka,Research Reactor,YAYOI,Japan
+1001082,24,Site-Tokai-Mura,Research Reactor,JRR-2,Japan
+1001082,24,Site-Tokai,Nuclear Fuel Cycle,MNF-Fuel Fabrication Facility,Japan
+1001082,24,Site-Tokai,Nuclear Fuel Cycle,MNF-Reconversion facility,Japan
+1001082,24,Site-Pendang,Research reactor,JRR-3M,Japan
+1001082,24,Site-Tokai-Mura,Research Reactor,JRR-4,Japan
+1001082,24,Site-Tokai,Nuclear Fuel Cycle,Plutonium Fuel Production Facility (PFPF-FBR),Japan
+1001082,24,Site-Pendang,Research reactor,JRR-3M,Japan
+1001082,24,Site-Pendang,Research reactor,NSRR,Japan
+1001082,24,Site-Tokai,Nuclear Fuel Cycle,MitsubishiNuclear Fuels Ltd(MNF) - Okegawa Plant,Japan
+1001082,24,Site-Oarai-machi,Research Reactor,DCA,Japan
+1001082,24,Site-Oarai,Research Reactor,JOYO,Japan
+1001082,24,Site-Higashiibaraki-gun,Research Reactor,JMTR,Japan
+1001082,24,Site-Oarai,Research reactor,HTTR,Japan
+1001082,24,Site-Kanagawa,Research Reactor,TTR,Japan
+1001082,24,Site-Kawasaki,Research Reactor,Toshiba NCA,Japan
+1001082,24,Tokyo,Research Reactor,HTR,Japan
+1001082,24,Site-Kanagawa,Research Reactor,Musashi Reactor,Japan
+1001082,24,Site-Kanagawa,Research Reactor,TRIGA-II Rikkyo,Japan
+1001082,24,Site-Omaezaki,Nuclear Power Reactor,Hamaoka-5,Japan
+1001082,24,Site-Omaezaki,Nuclear Power Reactor,Hamaoka-4,Japan
+1001082,24,Site-Omaezaki,Nuclear Power Reactor,Hamaoka-3,Japan
+1001086,42,Site-Ikata,Nuclear Power Plant,Ikata-1,Japan
+1001086,42,Site-Ikata,Nuclear Power Plant,Ikata-2,Japan
+1001086,42,Site-Ikata,Nuclear Power Reactor,Ikata-3,Japan
+1001086,42,Site-Genkai,Nuclear Power Plant,Genkai-1,Japan
+1001086,42,Site-Genkai,Nuclear Power Reactor,Genkai-4,Japan
+1001086,42,Site-Genkai,Nuclear Power Plant,Genkai-2,Japan
+1001086,42,Site-Genkai,Nuclear Power Reactor,Genkai-3,Japan
+1001086,42,Site-Satsumasendai,Nuclear Power Reactor,Sendai-1,Japan
+1001086,42,Site-Satsumasendai,Nuclear Power Reactor,Sendai-2,Japan
+1001089,11,Site-Karachi,Nuclear Power Reactor,Kanupp-3,Pakistan
+1001089,11,Site-Karachi,Nuclear Power Reactor,Kanupp-2,Pakistan
+1001092,16,Site-Claiborne,Nuclear Power Reactor,Grand Gulf-1,United States of America
+1001092,16,Site-Claiborne,Nuclear Fuel Cycle,Grand Gulf NPP Site ISFSI,United States of America
+1001092,16,Site-West Feliciana,Nuclear Power Reactor,River Bend,United States of America
+1001092,16,Site-West Feliciana,Nuclear Fuel Cycle,River Bend NPP Site,United States of America
+1001092,16,Site-Saint Charles,Nuclear Power Reactor,Waterford-3,United States of America
+1001092,16,Site-Mexico-BWR,Nuclear Power Reactor,Laguna Verde-2,Mexico
+1001092,16,Site-Mexico-BWR,Nuclear Power Reactor,Laguna Verde-1,Mexico
+1001097,20,Site-Kori,Nuclear Power Plant,Kori-1,Korea
+1001097,20,Site-Korea-PWR,Nuclear Power Reactor,Kori-3,Korea
+1001097,20,Site-Korea-PWR,Nuclear Power Reactor,Kori-4,Korea
+1001097,20,Site-Korea-PWR,Nuclear Power Reactor,Kori-2,Korea
+1001097,20,Site-Gijang,Nuclear Power Reactor,Shin Kori-1,Korea
+1001097,20,Site-Gijang,Nuclear Power Reactor,Saeul-2,Korea
+1001097,20,Site-Gijang,Nuclear Power Reactor,Shin Kori-2,Korea
+1001097,20,Site-Gijang,Nuclear Power Reactor,Saeul-1,Korea
+1001097,20,Site-Gyeongju,Nuclear Power Reactor,Shin Wolsong-2,Korea
+1001097,20,Site-Gyeongju,Nuclear Fuel Cycle,Wolsong Dry Storage,Korea
+1001097,20,Site-Gyeongju,Nuclear Power Reactor,Shin Wolsong-1,Korea
+1001097,20,Site-Korea-PHWR,Nuclear Power Reactor,Wolsong-3,Korea
+1001097,20,Site-Korea-PHWR,Nuclear Power Reactor,Wolsong-4,Korea
+1001097,20,Site-Wolsong,Nuclear Power Plant,Wolsong-1,Korea
+1001097,20,Site-Korea-PHWR,Nuclear Power Reactor,Wolsong-2,Korea
+1001097,20,Site-Shimane,Nuclear Power Plant,Shimane-1,Japan
+1001097,20,Site-Matsue,Nuclear Power Reactor,Shimane-2,Japan
+1001097,20,Site-Osaka,Research reactor,UTR KINKI,Japan
+1001097,20,Site-Osaka,Research reactor,KUR,Japan
+1001097,20,Site-Osaka,Research reactor,KUCA,Japan
+1001097,20,Site-Japan-PWR,Nuclear Power Reactor,Takahama-1,Japan
+1001097,20,Site-Japan-PWR,Nuclear Power Reactor,Takahama-2,Japan
+1001097,20,Site-Japan-PWR,Nuclear Power Reactor,Takahama-4,Japan
+1001097,20,Site-Japan-PWR,Nuclear Power Reactor,Takahama-3,Japan
+1001097,20,Site-Ohi,Nuclear Power Plant,Ohi-2,Japan
+1001097,20,Site-Takahama,Nuclear Power Reactor,Ohi-3,Japan
+1001097,20,Site-Ohi,Nuclear Power Plant,Ohi-1,Japan
+1001097,20,Site-Takahama,Nuclear Power Reactor,Ohi-4,Japan
+1001097,20,Site-Japan-PWR,Nuclear Power Reactor,Mihama-3,Japan
+1001097,20,Site-Mihama,Nuclear Power Plant,Mihama-1,Japan
+1001097,20,Site-Mihama,Nuclear Power Plant,Mihama-2,Japan
+1001097,20,Site-Tsuruga,Nuclear Power Reactor,Tsuruga-2,Japan
+1001097,20,Site-Tsuruga,Nuclear Power Plant,Tsuruga-1,Japan
+1001097,20,Site-Shika,Nuclear Power Reactor,Shika-2,Japan
+1001097,20,Site-Shika,Nuclear Power Reactor,Shika-1,Japan
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Qinshan-1,China
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Qinshan III-2,China
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Qinshan III-1,China
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Qinshan II-2,China
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Qinshan II-3,China
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Qinshan II-4,China
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Qinshan II-1,China
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Fangjiashan-2,China
+1001097,20,Site-Jiaxing,Nuclear Power Reactor,Fangjiashan-1,China
+1001097,20,Site-Taizhou,Nuclear Power Reactor,Sanmen-2,China
+1001097,20,Site-Taizhou,Nuclear Power Reactor,Sanmen-1,China
+1001097,20,Site-Japan-BWR,Nuclear Power Reactor,Kashiwazaki Kariwa-3,Japan
+1001097,20,Site-Japan-BWR,Nuclear Power Reactor,Kashiwazaki Kariwa-6,Japan
+1001097,20,Site-Japan-BWR,Nuclear Power Reactor,Kashiwazaki Kariwa-4,Japan
+1001097,20,Site-Japan-BWR,Nuclear Power Reactor,Kashiwazaki Kariwa-2,Japan
+1001097,20,Site-Japan-BWR,Nuclear Power Reactor,Kashiwazaki Kariwa-7,Japan
+1001097,20,Site-Japan-BWR,Nuclear Power Reactor,Kashiwazaki Kariwa-1,Japan
+1001097,20,Site-Japan-BWR,Nuclear Power Reactor,Kashiwazaki Kariwa-5,Japan
+1001097,20,Site-Kanagawa,Research Reactor,Musashi Reactor,Japan
+1001097,20,Tokyo,Research Reactor,HTR,Japan
+1001097,20,Site-Kawasaki,Research Reactor,Toshiba NCA,Japan
+1001097,20,Site-Kanagawa,Research Reactor,TTR,Japan
+1001097,20,Site-Higashiibaraki-gun,Research Reactor,JMTR,Japan
+1001097,20,Site-Oarai,Research reactor,HTTR,Japan
+1001097,20,Site-Oarai,Research Reactor,JOYO,Japan
+1001097,20,Site-Tokai,Nuclear Fuel Cycle,MitsubishiNuclear Fuels Ltd(MNF) - Okegawa Plant,Japan
+1001097,20,Site-Oarai-machi,Research Reactor,DCA,Japan
+1001097,20,Site-Pendang,Research reactor,JRR-3M,Japan
+1001097,20,Site-Pendang,Research reactor,NSRR,Japan
+1001097,20,Site-Tokai,Nuclear Fuel Cycle,Plutonium Fuel Production Facility (PFPF-FBR),Japan
+1001097,20,Site-Tokai,Nuclear Fuel Cycle,MNF-Fuel Fabrication Facility,Japan
+1001097,20,Site-Tokai,Nuclear Fuel Cycle,MNF-Reconversion facility,Japan
+1001097,20,Site-Tokai-Mura,Research Reactor,JRR-4,Japan
+1001097,20,Site-Pendang,Research reactor,JRR-3M,Japan
+1001097,20,Site-Tokai-Mura,Research Reactor,JRR-2,Japan
+1001097,20,Site-Tokai-Naka,Research Reactor,YAYOI,Japan
+1001097,20,Site-Tokai-Mura,Research Reactor,FCA,Japan
+1001097,20,Site-Tokai-Naka,Research Reactor,TRACY,Japan
+1001097,20,Site-Tokai-Mura,Research Reactor,STACY,Japan
+1001097,20,Site-Tokai-Naka,Research Reactor,TCA Tank Critical Assembly,Japan
+1001097,20,Site-Pendang,Research reactor,NSRR,Japan
+1001097,20,Site-Tokai,Nuclear Fuel Cycle,Tokai II NPP Site SFSF,Japan
+1001097,20,Site-Tokai,Nuclear Fuel Cycle,Tokai Works,Japan
+1001097,20,Site-Tokai,Nuclear Power Plant,Tokai-1,Japan
+1001097,20,Site-Tokai,Nuclear Fuel Cycle,JAEA Tokai (PFDF-MOX),Japan
+1001097,20,Site-Tokai,Nuclear Power Reactor,Tokai-2,Japan
+1001097,20,Site-Onagawa,Nuclear Power Plant,Onagawa-1,Japan
+1001097,20,Site-Onagawa,Nuclear Power Reactor,Onagawa-3,Japan
+1001097,20,Site-Onagawa,Nuclear Power Reactor,Onagawa-2,Japan
+1001099,7,Site-Fuzhou,Nuclear Power Reactor,Fuqing-3,China
+1001099,7,Site-Fuzhou,Nuclear Power Reactor,Fuqing-1,China
+1001099,7,Site-Fuzhou,Nuclear Power Reactor,Fuqing-2,China
+1001099,7,Site-Fuqing,Nuclear Power Plant,Fuqing-6,China
+1001099,7,Site-Fuzhou,Nuclear Power Reactor,Fuqing-4,China
+1001099,7,Site-Fuqing,Nuclear Power Plant,Fuqing-5,China
+1001099,7,Site-Fuzhou,Nuclear Fuel Cycle,Fuzhou,China
+1001099,7,Site-Hsinchu City,Research reactor,THOR,Taiwan
+1001099,7,Site-Chinshan,Nuclear Power Plant,Chinshan-1,Taiwan
+1001099,7,Site-Chinshan,Nuclear Power Plant,Chinshan-2,Taiwan
+1001101,18,Site-Anderson,Research reactor,HFIR,United States of America
+1001101,18,Site-Henderson,Nuclear Fuel Cycle,BWX Technology (BWXT) Fuel Facility,United States of America
+1001101,18,Site-Rhea,Nuclear Power Reactor,Watts Bar-1,United States of America
+1001101,18,Site-Rhea,Nuclear Power Reactor,Watts Bar-2,United States of America
+1001101,18,Site-Hamilton,Nuclear Fuel Cycle,Sequoyah NPP Site ISFSI,United States of America
+1001101,18,Site-Hamilton,Nuclear Power Reactor,Sequoyah-2,United States of America
+1001101,18,Site-Hamilton,Nuclear Power Reactor,Sequoyah-1,United States of America
+1001101,18,Site-Pike,Nuclear Fuel Cycle,Portsmouth,United States of America
+1001101,18,Site-Massac,Nuclear Fuel Cycle,Metropolis Conversion Facility,United States of America
+1001101,18,Kentucky,Nuclear Fuel Cycle,Paducah,United States of America
+1001101,18,Site-Bayin'gholin Mongol,Nuclear Fuel Cycle,Paducah,United States of America
+1001101,18,Site-Limestone,Nuclear Fuel Cycle,Browns Ferry NPP Site,United States of America
+1001101,18,Site-Limestone,Nuclear Power Reactor,Browns Ferry-2,United States of America
+1001101,18,Site-Limestone,Nuclear Power Reactor,Browns Ferry-1,United States of America
+1001101,18,Site-Limestone,Nuclear Power Reactor,Browns Ferry-3,United States of America
+1001101,18,Site-Tippecanoe,Research reactor,PUR-1 Purdue Univ.,United States of America
+1001101,18,Site-Franklin,Research reactor,OSURR Ohio State Univ.,United States of America
+1001101,18,Site-Oconee,Nuclear Power Reactor,Oconee-3,United States of America
+1001101,18,Site-Oconee,Nuclear Power Reactor,Oconee-1,United States of America
+1001101,18,Site-Oconee,Nuclear Fuel Cycle,Oconee NPP Site ISFSI,United States of America
+1001101,18,Site-Oconee,Nuclear Power Reactor,Oconee-2,United States of America
+1001101,18,Site-Mecklenburg,Nuclear Power Reactor,Mc Guire-2,United States of America
+1001101,18,Site-Mecklenburg,Nuclear Fuel Cycle,McGuire NPP Site ISFSI,United States of America
+1001101,18,Site-Mecklenburg,Nuclear Power Reactor,Mc Guire-1,United States of America
+1001101,18,Site-York,Nuclear Power Reactor,Catawba-1,United States of America
+1001101,18,Site-York,Nuclear Fuel Cycle,Canon City,United States of America
+1001101,18,Site-York,Nuclear Fuel Cycle,Catawba NPP ISFSI,United States of America
+1001101,18,Site-York,Nuclear Power Reactor,Catawba-2,United States of America
+1001101,18,Site-Fairfield,Nuclear Power Reactor,Summer-1,United States of America
+1001101,18,Site-Aiken,Nuclear Fuel Cycle,Savannah River (SRS),United States of America
+1001101,18,Site-Lynchburg,Nuclear Fuel Cycle,Lynchburg - FC Fuels,United States of America
+1001101,18,Site-Richland,Nuclear Fuel Cycle,Columbia Fuel Fabrication Facility,United States of America
+1001101,18,Site-Burke,Nuclear Power Reactor,Vogtle-1,United States of America
+1001101,18,Site-Vogtle,Nuclear Power Plant,Vogtle-4,United States of America
+1001101,18,Site-Vogtle,Nuclear Power Plant,Vogtle-3,United States of America
+1001101,18,Site-Burke,Nuclear Power Reactor,Vogtle-2,United States of America
+1001101,18,Site-Darlington,Nuclear Fuel Cycle,H.B. Robinson NPP Site ISFSI,United States of America
+1001101,18,Site-Darlington,Nuclear Power Reactor,Robinson-2,United States of America
+1001101,18,Site-Wake,Nuclear Power Reactor,Harris-1,United States of America
+1001101,18,Site-Wake,Research reactor,PULSTAR North Carolina State Univ.,United States of America
+1001101,18,Site-Appling,Nuclear Fuel Cycle,Hatch NPP Site,United States of America
+1001101,18,Site-Appling,Nuclear Power Reactor,Hatch-2,United States of America
+1001101,18,Site-Appling,Nuclear Power Reactor,Hatch-1,United States of America
+1001101,18,Site-Houston,Nuclear Fuel Cycle,Farley NPP Site,United States of America
+1001101,18,Site-Houston,Nuclear Power Reactor,Farley-2,United States of America
+1001101,18,Site-Houston,Nuclear Power Reactor,Farley-1,United States of America
+1001101,18,Site-Charleston,Research reactor,MTS-635,United States of America
+1001101,18,Site-Charleston,Research reactor,MTS-626,United States of America
+1001101,18,Site-New Hanover,Nuclear Fuel Cycle,Wilmington Facility,United States of America
+1001101,18,Site-New Hanover,Nuclear Fuel Cycle,Wilmington,United States of America
+1001101,18,Smithville Township,Nuclear Fuel Cycle,Brunswick NPP ISFSI,United States of America
+1001101,18,Site-Brunswick,Nuclear Power Reactor,Brunswick-1,United States of America
+1001101,18,Site-Brunswick,Nuclear Power Reactor,Brunswick-2,United States of America
+1001101,18,Site-Alachua,Research reactor,UFTR Univ. Florida,United States of America
+1001101,18,Site-Saint Lucie,Nuclear Fuel Cycle,St. Lucie NPP Site,United States of America
+1001101,18,Site-Saint Lucie,Nuclear Power Reactor,St. Lucie-2,United States of America
+1001101,18,Site-Saint Lucie,Nuclear Power Reactor,St. Lucie-1,United States of America
+1001101,18,Site-Miami-Dade,Nuclear Power Reactor,Turkey Point-3,United States of America
+1001101,18,Site-Miami-Dade,Nuclear Power Reactor,Turkey Point-4,United States of America
+1001105,27,Site-Pingtung,Nuclear Power Reactor,Maanshan-2,Taiwan
+1001105,27,Site-Pingtung,Nuclear Power Reactor,Maanshan-1,Taiwan
+1001111,23,Site-Saint Lucie,Nuclear Power Reactor,St. Lucie-2,United States of America
+1001111,23,Site-Saint Lucie,Nuclear Fuel Cycle,St. Lucie NPP Site,United States of America
+1001111,23,Site-Saint Lucie,Nuclear Power Reactor,St. Lucie-1,United States of America
+1001111,23,Site-Charleston,Research reactor,MTS-635,United States of America
+1001111,23,Site-Charleston,Research reactor,MTS-626,United States of America
+1001111,23,Site-Alachua,Research reactor,UFTR Univ. Florida,United States of America
+1001111,23,Site-Miami-Dade,Nuclear Power Reactor,Turkey Point-4,United States of America
+1001111,23,Site-Miami-Dade,Nuclear Power Reactor,Turkey Point-3,United States of America
+1001111,23,Site-Appling,Nuclear Fuel Cycle,Hatch NPP Site,United States of America
+1001111,23,Site-Appling,Nuclear Power Reactor,Hatch-1,United States of America
+1001111,23,Site-Appling,Nuclear Power Reactor,Hatch-2,United States of America
