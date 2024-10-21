@@ -1,0 +1,162 @@
+Event_id,Episode,Name,LOCODE,Country,Distance
+1000000,49,Riposto,ITRPT,Italy,19 km
+1000000,49,Acireale,,Italy,25 km
+1000000,49,Taormina,,Italy,28 km
+1000000,49,Catania,ITCTA,Italy,30 km
+1000000,49,Milazzo,ITMLZ,Italy,56 km
+1000000,49,Augusta,ITAUG,Italy,60 km
+1000000,49,Maghisi,ITMAG,Italy,69 km
+1000000,49,Messina,ITMSN,Italy,69 km
+1000000,49,Reggio Calabria,ITREG,Italy,70 km
+1000000,49,Vulcano Island,,Italy,74 km
+1000000,49,Melilli,ITMEL,Italy,74 km
+1000000,49,Villa San Giovanni,,Italy,76 km
+1000000,49,Melito,,Italy,76 km
+1000000,49,Siracusa,ITSIR,Italy,81 km
+1000000,49,Lipari,ITLIP,Italy,83 km
+1000000,49,Salina Island,ITSLA,Italy,94 km
+1000000,49,Panarea,ITPAN,Italy,97 km
+1000003,1,Belawan,IDBLW,Indonesia,75 km
+1000003,1,"Medan, Sumatra",IDMES,Indonesia,77 km
+1000003,1,Perbaungan,,Indonesia,86 km
+1000004,6,Wates,,Indonesia,54 km
+1000004,6,Semarang,IDSRG,Indonesia,65 km
+1000005,1,Tana Island,,Vanuatu,11 km
+1000005,1,Aneityum Island,,Vanuatu,85 km
+1000006,4,Lomblen Island,,Indonesia,28 km
+1000006,4,Larantuka,,Indonesia,59 km
+1000007,1,Probolinggo,IDPRO,Indonesia,53 km
+1000007,1,Pasuruan,,Indonesia,53 km
+1000007,1,Besuki,,Indonesia,94 km
+1000008,1,Saint Pierre,,Reunion,26 km
+1000008,1,Saint Denis,,Reunion,49 km
+1000008,1,Pointe Des Galets,REPDG,Reunion,57 km
+1000009,1,Hilo,USITO,Wake Island,41 km
+1000009,1,Honuapo,,Wake Island,47 km
+1000009,1,Kauhako Bay,,Wake Island,64 km
+1000009,1,Napoopoo,,Wake Island,68 km
+1000009,1,Milolii,,Wake Island,71 km
+1000009,1,Honokaa,,Wake Island,78 km
+1000009,1,Kailua,,Wake Island,78 km
+1000009,1,Kiholo,,Wake Island,85 km
+1000009,1,Kawaihae,USKWH,Wake Island,88 km
+1000010,1,Puerto Quetzail,GTPRQ,Guatemala,55 km
+1000010,1,San Jose,GTSJO,Guatemala,57 km
+1000010,1,San Jose,GTSJO,Guatemala,57 km
+1000011,1,San Jose,GTSJO,Guatemala,62 km
+1000011,1,San Jose,GTSJO,Guatemala,62 km
+1000011,1,Puerto Quetzail,GTPRQ,Guatemala,62 km
+1000011,1,Playa Grande,,Guatemala,80 km
+1000012,5,Calaca,,Philippines,24 km
+1000012,5,Tabangoa,PHTBG,Philippines,26 km
+1000012,5,Batangas,PHBLG,Philippines,28 km
+1000012,5,Pagapas,,Philippines,39 km
+1000012,5,Nasugbu,PHNUG,Philippines,41 km
+1000012,5,Cavite,PHCVE,Philippines,54 km
+1000012,5,Manila,PHMNL,Philippines,65 km
+1000012,5,Calapan / Batangas,PHCLP,Philippines,68 km
+1000012,5,Bataan,PHBTN,Philippines,69 km
+1000012,5,Mariveles,,Philippines,72 km
+1000012,5,Navotas,,Philippines,73 km
+1000012,5,Mauban,,Philippines,84 km
+1000012,5,Paluan,,Philippines,87 km
+1000012,5,Tilic,,Philippines,88 km
+1000012,5,Mamburao,,Philippines,96 km
+1000013,3,Belawan,IDBLW,Indonesia,75 km
+1000013,3,"Medan, Sumatra",IDMES,Indonesia,77 km
+1000013,3,Perbaungan,,Indonesia,86 km
+1000014,5,Puerto Quetzail,GTPRQ,Guatemala,55 km
+1000014,5,San Jose,GTSJO,Guatemala,57 km
+1000014,5,San Jose,GTSJO,Guatemala,57 km
+1000015,1,Corinto,NICIO,Nicaragua,32 km
+1000015,1,Puerto Sandino,NIPSN,Nicaragua,62 km
+1000015,1,San Lorenzo,HNSLO,Honduras,92 km
+1000015,1,Amapala,HNAMP,Honduras,97 km
+1000016,1,Kagoshima,JPKOJ,Japan,9 km
+1000016,1,Amamioshima,JPASJ,Japan,9 km
+1000016,1,Kiire,JPKII,Japan,26 km
+1000016,1,Kushikino,,Japan,39 km
+1000016,1,Yamagawa,,Japan,44 km
+1000016,1,Shibushi,JPSBS,Japan,45 km
+1000016,1,Makurazaki,,Japan,50 km
+1000016,1,Aburatsu,JPABU,Japan,71 km
+1000016,1,Minamata,JPMIN,Japan,73 km
+1000016,1,Uchiumi,,Japan,79 km
+1000016,1,Miyazaki,JPKMI,Japan,80 km
+1000016,1,Naga Island,,Japan,81 km
+1000016,1,Ushibuka,,Japan,91 km
+1000016,1,Kojiro,,Japan,94 km
+1000018,1,Straumsvik,ISSTR,Iceland,18 km
+1000018,1,Hafnarfjordur,ISHAF,Iceland,21 km
+1000018,1,Keflavik-Njarovik,ISKEV,Iceland,26 km
+1000018,1,Skerjafjordur,ISKJF,Iceland,28 km
+1000018,1,Reykjavik,ISREY,Iceland,31 km
+1000018,1,Hvalfjordur,,Iceland,43 km
+1000018,1,Akranes,ISAKR,Iceland,50 km
+1000018,1,Borgarnes,ISBOR,Iceland,73 km
+1000020,5,Kingstown,VCKTN,Saint Vincent and the Grenadines,21 km
+1000020,5,Admiralty Bay,,Saint Vincent and the Grenadines,38 km
+1000020,5,Vieux Fort,,Saint Lucia,50 km
+1000020,5,Cul de Sac Bay,LCCDS,Saint Lucia,74 km
+1000020,5,Castries,LCSLU,Saint Lucia,78 km
+1000021,1,Stromboli Island,ITSTR,Italy,1 km
+1000021,1,Panarea,ITPAN,Italy,23 km
+1000021,1,Lipari,ITLIP,Italy,39 km
+1000021,1,Salina Island,ITSLA,Italy,41 km
+1000021,1,Vulcano Island,,Italy,47 km
+1000021,1,Cape Vaticano,,Italy,57 km
+1000021,1,Filicudi Island,,Italy,62 km
+1000021,1,Milazzo,ITMLZ,Italy,64 km
+1000021,1,Gioia Tauro,,Italy,70 km
+1000021,1,Villa San Giovanni,,Italy,74 km
+1000021,1,Palme,,Italy,75 km
+1000021,1,Messina,ITMSN,Italy,75 km
+1000021,1,Reggio Calabria,ITREG,Italy,84 km
+1000024,1,San Jose,GTSJO,Guatemala,62 km
+1000024,1,San Jose,GTSJO,Guatemala,62 km
+1000024,1,Puerto Quetzail,GTPRQ,Guatemala,62 km
+1000024,1,Playa Grande,,Guatemala,80 km
+1000025,1,Adak,,Wake Island,42 km
+1000026,1,San Jose,GTSJO,Guatemala,62 km
+1000026,1,San Jose,GTSJO,Guatemala,62 km
+1000026,1,Puerto Quetzail,GTPRQ,Guatemala,62 km
+1000026,1,Playa Grande,,Guatemala,80 km
+1000027,1,Wates,,Indonesia,54 km
+1000027,1,Semarang,IDSRG,Indonesia,65 km
+1000028,1,Tokara Island,,Japan,28 km
+1000029,1,Belawan,IDBLW,Indonesia,75 km
+1000029,1,"Medan, Sumatra",IDMES,Indonesia,77 km
+1000029,1,Perbaungan,,Indonesia,86 km
+1000030,1,Wates,,Indonesia,54 km
+1000030,1,Semarang,IDSRG,Indonesia,65 km
+1000031,41,Santa Cruz de la Palma,,Spain,12 km
+1000031,41,Valverde,,Spain,84 km
+1000032,1,Hilo,USITO,Wake Island,41 km
+1000032,1,Honuapo,,Wake Island,47 km
+1000032,1,Kauhako Bay,,Wake Island,64 km
+1000032,1,Napoopoo,,Wake Island,68 km
+1000032,1,Milolii,,Wake Island,71 km
+1000032,1,Honokaa,,Wake Island,78 km
+1000032,1,Kailua,,Wake Island,78 km
+1000032,1,Kiholo,,Wake Island,85 km
+1000032,1,Kawaihae,USKWH,Wake Island,88 km
+1000033,4,Potsdam Harbor,,Papua New Guinea,20 km
+1000034,1,Vulcano Island,,Italy,1 km
+1000034,1,Lipari,ITLIP,Italy,10 km
+1000034,1,Salina Island,ITSLA,Italy,23 km
+1000034,1,Panarea,ITPAN,Italy,26 km
+1000034,1,Milazzo,ITMLZ,Italy,34 km
+1000034,1,Filicudi Island,,Italy,42 km
+1000034,1,Stromboli Island,ITSTR,Italy,49 km
+1000034,1,Alicudi Island,ITALI,Italy,56 km
+1000034,1,Messina,ITMSN,Italy,59 km
+1000034,1,Villa San Giovanni,,Italy,63 km
+1000034,1,Reggio Calabria,ITREG,Italy,68 km
+1000034,1,Taormina,,Italy,68 km
+1000034,1,Palme,,Italy,76 km
+1000034,1,Riposto,ITRPT,Italy,78 km
+1000034,1,Cape Vaticano,,Italy,80 km
+1000034,1,Acireale,,Italy,95 km
+1000035,5,Probolinggo,IDPRO,Indonesia,53 km
+1000035,5,Pasuruan,,Indonesia,53 km
+1000035,5,Besuki,,Indonesia,94 km
