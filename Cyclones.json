@@ -1,0 +1,57 @@
+{
+    "Table_1": {
+        "headers": ["Event_id","Episode","Countries","Population_Affected","Max_Wind_speed","MAX_Storm_Surge","Vulnerability","Event_summary"],
+        "xpath": "//*[@id='alert_summary_left']/table/tbody",
+        "col_limit": 6
+    },
+    "Table_2": {
+        "headers": ["Event_id", "Episode", "Alert", "N", "Date", "Max_Winds", "Population_in_tropical_storm", "Population_in_Cat1_and_above", "Countries"],
+        "xpath": "//*[@id='impactTimeline']/table/tbody",
+        "col_limit": 7
+    },
+    "Table_3": {
+        "headers": ["Event_id", "Episode", "Alert", "N", "Date", "Category", "Max_Winds", "Population_in_Cat1_and_above", "Population_in_Tropical_Storm_and_above", "Lat/Long", "Countries"],
+        "xpath": "//*[@id='bulletinTimeline']/table/tbody",
+        "col_limit": 9
+    },
+    "Table_4": {
+        "headers": ["Event_id", "Episode", "Countries"],
+        "xpath": "//*[@id='countries']/table/tbody",
+        "col_limit": 1
+    },
+    "Table_5": {
+        "headers": ["Event_id", "Episode", "Region_Province", "Country"],
+        "xpath": "//*[@id='provinces']/table/tbody",
+        "col_limit": 2
+    },
+    "Table_6": {
+        "headers": ["Event_id", "Episode", "Name", "Region_Province", "Country", "City_class"],
+        "xpath": "//*[@id='cities']/table/tbody",
+        "col_limit": 4
+    },
+    "Table_7": {
+        "headers": ["Event_id", "Episode", "Name", "IATA_Code", "Elevation_in_m", "Usage", "Runway_type", "IFR", "Runway_Length_in_ft"],
+        "xpath": "//*[@id='airports']/table/tbody",
+        "col_limit": 7
+    },
+    "Table_8": {
+        "headers": ["Event_id", "Episode", "Name", "LOCODE", "Country"],
+        "xpath": "//*[@id='ports']/table/tbody",
+        "col_limit": 3
+    },
+    "Table_9": {
+        "headers": ["Event_id", "Episode", "Reservoir", "Dam_Name", "River", "Year"],
+        "xpath": "//*[@id='dams']/table/tbody",
+        "col_limit": 4
+    },
+    "Table_10": {
+        "headers": ["Event_id", "Episode", "Site", "Type", "Name", "Country"],
+        "xpath": "//*[@id='nuclear_npp']/table/tbody",
+        "col_limit": 5
+    },
+    "Table_11": {
+        "headers": ["Event_id", "Episode", "Alert", "Date", "Name", "Country", "Storm_Surge_Height"],
+        "xpath": "//*[@id='locations']/table/tbody",
+        "col_limit": 5
+    }
+}

@@ -1,0 +1,129 @@
+Event_id,Episode,Name,LOCODE,Country,Distance
+1449230,1597953,Hualien,TWHUN,Taiwan,3 km
+1449230,1597953,Suao,TWSUO,Taiwan,75 km
+1449263,1597993,Kiska Island,,Wake Island,41 km
+1449263,1597993,Amchitka Island,,Wake Island,75 km
+1449263,1597993,Constantine Harbour,,Wake Island,99 km
+1449314,1598055,Iquique,CLIQQ,Chile,86 km
+1449336,1598085,Goi,JPGOI,Japan,7 km
+1449336,1598085,Chiba,JPCHB,Japan,12 km
+1449336,1598085,Anegasaki,JPANE,Japan,13 km
+1449336,1598085,Katunan Ko,,Japan,26 km
+1449336,1598085,Kisarazu,JPKZU,Japan,26 km
+1449336,1598085,Kawasaki,JPKWS,Japan,37 km
+1449336,1598085,Ogasawara,JPOGA,Japan,39 km
+1449336,1598085,Katsuura Ko,,Japan,42 km
+1449336,1598085,Tokyo,JPTYO,Japan,44 km
+1449336,1598085,Yokohama,JPYOK,Japan,49 km
+1449336,1598085,Neghisi,JPNGI,Japan,50 km
+1449336,1598085,Yokosuka,JPYOS,Japan,53 km
+1449336,1598085,Kurihama,JPKRH,Japan,54 km
+1449336,1598085,Tateyama,JPTTY,Japan,64 km
+1449336,1598085,Kashima,JPKSM,Japan,65 km
+1449336,1598085,Choshi,JPCHO,Japan,65 km
+1449346,1598095,Playa Grande,,Guatemala,32 km
+1449346,1598095,San Jose,GTSJO,Guatemala,49 km
+1449346,1598095,San Jose,GTSJO,Guatemala,49 km
+1449346,1598095,Puerto Quetzail,GTPRQ,Guatemala,53 km
+1449346,1598095,Champerico,GTCHR,Guatemala,76 km
+1449347,1598114,Hualien,TWHUN,Taiwan,28 km
+1449347,1598114,Suao,TWSUO,Taiwan,51 km
+1449348,1598099,Tandag,,Philippines,13 km
+1449348,1598099,Aras Asan,,Philippines,13 km
+1449348,1598099,Lamon Anchorage,,Philippines,58 km
+1449348,1598099,Hinatuan,,Philippines,68 km
+1449348,1598099,Butuan,,Philippines,76 km
+1449348,1598099,Bislig / Mindanao,PHBPH,Philippines,88 km
+1449348,1598099,Dapa,,Philippines,88 km
+1449348,1598099,Nasipit,PHNAS,Philippines,99 km
+1449348,1598099,Nasipit,PHNAS,Philippines,99 km
+1449354,1598106,La Libertad,SVLLD,El Salvador,40 km
+1449354,1598106,Puerto El Triunfo,,El Salvador,75 km
+1449354,1598106,Acajutla,SVAQJ,El Salvador,87 km
+1449369,1598127,Sanchez,DOSNZ,Dominican Republic,52 km
+1449369,1598127,Sosua,,Dominican Republic,69 km
+1449369,1598127,Puerto Botado,,Dominican Republic,70 km
+1449369,1598127,Santa Barbara de Samana,,Dominican Republic,82 km
+1449369,1598127,Puerto Plata,DOPOP,Dominican Republic,84 km
+1449369,1598127,Santo Domingo,DOSDQ,Dominican Republic,91 km
+1449369,1598127,Rio Haina,DOHAI,Dominican Republic,95 km
+1449402,1598177,Lamon Anchorage,,Philippines,90 km
+1449402,1598177,Aras Asan,,Philippines,91 km
+1449402,1598177,Hinatuan,,Philippines,100 km
+1449406,1598183,San Juan Del Sur,NISJS,Nicaragua,97 km
+1449497,1598292,Lindos,,Greece,82 km
+1449504,1598309,Myako Island,,Japan,52 km
+1449504,1598309,Hirara,,Japan,64 km
+1449519,1598318,Normanby Island,,Papua New Guinea,85 km
+1449577,1598390,Roca Partido Island,,Mexico,85 km
+1449580,1598395,Namatanai,PGATN,Papua New Guinea,44 km
+1449580,1598395,Rabaul,PGRAB,Papua New Guinea,56 km
+1449580,1598395,Kokopo Roadstead,,Papua New Guinea,75 km
+1449580,1598395,Tabar Island,,Papua New Guinea,98 km
+1449591,1598413,Tokyo,JPTYO,Japan,47 km
+1449591,1598413,Ogasawara,JPOGA,Japan,51 km
+1449591,1598413,Katunan Ko,,Japan,54 km
+1449591,1598413,Anegasaki,JPANE,Japan,65 km
+1449591,1598413,Chiba,JPCHB,Japan,66 km
+1449591,1598413,Kawasaki,JPKWS,Japan,67 km
+1449591,1598413,Goi,JPGOI,Japan,72 km
+1449591,1598413,Yokohama,JPYOK,Japan,77 km
+1449591,1598413,Neghisi,JPNGI,Japan,83 km
+1449591,1598413,Kisarazu,JPKZU,Japan,84 km
+1449591,1598413,Hitachi,JPHTC,Japan,84 km
+1449591,1598413,Kashima,JPKSM,Japan,84 km
+1449591,1598413,Yokosuka,JPYOS,Japan,96 km
+1449621,1598459,Hualien,TWHUN,Taiwan,5 km
+1449621,1598459,Suao,TWSUO,Taiwan,70 km
+1449652,1598494,Gan Bay,,Philippines,36 km
+1449652,1598494,Salomague,,Philippines,37 km
+1449652,1598494,Laoag,PHLAO,Philippines,47 km
+1449652,1598494,Pandan,,Philippines,57 km
+1449652,1598494,Dirique Inlet,,Philippines,68 km
+1449652,1598494,Port San Esteban,,Philippines,80 km
+1449684,1598535,Neiafu,TONEI,Tonga,74 km
+1449712,1598567,Banks Island,,Vanuatu,51 km
+1449746,1598624,Lamitan,,Philippines,31 km
+1449746,1598624,Monserat,,Philippines,76 km
+1449746,1598624,Glan,,Philippines,81 km
+1449746,1598624,Dadiangas,PHDAD,Philippines,88 km
+1449780,1598683,Santiago de Cuba,CUSCU,Cuba,32 km
+1449780,1598683,Puerto Guantanamo,,Cuba,80 km
+1449780,1598683,Caimanera,CUGUB,Cuba,85 km
+1449819,1598740,Tana Island,,Vanuatu,76 km
+1449820,1598737,Diego Garcia,,British Indian Ocean Territory,82 km
+1449849,1598764,Anewa Bay,PGANB,Papua New Guinea,80 km
+1449849,1598764,Kieta,PGKIE,Papua New Guinea,84 km
+1449849,1598764,Keita,,Papua New Guinea,89 km
+1449849,1598764,Blanche Harbour,,Soloman Islands,96 km
+1449849,1598764,Shortland Harbour,SBSHH,Soloman Islands,97 km
+1449868,1598786,Fudai,,Japan,46 km
+1449868,1598786,Hachinohe,JPHHE,Japan,70 km
+1449868,1598786,Miyako,JPMYK,Japan,79 km
+1449868,1598786,Yamada,,Japan,98 km
+1449875,1598792,Malloco Bay,,Soloman Islands,34 km
+1449875,1598792,Shortland Harbor,,Soloman Islands,67 km
+1449875,1598792,Shortland Harbour,SBSHH,Soloman Islands,71 km
+1449875,1598792,Gizo Is,SBGZO,Soloman Islands,83 km
+1449875,1598792,Blanche Harbour,,Soloman Islands,83 km
+1449875,1598792,Choiseul Bay,SBCHY,Soloman Islands,95 km
+1449905,1598833,Salina Cruz,MXSCX,Mexico,57 km
+1449931,1598863,Iwo Jima,,Japan,84 km
+1449993,1598939,Sitia,GRJSH,Greece,53 km
+1449993,1598939,Ierapetra,,Greece,61 km
+1449993,1598939,Aghios Nikolaos,,Greece,74 km
+1449993,1598939,Kasos Island,,Greece,83 km
+1450049,1599004,Lae,PGLAE,Papua New Guinea,86 km
+1450050,1599008,Tomoni,,Indonesia,67 km
+1450066,1599028,Akkeshi,JPAKE,Japan,36 km
+1450066,1599028,Hanasaki,,Japan,63 km
+1450066,1599028,Nemuro,JPNEM,Japan,67 km
+1450066,1599028,Kushiro,JPKUH,Japan,69 km
+1450066,1599028,Golovino,,Russia,99 km
+1450091,1599062,Tomoni,,Indonesia,69 km
+1450096,1599067,Cruz Grande,CLCGR,Chile,42 km
+1450096,1599067,Huasco,CLHSO,Chile,81 km
+1450096,1599067,Coquimbo,CLCQQ,Chile,94 km
+1450096,1599067,Guayacan,CLGYC,Chile,95 km
+1450100,1599072,Buka,PGBUA,Papua New Guinea,45 km
+1450100,1599072,Queen Carola Harbor,,Papua New Guinea,51 km

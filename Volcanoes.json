@@ -1,0 +1,52 @@
+{
+    "Table_1": {
+        "headers": ["Event_id", "Episode", "Lat/Lon", "Event_date", "Exposed_Population30km", "Exposed_Population100km", "VEI", "PEI", "Event_summary"],
+        "xpath": "//*[@id='alert_summary_left']/table/tbody",
+        "col_limit": 7
+    },
+    "Table_2": {
+        "headers": ["Event_id", "Episode", "ID", "Alert", "Date", "Eruption_details", "Source"],
+        "xpath": "//*[@id='ctl00_CPH_GridViewEpisodes']/tbody",
+        "col_limit": 5
+    },
+    "Table_3": {
+        "headers": ["Event_id", "Episode", "Radius", "Population"],
+        "xpath": "//*[@id='graph_eq']/table/tbody/tr/td/table/tbody",
+        "col_limit": 0
+    },
+    "Table_4": {
+        "headers": ["Event_id", "Episode", "Region_province", "Country", "Population"],
+        "xpath": "//*[@id='provinces']/table/tbody",
+        "col_limit": 3
+    },
+    "Table_5": {
+        "headers": ["Event_id", "Episode", "Name", "Region_Province", "Country", "City_class", "Population", "Distance"],
+        "xpath": "//*[@id='cities']/table/tbody",
+        "col_limit": 6
+    },
+    "Table_6": {
+        "headers": ["Event_id", "Episode", "Name", "IATA_Code", "Elevation_in_m", "Usage", "Runway_type", "IFR", "Runway_Length_in_ft", "Distance"],
+        "xpath": "//*[@id='airports']/table/tbody",
+        "col_limit": 8
+    },
+    "Table_7": {
+        "headers": ["Event_id", "Episode", "Name", "LOCODE", "Country", "Distance"],
+        "xpath": "//*[@id='ports']/table/tbody",
+        "col_limit": 4
+    },
+    "Table_8": {
+        "headers": ["Event_id", "Episode", "Reservoir", "Dam_Name", "River", "Year", "Distance"],
+        "xpath": "//*[@id='dams']/table/tbody",
+        "col_limit": 5
+    },
+    "Table_9": {
+        "headers": ["Event_id", "Episode", "Site", "Type", "Name", "Country"],
+        "xpath": "//*[@id='nuclear_npp']/table/tbody",
+        "col_limit": 4
+    },
+    "Table_10": {
+        "headers": ["Event_id", "Episode", "Alert", "Date", "Name", "Country", "Wave Height(m)"],
+        "xpath": "//*[@id='locations']/table/tbody",
+        "col_limit": 5
+    }
+}

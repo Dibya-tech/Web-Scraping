@@ -1,0 +1,512 @@
+Event_id,Episode,Region_Province,Country
+1001013,12,Virginia,United States
+1001013,12,Maryland,United States
+1001013,12,District of Columbia,United States
+1001013,12,North Carolina,United States
+1001013,12,Delaware,United States
+1001013,12,West Virginia,United States
+1001013,12,Pennsylvania,United States
+1001013,12,New Jersey,United States
+1001013,12,Ohio,United States
+1001013,12,South Carolina,United States
+1001013,12,Tennessee,United States
+1001013,12,New York,United States
+1001013,12,Kentucky,United States
+1001013,12,Georgia,United States
+1001013,12,Bahamas,Bahamas
+1001014,53,Bermuda,Bermuda
+1001014,53,Massachusetts,United States
+1001014,53,New York,United States
+1001014,53,Rhode Island,United States
+1001014,53,Connecticut,United States
+1001014,53,British Virgin Is.,Virgin Islands British
+1001014,53,Humacao,Puerto Rico
+1001014,53,Bayamon,Puerto Rico
+1001014,53,San Juan,Puerto Rico
+1001014,53,Virgin Is.,Virgin Islands U.S.
+1001014,53,Arecibo,Puerto Rico
+1001014,53,Aguadilla,Puerto Rico
+1001014,53,Guayama,Puerto Rico
+1001014,53,Anguilla,Anguilla
+1001014,53,Ponce,Puerto Rico
+1001014,53,Mayag?ez,Puerto Rico
+1001014,53,Nova Scotia,Canada
+1001014,53,New Hampshire,United States
+1001014,53,Antigua & Barbuda,Antigua and Barbuda
+1001014,53,Maine,United States
+1001014,53,St. Kitts & Nevis,Saint Kitts and Nevis
+1001014,53,Vermont,United States
+1001014,53,Montserrat,Montserrat
+1001014,53,New Brunswick,Canada
+1001014,53,Guadeloupe,Guadeloupe
+1001014,53,Dominica,Dominica
+1001014,53,Quebec,Canada
+1001014,53,Prince Edward Island,Canada
+1001014,53,Martinique,Martinique
+1001018,43,Guangdong,China
+1001018,43,Macau,China
+1001018,43,Hong Kong,China
+1001018,43,Jiangxi,China
+1001018,43,Fujian,China
+1001018,43,Taiwan,China
+1001018,43,Ilocos,Philippines
+1001018,43,Cagayan Valley,Philippines
+1001018,43,Okinawa,Japan
+1001019,33,Zacatecas,Mexico
+1001019,33,Aguascalientes,Mexico
+1001019,33,San Luis Potosi,Mexico
+1001019,33,Jalisco,Mexico
+1001019,33,Durango,Mexico
+1001019,33,Nayarit,Mexico
+1001019,33,Michoacan,Mexico
+1001019,33,Colima,Mexico
+1001021,10,Michoacan,Mexico
+1001021,10,Guerrero,Mexico
+1001023,14,Hainan,China
+1001023,14,Guangdong,China
+1001023,14,Guangxi,China
+1001024,24,Sinaloa,Mexico
+1001024,24,Durango,Mexico
+1001024,24,Chihuahua,Mexico
+1001024,24,Sonora,Mexico
+1001024,24,Baja California Sur,Mexico
+1001025,40,Bermuda,Bermuda
+1001025,40,Antigua & Barbuda,Antigua and Barbuda
+1001025,40,Anguilla,Anguilla
+1001025,40,British Virgin Is.,Virgin Islands British
+1001025,40,St. Kitts & Nevis,Saint Kitts and Nevis
+1001025,40,Virgin Is.,Virgin Islands U.S.
+1001025,40,Guadeloupe,Guadeloupe
+1001025,40,Montserrat,Montserrat
+1001025,40,Dominica,Dominica
+1001025,40,Martinique,Martinique
+1001025,40,St. Lucia,Saint Lucia
+1001025,40,Barbados,Barbados
+1001025,40,St. Vincent & the Grenadines,Saint Vincent and the Grenadines
+1001026,16,Al Mahrah,Yemen
+1001026,16,Hadhramaut,Yemen
+1001026,16,Zufar,Oman
+1001026,16,Aden,Yemen
+1001027,18,Vanuatu,Vanuatu
+1001027,18,Solomon Is.,Solomon Islands
+1001028,15,Michoacan,Mexico
+1001028,15,Guerrero,Mexico
+1001028,15,Mexico,Mexico
+1001029,7,Chittagong,Bangladesh
+1001029,7,Arakan State,Myanmar
+1001029,7,Chin State,Myanmar
+1001029,7,Mizoram,India
+1001033,13,Fiji,Fiji
+1001034,4,Chittagong,Bangladesh
+1001034,4,Tripura,India
+1001034,4,Barisal,Bangladesh
+1001034,4,Dhaka,Bangladesh
+1001034,4,Mizoram,India
+1001034,4,Khulna,Bangladesh
+1001034,4,Assam,India
+1001034,4,Manipur,India
+1001034,4,Meghalaya,India
+1001034,4,West Bengal,India
+1001037,8,Andhra Pradesh,India
+1001037,8,Tamil Nadu,India
+1001038,35,Queensland,Australia
+1001038,35,Solomon Is.,Solomon Islands
+1001040,18,Toliara,Madagascar
+1001040,18,Fianarantsoa,Madagascar
+1001040,18,Toamasina,Madagascar
+1001040,18,Mahajanga,Madagascar
+1001041,27,Mauritius,Mauritius
+1001041,27,Reunion,Miscellaneous (French) Indian Ocean Islands
+1001043,14,Queensland,Australia
+1001043,14,Northern Territory,Australia
+1001044,13,Reunion,Miscellaneous (French) Indian Ocean Islands
+1001044,13,Mauritius,Mauritius
+1001048,12,Vanuatu,Vanuatu
+1001050,13,Western Australia,Australia
+1001050,13,Northern Territory,Australia
+1001051,4,Cook Is.,Cook Islands
+1001052,20,Reunion,Miscellaneous (French) Indian Ocean Islands
+1001052,20,Mauritius,Mauritius
+1001055,42,Christmas I.,Christmas Island
+1001056,12,Northern Territory,Australia
+1001057,11,Antsiranana,Madagascar
+1001057,11,Mahajanga,Madagascar
+1001057,11,Toamasina,Madagascar
+1001058,21,Western Australia,Australia
+1001060,15,Pwani,Tanzania
+1001060,15,Dar es Salaam,Tanzania
+1001060,15,Lindi,Tanzania
+1001060,15,Morogoro,Tanzania
+1001060,15,Zanzibar Central/South,Tanzania
+1001060,15,Zanzibar Urban/West,Tanzania
+1001060,15,Zanzibar North,Tanzania
+1001060,15,Tanga,Tanzania
+1001060,15,Pemba South,Tanzania
+1001060,15,Comoros,Comoros
+1001060,15,Seychelles,Seychelles
+1001061,24,Coast,Kenya
+1001061,24,Pemba North,Tanzania
+1001061,24,Pemba South,Tanzania
+1001063,26,Kanto,Japan
+1001063,26,Southern Tagalog,Philippines
+1001063,26,Bicol,Philippines
+1001063,26,Central Luzon,Philippines
+1001063,26,National Capital Region,Philippines
+1001064,6,West Bengal,India
+1001064,6,Khulna,Bangladesh
+1001064,6,Orissa,India
+1001064,6,Barisal,Bangladesh
+1001064,6,Bihar,India
+1001064,6,Dhaka,Bangladesh
+1001064,6,Rajshahi,Bangladesh
+1001064,6,Chittagong,Bangladesh
+1001064,6,Tripura,India
+1001064,6,Meghalaya,India
+1001064,6,Mizoram,India
+1001064,6,Assam,India
+1001064,6,Geylegphug,Bhutan
+1001064,6,Chirang,Bhutan
+1001064,6,Shemgang,Bhutan
+1001064,6,Samdrup Jongkhar,Bhutan
+1001064,6,Mongar,Bhutan
+1001064,6,Pemagatsel,Bhutan
+1001064,6,Tashigang,Bhutan
+1001064,6,Arunachal Pradesh,India
+1001066,13,Zacatecas,Mexico
+1001066,13,Aguascalientes,Mexico
+1001066,13,San Luis Potosi,Mexico
+1001066,13,Jalisco,Mexico
+1001066,13,Guanajuato,Mexico
+1001066,13,Nuevo Leon,Mexico
+1001066,13,Tamaulipas,Mexico
+1001066,13,Michoacan,Mexico
+1001066,13,Queretaro,Mexico
+1001066,13,Coahuila,Mexico
+1001066,13,Hidalgo,Mexico
+1001066,13,Mexico,Mexico
+1001066,13,Veracruz,Mexico
+1001066,13,Guerrero,Mexico
+1001066,13,Distrito Federal,Mexico
+1001066,13,Puebla,Mexico
+1001066,13,Morelos,Mexico
+1001066,13,Tlaxcala,Mexico
+1001066,13,Texas,United States
+1001066,13,Oaxaca,Mexico
+1001066,13,Tabasco,Mexico
+1001066,13,Chiapas,Mexico
+1001066,13,Campeche,Mexico
+1001066,13,Yucatan,Mexico
+1001066,13,Peten,Guatemala
+1001066,13,Quintana Roo,Mexico
+1001066,13,Orange Walk,Belize
+1001066,13,Cayo,Belize
+1001066,13,Corozal,Belize
+1001066,13,Belize,Belize
+1001067,43,Arkansas,United States
+1001067,43,Texas,United States
+1001067,43,Oklahoma,United States
+1001067,43,Louisiana,United States
+1001067,43,Tamaulipas,Mexico
+1001067,43,Yucatan,Mexico
+1001067,43,Campeche,Mexico
+1001067,43,Quintana Roo,Mexico
+1001067,43,Pinar del Rio,Cuba
+1001067,43,Isla de la Juventud,Cuba
+1001067,43,Cayman Is.,Cayman Islands
+1001067,43,Granma,Cuba
+1001067,43,Santiago de Cuba,Cuba
+1001067,43,Hanover,Jamaica
+1001067,43,Westmoreland,Jamaica
+1001067,43,Saint James,Jamaica
+1001067,43,Trelawny,Jamaica
+1001067,43,Saint Elizabeth,Jamaica
+1001067,43,Saint Ann,Jamaica
+1001067,43,Manchester,Jamaica
+1001067,43,Clarendon,Jamaica
+1001067,43,Saint Mary,Jamaica
+1001067,43,Saint Catherine,Jamaica
+1001067,43,Saint Andrew,Jamaica
+1001067,43,Portland,Jamaica
+1001067,43,Kingston,Jamaica
+1001067,43,Saint Thomas,Jamaica
+1001067,43,Grand Anse,Haiti
+1001067,43,Sud,Haiti
+1001067,43,Artibonite,Haiti
+1001067,43,Nippes,Haiti
+1001067,43,Ouest,Haiti
+1001067,43,Centre,Haiti
+1001067,43,Sud-Est,Haiti
+1001067,43,La Estrelleta,Dominican Republic
+1001067,43,Independencia,Dominican Republic
+1001067,43,San Juan,Dominican Republic
+1001067,43,Baoruco,Dominican Republic
+1001067,43,Pedernales,Dominican Republic
+1001067,43,Azua,Dominican Republic
+1001067,43,Barahona,Dominican Republic
+1001067,43,Peravia,Dominican Republic
+1001067,43,San Cristobal,Dominican Republic
+1001067,43,Distrito Nacional,Dominican Republic
+1001067,43,Santo Domingo,Dominican Republic
+1001067,43,Sucre,Venezuela
+1001067,43,St. Lucia,Saint Lucia
+1001067,43,St. Vincent & the Grenadines,Saint Vincent and the Grenadines
+1001067,43,Grenada,Grenada
+1001067,43,Barbados,Barbados
+1001067,43,Trinidad & Tobago,Trinidad and Tobago
+1001068,4,Puebla,Mexico
+1001068,4,Veracruz,Mexico
+1001068,4,Hidalgo,Mexico
+1001068,4,Tlaxcala,Mexico
+1001071,14,Quang Ninh,Viet Nam
+1001071,14,Guangxi,China
+1001071,14,Lang Son,Viet Nam
+1001071,14,Ha Bac,Viet Nam
+1001071,14,Hai Phong,Viet Nam
+1001071,14,Hai Hung,Viet Nam
+1001071,14,Bac Thai,Viet Nam
+1001071,14,Cao Bang,Viet Nam
+1001071,14,Guangdong,China
+1001071,14,Hainan,China
+1001072,24,Fujian,China
+1001072,24,Taiwan,Taiwan
+1001072,24,Zhejiang,China
+1001072,24,Guangdong,China
+1001072,24,Jiangxi,China
+1001072,24,Anhui,China
+1001072,24,Okinawa,Japan
+1001072,24,Hubei,China
+1001072,24,Cagayan Valley,Philippines
+1001072,24,Ilocos,Philippines
+1001072,24,Cordillera Administrative Region,Philippines
+1001075,27,North Carolina,United States
+1001075,27,Virginia,United States
+1001075,27,South Carolina,United States
+1001075,27,West Virginia,United States
+1001075,27,Tennessee,United States
+1001075,27,Georgia,United States
+1001075,27,Alabama,United States
+1001075,27,Florida,United States
+1001075,27,Matanzas,Cuba
+1001075,27,La Habana,Cuba
+1001075,27,Ciudad de la Habana,Cuba
+1001075,27,Pinar del Rio,Cuba
+1001075,27,Isla de la Juventud,Cuba
+1001079,24,Tohoku,Japan
+1001079,24,Hokkaido,Japan
+1001079,24,Kanto,Japan
+1001080,36,Newfoundland,Canada
+1001080,36,St. Pierre & Miquelon,Saint Pierre and Miquelon
+1001080,36,Bermuda,Bermuda
+1001080,36,Anguilla,Anguilla
+1001080,36,Antigua & Barbuda,Antigua and Barbuda
+1001080,36,British Virgin Is.,Virgin Islands British
+1001080,36,Turks & Caicos Is.,Turks and Caicos Islands
+1001080,36,Virgin Is.,Virgin Islands U.S.
+1001080,36,St. Kitts & Nevis,Saint Kitts and Nevis
+1001080,36,Humacao,Puerto Rico
+1001080,36,Bayamon,Puerto Rico
+1001080,36,San Juan,Puerto Rico
+1001080,36,Arecibo,Puerto Rico
+1001080,36,Montserrat,Montserrat
+1001080,36,Guayama,Puerto Rico
+1001080,36,Guadeloupe,Guadeloupe
+1001080,36,Aguadilla,Puerto Rico
+1001080,36,Ponce,Puerto Rico
+1001080,36,Samana,Dominican Republic
+1001080,36,Mayag?ez,Puerto Rico
+1001080,36,Maria Trinidad S,Dominican Republic
+1001080,36,Espaillat,Dominican Republic
+1001080,36,La Altagracia,Dominican Republic
+1001080,36,El Seibo,Dominican Republic
+1001080,36,Puerto Plata,Dominican Republic
+1001080,36,Hato Major,Dominican Republic
+1001080,36,Salcedo,Dominican Republic
+1001080,36,Duarte,Dominican Republic
+1001080,36,Santiago,Dominican Republic
+1001080,36,Monte Plata,Dominican Republic
+1001080,36,Dominica,Dominica
+1001080,36,La Romana,Dominican Republic
+1001080,36,Valverde,Dominican Republic
+1001080,36,Sanchez Ramirez,Dominican Republic
+1001080,36,La Vega,Dominican Republic
+1001080,36,San Pedro de Macor¡s,Dominican Republic
+1001080,36,Monsenor Novel,Dominican Republic
+1001080,36,Distrito Nacional,Dominican Republic
+1001080,36,San Cristobal,Dominican Republic
+1001080,36,Santo Domingo,Dominican Republic
+1001080,36,Peravia,Dominican Republic
+1001082,24,Tohoku,Japan
+1001082,24,Kanto,Japan
+1001082,24,Chubu,Japan
+1001085,8,Cheju-do,Republic of Korea
+1001086,42,Chugoku,Japan
+1001086,42,Shikoku,Japan
+1001086,42,Kyushu,Japan
+1001087,42,Hawaii,United States
+1001089,11,Baluchistan,Pakistan
+1001089,11,Sind,Pakistan
+1001089,11,Gujarat,India
+1001090,24,Quang Ninh,Viet Nam
+1001090,24,Hai Phong,Viet Nam
+1001090,24,Ha Bac,Viet Nam
+1001090,24,Hai Hung,Viet Nam
+1001090,24,Lang Son,Viet Nam
+1001090,24,Thai Binh,Viet Nam
+1001090,24,Nam Ha,Viet Nam
+1001090,24,Ha Noi,Viet Nam
+1001090,24,Bac Thai,Viet Nam
+1001090,24,Ha Tay,Viet Nam
+1001090,24,Hoa Binh,Viet Nam
+1001090,24,Vinh Phu,Viet Nam
+1001090,24,Tuyen Quang,Viet Nam
+1001090,24,Son La,Viet Nam
+1001090,24,Yen Bai,Viet Nam
+1001090,24,Hainan,China
+1001090,24,Lao Cai,Viet Nam
+1001090,24,Guangdong,China
+1001090,24,Lai Chau,Viet Nam
+1001092,16,Mississippi,United States
+1001092,16,Louisiana,United States
+1001092,16,Arkansas,United States
+1001092,16,Alabama,United States
+1001092,16,Florida,United States
+1001092,16,Texas,United States
+1001092,16,Tamaulipas,Mexico
+1001092,16,Veracruz,Mexico
+1001093,25,Shanghai,China
+1001093,25,Zhejiang,China
+1001093,25,Jiangsu,China
+1001093,25,Anhui,China
+1001093,25,Kyushu,Japan
+1001095,13,Sinaloa,Mexico
+1001095,13,Sonora,Mexico
+1001095,13,Baja California Sur,Mexico
+1001097,20,Kyongsang-namdo,Republic of Korea
+1001097,20,Kyushu,Japan
+1001097,20,Pusan-jikhalsi,Republic of Korea
+1001097,20,Cholla-namdo,Republic of Korea
+1001097,20,Kyongsang-bukto,Republic of Korea
+1001097,20,Chugoku,Japan
+1001097,20,Shikoku,Japan
+1001097,20,Kinki,Japan
+1001097,20,Chubu,Japan
+1001097,20,Jiangsu,China
+1001097,20,Shanghai,China
+1001097,20,Zhejiang,China
+1001097,20,Tohoku,Japan
+1001097,20,Okinawa,Japan
+1001097,20,Kanto,Japan
+1001099,7,Fujian,China
+1001099,7,Taiwan,Taiwan
+1001100,20,Michoacan,Mexico
+1001100,20,Colima,Mexico
+1001100,20,Jalisco,Mexico
+1001100,20,Guerrero,Mexico
+1001100,20,Mexico,Mexico
+1001100,20,Oaxaca,Mexico
+1001101,18,Kentucky,United States
+1001101,18,Indiana,United States
+1001101,18,Tennessee,United States
+1001101,18,Ohio,United States
+1001101,18,Virginia,United States
+1001101,18,Illinois,United States
+1001101,18,West Virginia,United States
+1001101,18,North Carolina,United States
+1001101,18,Georgia,United States
+1001101,18,Alabama,United States
+1001101,18,Missouri,United States
+1001101,18,South Carolina,United States
+1001101,18,Mississippi,United States
+1001101,18,Arkansas,United States
+1001101,18,Louisiana,United States
+1001101,18,Florida,United States
+1001101,18,Ciudad de la Habana,Cuba
+1001101,18,La Habana,Cuba
+1001101,18,Pinar del Rio,Cuba
+1001101,18,Matanzas,Cuba
+1001101,18,Villa Clara,Cuba
+1001101,18,Isla de la Juventud,Cuba
+1001101,18,Quintana Roo,Mexico
+1001101,18,Yucatan,Mexico
+1001101,18,Campeche,Mexico
+1001101,18,Corozal,Belize
+1001101,18,Orange Walk,Belize
+1001101,18,Belize,Belize
+1001104,24,Kamchatskaya oblast',Russian Federation
+1001104,24,Kanto,Japan
+1001104,24,Alaska,United States
+1001105,27,Taiwan,Taiwan
+1001105,27,Cagayan Valley,Philippines
+1001105,27,Ilocos,Philippines
+1001105,27,Cordillera Administrative Region,Philippines
+1001105,27,Southern Tagalog,Philippines
+1001109,9,Oaxaca,Mexico
+1001109,9,Chiapas,Mexico
+1001111,23,Bahamas,Bahamas
+1001111,23,Florida,United States
+1001111,23,South Carolina,United States
+1001111,23,Georgia,United States
+1001111,23,Bermuda,Bermuda
+1001111,23,Quintana Roo,Mexico
+1001111,23,Yucatan,Mexico
+1001111,23,Campeche,Mexico
+1001112,15,Sakhalinskaya oblast',Russian Federation
+1001113,8,Chiapas,Mexico
+1001113,8,Tabasco,Mexico
+1001113,8,Huehuetenango,Guatemala
+1001113,8,Peten,Guatemala
+1001113,8,Campeche,Mexico
+1001113,8,Quiche,Guatemala
+1001113,8,Totonicapan,Guatemala
+1001113,8,Alta Verapaz,Guatemala
+1001113,8,Baja Verapaz,Guatemala
+1001113,8,Chimaltenango,Guatemala
+1001113,8,Guatemala,Guatemala
+1001113,8,El Progreso,Guatemala
+1001113,8,Jalapa,Guatemala
+1001113,8,Zacapa,Guatemala
+1001113,8,Izabal,Guatemala
+1001113,8,Chiquimula,Guatemala
+1001113,8,Quintana Roo,Mexico
+1001113,8,Toledo,Belize
+1001113,8,Cayo,Belize
+1001113,8,Orange Walk,Belize
+1001113,8,Copan,Honduras
+1001113,8,Stann Creek,Belize
+1001113,8,Ocotepeque,Honduras
+1001113,8,Belize,Belize
+1001113,8,Santa Barbara,Honduras
+1001113,8,Lempira,Honduras
+1001113,8,Cortes,Honduras
+1001113,8,Corozal,Belize
+1001113,8,Yucatan,Mexico
+1001113,8,Intibuca,Honduras
+1001113,8,Yoro,Honduras
+1001113,8,Atlantida,Honduras
+1001113,8,Comayagua,Honduras
+1001113,8,La Paz,Honduras
+1001113,8,Francisco Morazan,Honduras
+1001113,8,Olancho,Honduras
+1001113,8,Islas de la Bahia,Honduras
+1001113,8,El Paraiso,Honduras
+1001113,8,Colon,Honduras
+1001113,8,Gracias a Dios,Honduras
+1001113,8,Zelaya,Nicaragua
+1001114,6,Bahamas,Bahamas
+1001114,6,Guantanamo,Cuba
+1001114,6,Holguin,Cuba
+1001114,6,Santiago de Cuba,Cuba
+1001114,6,Turks & Caicos Is.,Turks and Caicos Islands
+1001115,1,Eastern Visayas,Philippines
+1001115,1,Northern Mindanao,Philippines
+1001115,1,Bicol,Philippines
+1001115,1,Central Visayas,Philippines
+1001115,1,Western Visayas,Philippines
+1001115,1,Southern Tagalog,Philippines
+1001115,1,Cagayan Valley,Philippines
+1001115,1,Okinawa,Japan
+1001115,1,Cordillera Administrative Region,Philippines
+1001115,1,Central Luzon,Philippines
+1001115,1,National Capital Region,Philippines
+1001115,1,Ilocos,Philippines
+1001115,1,Taiwan,Taiwan

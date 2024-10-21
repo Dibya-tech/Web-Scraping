@@ -6,7 +6,7 @@ import shutil
 acct_url = "https://tokyoolymphicdata.blob.core.windows.net"
 container_name = 'web-scraping'
 container_sas_key = "sp=racwdlmeo&st=2024-09-27T12:09:32Z&se=2026-09-27T20:09:32Z&spr=https&sv=2022-11-02&sr=c&sig=jhSYaHX2ARyEupmEqpQZKLKbuX4I6EuLpHg1ABdgiZg%3D"
-source_dir = 'CSV'
+source_dir = 'CSV2'
 target_dir_name = "active_dir"
 blob_service_client = BlobServiceClient(account_url= acct_url, credential=container_sas_key)
 container_client = blob_service_client.get_container_client(container_name)

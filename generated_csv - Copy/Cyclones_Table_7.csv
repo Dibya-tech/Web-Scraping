@@ -1,0 +1,1937 @@
+Event_id,Episode,Name,IATA_Code,Elevation_in_m,Usage,Runway_type,IFR,Runway_Length_in_ft
+1001013,12,Woods Farm Airstrip,,17,,,,0
+1001013,12,Robertson,,59,,,,0
+1001013,12,Christian's,,38,,,,0
+1001013,12,Hanover County Municipal,,62,Civ.,Paved,Yes,4600
+1001013,12,Wharton Field,,55,,,,0
+1001013,12,Hunt,,46,,,,0
+1001013,12,Mayers,,66,,,,0
+1001013,12,Meadow Farm,,24,,,,0
+1001013,12,Richmond International - Byrd Field,RIC,51,Civ.,Paved,Yes,9000
+1001013,12,Toddsbury Farm,,15,,,,0
+1001013,12,Brown's Island,,46,,,,0
+1001013,12,H D H,,79,,,,0
+1001013,12,Innsbrook Technical Center,,46,,,,0
+1001013,12,New Kent County,,37,,,,0
+1001013,12,Mc Guire Va Medical Center Pad,,54,,,,0
+1001013,12,Frog Hollow Farm,,9,,,,0
+1001013,12,Chippenham Hospital,,55,,,,0
+1001013,12,Flying W,,31,,,,0
+1001013,12,Rockville,,81,,,,0
+1001013,12,Defense Supply Center Richmond,,35,,,,0
+1001013,12,Chesterfield County,,71,Civ.,Paved,Yes,5500
+1001013,12,Fire Station No. 14,,52,,,,0
+1001013,12,Sabot,,78,,,,0
+1001013,12,A.p. Hill Aaf,APH,67,,,,0
+1001013,12,Woodle,,96,,,,0
+1001013,12,Technical Center,,20,,,,0
+1001013,12,Tappahannock Municipal,,9,,,,0
+1001013,12,Woodford Airpark,,75,,,,0
+1001013,12,Spring Valley,,84,,,,0
+1001013,12,Hopewell,,11,,,,0
+1001013,12,Holly Springs,,76,,,,0
+1001013,12,Lake Anna,,108,,,,0
+1001013,12,Flatrock Air Strip,,130,,,,0
+1001013,12,Heth Ahp,,67,,,,0
+1001013,12,Fort Lee Nr 1 / HQS,,30,,,,0
+1001013,12,West Point Municipal,,7,,,,0
+1001013,12,Rose Retreat Farm,,76,,,,0
+1001013,12,Shandy Hall Farm,,3,,,,0
+1001013,12,Mazza,,58,,,,0
+1001013,12,Srmc,,38,,,,0
+1001013,12,Plainview,,122,,,,0
+1001013,12,Caton South,,79,,,,0
+1001013,12,Cub Fld,,121,,,,0
+1001013,12,Petersburg Municipal,PTB,59,Civ.,Paved,Yes,5000
+1001013,12,Powhatan,,18,,,,0
+1001013,12,Arrowhead Point,,26,,,,0
+1001013,12,Jayarz,,64,,,,0
+1001013,12,Shannon,,26,,,,0
+1001013,12,Rosegill Farm Airstrip,,10,,,,0
+1001013,12,Merlin Aerodrome,,72,,,,0
+1001013,12,Hill Top,,77,,,,0
+1001013,12,Stokes,,90,,,,0
+1001013,12,Byrd Creek,,96,,,,0
+1001013,12,Mannboro Medical Center,,98,,,,0
+1001013,12,Louisa Co Freeman,LOW,150,Civ.,Paved,Yes,4300
+1001013,12,Medical,,23,,,,0
+1001013,12,Payne,,141,,,,0
+1001013,12,Camp Peary Landing Strip,,11,,,,0
+1001013,12,Williamsburg Jamestown,,15,Civ.,Paved,Yes,3200
+1001013,12,Shivok,,7,,,,0
+1001013,12,Riverside Walter Reed Hospital,,23,,,,0
+1001013,12,Dahlgren Usn Surface Weapon,DGN,6,Mil.,Paved,No,4100
+1001013,12,Dogwood Airpark,,55,,,,0
+1001013,12,Squier Landing,,5,,,,0
+1001013,12,Irvington Marina,,unknown,,,,0
+1001013,12,New Quarter Farm,,12,,,,0
+1001013,12,Hummel Field,,9,,,,0
+1001013,12,Sanford Field,,5,,,,0
+1001013,12,Melville Airstrip,,27,,,,0
+1001013,12,Holly Springs Farm,,27,,,,0
+1001013,12,Chimney View,,8,,,,0
+1001013,12,Easter Field,,116,,,,0
+1001013,12,Burgess Field,,11,,,,0
+1001013,12,Stafford Regional,,64,,,,0
+1001013,12,Aqua Land Cliffton Skypark,,8,,,,0
+1001013,12,Handy Strip,,2,,,,0
+1001013,12,Nws Helipad,,10,,,,0
+1001013,12,White Stone,,15,,,,0
+1001013,12,Rappahannock General Hospital,,9,,,,0
+1001013,12,Nyce,,6,,,,0
+1001013,12,Flying T Farm,,78,,,,0
+1001013,12,Hampton,,5,,,,0
+1001013,12,Wakefield Municipal,,34,Civ.,Paved,Yes,4300
+1001013,12,Recompense Farm,,9,,,,0
+1001013,12,Apple Grove,,5,,,,0
+1001013,12,Parks Airpark,,29,,,,0
+1001013,12,Piney Point,,2,,,,0
+1001013,12,F. U. M. A.,,122,,,,0
+1001013,12,Jett Airpark,,27,,,,0
+1001013,12,Simpsonville,,122,,,,0
+1001013,12,Kilmarnock / Tolbert Field,,2,,,,0
+1001013,12,Clements,,32,,,,0
+1001013,12,Holly Point,,4,,,,0
+1001013,12,Lanseair Farms,,12,,,,0
+1001013,12,Atlantic Research Corp,,132,,,,0
+1001013,12,Remo Private,,4,,,,0
+1001013,12,Rular,,94,,,,0
+1001013,12,Felker AAF,FAF,4,Mil.,Paved,Yes,3000
+1001013,12,Cherry Field,,2,,,,0
+1001013,12,Wells,,27,,,,0
+1001014,53,Bermuda International,BDA,4,Mil.,Paved,Yes,9700
+1001014,53,Nantucket Memorial,ACK,15,Civ.,Paved,Yes,6300
+1001014,53,Waine,,24,,,,0
+1001014,53,Tuckernuck,,9,,,,0
+1001014,53,Muskeget Island,,27,,,,0
+1001014,53,Katama Airpark,,6,,,,0
+1001014,53,Marthas Vineyard,MVY,21,Civ.,Paved,Yes,5500
+1001014,53,Trade Wind,,12,,,,0
+1001014,53,Chatham Municipal,,22,Civ.,Paved,Yes,3000
+1001014,53,North Chatham,,3,,,,0
+1001014,53,Fuller House,,9,,,,0
+1001014,53,Long Pond,,9,,,,0
+1001014,53,Seapuit,,6,,,,0
+1001014,53,Cuttyhunk,,3,,,,0
+1001014,53,Barnstable Boardman Polando,HYA,16,Civ.,Paved,Yes,5400
+1001014,53,Falmouth Airpark,,13,,,,0
+1001014,53,Block Island State,BID,33,,,,0
+1001014,53,Marston Mills,,3,,,,0
+1001014,53,Falmouth Hospital,,32,,,,0
+1001014,53,Cape Cod,,30,,,,0
+1001014,53,Anegada,NGD,unknown,,,,0
+1001014,53,Montauk,MTP,6,Civ.,Paved,Yes,3400
+1001014,53,Otis Angb,FMH,40,Mil.,Paved,Yes,9500
+1001014,53,Southampton Village,,12,,,,0
+1001014,53,Bistrians,,21,,,,0
+1001014,53,Camp Edwards,,41,,,,0
+1001014,53,Southampton,,2,,,,0
+1001014,53,East Hampton,HTO,17,Civ.,Paved,Yes,4200
+1001014,53,Horseneck,,unknown,,,,0
+1001014,53,Westport,,24,,,,0
+1001014,53,Duke,,10,,,,0
+1001014,53,Carter's,,2,,,,0
+1001014,53,Suffolk County,FOK,20,Civ.,Paved,Yes,9000
+1001014,53,Happy,,39,,,,0
+1001014,53,Acushnet River,,unknown,,,,0
+1001014,53,Goat Island,,2,,,,0
+1001014,53,J K L,,9,,,,0
+1001014,53,South County Hospital,,12,,,,0
+1001014,53,Wing-over Farm,,34,,,,0
+1001014,53,Lufker,,17,,,,0
+1001014,53,East Arnolda Farm,,9,,,,0
+1001014,53,Newport State,,52,,,,0
+1001014,53,Waterfront Floating Helistop,,unknown,,,,0
+1001014,53,Bangs,,9,,,,0
+1001014,53,New Bedford Municipal,EWB,24,Civ.,Paved,Yes,5000
+1001014,53,Westmoreland,,7,,,,0
+1001014,53,Mattituck,,9,,,,0
+1001014,53,Brookhaven,WSH,25,Civ.,Paved,Yes,4300
+1001014,53,Westerly State,WST,25,Civ.,Paved,Yes,4000
+1001014,53,Elizabeth Field,FID,3,,,,0
+1001014,53,Norman Kurrass Contractor,,9,,,,0
+1001014,53,Westport,,40,,,,0
+1001014,53,Eastern Long Island,,2,,,,0
+1001014,53,Rose Field,,6,,,,0
+1001014,53,Bulljump,,18,,,,0
+1001014,53,Stonington Airpark,,2,,,,0
+1001014,53,Foxridge Farm,,43,,,,0
+1001014,53,Island Air Service,,16,,,,0
+1001014,53,Portsmouth Ramada,,15,,,,0
+1001014,53,Bayport Aerodrome,,12,,,,0
+1001014,53,North Sound Virgin Gorda,NSX,unknown,,,,0
+1001014,53,Peconic River,CTO,23,,,,0
+1001014,53,Talmage Fld,,29,,,,0
+1001014,53,Richmond,,40,,,,0
+1001014,53,Quonset State,,6,Civ.,Paved,Yes,7500
+1001014,53,Sampson Pond,,51,,,,0
+1001014,53,Groton New London,GON,3,Civ.,Paved,Yes,5000
+1001014,53,Long Island Mac Arthur,ISP,30,Civ.,Paved,Yes,7000
+1001014,53,Virgin Gorda,VIJ,4,Civ.,Unpaved,No,3100
+1001014,53,Beef Island,EIS,5,Civ.,Paved,Yes,3600
+1001014,53,Wagstaff,,6,,,,0
+1001014,53,Fall River Municipal,,59,,,,0
+1001014,53,Provincetown Municipal,PVC,2,Civ.,Paved,Yes,3400
+1001014,53,Tobay Beach Park,,3,,,,0
+1001014,53,Plymouth Municipal,PYM,45,Civ.,Paved,Yes,4300
+1001014,53,Jordan Hospital,,37,,,,0
+1001014,53,Wychwood Field,,96,,,,0
+1001014,53,Double A,,27,,,,0
+1001014,53,C.A. Ballfield,,40,,,,0
+1001014,53,Entenmann's,,25,,,,0
+1001014,53,Myricks,,22,,,,0
+1001014,53,Brunswick Hospital,,18,,,,0
+1001014,53,Mile Creek,,9,,,,0
+1001014,53,St Luke's Hospital,,43,,,,0
+1001014,53,Isla Grande,SIG,3,Civ.,Paved,Yes,5300
+1001014,53,Wamsetto,,unknown,,,,0
+1001014,53,State Government Number One,,82,,,,0
+1001014,53,Luis Munoz Marin International,SJU,3,Civ.,Paved,Yes,10000
+1001014,53,Dorado,,23,,,,0
+1001014,53,Gallup Farm,,134,,,,0
+1001014,53,Taunton Municipal,,13,Civ.,Paved,Yes,3500
+1001014,53,Deer Park,DPK,unknown,,,,0
+1001014,53,Republic,FRG,25,Civ.,Paved,Yes,6800
+1001014,53,Theodore Francis Green Stat,PVD,17,Civ.,Paved,Yes,7100
+1001014,53,Kent County Memorial Hospital,,32,,,,0
+1001014,53,Health Sciences Center University Hospital,,58,,,,0
+1001014,53,Old Saybrook,,30,,,,0
+1001014,53,St Charles Hospital,,152,,,,0
+1001014,53,Princess House,,4,,,,0
+1001014,53,Prasa-Barbosa,,50,,,,0
+1001018,43,Zhuhai,ZUH,6,,,,0
+1001018,43,Shanzhou,SZO,unknown,,,,0
+1001018,43,Macau,MFM,6,Civ.,Paved,Yes,11000
+1001018,43,Guangzhou / Shadi,,30,,,,0
+1001018,43,Guangzhou / Baiyun,CAN,56,Civ.,Paved,Yes,11000
+1001018,43,Hong Kong International (Chep Lap Kok),HKG,9,Civ.,Paved,Yes,12400
+1001018,43,Guangzhou East,,50,,,,0
+1001018,43,Shenzhen,SZX,4,Civ.,Paved,Yes,11100
+1001018,43,Sek Kong,,15,Priv.,Paved,No,4100
+1001018,43,Xiangshui Hsu,,44,,,,0
+1001018,43,Huiyang,,18,,,,0
+1001018,43,Pratas Island,,3,,,,0
+1001018,43,,,108,,,,0
+1001018,43,Meixian Af P,,101,,,,0
+1001018,43,Meixian,MXZ,93,,,,0
+1001018,43,Shantou Northeast,SWA,3,,,,0
+1001018,43,Liangcheng,,381,,,,0
+1001018,43,,,17,,,,0
+1001018,43,Xiamen / Gaoqi,XMN,18,Civ.,Paved,Yes,8800
+1001018,43,Ta Shan Ting,,40,,,,0
+1001018,43,Shatou,,9,,,,0
+1001018,43,Shang-Yi,KNH,12,Mil.,Paved,Yes,9800
+1001018,43,Jinjiang,JJN,6,,,,0
+1001018,43,Qingyang,IQN,21,,,,0
+1001018,43,Chi Mei,CMJ,unknown,,,,0
+1001018,43,,,24,,,,0
+1001018,43,Wang An,,30,,,,0
+1001018,43,P Eng Hu,,21,,,,0
+1001018,43,Makung AB,MZG,31,Mil.,Paved,Yes,6500
+1001018,43,Tainan,TNN,19,Mil.,Paved,Yes,10000
+1001018,43,Kangshan,,10,Mil.,Paved,No,7500
+1001018,43,Tso Ying,,9,,,,0
+1001018,43,Highway Strip 331 334,,11,,,,0
+1001018,43,Kaohsiung International,KHH,9,Civ.,Paved,Yes,10300
+1001018,43,Kuei Jen,,30,,,,0
+1001018,43,Highway Strip 296 298,,9,,,,0
+1001018,43,Pingtung South,,24,Mil.,Paved,Yes,7800
+1001018,43,Pingtung North,,29,Mil.,Paved,No,8000
+1001018,43,,,15,,,,0
+1001018,43,Chiayi,CYI,25,Civ.,Paved,Yes,10000
+1001018,43,Highway Strip 260,,30,,,,0
+1001018,43,Hengchun,HCN,13,Civ.,Paved,No,3500
+1001018,43,Highway Strip 206,,23,,,,0
+1001018,43,Ching Chuan Kang AB,,203,Mil.,Paved,No,12000
+1001018,43,Taichung,TXG,112,Mil.,Paved,Yes,5300
+1001018,43,Feng Nin,,42,Civ.,Paved,Yes,7900
+1001018,43,Taitung,TTT,37,Mil.,Paved,No,11000
+1001018,43,Sun Moon Lake,SMT,unknown,,,,0
+1001018,43,Taggat,,5,,,,0
+1001018,43,Orchid Island,KYD,10,Civ.,Paved,No,4500
+1001018,43,Green Island,GNI,8,Civ.,Paved,No,3300
+1001018,43,Hsinchu,HSZ,8,Civ.,Paved,Yes,12000
+1001018,43,Lishan,LHN,unknown,,,,0
+1001018,43,Ao Hu Kou,,152,,,,0
+1001018,43,Lung Tan,,241,Civ.,Paved,No,3200
+1001018,43,Highway Strip 58 60,,120,,,,0
+1001018,43,Chiang Kai Shek International,TPE,33,Civ.,Paved,Yes,12000
+1001018,43,Taoyuan,,45,Mil.,Paved,No,10000
+1001018,43,Basco,BSO,56,Civ.,Paved,No,4100
+1001018,43,Hualien,HUN,16,Civ.,Paved,Yes,9000
+1001018,43,Pa Kuei,,141,,,,0
+1001018,43,Sungshan,TSA,6,Civ.,Paved,Yes,8500
+1001018,43,,,9,,,,0
+1001018,43,Yonaguni,OGN,21,Civ.,Paved,Yes,4900
+1001018,43,Hateruma,HTR,unknown,,,,0
+1001018,43,Iriomote Jima,,12,,,,0
+1001018,43,Ishigaki,ISG,26,Civ.,Paved,Yes,4900
+1001018,43,,,9,,,,0
+1001019,33,Zacatecas,ZCL,2140,Civ.,Paved,Yes,9800
+1001019,33,Colotlan,,1854,,,,0
+1001019,33,Aguascalientes,AGU,1863,Civ.,Paved,Yes,9800
+1001019,33,Colotlan South,,1676,,,,0
+1001019,33,Zapopan,ZAP,1625,,,,0
+1001019,33,Miguel Hidal,GDL,1528,Civ.,Paved,Yes,13100
+1001019,33,Ocotlan,,1525,,,,0
+1001019,33,Venustiano Carranza,,1554,,,,0
+1001019,33,Tepic,TPQ,960,Civ.,Paved,Yes,7500
+1001019,33,Acaponeta,,84,,,,0
+1001019,33,San Blas,,3,,,,0
+1001019,33,El Llano,,12,,,,0
+1001019,33,Ciudad Guzman,,1520,,,,0
+1001019,33,Tuxpan,,1225,Mil.,Paved,No,6700
+1001019,33,Lic Gustavo Diaz Ordaz International,PVR,6,Civ.,Paved,Yes,10100
+1001019,33,Autlan,,884,,,,0
+1001019,33,Colima,CLQ,723,Civ.,Paved,Yes,7500
+1001019,33,La Gloria,,34,,,,0
+1001019,33,Isla Maria Madre,,5,,,,0
+1001019,33,Playa de Oro International,ZLO,8,Civ.,Paved,Yes,7200
+1001019,33,Isla Socorro,,100,,,,0
+1001020,29,Rota I International,ROP,185,Civ.,Paved,Yes,6000
+1001021,10,Huetamo,,300,,,,0
+1001021,10,Santa Barbara,,299,,,,0
+1001021,10,Ixtapa Zihuatanejo International,ZIH,6,Civ.,Paved,Yes,8200
+1001023,14,Beihai,BHY,25,,,,0
+1001024,24,Fedl de Bachigualato,CUL,33,Civ.,Paved,Yes,7500
+1001024,24,Campo Gobierno,,13,,,,0
+1001024,24,Guamuchil,,24,,,,0
+1001024,24,Bacubirito,,300,,,,0
+1001024,24,Cosala,,76,,,,0
+1001024,24,Campo Cuatro Milpas,,28,,,,0
+1001024,24,Los Cerritos Northeast,,17,,,,0
+1001024,24,Los Mochis,LMM,4,Civ.,Paved,Yes,6500
+1001024,24,El Fuerte,,75,,,,0
+1001024,24,Punta Colorada,PCO,unknown,,,,0
+1001024,24,Punta Pescadero,,7,,,,0
+1001024,24,Alamos,XAL,400,,,,0
+1001024,24,La Paz,,26,,,,0
+1001024,24,Los Cabos International,SJD,109,Civ.,Paved,Yes,9800
+1001024,24,Leon,LAP,21,Civ.,Paved,Yes,8200
+1001024,24,Navojoa New,,38,,,,0
+1001024,24,Navojoa,,60,,,,0
+1001024,24,Cabo San Lucas,,139,,,,0
+1001024,24,Villa Juarez South,,46,,,,0
+1001024,24,Loreto,LTO,3,Civ.,Paved,Yes,7200
+1001024,24,Arroyo Capo,,20,,,,0
+1001024,24,Villa Constitucion,VIB,43,,,,0
+1001024,24,Isla Socorro,,100,,,,0
+1001025,40,Bermuda International,BDA,4,Mil.,Paved,Yes,9700
+1001025,40,Barbuda Codrington,BBQ,unknown,,,,0
+1001025,40,Wallblake,AXA,33,Civ.,Paved,Yes,3600
+1001025,40,Grand Case,CCE,2,Civ.,Paved,No,3900
+1001025,40,St. Barthelemy,SBH,unknown,Civ.,Paved,No,2100
+1001025,40,Prinses Juliana,SXM,4,Civ.,Paved,Yes,7000
+1001025,40,Anegada,NGD,unknown,,,,0
+1001025,40,V C Bird International,ANU,19,Civ.,Paved,Yes,9000
+1001025,40,North Sound Virgin Gorda,NSX,unknown,,,,0
+1001025,40,Virgin Gorda,VIJ,4,Civ.,Unpaved,No,3100
+1001025,40,Beef Island,EIS,5,Civ.,Paved,Yes,3600
+1001025,40,F D Roosevelt,EUX,38,Civ.,Paved,Yes,4200
+1001025,40,Golden Rock,SKB,52,Civ.,Paved,Yes,8000
+1001025,40,Newcastle,NEV,8,Civ.,Paved,No,4000
+1001025,40,St. John,SJF,unknown,,,,0
+1001025,40,Cruz Bay,,unknown,,,,0
+1001025,40,La Desirade Les Galets,DSD,unknown,,,,0
+1001025,40,Stouffer Grand Beach Resort,,38,,,,0
+1001025,40,Frenchman's Reef,,6,,,,0
+1001025,40,Montserrat Blackburne,MNI,unknown,,,,0
+1001025,40,W H Bramble (Abandoned),,12,,,,0
+1001025,40,St. Francois,SFC,unknown,,,,0
+1001025,40,Le Raizet,PTP,11,Civ.,Paved,Yes,11400
+1001025,40,Basse-Terre Baillif,BBR,unknown,,,,0
+1001025,40,Marie Galante,GBJ,5,Civ.,Paved,Yes,4000
+1001025,40,Terre de Haut,LSS,unknown,,,,0
+1001025,40,Terre-de-Bas,HTB,unknown,,,,0
+1001025,40,Melville Hall,DOM,24,Civ.,Paved,Yes,4800
+1001025,40,Dominica Cane,DCF,unknown,,,,0
+1001025,40,Canefield,,4,Civ.,Paved,No,2500
+1001025,40,Le Lamentin,FDF,5,Civ.,Paved,Yes,10800
+1001025,40,Vigie,SLU,6,Civ.,Paved,Yes,6200
+1001025,40,Hewanorra International,UVF,3,Civ.,Paved,Yes,9000
+1001025,40,Grantley Adams International,BGI,52,Civ.,Paved,Yes,11000
+1001026,16,Qishn,IHN,30,Civ.,Unpaved,No,3200
+1001026,16,Al Gaidah,AAY,30,Civ.,Paved,No,8800
+1001026,16,Socotra,SCT,46,Civ.,Unpaved,No,8200
+1001027,18,South West Bay,SWJ,unknown,,,,0
+1001027,18,Big Bay,GBA,unknown,,,,0
+1001027,18,Craig Cove,CCV,unknown,,,,0
+1001027,18,Santo Pekoa International,SON,56,Civ.,Paved,Yes,6500
+1001027,18,Valesdir,VLS,unknown,,,,0
+1001027,18,Port Vila Bauerfield,VLI,20,Civ.,Paved,Yes,8500
+1001027,18,Lamen Bay,LNB,unknown,,,,0
+1001027,18,Sangafa,,2,Civ.,Unpaved,No,3200
+1001027,18,Emae,EAE,unknown,,,,0
+1001027,18,Quine Hill,UIQ,unknown,,,,0
+1001027,18,Epi,EPI,unknown,,,,0
+1001027,18,Olpoi Nw Santo,OLJ,unknown,,,,0
+1001027,18,Lamap,LPM,unknown,,,,0
+1001027,18,Ulei,ULB,unknown,,,,0
+1001027,18,Walaha,WLH,unknown,,,,0
+1001027,18,Redcliffe,RCL,unknown,,,,0
+1001027,18,Longana,LOD,unknown,,,,0
+1001027,18,Sara,SSR,unknown,,,,0
+1001027,18,Maewo,MWF,unknown,,,,0
+1001027,18,Mota Lava,MTV,unknown,,,,0
+1001027,18,Santa Cruz,SCZ,unknown,,,,0
+1001028,15,Huetamo,,300,,,,0
+1001028,15,Santa Barbara,,299,,,,0
+1001028,15,Chilpancingo,,1280,Civ.,Paved,No,4400
+1001028,15,Pie de la Cuesta,,6,,,,0
+1001028,15,Alvarez International,ACA,5,Civ.,Paved,Yes,10800
+1001029,7,Coxs Bazar,CXB,4,Civ.,Paved,Yes,6700
+1001033,13,Kandavu,KDV,unknown,,,,0
+1001033,13,Vatulele,VTF,unknown,,,,0
+1001033,13,Ngau,NGI,unknown,,,,0
+1001033,13,Pacific Harbour Dueba,PHR,unknown,,,,0
+1001033,13,Nausori,SUV,5,Civ.,Paved,Yes,6100
+1001033,13,Korolevu,KVU,unknown,,,,0
+1001033,13,Bureta Levuka Air,LEV,unknown,,,,0
+1001033,13,Natadola,NTA,unknown,,,,0
+1001033,13,Nadi International,NAN,18,Civ.,Paved,Yes,10500
+1001033,13,Malololailai,PTF,unknown,,,,0
+1001033,13,Ba,BFJ,unknown,,,,0
+1001033,13,Vatukoula,VAU,unknown,,,,0
+1001033,13,Castaway,CST,unknown,,,,0
+1001033,13,Turtle Island,TTL,unknown,,,,0
+1001034,4,Comilla,CLA,8,,,,0
+1001034,4,Singerbhil,IXA,17,Civ.,Paved,Yes,6000
+1001034,4,Barisal,BZL,3,Civ.,Paved,Yes,5000
+1001034,4,Dhaka Tejgaon,,7,Mil.,Paved,Yes,2100
+1001034,4,Khowai,IXN,unknown,,,,0
+1001034,4,Zia International Dhaka,DAC,8,Civ.,Paved,Yes,10400
+1001034,4,Kamalpur,IXQ,45,Civ.,Unpaved,No,4500
+1001034,4,Patenga,CGP,4,Civ.,Paved,Yes,10000
+1001034,4,Kailashahar,IXH,28,Civ.,Paved,No,3300
+1001034,4,Shamshernagar,ZHM,unknown,,,,0
+1001034,4,Lengpui,,417,,,,0
+1001034,4,Aizwal,AJL,305,Civ.,Paved,No,4100
+1001034,4,Khulna,KHL,unknown,,,,0
+1001034,4,Osmany Sylhet,ZYL,15,Civ.,Paved,Yes,8500
+1001034,4,Shella,,24,,,,0
+1001034,4,Kumbhirgram,IXS,108,Civ.,Paved,Yes,5800
+1001037,8,Tirupathi,TIR,106,Civ.,Paved,Yes,7500
+1001037,8,Arkonam,,84,Mil.,Paved,Yes,11000
+1001037,8,Madras Chennai,MAA,15,Civ.,Paved,Yes,12000
+1001037,8,Cuddapah,CDP,131,,,,0
+1001037,8,Tambaram,,27,Mil.,Paved,No,5900
+1001037,8,Dunakonda,,142,Civ.,Unpaved,No,3000
+1001037,8,Nagarjuna Sagar,,201,,,,0
+1001038,35,Helenvale,HLV,unknown,,,,0
+1001038,35,Bloomfield,BFC,unknown,,,,0
+1001038,35,Greenvale Miner Lake,GVP,unknown,,,,0
+1001038,35,Cooktown,CTN,8,Civ.,Paved,Yes,5300
+1001038,35,Laura Station,LUT,unknown,,,,0
+1001038,35,Bizant,BZP,unknown,,,,0
+1001038,35,Port Douglas,PTI,unknown,,,,0
+1001038,35,Laura,LUU,unknown,,,,0
+1001038,35,Koolburra,KKP,unknown,,,,0
+1001038,35,Hope Vale,HPE,unknown,,,,0
+1001038,35,Lizard Island,LZR,21,,,,0
+1001038,35,Bulimba,BIP,unknown,,,,0
+1001038,35,Cairns,CNS,3,Civ.,Paved,Yes,10400
+1001038,35,Mareeba,MRG,475,Civ.,Paved,Yes,4900
+1001038,35,Gamboola,GBP,unknown,,,,0
+1001038,35,Highbury,HIG,unknown,,,,0
+1001038,35,Drumduff,DFP,unknown,,,,0
+1001038,35,Koolatah,KOH,unknown,,,,0
+1001038,35,Dunbar,DNB,unknown,,,,0
+1001038,35,Rutland Plains,RTP,unknown,,,,0
+1001038,35,Mitchell River,MXQ,unknown,,,,0
+1001038,35,Kowanyama,KWM,11,Civ.,Unpaved,Yes,4500
+1001038,35,Palm Island,PMK,9,Civ.,Paved,Yes,3700
+1001038,35,Ayr,AYR,12,Civ.,Paved,No,3000
+1001038,35,Bowen,ZBO,8,Civ.,Unpaved,Yes,4400
+1001038,35,Daydream Island,DDI,unknown,,,,0
+1001038,35,Hayman Island,HIS,unknown,,,,0
+1001038,35,Shute Harbour Heliport,JHQ,unknown,,,,0
+1001038,35,Hook Island,HIH,unknown,,,,0
+1001038,35,Proserpine,PPP,25,Civ.,Paved,Yes,6800
+1001038,35,Hamilton Island,HTI,5,Civ.,Paved,Yes,5900
+1001038,35,Lindeman Island,LDC,unknown,,,,0
+1001038,35,Barakoma V La Vella,VEV,unknown,,,,0
+1001038,35,Ringi Cove,RIN,unknown,,,,0
+1001038,35,Kukundu,KUE,unknown,,,,0
+1001038,35,Munda,MUA,3,,,,0
+1001038,35,Viru,QVU,unknown,,,,0
+1001038,35,Sege,EGM,3,,,,0
+1001040,18,Farafangana,RVA,8,Civ.,Unpaved,No,3400
+1001040,18,Manakara Sud,WVK,10,Civ.,Paved,No,3900
+1001040,18,Mananjary,MNJ,6,Civ.,Paved,No,4900
+1001040,18,Beroroha,WBO,250,Civ.,Unpaved,No,3100
+1001040,18,Ankazoabo,WAK,430,Civ.,Unpaved,No,3500
+1001040,18,Toliara,TLE,8,Civ.,Paved,No,6500
+1001040,18,Malaimbandy,WML,182,Civ.,Unpaved,No,3900
+1001040,18,Mandabe,WMD,290,Civ.,Unpaved,No,3500
+1001040,18,Ambatolahy,AHY,unknown,,,,0
+1001040,18,Manja,MJA,240,Civ.,Unpaved,No,5200
+1001040,18,Tanandava,TDV,27,Civ.,Unpaved,No,4500
+1001040,18,Morombe,MXM,5,Civ.,Paved,No,4200
+1001040,18,Morondava,MOQ,7,Civ.,Paved,No,4900
+1001040,18,Belo Sur Tsiribihina,BMD,47,Civ.,Paved,No,4400
+1001041,27,Rodrigues Plaine Corail,RRG,40,Civ.,Paved,Yes,3300
+1001041,27,Plaisance International,MRU,57,Civ.,Paved,Yes,9900
+1001041,27,St Pierre Pierrefonds,ZSE,16,,,,0
+1001041,27,Saint Denis Gillot,RUN,20,,,,0
+1001043,14,Doomafgee,DMD,47,Civ.,Unpaved,No,5400
+1001043,14,Lawn Hill,LWH,unknown,,,,0
+1001043,14,Century Mine,,126,Civ.,Paved,Yes,5700
+1001043,14,Gregory Downs,GGD,unknown,,,,0
+1001043,14,Burketown,BUC,15,Civ.,Paved,Yes,4500
+1001043,14,Mornington Island,ONG,10,Civ.,Unpaved,Yes,4900
+1001043,14,Karumba,KRB,5,Civ.,Unpaved,No,4100
+1001043,14,Wondoola,WON,unknown,,,,0
+1001043,14,Normanton,NTN,22,Civ.,Unpaved,Yes,5400
+1001043,14,Lotus Vale,LTV,unknown,,,,0
+1001043,14,Delta Downs,DDN,unknown,,,,0
+1001043,14,Miranda Downs,MWY,unknown,,,,0
+1001043,14,Inkerman,IKP,unknown,,,,0
+1001043,14,Vanrook,VNR,unknown,,,,0
+1001043,14,Croydon,CDQ,unknown,,,,0
+1001043,14,Strathmore,STH,unknown,,,,0
+1001043,14,Dorunda Station,DRD,unknown,,,,0
+1001043,14,Dunbar,DNB,unknown,,,,0
+1001043,14,Abingdon,ABG,unknown,,,,0
+1001043,14,Highbury,HIG,unknown,,,,0
+1001043,14,Georgetown,GTT,303,Civ.,Paved,Yes,3000
+1001043,14,Drumduff,DFP,unknown,,,,0
+1001043,14,Robinhood,ROH,unknown,,,,0
+1001043,14,Torwood,TWP,unknown,,,,0
+1001043,14,Gamboola,GBP,unknown,,,,0
+1001043,14,Einasleigh,EIH,unknown,,,,0
+1001043,14,Bulimba,BIP,unknown,,,,0
+1001043,14,Kidston,,494,Civ.,Unpaved,Yes,3000
+1001043,14,Bolwarra,BCK,unknown,,,,0
+1001043,14,Wrotham Park,WPK,unknown,,,,0
+1001043,14,Carpentaria Downs,CFP,unknown,,,,0
+1001043,14,Rosella Plains,RLP,unknown,,,,0
+1001043,14,Lyndhurst,LTP,unknown,,,,0
+1001043,14,Spring Creek,SCG,unknown,,,,0
+1001043,14,Undarra,UDA,unknown,,,,0
+1001043,14,Chillagoe,LLG,338,Civ.,Paved,No,3000
+1001043,14,Mt. Full Stop,MFL,unknown,,,,0
+1001043,14,Greenvale Miner Lake,GVP,unknown,,,,0
+1001043,14,Mareeba,MRG,475,Civ.,Paved,Yes,4900
+1001043,14,Port Douglas,PTI,unknown,,,,0
+1001043,14,Bloomfield,BFC,unknown,,,,0
+1001043,14,Miners Lake,MRL,unknown,,,,0
+1001043,14,Cairns,CNS,3,Civ.,Paved,Yes,10400
+1001043,14,Innisfail,IFL,14,Civ.,Paved,Yes,3000
+1001043,14,Ingham,IGH,15,Civ.,Paved,No,3000
+1001043,14,Dunk Island Township,DKI,unknown,,,,0
+1001043,14,Hinchinbrook Island,HNK,unknown,,,,0
+1001043,14,Charters Towers,CXT,291,Civ.,Paved,No,3000
+1001043,14,Orpheus Island Resort Waterport,ORS,unknown,,,,0
+1001043,14,Palm Island,PMK,9,Civ.,Paved,Yes,3700
+1001043,14,Townsville,TSV,5,Civ.,Paved,Yes,7900
+1001043,14,Ayr,AYR,12,Civ.,Paved,No,3000
+1001043,14,Collinsville,KCE,unknown,,,,0
+1001043,14,Daydream Island,DDI,unknown,,,,0
+1001043,14,Bowen,ZBO,8,Civ.,Unpaved,Yes,4400
+1001043,14,Proserpine,PPP,25,Civ.,Paved,Yes,6800
+1001043,14,Shute Harbour Heliport,JHQ,unknown,,,,0
+1001043,14,Hayman Island,HIS,unknown,,,,0
+1001043,14,Hook Island,HIH,unknown,,,,0
+1001043,14,Hamilton Island,HTI,5,Civ.,Paved,Yes,5900
+1001043,14,Lindeman Island,LDC,unknown,,,,0
+1001044,13,Plaisance International,MRU,57,Civ.,Paved,Yes,9900
+1001044,13,St Pierre Pierrefonds,ZSE,16,,,,0
+1001044,13,Saint Denis Gillot,RUN,20,,,,0
+1001044,13,Rodrigues Plaine Corail,RRG,40,Civ.,Paved,Yes,3300
+1001047,7,Fitiuta,FTI,34,,,,0
+1001047,7,Tau,TAV,56,,,,0
+1001047,7,Ofu,OFU,3,,,,0
+1001048,12,Lamap,LPM,unknown,,,,0
+1001048,12,Quine Hill,UIQ,unknown,,,,0
+1001048,12,Port Vila Bauerfield,VLI,20,Civ.,Paved,Yes,8500
+1001048,12,Emae,EAE,unknown,,,,0
+1001048,12,Sangafa,,2,Civ.,Unpaved,No,3200
+1001048,12,Epi,EPI,unknown,,,,0
+1001048,12,Valesdir,VLS,unknown,,,,0
+1001048,12,Ulei,ULB,unknown,,,,0
+1001048,12,Lamen Bay,LNB,unknown,,,,0
+1001048,12,South West Bay,SWJ,unknown,,,,0
+1001048,12,Craig Cove,CCV,unknown,,,,0
+1001048,12,Big Bay,GBA,unknown,,,,0
+1001048,12,Santo Pekoa International,SON,56,Civ.,Paved,Yes,6500
+1001048,12,Olpoi Nw Santo,OLJ,unknown,,,,0
+1001050,13,Mt. Barnett,MBN,unknown,,,,0
+1001050,13,Gibb River,GBV,509,Civ.,Unpaved,Yes,3000
+1001050,13,Argyle,GYL,159,Civ.,Paved,Yes,7500
+1001050,13,Lissadel,LLL,unknown,,,,0
+1001050,13,Waterloo,WLO,unknown,,,,0
+1001050,13,Newry,NRY,unknown,,,,0
+1001050,13,Humbert River,HUB,unknown,,,,0
+1001050,13,Victoria R. Downs,VCD,unknown,,,,0
+1001050,13,Daly Waters,DYW,unknown,,,,0
+1001050,13,Nutwood Downs,UTD,unknown,,,,0
+1001050,13,McArthur River Mine,,40,Priv.,Paved,Yes,4900
+1001050,13,Borroloola,BOX,16,Civ.,Paved,Yes,4000
+1001051,4,Mangaia,MGS,14,Priv.,Unpaved,Yes,3400
+1001051,4,Akatoka Manava,MUK,8,Priv.,Unpaved,Yes,5900
+1001051,4,Mitiaro,MOI,unknown,,,,0
+1001051,4,Atiu,AIU,unknown,,,,0
+1001051,4,Rarotonga International,RAR,7,Civ.,Paved,Yes,7600
+1001052,20,Plaisance International,MRU,57,Civ.,Paved,Yes,9900
+1001052,20,St Pierre Pierrefonds,ZSE,16,,,,0
+1001052,20,Saint Denis Gillot,RUN,20,,,,0
+1001055,42,Christmas Island,XCH,279,Civ.,Paved,Yes,6900
+1001056,12,Borroloola,BOX,16,Civ.,Paved,Yes,4000
+1001056,12,McArthur River Mine,,40,Priv.,Paved,Yes,4900
+1001057,11,Ambanja,IVA,11,Civ.,Unpaved,No,3100
+1001057,11,Nosy Be Fascene,NOS,10,Civ.,Paved,No,7100
+1001057,11,Ampampamena,,15,,,,0
+1001057,11,Analalava,HVA,105,Civ.,Unpaved,No,3900
+1001057,11,Bealanana,WBE,1120,,,,0
+1001057,11,Antsohihy Ambalabe,WAI,28,Civ.,Paved,No,4900
+1001057,11,Ambilobe Mahavavy,AMB,22,Civ.,Paved,No,4900
+1001057,11,Anahidrano,,60,,,,0
+1001057,11,Befandriana,WBD,250,Civ.,Unpaved,No,4100
+1001057,11,Doany,DOA,unknown,,,,0
+1001057,11,Andapa,ZWA,473,Civ.,Paved,No,4100
+1001057,11,Antsiranana Arrachart,DIE,114,Civ.,Paved,No,4900
+1001057,11,Vohemar,VOH,6,Civ.,Paved,No,4200
+1001057,11,Antsiranana Andrakaka,,61,Mil.,Paved,No,8200
+1001057,11,Sambava,SVB,6,Civ.,Paved,No,5900
+1001057,11,Mandritsara,WMA,307,Civ.,Unpaved,No,3700
+1001057,11,Maroantsetra,WMN,4,Civ.,Paved,No,4200
+1001057,11,Antalaha Antsirabato,ANM,6,Civ.,Paved,No,3900
+1001057,11,Mananara Nord,WMR,3,Civ.,Paved,No,4100
+1001058,21,Onslow,ONS,7,Civ.,Unpaved,Yes,4400
+1001058,21,Barrow Island,BWB,8,Civ.,Paved,Yes,6200
+1001058,21,Karratha,KTA,9,Civ.,Paved,Yes,6000
+1001060,15,Mafia,MFA,18,Civ.,Unpaved,No,5200
+1001060,15,Dar Es Salaam,DAR,55,Civ.,Paved,Yes,9800
+1001060,15,Zanzibar,ZNZ,16,Civ.,Paved,Yes,8000
+1001060,15,Ngerengere,,226,,,,0
+1001060,15,Morogoro,,532,Civ.,Unpaved,No,3500
+1001060,15,Tanga,TGT,39,Civ.,Paved,Yes,4100
+1001060,15,Moroni Hahaia,HAH,27,Civ.,Paved,Yes,9500
+1001060,15,Assumption Island,,3,Civ.,Paved,No,3900
+1001061,24,Kiwayu,KWY,unknown,,,,0
+1001061,24,Pemba,PMA,24,Civ.,Paved,Yes,5000
+1001061,24,Alphonse,,3,Civ.,Paved,No,3100
+1001061,24,Farquhar,,3,Priv.,Paved,No,3100
+1001063,26,Hachijo Jima,HAC,92,Civ.,Paved,Yes,5900
+1001063,26,Miyake Jima,MYE,20,Civ.,Paved,Yes,3900
+1001063,26,,,29,,,,0
+1001063,26,Tateyama,,3,,,,0
+1001063,26,Kitadaito,KTD,24,Civ.,Paved,Yes,4900
+1001063,26,Minami Daito,MMD,4,Civ.,Paved,Yes,4900
+1001063,26,Larap,,5,,,,0
+1001063,26,Ninoy Aquino International,MNL,23,Civ.,Paved,Yes,12200
+1001063,26,Pagbilao Grande Island,,4,,,,0
+1001063,26,Lucena,,12,Civ.,Unpaved,No,3200
+1001063,26,Sangley Point AB,SGL,2,Mil.,Paved,No,8600
+1001063,26,Fernando AB,,372,Mil.,Paved,No,4900
+1001063,26,Marinduque,MRQ,5,Civ.,Paved,No,4500
+1001064,6,Calcutta Netaji Subhas Chandra,CCU,6,Civ.,Paved,Yes,11900
+1001064,6,Barrackpore,,5,,,,0
+1001064,6,Kalaikunda,,61,,,,0
+1001064,6,Khulna,KHL,unknown,,,,0
+1001064,6,Jessore,JSR,6,Civ.,Paved,Yes,7900
+1001064,6,Chakulia,,130,Civ.,Paved,No,7200
+1001064,6,Panagarh,,76,Mil.,Paved,No,7100
+1001064,6,Barisal,BZL,3,Civ.,Paved,Yes,5000
+1001064,6,Burnpur,,94,,,,0
+1001064,6,Jamshedpur,IXW,140,Civ.,Paved,Yes,3400
+1001064,6,Ishurdi,IRD,14,Civ.,Paved,Yes,4700
+1001064,6,Rajshahi,RJH,17,Civ.,Paved,Yes,6000
+1001064,6,Dhaka Tejgaon,,7,Mil.,Paved,Yes,2100
+1001064,6,Zia International Dhaka,DAC,8,Civ.,Paved,Yes,10400
+1001064,6,Comilla,CLA,8,,,,0
+1001064,6,Malda,LDA,24,Civ.,Unpaved,No,3600
+1001064,6,Singerbhil,IXA,17,Civ.,Paved,Yes,6000
+1001064,6,Balurghat,RGH,24,,,,0
+1001064,6,Khowai,IXN,unknown,,,,0
+1001064,6,Kamalpur,IXQ,45,Civ.,Unpaved,No,4500
+1001064,6,Saidpur,SPD,38,Civ.,Paved,Yes,6000
+1001064,6,Rangpur,RAU,unknown,,,,0
+1001064,6,Shamshernagar,ZHM,unknown,,,,0
+1001064,6,Kailashahar,IXH,28,Civ.,Paved,No,3300
+1001064,6,Sirajganj,SAJ,unknown,,,,0
+1001064,6,Osmany Sylhet,ZYL,15,Civ.,Paved,Yes,8500
+1001064,6,Shella,,24,,,,0
+1001064,6,Rupsi,RUP,35,Civ.,Paved,No,6000
+1001064,6,Cooch Behar,COH,42,Civ.,Paved,No,3500
+1001064,6,Shillong,SHL,899,Civ.,Paved,No,6000
+1001064,6,Borjhar,GAU,49,Civ.,Paved,Yes,9000
+1001064,6,Kumbhirgram,IXS,108,Civ.,Paved,Yes,5800
+1001066,13,Aguascalientes,AGU,1863,Civ.,Paved,Yes,9800
+1001066,13,Zacatecas,ZCL,2140,Civ.,Paved,Yes,9800
+1001066,13,San Luis Potosi,SLP,1850,Civ.,Paved,Yes,9800
+1001066,13,San Carlos,,1837,,,,0
+1001066,13,Del Bajio,BJX,1835,Civ.,Paved,Yes,11400
+1001066,13,Los Infantes,,1978,Civ.,Paved,No,4000
+1001066,13,Irapuato,,1725,,,,0
+1001066,13,Matehuala,,1560,,,,0
+1001066,13,Rio Verde,,1000,,,,0
+1001066,13,Celaya,,1740,Civ.,Paved,No,6300
+1001066,13,Ocotlan,,1525,,,,0
+1001066,13,Venustiano Carranza,,1554,,,,0
+1001066,13,Intercontinental de Queretaro,QRO,1969,Civ.,Paved,Yes,6200
+1001066,13,Zamora,ZMM,1567,Civ.,Paved,No,4900
+1001066,13,Jaujilla,,1950,,,,0
+1001066,13,Morelia,,1833,,,,0
+1001066,13,General Francisco J Mujica,MLM,0,Civ.,Paved,Yes,11100
+1001066,13,Cuauhtemoc,MMC,104,Civ.,Unpaved,No,3900
+1001066,13,San Ricardo Ranch,,329,,,,0
+1001066,13,Cementos Mexicanos,,92,,,,0
+1001066,13,Xicotencatl,,115,,,,0
+1001066,13,Uruapan,UPN,1593,Civ.,Paved,Yes,7800
+1001066,13,Tamuin,TSL,50,Civ.,Paved,Yes,4500
+1001066,13,Ixmiquilpan,,1700,,,,0
+1001066,13,Ciudad Victoria,CVM,235,Civ.,Paved,Yes,7200
+1001066,13,Pablo L Sidar,AZG,315,,,,0
+1001066,13,Ebano,,50,,,,0
+1001066,13,La Retama Southwest,,608,,,,0
+1001066,13,Saltillo,SLW,1402,Civ.,Paved,Yes,9700
+1001066,13,Atizapan,AZP,2475,,,,0
+1001066,13,Pachuca,,2316,Civ.,Paved,No,5900
+1001066,13,Uruapan,TLC,2575,Civ.,Paved,Yes,13700
+1001066,13,Nuevo Dolores,,146,,,,0
+1001066,13,Tizayuca,,2316,,,,0
+1001066,13,Santa Lucia,NLU,2240,,,,0
+1001066,13,La Encarnacion,,475,,,,0
+1001066,13,Gen Francisco J Mina International,TAM,24,Civ.,Paved,Yes,8300
+1001066,13,Gen Mariano Escobedo International,MTY,387,Civ.,Paved,Yes,9800
+1001066,13,Huetamo,,300,,,,0
+1001066,13,Rancho Marina Vieja,,30,,,,0
+1001066,13,Del Norte International,NTR,449,Civ.,Paved,Yes,6500
+1001066,13,El Infiernillo,,511,,,,0
+1001066,13,Juarez International,MEX,2238,Civ.,Paved,Yes,12900
+1001066,13,Cerro Azul,,137,,,,0
+1001066,13,Santa Barbara,,299,,,,0
+1001066,13,Cabo Roja,,7,,,,0
+1001066,13,La Pesca,,5,,,,0
+1001066,13,Cuernavaca,CVJ,1280,Civ.,Paved,Yes,9000
+1001066,13,San Fernando,,49,,,,0
+1001066,13,Carvajal,,7,,,,0
+1001066,13,Fausto Vega Santander,,3,,,,0
+1001066,13,Tlaxcala,,2500,,,,0
+1001066,13,Tajin,PAZ,138,Civ.,Paved,Yes,5900
+1001066,13,Agualeguas Old,,206,,,,0
+1001066,13,Agualeguas,,207,,,,0
+1001066,13,Huejotsingo,PBC,2241,Civ.,Paved,Yes,11800
+1001066,13,Iguala,,865,,,,0
+1001066,13,Rancho San Salvador Ne,,274,,,,0
+1001066,13,Ixtapa Zihuatanejo International,ZIH,6,Civ.,Paved,Yes,8200
+1001066,13,El Mezquite,,5,,,,0
+1001066,13,Falcon Dam,,46,,,,0
+1001066,13,Roma Falcon,FAL,unknown,,,,0
+1001066,13,Starr County,,85,,,,0
+1001066,13,Gen Lucio Blanco International,REX,39,Civ.,Paved,Yes,6200
+1001066,13,Putz,,35,,,,0
+1001066,13,Miller International,MFE,33,Civ.,Paved,Yes,7100
+1001066,13,Gross (Private),,48,,,,0
+1001066,13,Mid-Valley Dusters Inc,,28,,,,0
+1001066,13,Chilpancingo,,1280,Civ.,Paved,No,4400
+1001066,13,Moore Field,,67,,,,0
+1001066,13,Progreso,,21,,,,0
+1001066,13,Zapata County,,128,,,,0
+1001066,13,Mid Valley,,21,,,,0
+1001066,13,Corralitos,,110,,,,0
+1001066,13,Norman & White,,27,,,,0
+1001066,13,Matamoros,MAM,8,Civ.,Paved,Yes,7500
+1001066,13,Old Reb,,18,,,,0
+1001066,13,Diamond O Ranch,,128,,,,0
+1001066,13,Edinburg Rio Grande Valley,,24,,,,0
+1001066,13,Cannon Aviation,,20,,,,0
+1001066,13,Jennings Ranch,,134,,,,0
+1001066,13,Shofner Farms,,17,,,,0
+1001066,13,Farmer's Co-op,,11,,,,0
+1001066,13,Columbia Valley Regional,,8,,,,0
+1001066,13,Zachry Ranch,,180,,,,0
+1001066,13,South Padre Island International,BRO,7,Civ.,Paved,Yes,7400
+1001066,13,San Rafael Ranch,,96,,,,0
+1001066,13,Valley Baptist Medical Center,,18,,,,0
+1001066,13,San Benito Municipal,,9,,,,0
+1001066,13,AG Air Inc.,,9,,,,0
+1001066,13,Puesta Del Sol,,128,,,,0
+1001066,13,Rio Grande Valley International,HRL,11,Civ.,Paved,Yes,8300
+1001066,13,El Lencero,JAL,875,Civ.,Paved,No,5500
+1001066,13,Texas Air Museum,,9,,,,0
+1001066,13,Bell Airfield,,9,,,,0
+1001066,13,Drennan Farm,,8,,,,0
+1001066,13,Kaffie Ranch,,137,,,,0
+1001066,13,Pie de la Cuesta,,6,,,,0
+1001066,13,El Coyote Ranch,,60,,,,0
+1001066,13,T R Funk Inc.,,7,,,,0
+1001067,43,Howard Memorial Hospital,,167,,,,0
+1001067,43,Howard County,HCA,167,,,,0
+1001067,43,Pike County Hospital,,102,,,,0
+1001067,43,Hope Municipal,,110,,,,0
+1001067,43,Head Airfield,,134,,,,0
+1001067,43,Glenn Winchester,,111,,,,0
+1001067,43,Medical Park Hospital,,114,,,,0
+1001067,43,Kizer Field,,95,,,,0
+1001067,43,Pine Prairie,,98,,,,0
+1001067,43,Flying W,,81,,,,0
+1001067,43,Texarkana Municipal,TXK,119,Civ.,Paved,Yes,6600
+1001067,43,Shilling's,,107,,,,0
+1001067,43,St Michael Hospital,,335,,,,0
+1001067,43,Reed-joseph Land Co,,69,,,,0
+1001067,43,Community Hospital of De Queen,,122,,,,0
+1001067,43,J Lynn Helms Sevier County,,107,Civ.,Paved,Yes,5000
+1001067,43,Red River Army Depot,,91,,,,0
+1001067,43,Wilson,,70,,,,0
+1001067,43,Magnolia Hospital,,94,,,,0
+1001067,43,Magnolia Municipal,AGO,95,Civ.,Paved,Yes,4600
+1001067,43,Ashford Field,,93,,,,0
+1001067,43,Broken Bow,,123,,,,0
+1001067,43,Atlanta Municipal,,82,Civ.,Paved,Yes,3800
+1001067,43,Ida's,,87,,,,0
+1001067,43,Mc Curtain Memorial Hospital,,146,,,,0
+1001067,43,Springhill,,66,Civ.,Paved,Yes,4000
+1001067,43,Idabel,,155,,,,0
+1001067,43,Springhill,,66,,,,0
+1001067,43,Goodwin Field,ELD,84,Civ.,Paved,Yes,6500
+1001067,43,Haynesville,,106,,,,0
+1001067,43,Key's Ranch,,105,,,,0
+1001067,43,Boon / Lovelace,,131,,,,0
+1001067,43,Gilliam,,59,,,,0
+1001067,43,Vivian,,79,,,,0
+1001067,43,Russells Ranch,,122,,,,0
+1001067,43,David Granberry Memorial Hospital,,128,,,,0
+1001067,43,Thackers,,62,,,,0
+1001067,43,Greater Morris County,,123,,,,0
+1001067,43,Belcher Airpatch,,85,,,,0
+1001067,43,Clarksville Red River County,,134,,,,0
+1001067,43,T & M Ag Aviation,,56,,,,0
+1001067,43,Manning Field,,98,,,,0
+1001067,43,Fly-n-Fish Lodge,,59,,,,0
+1001067,43,Homer Municipal,,74,,,,0
+1001067,43,L J Earnest,,50,,,,0
+1001067,43,Cypress River,,67,,,,0
+1001067,43,Eagle Landing,,116,,,,0
+1001067,43,Titus Regional Medical Center,,129,,,,0
+1001067,43,Lone Star Steel County,,87,,,,0
+1001067,43,Minden Webster,,85,,,,0
+1001067,43,Mount Pleasant Municipal,,123,,,,0
+1001067,43,Mount Pleasant Regional,,110,,,,0
+1001067,43,Mc Kenzie Field,,110,,,,0
+1001067,43,Shreveport Downtown,DTN,55,Civ.,Paved,Yes,4400
+1001067,43,Bossier Medical Center,,50,,,,0
+1001067,43,La State Police Troop G,,51,,,,0
+1001067,43,Hall,,107,,,,0
+1001067,43,Barksdale AFB,BAD,51,Mil.,Paved,Yes,11700
+1001067,43,Lsu Medical Center,,62,,,,0
+1001067,43,Verhalen,,122,,,,0
+1001067,43,Shreveport Regional,SHV,79,Civ.,Paved,Yes,8300
+1001067,43,Franklin County,,127,,,,0
+1001067,43,Waskom,,85,,,,0
+1001067,43,Harrison County,ASL,109,Civ.,Paved,Yes,5000
+1001067,43,Mac Kay,,107,,,,0
+1001067,43,Mt Vernon Medical Center,,147,,,,0
+1001067,43,Schumpert Clinic South,,49,,,,0
+1001067,43,Cox Field,PRX,167,Civ.,Paved,Yes,6000
+1001067,43,Wadley Regional Medical Center,,106,,,,0
+1001067,43,Arcadia Bienville Parish,,134,,,,0
+1001067,43,Lucien,,64,,,,0
+1001067,43,Burress,,148,,,,0
+1001067,43,Charlie,,73,,,,0
+1001067,43,Old Hickory Ranch,,55,,,,0
+1001067,43,Naylor,,47,,,,0
+1001067,43,Pilkinton Airstrip,,45,,,,0
+1001067,43,Gilmer Upshur County,,126,,,,0
+1001067,43,East Side,,114,,,,0
+1001067,43,Heinsohn's Airfield,,70,,,,0
+1001067,43,Winnsboro Municipal,,156,,,,0
+1001067,43,Loggy Bayou Plantation,,84,,,,0
+1001067,43,Caddo Detention Center,,90,,,,0
+1001067,43,Oak Glen Ranch,,131,,,,0
+1001067,43,Flying B,,163,,,,0
+1001067,43,Gregg County,GGG,111,Civ.,Paved,Yes,10000
+1001067,43,Gladewater Municipal,,91,,,,0
+1001067,43,Ambassador Field,,119,,,,0
+1001067,43,Holly Lake Ranch,,125,,,,0
+1001067,43,Kilgore,,111,,,,0
+1001067,43,Hawk Ranch,,102,,,,0
+1001067,43,Sulphur Springs Municipal,SLR,149,Civ.,Paved,Yes,5000
+1001067,43,Panola Co Sharpe Field,,75,,,,0
+1001067,43,Roy H Laird Memorial Hospital,,105,,,,0
+1001067,43,Panola General Hospital,,90,,,,0
+1001067,43,Desoto Parish,,99,,,,0
+1001067,43,Trap Travelstead Field,,131,,,,0
+1001067,43,Kay Ranch,,96,,,,0
+1001067,43,Stuart Airstrip,,40,,,,0
+1001067,43,Mineola Quitman,,132,,,,0
+1001067,43,Cchcc,,31,,,,0
+1001068,4,Tajin,PAZ,138,Civ.,Paved,Yes,5900
+1001068,4,Tlaxcala,,2500,,,,0
+1001068,4,Fausto Vega Santander,,3,,,,0
+1001068,4,El Lencero,JAL,875,Civ.,Paved,No,5500
+1001068,4,Las Bajadas,VER,29,Civ.,Paved,Yes,7800
+1001071,14,Ningming,,125,,,,0
+1001071,14,Hai Phong Cat Bi,HPH,30480,Civ.,Paved,No,7800
+1001071,14,Hai Phong Kien An,,4,,,,0
+1001071,14,Kep,,12,,,,0
+1001071,14,Jtalaishi,,121,,,,0
+1001071,14,Foluo Northeast,,165,,,,0
+1001071,14,Sanya (Fenghuang),SYX,28,Civ.,Paved,Yes,11100
+1001071,14,Sanya-Yaxian,,15,,,,0
+1001071,14,Lingshui,,25,,,,0
+1001072,24,,,15,,,,0
+1001072,24,,,19,,,,0
+1001072,24,Changle,FOC,14,Civ.,Paved,Yes,11800
+1001072,24,Matsu South,,30,,,,0
+1001072,24,,,24,,,,0
+1001072,24,Ma Tsu,,13,Civ.,Paved,No,2900
+1001072,24,Qingyang,IQN,21,,,,0
+1001072,24,Jinjiang,JJN,6,,,,0
+1001072,24,Shang-Yi,KNH,12,Mil.,Paved,Yes,9800
+1001072,24,Shatou,,9,,,,0
+1001072,24,Xiamen / Gaoqi,XMN,18,Civ.,Paved,Yes,8800
+1001072,24,Ta Shan Ting,,40,,,,0
+1001072,24,Hsinchu,HSZ,8,Civ.,Paved,Yes,12000
+1001072,24,Ao Hu Kou,,152,,,,0
+1001072,24,Ching Chuan Kang AB,,203,Mil.,Paved,No,12000
+1001072,24,Chiang Kai Shek International,TPE,33,Civ.,Paved,Yes,12000
+1001072,24,Highway Strip 58 60,,120,,,,0
+1001072,24,Taoyuan,,45,Mil.,Paved,No,10000
+1001072,24,Taichung,TXG,112,Mil.,Paved,Yes,5300
+1001072,24,Lung Tan,,241,Civ.,Paved,No,3200
+1001072,24,Pa Kuei,,141,,,,0
+1001072,24,,,17,,,,0
+1001072,24,Highway Strip 206,,23,,,,0
+1001072,24,Sungshan,TSA,6,Civ.,Paved,Yes,8500
+1001072,24,Makung AB,MZG,31,Mil.,Paved,Yes,6500
+1001072,24,Jiangluo,,183,,,,0
+1001072,24,P Eng Hu,,21,,,,0
+1001072,24,Lishan,LHN,unknown,,,,0
+1001072,24,Sun Moon Lake,SMT,unknown,,,,0
+1001072,24,Wang An,,30,,,,0
+1001072,24,Highway Strip 260,,30,,,,0
+1001072,24,,,9,,,,0
+1001072,24,Chiayi,CYI,25,Civ.,Paved,Yes,10000
+1001072,24,Chi Mei,CMJ,unknown,,,,0
+1001072,24,Liangcheng,,381,,,,0
+1001072,24,,,210,,,,0
+1001072,24,Highway Strip 296 298,,9,,,,0
+1001072,24,Hualien,HUN,16,Civ.,Paved,Yes,9000
+1001072,24,Wenzhou,WNZ,4,,,,0
+1001072,24,Kuei Jen,,30,,,,0
+1001072,24,Tainan,TNN,19,Mil.,Paved,Yes,10000
+1001072,24,Highway Strip 331 334,,11,,,,0
+1001072,24,Kangshan,,10,Mil.,Paved,No,7500
+1001072,24,Tso Ying,,9,,,,0
+1001072,24,Pingtung North,,29,Mil.,Paved,No,8000
+1001072,24,Pingtung South,,24,Mil.,Paved,Yes,7800
+1001072,24,Kaohsiung International,KHH,9,Civ.,Paved,Yes,10300
+1001072,24,Meixian,MXZ,93,,,,0
+1001072,24,Feng Nin,,42,Civ.,Paved,Yes,7900
+1001072,24,Shantou Northeast,SWA,3,,,,0
+1001072,24,Taitung,TTT,37,Mil.,Paved,No,11000
+1001072,24,Meixian Af P,,101,,,,0
+1001072,24,Quxian,,58,,,,0
+1001072,24,Yonaguni,OGN,21,Civ.,Paved,Yes,4900
+1001072,24,Green Island,GNI,8,Civ.,Paved,No,3300
+1001072,24,,,44,,,,0
+1001072,24,Long You,,60,,,,0
+1001072,24,Hengchun,HCN,13,Civ.,Paved,No,3500
+1001072,24,Yiwu,YIW,56,,,,0
+1001072,24,Orchid Island,KYD,10,Civ.,Paved,No,4500
+1001072,24,Nanchang / Xiangtang,,30,,,,0
+1001072,24,Linjiang,,39,,,,0
+1001072,24,Fouliang Af P,JDZ,61,,,,0
+1001072,24,Tunxi,TXN,107,,,,0
+1001072,24,Jian,,59,,,,0
+1001072,24,Hateruma,HTR,unknown,,,,0
+1001072,24,Iriomote Jima,,12,,,,0
+1001072,24,Nanchang New,,30,,,,0
+1001072,24,Changbei,KHN,40,,,,0
+1001072,24,Ishigaki,ISG,26,Civ.,Paved,Yes,4900
+1001072,24,,,9,,,,0
+1001072,24,Mahuiling,JIU,40,,,,0
+1001072,24,Lushan,LUZ,unknown,,,,0
+1001072,24,Shimojishima,SHI,16,Civ.,Paved,Yes,9800
+1001072,24,Hirara,MMY,45,Civ.,Paved,Yes,6500
+1001072,24,Basco,BSO,56,Civ.,Paved,No,4100
+1001072,24,Kumejima,UEO,7,Civ.,Paved,Yes,6500
+1001072,24,Taggat,,5,,,,0
+1001075,27,Robertson Field,,258,,,,0
+1001075,27,Smith Reynolds,INT,296,Civ.,Paved,Yes,6600
+1001075,27,Meadow Brook Field,,192,,,,0
+1001075,27,Blevin's Private,,297,,,,0
+1001075,27,Northwest Airstrip,,253,,,,0
+1001075,27,N.C. Baptist Hospitals Inc.,,269,,,,0
+1001075,27,Lewis Airstrip,,198,,,,0
+1001075,27,Ds Butler Farm And Airfield,,290,,,,0
+1001075,27,Piedmont Triad International,GSO,282,Civ.,Paved,Yes,10000
+1001075,27,Greensboro North,,274,,,,0
+1001075,27,Meylor Field,,277,,,,0
+1001075,27,Happy Bottom,,213,,,,0
+1001075,27,Marchmont Plantation Airpark,,223,,,,0
+1001075,27,Bahnson,,238,,,,0
+1001075,27,Mountain View Aerodrome,,244,,,,0
+1001075,27,Air Harbor,,251,,,,0
+1001075,27,Sugar Valley,,223,,,,0
+1001075,27,Darr Field,,266,,,,0
+1001075,27,Twin Lakes,,249,,,,0
+1001075,27,Moorefield's Airstrip,,338,,,,0
+1001075,27,Unifi,,302,,,,0
+1001075,27,Rockingham County Nc Shiloh,,211,,,,0
+1001075,27,Welborn Farm,,314,,,,0
+1001075,27,Hiatt,,261,,,,0
+1001075,27,Mt Airy Surry County,,378,Civ.,Paved,Yes,4300
+1001075,27,Warf,,250,,,,0
+1001075,27,Boonville,,306,,,,0
+1001075,27,Covington,,287,,,,0
+1001075,27,Johnson Field,,223,,,,0
+1001075,27,Piney Ridge,,293,,,,0
+1001075,27,Collins,,335,,,,0
+1001075,27,Lexington Municipal,,221,Civ.,Paved,Yes,3200
+1001075,27,Flying M,,258,,,,0
+1001075,27,Boyd's Hawks Creek,,248,,,,0
+1001075,27,Blue Ridge,,283,Civ.,Paved,Yes,4900
+1001075,27,Trent Farm Airstrip,,344,,,,0
+1001075,27,Quiet Acres,,226,,,,0
+1001075,27,Pace,,244,,,,0
+1001075,27,Annie Penn Memorial Hospital,,249,,,,0
+1001075,27,May,,237,,,,0
+1001075,27,Rockingham County,,184,,,,0
+1001075,27,Tara Airbase,,230,,,,0
+1001075,27,Elkin Municipal,,326,Civ.,Paved,Yes,4000
+1001075,27,Southeast Greensboro,,225,,,,0
+1001075,27,Tri City,,187,,,,0
+1001075,27,Schneider Haven Airstrip,,264,,,,0
+1001075,27,Delk's,,140,,,,0
+1001075,27,Mc Lean Brothers,,212,,,,0
+1001075,27,Swan Creek,,346,,,,0
+1001075,27,Gravely,,229,,,,0
+1001075,27,Causey,,221,,,,0
+1001075,27,Salisbury V.a. Medical Center,,216,,,,0
+1001075,27,Martinsville / Henry County Memorial Hosp.,,308,,,,0
+1001075,27,Micro,,899,,,,0
+1001075,27,Asheboro Municipal,,205,Civ.,Paved,Yes,5000
+1001075,27,Burlington Municipal,,188,Civ.,Paved,Yes,5000
+1001075,27,K and D,,243,,,,0
+1001075,27,Loury Lester Airpark,,314,,,,0
+1001075,27,Rowan County,SRW,236,Civ.,Paved,Yes,5500
+1001075,27,Yorks Field,,174,,,,0
+1001075,27,Double Creek Ranch,,253,,,,0
+1001075,27,Hinshaw (Greenacres),,229,,,,0
+1001075,27,Bush,,457,,,,0
+1001075,27,Davis Field,,256,,,,0
+1001075,27,Bradley Field,,242,,,,0
+1001075,27,Alamance County Hospital,,210,,,,0
+1001075,27,Raeford Rhyne Airpark,,347,,,,0
+1001075,27,Caswell,,198,,,,0
+1001075,27,N. C. Zoo,,198,,,,0
+1001075,27,Smith Air Strip,,171,,,,0
+1001075,27,Goldhill,,219,,,,0
+1001075,27,Flying Dove Field,,198,,,,0
+1001075,27,Kimrey,,190,,,,0
+1001075,27,Sloop,,242,,,,0
+1001075,27,Wilkes County,IKB,397,Civ.,Paved,Yes,5500
+1001075,27,Miller Air Park,,263,,,,0
+1001075,27,Woody,,349,,,,0
+1001075,27,Danville Life Saving Crew,,158,,,,0
+1001075,27,Wilhelm,,229,,,,0
+1001075,27,Blair Municipal,,187,,,,0
+1001075,27,Statesville Municipal,SVH,294,Civ.,Paved,Yes,5000
+1001075,27,Ervin Airfield,,259,,,,0
+1001075,27,Hurdle Field,,207,,,,0
+1001075,27,Twin County,,821,Civ.,Paved,Yes,4200
+1001075,27,Enochville,,240,,,,0
+1001075,27,Wilkes Regional Medical Center,,300,,,,0
+1001075,27,The Duchy,,198,,,,0
+1001075,27,Barringer Field,,244,,,,0
+1001075,27,Stanly County,,185,Civ.,Paved,Yes,5500
+1001075,27,Johnston,,213,,,,0
+1001075,27,Danville Regional,DAN,174,Civ.,Paved,Yes,6500
+1001075,27,Worley Field,,372,,,,0
+1001075,27,Gryder-Teague,,363,,,,0
+1001075,27,Futuristics,,158,,,,0
+1001075,27,Buck Hollar,,137,,,,0
+1001075,27,Bear Creek,,242,,,,0
+1001075,27,Chalfant,,179,,,,0
+1001075,27,Flying Bj,,305,,,,0
+1001075,27,Wilkes County,,297,,,,0
+1001075,27,Lake Norman Airpark,,255,,,,0
+1001079,24,Odate Noshiro,ONJ,89,Civ.,Paved,Yes,6500
+1001079,24,Aomori,AOJ,199,Civ.,Paved,Yes,8200
+1001079,24,Akita Old,,15,,,,0
+1001079,24,Akita,AXT,95,Civ.,Paved,Yes,8200
+1001079,24,Misawa Naf,MSJ,36,Mil.,Paved,Yes,10000
+1001079,24,Ippongibara,,304,,,,0
+1001079,24,Hachinohe,HHE,46,Mil.,Paved,Yes,7300
+1001079,24,Shonai,SYO,22,Civ.,Paved,Yes,6500
+1001079,24,Hanamaki,HNA,91,Civ.,Paved,Yes,6500
+1001079,24,Junmachi,GAJ,108,Civ.,Paved,Yes,6500
+1001079,24,Ojojibara,,70,,,,0
+1001079,24,Matsushima,,2,Civ.,Paved,Yes,8800
+1001079,24,Kasuminome,,5,,,,0
+1001079,24,Sendai,SDJ,5,Civ.,Paved,Yes,9800
+1001079,24,Fukushima,FKS,372,Civ.,Paved,Yes,8200
+1001079,24,Iwo To (Iwo Jima),IWO,113,Mil.,Paved,Yes,8700
+1001080,36,St Johns,YYT,141,Civ.,Paved,Yes,8500
+1001080,36,Clarenville,,56,,,,0
+1001080,36,Marystown,,29,,,,0
+1001080,36,Bay D Espoir,,227,,,,0
+1001080,36,St Pierre,FSP,7,,,,0
+1001080,36,Miquelon,MQC,3,,,,0
+1001080,36,Sable Island,YSA,unknown,,,,0
+1001080,36,Bermuda International,BDA,4,Mil.,Paved,Yes,9700
+1001080,36,Anegada,NGD,unknown,,,,0
+1001080,36,Wallblake,AXA,33,Civ.,Paved,Yes,3600
+1001080,36,Grand Case,CCE,2,Civ.,Paved,No,3900
+1001080,36,Barbuda Codrington,BBQ,unknown,,,,0
+1001080,36,Prinses Juliana,SXM,4,Civ.,Paved,Yes,7000
+1001080,36,St. Barthelemy,SBH,unknown,Civ.,Paved,No,2100
+1001080,36,North Sound Virgin Gorda,NSX,unknown,,,,0
+1001080,36,Virgin Gorda,VIJ,4,Civ.,Unpaved,No,3100
+1001080,36,Beef Island,EIS,5,Civ.,Paved,Yes,3600
+1001080,36,St. John,SJF,unknown,,,,0
+1001080,36,Cruz Bay,,unknown,,,,0
+1001080,36,Stouffer Grand Beach Resort,,38,,,,0
+1001080,36,V C Bird International,ANU,19,Civ.,Paved,Yes,9000
+1001080,36,Frenchman's Reef,,6,,,,0
+1001080,36,H.S. Truman,STT,5,Civ.,Paved,Yes,7000
+1001080,36,F D Roosevelt,EUX,38,Civ.,Paved,Yes,4200
+1001080,36,Golden Rock,SKB,52,Civ.,Paved,Yes,8000
+1001080,36,Benjamin Rivera Noriega,CPX,15,,,,0
+1001080,36,Newcastle,NEV,8,Civ.,Paved,No,4000
+1001080,36,Fajardo Harbor,,unknown,,,,0
+1001080,36,Diego Jimenez Torres,FAJ,20,Civ.,Paved,No,3600
+1001080,36,Luis Munoz Marin International,SJU,3,Civ.,Paved,Yes,10000
+1001080,36,State Government Number One,,82,,,,0
+1001080,36,Isla Grande,SIG,3,Civ.,Paved,Yes,5300
+1001080,36,Roosevelt Roads Ns,NRR,12,Mil.,Paved,Yes,11000
+1001080,36,Prasa-Barbosa,,50,,,,0
+1001080,36,Prtc Office Building,,53,,,,0
+1001080,36,Camp Garcia Vieques,,14,,,,0
+1001080,36,Rexach Office Building,,18,,,,0
+1001080,36,Vieques,VQS,14,Civ.,Paved,No,3400
+1001080,36,Dorado,,23,,,,0
+1001080,36,Bayamon Regional Hospital,,34,,,,0
+1001080,36,Christiansted Harbor- SSB,,unknown,,,,0
+1001080,36,Montserrat Blackburne,MNI,unknown,,,,0
+1001080,36,Boqueron,,114,,,,0
+1001080,36,W H Bramble (Abandoned),,12,,,,0
+1001080,36,Prasa - La Plata,,110,,,,0
+1001080,36,La Desirade Les Galets,DSD,unknown,,,,0
+1001080,36,Humacao,,10,,,,0
+1001080,36,Alexander Hamilton,STX,19,Civ.,Paved,Yes,7600
+1001080,36,Antonio Nery Juarbe Pol,ARE,7,,,,0
+1001080,36,Orocovis Health Center,,523,,,,0
+1001080,36,St. Francois,SFC,unknown,,,,0
+1001080,36,Baxter-Aibonito,,560,,,,0
+1001080,36,Borinquen,BQN,72,Civ.,Paved,Yes,11700
+1001080,36,Le Raizet,PTP,11,Civ.,Paved,Yes,11400
+1001080,36,Labadie,,137,,,,0
+1001080,36,Patillas,,3,,,,0
+1001080,36,Orama-Layuya,,446,,,,0
+1001080,36,Basse-Terre Baillif,BBR,unknown,,,,0
+1001080,36,Santa Isabel,,8,,,,0
+1001080,36,Fort Allen,,6,,,,0
+1001080,36,Mercedita,PSE,9,Civ.,Paved,Yes,6900
+1001080,36,Eugenio Maria de Hostos,MAZ,9,Civ.,Paved,Yes,4900
+1001080,36,Sabalos Ward,,10,,,,0
+1001080,36,Marie Galante,GBJ,5,Civ.,Paved,Yes,4000
+1001080,36,Baxter-San German,,64,,,,0
+1001080,36,Arroyo Barril,,35,,,,0
+1001080,36,La Union,POP,5,Civ.,Paved,Yes,10100
+1001080,36,Terre de Haut,LSS,unknown,,,,0
+1001080,36,Lajas Airpark,,9,,,,0
+1001080,36,Terre-de-Bas,HTB,unknown,,,,0
+1001080,36,Parguera,,10,,,,0
+1001080,36,Boqueron,,1,,,,0
+1001080,36,Punta Cana,PUJ,9,Civ.,Paved,Yes,10100
+1001080,36,Sabana de La Mar,SNX,unknown,,,,0
+1001080,36,Cullingford Field,,4,,,,0
+1001080,36,Melville Hall,DOM,24,Civ.,Paved,Yes,4800
+1001080,36,Santiago Municipal,STI,182,Civ.,Paved,Yes,5000
+1001080,36,Angelina Cotui,,54,,,,0
+1001080,36,La Romana,LRM,8,Civ.,Paved,Yes,6500
+1001080,36,Dominica Cane,DCF,unknown,,,,0
+1001080,36,Canefield,,4,Civ.,Paved,No,2500
+1001080,36,San Isidro AB,,34,Mil.,Paved,No,7000
+1001080,36,De Las Americas International,SDQ,18,Civ.,Paved,Yes,11000
+1001080,36,Constanza,COZ,1198,Civ.,Paved,No,5300
+1001080,36,Herrera,HEX,66,Civ.,Paved,Yes,4100
+1001082,24,Hyakuri,,32,Mil.,Paved,Yes,8800
+1001082,24,Tokyo Narita International,NRT,42,Civ.,Paved,Yes,13100
+1001082,24,,,26,,,,0
+1001082,24,Ryugasaki,,2,,,,0
+1001082,24,Ryugasaki South,,2,,,,0
+1001082,24,Shimoshizu,,30,,,,0
+1001082,24,Shimofusa,,30,Civ.,Paved,Yes,7300
+1001082,24,Chiba-ken,,19,,,,0
+1001082,24,Kisarazu,,3,Mil.,Paved,Yes,6000
+1001082,24,Tokyo Haneda International,HND,7,Civ.,Paved,Yes,9800
+1001082,24,Honda,,12,,,,0
+1001082,24,Chofu,,41,Civ.,Paved,No,3200
+1001082,24,Yokohama,YOK,unknown,,,,0
+1001082,24,Iruma,,91,Mil.,Paved,Yes,6500
+1001082,24,Tachikawa,,95,,,,0
+1001082,24,Tateyama,,3,,,,0
+1001082,24,Yokota AFB,OKO,139,Mil.,Paved,Yes,11000
+1001082,24,Atsugi,NJA,62,Mil.,Paved,Yes,7900
+1001082,24,Katsner AAF,,109,Civ.,Paved,No,1900
+1001082,24,Oshima,OIM,40,Civ.,Paved,Yes,3900
+1001082,24,Nashigahara,,1001,,,,0
+1001082,24,Fuji,,686,,,,0
+1001082,24,Miyake Jima,MYE,20,Civ.,Paved,Yes,3900
+1001082,24,,,29,,,,0
+1001082,24,Hachijo Jima,HAC,92,Civ.,Paved,Yes,5900
+1001082,24,Shizuhama,,7,Civ.,Paved,Yes,4900
+1001082,24,Iwo To (Iwo Jima),IWO,113,Mil.,Paved,Yes,8700
+1001085,8,Kumejima,UEO,7,Civ.,Paved,Yes,6500
+1001086,42,Niihama,IHA,unknown,,,,0
+1001086,42,Hiroshima International,HIJ,331,Civ.,Paved,Yes,8200
+1001086,42,Matsuyama,MYJ,6,Civ.,Paved,Yes,8200
+1001086,42,Hiroshima,HIW,5,Civ.,Paved,Yes,5900
+1001086,42,Iwakuni Mcas,,2,Mil.,Paved,Yes,8000
+1001086,42,Iwami,IWJ,54,Civ.,Paved,Yes,6500
+1001086,42,Hofu,,2,Mil.,Paved,No,4800
+1001086,42,Oita,OIT,6,Civ.,Paved,Yes,9800
+1001086,42,Yamaguchi Ube,UBJ,7,Civ.,Paved,Yes,6500
+1001086,42,Beppu,BPU,unknown,,,,0
+1001086,42,Ozuki,,4,Mil.,Paved,Yes,3900
+1001086,42,Tsuiki,,17,Civ.,Paved,Yes,7800
+1001086,42,Kita Kyushu,KKJ,3,Civ.,Paved,Yes,5200
+1001086,42,Ashiya,,30,Mil.,Paved,Yes,5300
+1001086,42,Nyutabaru,,79,Mil.,Paved,Yes,8800
+1001086,42,Kumamoto,KMJ,196,Civ.,Paved,Yes,9800
+1001086,42,Miyazaki,KMI,6,Civ.,Paved,Yes,8200
+1001086,42,Fukuoka,FUK,9,Civ.,Paved,Yes,9100
+1001086,42,Metabaru,,16,,,,0
+1001086,42,Saga,HSG,2,Civ.,Paved,Yes,6500
+1001086,42,Iki,IKI,16,Civ.,Paved,Yes,3900
+1001086,42,Kagoshima,KOJ,276,Civ.,Paved,Yes,9800
+1001086,42,Amakusa,,103,,,,0
+1001086,42,Nagasaki,NGS,5,Civ.,Paved,Yes,9800
+1001086,42,Kanoya,,65,Civ.,Paved,Yes,7300
+1001086,42,Tsushima,TSJ,65,Civ.,Paved,Yes,6200
+1001086,42,Nishinoomote,IIN,unknown,,,,0
+1001086,42,Tanegashima,TNE,97,Civ.,Paved,Yes,4900
+1001086,42,Yakushima,KUM,37,Civ.,Paved,Yes,4900
+1001086,42,Fukue,FUJ,83,Civ.,Paved,Yes,6500
+1001086,42,Kikai,,6,Civ.,Paved,Yes,3900
+1001086,42,Amami O Shima,ASJ,8,Civ.,Paved,Yes,6500
+1001086,42,Tokunoshima,TKN,5,Civ.,Paved,Yes,6500
+1001086,42,Okierabu,OKE,31,Civ.,Paved,Yes,3900
+1001087,42,Keahole,KOA,13,Civ.,Paved,Yes,11000
+1001087,42,Kaupulehu,,13,,,,0
+1001087,42,Waikoloa,,33,,,,0
+1001087,42,Puu Waa Waa Ranch,,686,,,,0
+1001087,42,Kamuela,MUE,814,Civ.,Paved,No,5100
+1001087,42,Lucy Henriques Medical Center,,853,,,,0
+1001087,42,Bradshaw AAF,BSF,1886,Civ.,Paved,No,3600
+1001087,42,Upper Paauilo Airstrip,,463,,,,0
+1001087,42,Kaalaiki Airstrip,,599,,,,0
+1001087,42,Upper Paauau,,792,,,,0
+1001087,42,Pahala Airstrip,,364,,,,0
+1001087,42,Peleau,,332,,,,0
+1001087,42,Pepeekeo Airstrip,,206,,,,0
+1001087,42,Mauna Kea-Honolii,,427,,,,0
+1001087,42,Rainshed,,1219,,,,0
+1001087,42,Hilo Hospital,,148,,,,0
+1001087,42,Hilo International,ITO,12,Civ.,Paved,Yes,9800
+1001087,42,Mountain View Airstrip,,457,,,,0
+1001089,11,Masroor,,11,Mil.,Paved,Yes,9000
+1001089,11,Sharea Faisal,,9,,,,0
+1001089,11,Rudra Mata,KHI,30,Civ.,Paved,Yes,10500
+1001089,11,Wateji,,44,,,,0
+1001089,11,Raedhanpur,,61,,,,0
+1001089,11,Khorewah,,5,,,,0
+1001089,11,Rudra Mata,BHJ,82,Civ.,Paved,Yes,8200
+1001090,24,Hai Phong Cat Bi,HPH,30480,Civ.,Paved,No,7800
+1001090,24,Hai Phong Kien An,,4,,,,0
+1001090,24,Kep,,12,,,,0
+1001090,24,Ha Noi Gia Lam,VGL,17,Mil.,Paved,No,6700
+1001090,24,Hanoi / Bac Mai,,5,,,,0
+1001090,24,Noibai,HAN,11,Civ.,Paved,Yes,10400
+1001090,24,Hoa Lac,,43,,,,0
+1001090,24,,,39,,,,0
+1001090,24,Jtalaishi,,121,,,,0
+1001090,24,Haikou,,26,Civ.,Paved,Yes,11800
+1001090,24,Meilan,HAK,23,,,,0
+1001092,16,Bruce Campbell Field,,99,Civ.,Paved,Yes,4400
+1001092,16,Rudder Field,,70,,,,0
+1001092,16,Echelon,,104,,,,0
+1001092,16,Slobovia Outernational,,76,,,,0
+1001092,16,Cochran,,73,,,,0
+1001092,16,Walnut Creek,,96,,,,0
+1001092,16,E E Lane,,82,,,,0
+1001092,16,University Hospital,,105,,,,0
+1001092,16,Supplejack,,104,,,,0
+1001092,16,Jackson International,JAN,105,Civ.,Paved,Yes,8500
+1001092,16,Mississippi Petrified Forest,,81,,,,0
+1001092,16,Hawkins Field,HKS,104,Civ.,Paved,Yes,5300
+1001092,16,Methodist Medical Center,,112,,,,0
+1001092,16,Payne,,109,,,,0
+1001092,16,Linwood,,87,,,,0
+1001092,16,Mohr Farm,,110,,,,0
+1001092,16,John Bell Williams,,75,,,,0
+1001092,16,Tullos Field,,91,,,,0
+1001092,16,Falcon Field,,126,,,,0
+1001092,16,Dogwood Acres,,76,,,,0
+1001092,16,Peterson,,73,,,,0
+1001092,16,Berryhill Farms,,96,,,,0
+1001092,16,Alton Field,,259,,,,0
+1001092,16,Joe Sanford Field,,55,,,,0
+1001092,16,Yazoo County,,33,,,,0
+1001092,16,Highland Hospital,,79,,,,0
+1001092,16,Forest Municipal,,158,,,,0
+1001092,16,Carthage Leake County,,138,,,,0
+1001092,16,Whitaker,,30,,,,0
+1001092,16,C A Moore,,104,,,,0
+1001092,16,Copiah County,,135,,,,0
+1001092,16,Parkview Regional Medical Center,,77,,,,0
+1001092,16,Magee Municipal,,169,,,,0
+1001092,16,Vicksburg Medical Center,,34,,,,0
+1001092,16,Smith County General Hospital,,163,,,,0
+1001092,16,Montfort Jones Memorial Hospital,,139,,,,0
+1001092,16,Southland Flying Service Inc.,,35,,,,0
+1001092,16,Belzoni Municipal,,34,,,,0
+1001092,16,Reality Plantation,,30,,,,0
+1001092,16,Vicksburg Municipal,VKS,32,Civ.,Paved,Yes,5000
+1001092,16,Kosciusko Attala County,OSX,146,Civ.,Paved,Yes,5000
+1001092,16,Nicks Flying Service,,30,,,,0
+1001092,16,Vicksburg Tallulah Regional,,26,Civ.,Paved,Yes,5000
+1001092,16,Union Municipal,,156,,,,0
+1001092,16,Mitchell's,,98,,,,0
+1001092,16,Tgp Station 843,,32,,,,0
+1001092,16,Okeefe Field,,112,,,,0
+1001092,16,Smith County,,101,,,,0
+1001092,16,Wade,,32,,,,0
+1001092,16,Philadelphia Municipal,MPE,138,Civ.,Paved,Yes,3800
+1001092,16,Barrett Field,,133,,,,0
+1001092,16,Heigle Field,,32,,,,0
+1001092,16,Tonnar,,33,,,,0
+1001092,16,Scott,,26,,,,0
+1001092,16,Red Beard Dusting Service,,26,,,,0
+1001092,16,Hollandale Municipal,,35,,,,0
+1001092,16,Thigpen Field,,107,,,,0
+1001092,16,Prentiss Jefferson Davis County,,138,,,,0
+1001092,16,Clay,,61,,,,0
+1001092,16,Eifling Farms,,34,,,,0
+1001092,16,Lester Field,,35,,,,0
+1001092,16,Brookhaven Lincoln County,,149,,,,0
+1001092,16,Dale Landing Strip,,26,,,,0
+1001092,16,Grand Gulf,,49,,,,0
+1001092,16,Lewis,,34,,,,0
+1001092,16,Lang Flying Service,,35,,,,0
+1001092,16,Montgomery,,37,,,,0
+1001092,16,Hobbs,,35,,,,0
+1001092,16,Byerley,,32,,,,0
+1001092,16,Greenwood Leflore,GWO,47,Civ.,Paved,Yes,6500
+1001092,16,Oglesby Farms Inc.,,34,,,,0
+1001092,16,Murphey Flying Service,,37,,,,0
+1001092,16,Winona Montgomery County,,111,,,,0
+1001092,16,Lake Washington,,35,,,,0
+1001092,16,Mc Lain - Calico,,171,,,,0
+1001092,16,Greenwood-Leflore Hospital,,40,,,,0
+1001092,16,Gustafson,,24,,,,0
+1001092,16,Cottonwood,,37,,,,0
+1001092,16,4b Ranch,,24,,,,0
+1001092,16,Newellton,,23,,,,0
+1001092,16,Alcorn State University,,82,,,,0
+1001092,16,Louisville Winston County,LMS,175,Civ.,Paved,Yes,4500
+1001092,16,Ackerman Choctaw County,,168,,,,0
+1001092,16,Tensas Parish,,23,,,,0
+1001092,16,Indianola Municipal,,38,Civ.,Paved,Yes,6900
+1001092,16,Abide Airpark,,35,,,,0
+1001092,16,Bayou Meadows,,26,,,,0
+1001092,16,Joe Williams Olf,NJW,165,,,,0
+1001092,16,Berry,,34,,,,0
+1001092,16,Lewis Air Service,,37,,,,0
+1001092,16,Morgan Field,,91,,,,0
+1001092,16,Hesler Noble Field,LUL,73,Civ.,Paved,Yes,5500
+1001092,16,Baker Flying Service,,35,,,,0
+1001092,16,Country Club,,36,,,,0
+1001092,16,Key Field,MEI,91,Civ.,Paved,Yes,10000
+1001092,16,Kelly,,34,,,,0
+1001092,16,Huntley,,36,,,,0
+1001092,16,Norris Airstrip,,21,,,,0
+1001092,16,Tgp Station 54,,37,,,,0
+1001092,16,Delhi Municipal,,27,,,,0
+1001093,25,Longhua,,2,,,,0
+1001093,25,Pudong International,PVG,3,Civ.,Paved,Yes,13100
+1001093,25,Hongqiao,SHA,3,Civ.,Paved,Yes,11100
+1001093,25,Southwest Highway Strip,,6,,,,0
+1001093,25,Suzhou West 2,,9,,,,0
+1001093,25,Wuxi Shuofang,,30480,,,,0
+1001095,13,Los Mochis,LMM,4,Civ.,Paved,Yes,6500
+1001095,13,Los Cerritos Northeast,,17,,,,0
+1001095,13,Campo Cuatro Milpas,,28,,,,0
+1001095,13,Guamuchil,,24,,,,0
+1001095,13,Punta Pescadero,,7,,,,0
+1001095,13,Punta Colorada,PCO,unknown,,,,0
+1001095,13,Los Cabos International,SJD,109,Civ.,Paved,Yes,9800
+1001095,13,Cabo San Lucas,,139,,,,0
+1001097,20,Geoje Heliport,JGE,unknown,,,,0
+1001097,20,Tsushima,TSJ,65,Civ.,Paved,Yes,6200
+1001097,20,R 813,CHF,2,Mil.,Paved,No,3600
+1001097,20,Pusan Gimhae International,PUS,4,Civ.,Paved,Yes,8900
+1001097,20,Pusan,,2,Mil.,Paved,No,6500
+1001097,20,R 802,,34,,,,0
+1001097,20,Sachon,HIN,8,Mil.,Paved,Yes,8900
+1001097,20,Onyang Highway Strip,,100,,,,0
+1001097,20,Ulsan,USN,9,Civ.,Paved,Yes,6500
+1001097,20,Iki,IKI,16,Civ.,Paved,Yes,3900
+1001097,20,Ashiya,,30,Mil.,Paved,Yes,5300
+1001097,20,Kita Kyushu,KKJ,3,Civ.,Paved,Yes,5200
+1001097,20,Ozuki,,4,Mil.,Paved,Yes,3900
+1001097,20,Yamaguchi Ube,UBJ,7,Civ.,Paved,Yes,6500
+1001097,20,Hofu,,2,Mil.,Paved,No,4800
+1001097,20,Iwami,IWJ,54,Civ.,Paved,Yes,6500
+1001097,20,Iwakuni Mcas,,2,Mil.,Paved,Yes,8000
+1001097,20,Hiroshima,HIW,5,Civ.,Paved,Yes,5900
+1001097,20,Hiroshima International,HIJ,331,Civ.,Paved,Yes,8200
+1001097,20,Izumo,IZO,2,Civ.,Paved,Yes,6500
+1001097,20,Miho,YGJ,6,Civ.,Paved,Yes,6500
+1001097,20,Oki,OKI,95,Civ.,Paved,Yes,4900
+1001097,20,Okayama,OKJ,245,Civ.,Paved,Yes,8200
+1001097,20,Kohnan,,1,Civ.,Paved,No,3900
+1001097,20,Nihonbara,,240,,,,0
+1001097,20,Tottori,TTJ,20,Civ.,Paved,Yes,6500
+1001097,20,Tajima,TJH,177,Civ.,Paved,Yes,3900
+1001097,20,Kobe,UKB,unknown,,,,0
+1001097,20,Osaka Itami International,ITM,15,Civ.,Paved,Yes,9800
+1001097,20,Yao,,12,Civ.,Paved,Yes,4800
+1001097,20,Fukui,FKJ,6,Civ.,Paved,Yes,3900
+1001097,20,Amami O Shima,ASJ,8,Civ.,Paved,Yes,6500
+1001097,20,Kikai,,6,Civ.,Paved,Yes,3900
+1001097,20,Komatsu,KMQ,5,Civ.,Paved,Yes,8800
+1001097,20,Gifu,QGU,39,Mil.,Paved,No,8800
+1001097,20,Nagoya (Komaki AFB),NGO,16,Civ.,Paved,Yes,8900
+1001097,20,Tokunoshima,TKN,5,Civ.,Paved,Yes,6500
+1001097,20,Pudong International,PVG,3,Civ.,Paved,Yes,13100
+1001097,20,Jiangwan,,6,,,,0
+1001097,20,Toyama,TOY,29,Civ.,Paved,Yes,6500
+1001097,20,Noto,,218,,,,0
+1001097,20,Dachang,,8,,,,0
+1001097,20,Longhua,,2,,,,0
+1001097,20,Dai Shan,,6,,,,0
+1001097,20,Okierabu,OKE,31,Civ.,Paved,Yes,3900
+1001097,20,Hongqiao,SHA,3,Civ.,Paved,Yes,11100
+1001097,20,Zhujia Jian Af P,HSN,29999,,,,0
+1001097,20,Southwest Highway Strip,,6,,,,0
+1001097,20,Matsumoto,MMJ,666,Civ.,Paved,Yes,6500
+1001097,20,Yoron,RNJ,16,Civ.,Paved,Yes,3900
+1001097,20,,,11,,,,0
+1001097,20,Nagano,,347,,,,0
+1001097,20,Suzhou West 2,,9,,,,0
+1001097,20,Ningbo (Lishe),NGB,4,Civ.,Paved,Yes,8200
+1001097,20,Ie Jima,IEJ,75,Civ.,Paved,No,4900
+1001097,20,,,313,,,,0
+1001097,20,,,21,,,,0
+1001097,20,Nashigahara,,1001,,,,0
+1001097,20,Fuji,,686,,,,0
+1001097,20,Kadena AB,DNA,45,Mil.,Paved,Yes,12100
+1001097,20,Futenma Mcas,,75,Mil.,Paved,Yes,9000
+1001097,20,Xiaoshan,HGH,7,Civ.,Paved,Yes,10400
+1001097,20,,,23,,,,0
+1001097,20,Kumejima,UEO,7,Civ.,Paved,Yes,6500
+1001097,20,Naha,OKA,5,Civ.,Paved,Yes,9800
+1001097,20,Hangzhou,,15,,,,0
+1001097,20,Yokota AFB,OKO,139,Mil.,Paved,Yes,11000
+1001097,20,Katsner AAF,,109,Civ.,Paved,No,1900
+1001097,20,Tachikawa,,95,,,,0
+1001097,20,Iruma,,91,Mil.,Paved,Yes,6500
+1001097,20,Atsugi,NJA,62,Mil.,Paved,Yes,7900
+1001097,20,Shimo Kolzumi,,30,,,,0
+1001097,20,Luqiaq,HYN,9,,,,0
+1001097,20,Chofu,,41,Civ.,Paved,No,3200
+1001097,20,Onishi,,20,,,,0
+1001097,20,Honda,,12,,,,0
+1001097,20,Kitadaito,KTD,24,Civ.,Paved,Yes,4900
+1001097,20,Niigata,KIJ,7,Civ.,Paved,Yes,8200
+1001097,20,Minami Daito,MMD,4,Civ.,Paved,Yes,4900
+1001097,20,Tokyo Haneda International,HND,7,Civ.,Paved,Yes,9800
+1001097,20,Chiba-ken,,19,,,,0
+1001097,20,Suzumenomiya,,82,,,,0
+1001097,20,Utsunomiya,QUT,102,Civ.,Paved,Yes,5500
+1001097,20,Shimofusa,,30,Civ.,Paved,Yes,7300
+1001097,20,Shimoshizu,,30,,,,0
+1001097,20,Otawara,,201,,,,0
+1001097,20,,,26,,,,0
+1001097,20,Ryugasaki South,,2,,,,0
+1001097,20,Ryugasaki,,2,,,,0
+1001097,20,Tokyo Narita International,NRT,42,Civ.,Paved,Yes,13100
+1001097,20,Hyakuri,,32,Mil.,Paved,Yes,8800
+1001097,20,Fukushima,FKS,372,Civ.,Paved,Yes,8200
+1001097,20,Junmachi,GAJ,108,Civ.,Paved,Yes,6500
+1001097,20,Shimojishima,SHI,16,Civ.,Paved,Yes,9800
+1001097,20,Hirara,MMY,45,Civ.,Paved,Yes,6500
+1001097,20,Sendai,SDJ,5,Civ.,Paved,Yes,9800
+1001097,20,Kasuminome,,5,,,,0
+1001097,20,Ojojibara,,70,,,,0
+1001097,20,,,9,,,,0
+1001097,20,Matsushima,,2,Civ.,Paved,Yes,8800
+1001099,7,Qingyang,IQN,21,,,,0
+1001099,7,Jinjiang,JJN,6,,,,0
+1001099,7,,,24,,,,0
+1001099,7,Shang-Yi,KNH,12,Mil.,Paved,Yes,9800
+1001099,7,Shatou,,9,,,,0
+1001099,7,Xiamen / Gaoqi,XMN,18,Civ.,Paved,Yes,8800
+1001099,7,Ta Shan Ting,,40,,,,0
+1001099,7,,,17,,,,0
+1001099,7,,,15,,,,0
+1001099,7,,,19,,,,0
+1001099,7,Changle,FOC,14,Civ.,Paved,Yes,11800
+1001099,7,Makung AB,MZG,31,Mil.,Paved,Yes,6500
+1001099,7,P Eng Hu,,21,,,,0
+1001099,7,Wang An,,30,,,,0
+1001099,7,Matsu South,,30,,,,0
+1001099,7,Ma Tsu,,13,Civ.,Paved,No,2900
+1001099,7,Ching Chuan Kang AB,,203,Mil.,Paved,No,12000
+1001099,7,Highway Strip 206,,23,,,,0
+1001099,7,Taichung,TXG,112,Mil.,Paved,Yes,5300
+1001099,7,Highway Strip 260,,30,,,,0
+1001099,7,Hsinchu,HSZ,8,Civ.,Paved,Yes,12000
+1001099,7,Chiayi,CYI,25,Civ.,Paved,Yes,10000
+1001099,7,Ao Hu Kou,,152,,,,0
+1001099,7,Sun Moon Lake,SMT,unknown,,,,0
+1001099,7,Highway Strip 58 60,,120,,,,0
+1001099,7,Lung Tan,,241,Civ.,Paved,No,3200
+1001099,7,Chiang Kai Shek International,TPE,33,Civ.,Paved,Yes,12000
+1001099,7,Taoyuan,,45,Mil.,Paved,No,10000
+1001099,7,Pa Kuei,,141,,,,0
+1001099,7,Lishan,LHN,unknown,,,,0
+1001099,7,Sungshan,TSA,6,Civ.,Paved,Yes,8500
+1001100,20,Coahuayana,,61,,,,0
+1001100,20,Colima,CLQ,723,Civ.,Paved,Yes,7500
+1001100,20,Tuxpan,,1225,Mil.,Paved,No,6700
+1001100,20,Playa de Oro International,ZLO,8,Civ.,Paved,Yes,7200
+1001100,20,Ciudad Guzman,,1520,,,,0
+1001100,20,Pablo L Sidar,AZG,315,,,,0
+1001100,20,Lazaro Cardenas,LZC,12,Civ.,Paved,No,4900
+1001100,20,El Infiernillo,,511,,,,0
+1001100,20,Autlan,,884,,,,0
+1001100,20,Uruapan,UPN,1593,Civ.,Paved,Yes,7800
+1001100,20,Venustiano Carranza,,1554,,,,0
+1001100,20,Zamora,ZMM,1567,Civ.,Paved,No,4900
+1001100,20,Ocotlan,,1525,,,,0
+1001100,20,Jaujilla,,1950,,,,0
+1001100,20,Ixtapa Zihuatanejo International,ZIH,6,Civ.,Paved,Yes,8200
+1001100,20,Huetamo,,300,,,,0
+1001100,20,Santa Barbara,,299,,,,0
+1001100,20,Pie de la Cuesta,,6,,,,0
+1001100,20,Iguala,,865,,,,0
+1001100,20,Chilpancingo,,1280,Civ.,Paved,No,4400
+1001100,20,Alvarez International,ACA,5,Civ.,Paved,Yes,10800
+1001100,20,Ta lo de Soto,,149,,,,0
+1001101,18,Tgp,,274,,,,0
+1001101,18,Lincoln Farm,,238,,,,0
+1001101,18,Williams,,232,,,,0
+1001101,18,Taylor County,,281,Civ.,Paved,Yes,5000
+1001101,18,Lebanon Springfield,,264,,,,0
+1001101,18,Jane Todd Crawford Hospital,,191,,,,0
+1001101,18,Hornback,,232,,,,0
+1001101,18,Oz,,250,,,,0
+1001101,18,Samuels Field,BRY,204,Civ.,Paved,Yes,4000
+1001101,18,Arnolds,,257,,,,0
+1001101,18,Greene County Parachute Center,,198,,,,0
+1001101,18,Hardin Memorial Hospital,,255,,,,0
+1001101,18,Addington Field,EKX,236,Civ.,Paved,Yes,5000
+1001101,18,Liberty Casey County,,317,,,,0
+1001101,18,Samuels Springs,,210,,,,0
+1001101,18,Natchez Trace Farm,,216,,,,0
+1001101,18,Columbia-Adair Co.,,249,,,,0
+1001101,18,Vine Grove,,207,,,,0
+1001101,18,Godman AAF,FTK,230,Mil.,Paved,Yes,5500
+1001101,18,Mc Grew,,219,,,,0
+1001101,18,Haggin,,280,,,,0
+1001101,18,Holly Gate Farm,,198,,,,0
+1001101,18,Russell County,,308,,,,0
+1001101,18,Goodall Field,,312,Civ.,Paved,Yes,5000
+1001101,18,Knob Creek,,140,,,,0
+1001101,18,Glasgow Municipal,GLW,218,Civ.,Paved,Yes,4500
+1001101,18,Blue Lick,,162,,,,0
+1001101,18,Grayson County,,232,,,,0
+1001101,18,Willow Island Airpark,,226,,,,0
+1001101,18,Cedar Farm,,138,,,,0
+1001101,18,Gravity Zero,,262,,,,0
+1001101,18,Southwest Hospital,,152,,,,0
+1001101,18,Standiford Field,SDF,151,Civ.,Paved,Yes,10000
+1001101,18,Southwest Government Center,,146,,,,0
+1001101,18,Hemp Ridge,,262,,,,0
+1001101,18,Buzzard's Roost,,235,,,,0
+1001101,18,Churchill Downs,,139,,,,0
+1001101,18,Bowman Field,LOU,166,Civ.,Paved,Yes,4300
+1001101,18,Stewart,,213,,,,0
+1001101,18,Lyndon Fire Protection District,,176,,,,0
+1001101,18,Jewish Hospital,,134,,,,0
+1001101,18,Tompkinsville Monroe County,,316,Civ.,Paved,No,4000
+1001101,18,WLKY-TV Studios,,152,,,,0
+1001101,18,Woodledge Farm,,207,,,,0
+1001101,18,Short,,344,,,,0
+1001101,18,Russell,,131,,,,0
+1001101,18,Seldom Scene,,262,,,,0
+1001101,18,Breckinridge County,,224,,,,0
+1001101,18,Rough River State Park,,176,,,,0
+1001101,18,Holiday Inn Lakeview,,136,,,,0
+1001101,18,Somerset-Pulaski Co Ems,,303,,,,0
+1001101,18,Monroe County Medical Center,,296,,,,0
+1001101,18,Lanesville Skyways,,270,,,,0
+1001101,18,Amy,,203,,,,0
+1001101,18,Wayne County,,294,Civ.,Paved,Yes,4000
+1001101,18,Shelby,,256,,,,0
+1001101,18,Capital City,FFT,245,Civ.,Paved,Yes,5000
+1001101,18,Pulaski County,SME,283,Civ.,Paved,Yes,5600
+1001101,18,Professional Arts Building,,156,,,,0
+1001101,18,Greenridge RLA,,262,,,,0
+1001101,18,Wayne County Hospital,,281,,,,0
+1001101,18,Clinton County Hospital,,290,,,,0
+1001101,18,Roberts,,268,,,,0
+1001101,18,Boss,,250,,,,0
+1001101,18,Clark County,,144,Civ.,Paved,Yes,5500
+1001101,18,Blue Grass,LEX,299,Civ.,Paved,Yes,7000
+1001101,18,The Medical Center At Bowling Green,,151,,,,0
+1001101,18,Tri-county Baptist Hospital,,241,,,,0
+1001101,18,Spring Creek,,299,,,,0
+1001101,18,Crawford,,374,,,,0
+1001101,18,Bowling Green Warren County,BWG,167,Civ.,Paved,Yes,6500
+1001101,18,Byrne Field,,244,,,,0
+1001101,18,Madison,,305,,,,0
+1001101,18,Saint Joseph Hospital,,299,,,,0
+1001101,18,Clay County Hospital,,183,,,,0
+1001101,18,Eagle's Nest,,137,,,,0
+1001101,18,Berea-Richmond,,303,,,,0
+1001101,18,Falin Landing Strip,,183,,,,0
+1001101,18,Gettlefinger Field,,250,,,,0
+1001101,18,John M. Foree,,260,,,,0
+1001101,18,Morning Star,,279,,,,0
+1001101,18,Plane-o-Field,,244,,,,0
+1001101,18,Sof Maintenance Site,,305,,,,0
+1001101,18,Jacobi,,229,,,,0
+1001101,18,Spring Lake,,253,,,,0
+1001101,18,Chesnut Knolls,,386,,,,0
+1001101,18,Mgt Station 2105,,165,,,,0
+1001101,18,Ohio County,,159,,,,0
+1001101,18,Perry County Municipal,,201,Civ.,Paved,Yes,3200
+1001101,18,Lafayette Municipal,,296,,,,0
+1001101,18,Glenwood Hall Resort,,152,,,,0
+1001101,18,Marble Hill,,241,,,,0
+1001101,18,Livingston Municipal,,418,,,,0
+1001101,18,Jordan Hill Farm,,277,,,,0
+1001101,18,Jackson County,,157,,,,0
+1001101,18,Creech Aaf,LSD,310,,,,0
+1001101,18,Hancock,,123,,,,0
+1001101,18,Georgetown Scott Co Marshal,,288,,,,0
+1001101,18,Lowells Landing,,213,,,,0
+1001101,18,Blue Haven Farm,,300,,,,0
+1001104,24,Tokyo Narita International,NRT,42,Civ.,Paved,Yes,13100
+1001104,24,Hachijo Jima,HAC,92,Civ.,Paved,Yes,5900
+1001104,24,Casco Cove Cgs,ATU,12,,,,0
+1001104,24,Shemya AFB,SYA,30,Mil.,Paved,Yes,10000
+1001104,24,Iwo To (Iwo Jima),IWO,113,Mil.,Paved,Yes,8700
+1001104,24,Pagan Airstrip,,10,,,,0
+1001105,27,Feng Nin,,42,Civ.,Paved,Yes,7900
+1001105,27,Taitung,TTT,37,Mil.,Paved,No,11000
+1001105,27,Pingtung North,,29,Mil.,Paved,No,8000
+1001105,27,Pingtung South,,24,Mil.,Paved,Yes,7800
+1001105,27,Kuei Jen,,30,,,,0
+1001105,27,Highway Strip 331 334,,11,,,,0
+1001105,27,Green Island,GNI,8,Civ.,Paved,No,3300
+1001105,27,Kangshan,,10,Mil.,Paved,No,7500
+1001105,27,Tainan,TNN,19,Mil.,Paved,Yes,10000
+1001105,27,Tso Ying,,9,,,,0
+1001105,27,Highway Strip 296 298,,9,,,,0
+1001105,27,Chiayi,CYI,25,Civ.,Paved,Yes,10000
+1001105,27,Kaohsiung International,KHH,9,Civ.,Paved,Yes,10300
+1001105,27,Highway Strip 260,,30,,,,0
+1001105,27,Sun Moon Lake,SMT,unknown,,,,0
+1001105,27,Hengchun,HCN,13,Civ.,Paved,No,3500
+1001105,27,Highway Strip 206,,23,,,,0
+1001105,27,Orchid Island,KYD,10,Civ.,Paved,No,4500
+1001105,27,Taichung,TXG,112,Mil.,Paved,Yes,5300
+1001105,27,Hualien,HUN,16,Civ.,Paved,Yes,9000
+1001105,27,Lishan,LHN,unknown,,,,0
+1001105,27,Ching Chuan Kang AB,,203,Mil.,Paved,No,12000
+1001105,27,Makung AB,MZG,31,Mil.,Paved,Yes,6500
+1001105,27,P Eng Hu,,21,,,,0
+1001105,27,Wang An,,30,,,,0
+1001105,27,Chi Mei,CMJ,unknown,,,,0
+1001105,27,Basco,BSO,56,Civ.,Paved,No,4100
+1001105,27,Taggat,,5,,,,0
+1001105,27,Pratas Island,,3,,,,0
+1001105,27,Laoag International,LAO,6,Civ.,Paved,Yes,7900
+1001105,27,Tuguegarao,TUG,21,Civ.,Paved,No,5900
+1001105,27,Vigan,,4,Civ.,Paved,No,3400
+1001105,27,Palanan,,50,Civ.,Unpaved,No,3200
+1001105,27,Cauayan,CYZ,61,Civ.,Paved,No,5700
+1001105,27,Mrmp,,117,,,,0
+1001105,27,Bagabag,,249,Civ.,Paved,No,3200
+1001109,9,Salina Cruz,SCX,23,,,,0
+1001109,9,Ixtepec Military,,50,Civ.,Paved,Yes,7500
+1001109,9,Ixtepec,IZT,unknown,,,,0
+1001111,23,Spanish Cay,,3,,,,0
+1001111,23,Green Turtle,GTC,unknown,,,,0
+1001111,23,Treasure Cay,TCB,2,Civ.,Paved,Yes,6600
+1001111,23,Marsh Harbour International,MHH,3,Civ.,Paved,No,5000
+1001111,23,Sandy Point,YAS,2,Civ.,Paved,No,3000
+1001111,23,Grand Bahama International,FPO,2,Civ.,Paved,Yes,11000
+1001111,23,West End,WTD,2,,,,0
+1001111,23,Cape Canaveral Air Force Station,XMR,3,Mil.,Paved,No,10000
+1001111,23,Nasa Shuttle Landing Facility,X68,3,,,,0
+1001111,23,Cape Canaveral Hospital,,2,,,,0
+1001111,23,Patrick AFB,COF,3,Mil.,Paved,Yes,9000
+1001111,23,Great Harbour Cay,GHC,5,Priv.,Paved,No,4500
+1001111,23,Fulton,,unknown,,,,0
+1001111,23,Merritt Island,COI,2,Civ.,Paved,Yes,3600
+1001111,23,Knobel,,12,,,,0
+1001111,23,North Eleuthera,ELH,2,Civ.,Paved,No,4500
+1001111,23,Highlander,,5,,,,0
+1001111,23,Holmes Regional Medical Center,,12,,,,0
+1001111,23,Valkaria,,8,,,,0
+1001111,23,Parrish Brothers Private,,7,,,,0
+1001111,23,Sebastian Municipal,,7,,,,0
+1001111,23,Tradewinds Aerodrome,,2,,,,0
+1001111,23,Nierenberg Estate,,10,,,,0
+1001111,23,Wuesthoff Hospital Emergency,,30,,,,0
+1001111,23,Rockledge,,8,,,,0
+1001111,23,Melbourne International,MLB,11,Civ.,Paved,Yes,9400
+1001111,23,Vero Beach Municipal,VRB,8,Civ.,Paved,Yes,7300
+1001111,23,Space Center Executive,TIX,11,Civ.,Paved,Yes,6000
+1001111,23,Broocke Air Patch,,7,,,,0
+1001111,23,Arthur Dunn Airpark,,9,,,,0
+1001111,23,Massey Ranch Airpark,,4,,,,0
+1001111,23,Blue Ridge Flightpark,,8,,,,0
+1001111,23,Fp & L Nuclear Power Plant,,5,,,,0
+1001111,23,New Smyrna Beach Municipal,,4,Civ.,Paved,Yes,5000
+1001111,23,Ringhaver,,9,,,,0
+1001111,23,Va Outpatient Clinic,,9,,,,0
+1001111,23,St Lucie County International,FPR,8,Civ.,Paved,Yes,6400
+1001111,23,Porta Target,,9,,,,0
+1001111,23,Lawnwood Medical Center,,5,,,,0
+1001111,23,Sailfish Point,,2,,,,0
+1001111,23,Triple M,,6,,,,0
+1001111,23,Smokey's,,3,,,,0
+1001111,23,Doan,,4,,,,0
+1001111,23,Indian River Aerodrome,,8,,,,0
+1001111,23,Witham Field,SUA,5,Civ.,Paved,Yes,5800
+1001111,23,New Hibiscus Airpark,,8,,,,0
+1001111,23,Martin Memorial Hospital,,2,,,,0
+1001111,23,Spruce Creek,,7,,,,0
+1001111,23,Daytona Beach Regional,DAB,11,Civ.,Paved,Yes,10500
+1001111,23,Fly In Ranches,,8,,,,0
+1001111,23,Atc,,2,,,,0
+1001111,23,Williams Hawgwild,,6,,,,0
+1001111,23,Kitching Cove,,unknown,,,,0
+1001111,23,Harbor Links Yacht & Country Club,,5,,,,0
+1001111,23,Governors Harbour,GHB,7,Civ.,Paved,No,7900
+1001111,23,Ormond Beach Municipal,,9,Civ.,Paved,Yes,4000
+1001111,23,Nicholas Island,,2,,,,0
+1001111,23,Fellsmere,,7,,,,0
+1001111,23,Marsh Airstrip,,7,,,,0
+1001111,23,Strazzulla Groves,,8,,,,0
+1001111,23,Florida Power & Light-juno Beach,,19,,,,0
+1001111,23,Leffler,,13,,,,0
+1001111,23,Devils Garden Strip,,5,,,,0
+1001111,23,Southerland Strip,,5,,,,0
+1001111,23,Tropical Plantation,,6,,,,0
+1001111,23,Southeastern,,7,,,,0
+1001111,23,Naked Lady Ranch,,7,,,,0
+1001111,23,Big Oaks Ranch,,8,,,,0
+1001111,23,Palm Beach Gardens Medical Center,,4,,,,0
+1001111,23,Tailwinds,,6,,,,0
+1001111,23,Flagler County,,10,,,,0
+1001111,23,Gamebird Groves Airstrip,,11,,,,0
+1001111,23,Dan Rice,,11,,,,0
+1001111,23,Adams Ranch,,8,,,,0
+1001111,23,Aero Acres,,8,,,,0
+1001111,23,Br Ranch,,6,,,,0
+1001111,23,Chub Cay,CCZ,2,Priv.,Paved,No,5000
+1001111,23,Scott 2000,,8,,,,0
+1001111,23,Freedom Wpec Inc,,5,,,,0
+1001111,23,Big 'g',,12,,,,0
+1001111,23,Pga National,,6,,,,0
+1001111,23,Cedar Knoll Flying Ranch,,6,,,,0
+1001111,23,Memorial Hospital-Flagler Helistop,,7,,,,0
+1001111,23,Good Samaritan Medical Center,,5,,,,0
+1001111,23,Hales 700,,8,,,,0
+1001111,23,Treasure Coast Airpark,,9,,,,0
+1001111,23,Rybolt Ranch,,17,,,,0
+1001111,23,The Murphy Company,,5,,,,0
+1001111,23,Rlm Farms,,23,,,,0
+1001111,23,Lafayette Landings,,11,,,,0
+1001111,23,North Palm Beach County General Aviation,,7,,,,0
+1001111,23,Southern Fruit Groves,,8,,,,0
+1001111,23,West Palm Beach International,PBI,6,Civ.,Paved,Yes,7900
+1001111,23,Deland Municipal Sidney H Taylor,,24,Civ.,Paved,Yes,6000
+1001111,23,Evans Properties Inc.,,7,,,,0
+1001111,23,Flagler Hospital,,8,,,,0
+1001111,23,Central Florida Regional,SFB,17,Civ.,Paved,Yes,9600
+1001111,23,Tedford Ranch,,16,,,,0
+1001111,23,Lake Jessup,,10,,,,0
+1001111,23,William P Gwinn,UTX,9,,,,0
+1001112,15,Urup,,35,,,,0
+1001113,8,San Cristobal de Las Casas,,2341,,,,0
+1001113,8,San Antonio Copalar,,1520,,,,0
+1001113,8,Palenque,PQM,61,,,,0
+1001113,8,Ciudad Pemex,,6,,,,0
+1001113,8,Tenosique,,25,,,,0
+1001113,8,Huehuetenango,HUG,unknown,,,,0
+1001113,8,San Pedro Tabasco,,46,,,,0
+1001113,8,Xam,XAM,unknown,,,,0
+1001113,8,Ciudad del Carmen,CME,2,Civ.,Paved,Yes,7200
+1001113,8,Rubelsanto,RUV,130,,,,0
+1001113,8,Coban,CBV,1323,Civ.,Paved,No,2600
+1001113,8,Paso Caballos,PCG,unknown,,,,0
+1001113,8,Carmelita,CMM,unknown,,,,0
+1001113,8,Santa Elena,FRS,128,Civ.,Paved,Yes,10000
+1001113,8,Inta Northeast,,155,,,,0
+1001113,8,Uaxactun,UAX,unknown,,,,0
+1001113,8,Dos Lagunas Peten,DON,unknown,,,,0
+1001113,8,Poptun,PON,505,Civ.,Unpaved,No,6800
+1001113,8,Melchor de Mencos,MCR,unknown,,,,0
+1001113,8,Chiquimula,CIQ,unknown,,,,0
+1001113,8,Punta Gorda,PND,unknown,,,,0
+1001113,8,Campeche International,CPE,10,Civ.,Paved,Yes,8200
+1001113,8,Copan,RUY,unknown,,,,0
+1001113,8,Palacios,PCH,unknown,,,,0
+1001113,8,Bananera,,40,,,,0
+1001113,8,Dangriga,DGA,unknown,,,,0
+1001113,8,Puerto Barrios,PBR,10,Civ.,Paved,No,8900
+1001113,8,Cucuyagua,,805,,,,0
+1001113,8,Independence,INB,unknown,,,,0
+1001113,8,Santa Rosa de Copan,SDH,unknown,,,,0
+1001113,8,Silver Creek,SVK,unknown,,,,0
+1001113,8,Melinda,MDB,unknown,,,,0
+1001113,8,Orange Walk,ORZ,unknown,,,,0
+1001113,8,Philip S. W. Goldson International,BZE,5,Civ.,Paved,Yes,7100
+1001113,8,Santa Cruz,STU,unknown,,,,0
+1001113,8,Gracias,GAC,unknown,,,,0
+1001113,8,Corozal Municipal,CZH,unknown,,,,0
+1001113,8,Sartaneja,SJX,unknown,,,,0
+1001113,8,Caye Chapel,CYC,unknown,,,,0
+1001113,8,Chetumal International,CTM,12,Civ.,Paved,Yes,7200
+1001113,8,Ramon Villeda Morales,SAP,27,Civ.,Paved,Yes,9200
+1001113,8,San Pedro,SPR,1,,,,0
+1001113,8,La Lima,,23,,,,0
+1001113,8,Tela,TEA,2,Civ.,Paved,No,4400
+1001113,8,Shaoguan,,unknown,Mil.,Paved,Yes,8000
+1001113,8,Coronel Enrique Soto Cano,,628,,,,0
+1001113,8,Carrillo Puerto,,61,,,,0
+1001113,8,Victoria,VTA,unknown,,,,0
+1001113,8,Yoro,ORO,unknown,,,,0
+1001113,8,Utila Island,UII,unknown,,,,0
+1001113,8,Goloson International,LCE,15,Civ.,Paved,Yes,9600
+1001113,8,Coyoles,CYL,unknown,,,,0
+1001113,8,Olanchito,OAN,unknown,,,,0
+1001113,8,Roatan Island,RTB,2,Civ.,Paved,Yes,6300
+1001113,8,La Union,LUI,unknown,,,,0
+1001113,8,Tulum,TUY,2,,,,0
+1001113,8,Tocoa,TCF,unknown,,,,0
+1001113,8,Guanaja,GJA,11,,,,0
+1001113,8,Trujillo,,3,,,,0
+1001113,8,Justicalpa,JUT,unknown,,,,0
+1001113,8,Gualaco,GUO,unknown,,,,0
+1001113,8,Trujillo Capiro,TJI,unknown,,,,0
+1001113,8,Playa Del Carmen,PCM,unknown,,,,0
+1001113,8,Cozumel International,CZM,5,Civ.,Paved,Yes,8800
+1001113,8,Bonito Oriental,,22,,,,0
+1001113,8,Catacamas,CAA,455,Civ.,Unpaved,No,3600
+1001113,8,San Esteban,SET,unknown,,,,0
+1001113,8,Limon,LMH,unknown,,,,0
+1001113,8,Iriona,IRN,unknown,,,,0
+1001113,8,Brus Laguna Araslaya,BHG,unknown,,,,0
+1001113,8,Ahuas,AHS,30,,,,0
+1001113,8,Islas del Cisne,,12,Civ.,Unpaved,No,4600
+1001114,6,Baracoa,BCA,10,Civ.,Paved,Yes,6000
+1001114,6,Grand Turk International,GDT,4,Civ.,Paved,Yes,6300
+1001115,1,Dolores,,2,,,,0
+1001115,1,Guiuan,,2,Civ.,Paved,No,7000
+1001115,1,Borongan,,2,,,,0
+1001115,1,Siargao,,3,,,,0
+1001115,1,Catarman,CRM,2,Civ.,Paved,No,4400
+1001115,1,Daniel Z Romualdez,TAC,2,Civ.,Paved,Yes,7000
+1001115,1,Catbalogan,,15,,,,0
+1001115,1,Calbayog,CYP,3,Civ.,Paved,No,4800
+1001115,1,Virac,VRC,37,Civ.,Paved,No,5100
+1001115,1,Biliran Natl,,89,,,,0
+1001115,1,Ormoc,OMC,25,Civ.,Paved,No,3900
+1001115,1,Sorsogon,,37,Civ.,Unpaved,No,3200
+1001115,1,Maasin,,100,,,,0
+1001115,1,Philphos,,5,,,,0
+1001115,1,Legaspi,LGP,20,Civ.,Paved,No,6800
+1001115,1,Ubay,,8,,,,0
+1001115,1,Masbate,MBT,15,Civ.,Paved,No,3900
+1001115,1,Naga,WNP,43,Civ.,Paved,No,4600
+1001115,1,Mactan-Cebu International,NOP,11,Civ.,Paved,Yes,10800
+1001115,1,Daet,DTE,3,Civ.,Paved,No,3700
+1001115,1,Lahug,,29,,,,0
+1001115,1,Sicogon Island,ICO,unknown,,,,0
+1001115,1,Larap,,5,,,,0
+1001115,1,Palanan,,50,Civ.,Unpaved,No,3200
+1001115,1,Roxas,RXS,3,Civ.,Paved,No,6200
+1001115,1,Bacolod,BCD,9,Civ.,Paved,Yes,6400
+1001115,1,Kalib0,KLO,6,Civ.,Paved,No,6000
+1001115,1,Iloilo,ILO,7,Civ.,Paved,Yes,6800
+1001115,1,Romblon,TBH,3,Civ.,Paved,No,3900
+1001115,1,Marinduque,MRQ,5,Civ.,Paved,No,4500
+1001115,1,Pagbilao Grande Island,,4,,,,0
+1001115,1,Cauayan,CYZ,61,Civ.,Paved,No,5700
+1001115,1,Baler,BQA,9,Civ.,Paved,No,3900
+1001115,1,Tuguegarao,TUG,21,Civ.,Paved,No,5900
+1001115,1,Caticlan Malay,MPH,unknown,,,,0
+1001115,1,Lucena,,12,Civ.,Unpaved,No,3200
+1001115,1,Hirara,MMY,45,Civ.,Paved,Yes,6500
+1001115,1,Mrmp,,117,,,,0
+1001115,1,Shimojishima,SHI,16,Civ.,Paved,Yes,9800
+1001115,1,Pinamalayan,,32,,,,0
+1001115,1,Bagabag,,249,Civ.,Paved,No,3200
+1001115,1,Wasig,,5,,,,0
+1001115,1,Antique,,7,Civ.,Paved,No,3400
+1001115,1,,,9,,,,0
+1001115,1,Fort Magsaysay,,57,Mil.,Paved,No,6300
+1001115,1,Fernando AB,,372,Mil.,Paved,No,4900
+1001115,1,Basco,BSO,56,Civ.,Paved,No,4100
+1001115,1,Luzon Is Cubi Pt,NCP,unknown,,,,0
+1001115,1,Ninoy Aquino International,MNL,23,Civ.,Paved,Yes,12200
+1001115,1,Ishigaki,ISG,26,Civ.,Paved,Yes,4900
+1001115,1,Sangley Point AB,SGL,2,Mil.,Paved,No,8600
+1001115,1,Hateruma,HTR,unknown,,,,0
+1001115,1,Iriomote Jima,,12,,,,0
+1001115,1,San Jose,SJI,3,Civ.,Paved,No,6000
+1001115,1,Taggat,,5,,,,0
+1001115,1,Loakan,BAG,1292,Civ.,Paved,No,5500
+1001115,1,Clark AB,CRK,146,Civ.,Paved,Yes,10400
+1001115,1,Basa AB,,46,Mil.,Paved,No,8300
+1001115,1,Mamburao,MBO,4,Civ.,Paved,No,3900
+1001115,1,Laoag International,LAO,6,Civ.,Paved,Yes,7900
+1001115,1,San Fernando,SFE,4,Civ.,Paved,No,3900
+1001115,1,Subic Bay International Airpt,SFS,17,Civ.,Paved,Yes,9000
+1001115,1,Lingayen,,2,,,,0
+1001115,1,Vigan,,4,Civ.,Paved,No,3400
+1001115,1,Lubang,LBX,5,Civ.,Paved,No,3900
+1001115,1,Orchid Island,KYD,10,Civ.,Paved,No,4500
+1001115,1,Iba,,3,Civ.,Paved,No,3200
+1001115,1,Yonaguni,OGN,21,Civ.,Paved,Yes,4900
+1001115,1,Busuanga,USU,45,Civ.,Paved,No,3900
+1001115,1,Coron,XCN,unknown,,,,0
+1001115,1,Green Island,GNI,8,Civ.,Paved,No,3300
+1001115,1,Culion,CUJ,unknown,,,,0
+1001115,1,Taitung,TTT,37,Mil.,Paved,No,11000
+1001115,1,Feng Nin,,42,Civ.,Paved,Yes,7900
+1001115,1,Hengchun,HCN,13,Civ.,Paved,No,3500
+1001115,1,Hualien,HUN,16,Civ.,Paved,Yes,9000
+1001115,1,,,9,,,,0
+1001115,1,Pingtung North,,29,Mil.,Paved,No,8000
+1001115,1,Pingtung South,,24,Mil.,Paved,Yes,7800
+1001115,1,Kaohsiung International,KHH,9,Civ.,Paved,Yes,10300
+1001115,1,Lishan,LHN,unknown,,,,0
+1001115,1,Tso Ying,,9,,,,0
+1001115,1,Sun Moon Lake,SMT,unknown,,,,0
+1001115,1,Kangshan,,10,Mil.,Paved,No,7500
+1001115,1,Highway Strip 331 334,,11,,,,0
+1001115,1,Kuei Jen,,30,,,,0
+1001115,1,Sungshan,TSA,6,Civ.,Paved,Yes,8500
+1001115,1,Tainan,TNN,19,Mil.,Paved,Yes,10000
+1001115,1,Chiayi,CYI,25,Civ.,Paved,Yes,10000
+1001115,1,Pa Kuei,,141,,,,0
+1001115,1,Highway Strip 296 298,,9,,,,0
+1001115,1,Lung Tan,,241,Civ.,Paved,No,3200
+1001115,1,Highway Strip 260,,30,,,,0
+1001115,1,Highway Strip 58 60,,120,,,,0
+1001115,1,Taoyuan,,45,Mil.,Paved,No,10000
+1001115,1,Taichung,TXG,112,Mil.,Paved,Yes,5300
+1001115,1,Highway Strip 206,,23,,,,0
+1001115,1,Chiang Kai Shek International,TPE,33,Civ.,Paved,Yes,12000
+1001115,1,Ao Hu Kou,,152,,,,0
+1001115,1,Ching Chuan Kang AB,,203,Mil.,Paved,No,12000

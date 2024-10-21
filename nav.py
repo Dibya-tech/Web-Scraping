@@ -27,6 +27,7 @@ chrome_options.add_argument("--incognito")
 # chrome_options.add_argument("--disable-extensions")
 
 def links_iterator(filter,filter_tag):
+    print(filter,filter_tag,"checking")
     start_date = "2020-01-01"
     driver = webdriver.Chrome(chrome_options)
     # Open the GDACS website
@@ -66,7 +67,6 @@ def links_iterator(filter,filter_tag):
     
     # Double-click the button
     actions.double_click(search_button).perform()
-    print(filter,filter_tag,"checked.")
     time.sleep(10)
     
     # Download HTML files to local
@@ -88,6 +88,7 @@ def links_iterator(filter,filter_tag):
         [[f"{sublist[0]}_{sublist[1]}_{sublist[3]}_{sublist[4]}", sublist[2]] for sublist in urls_data]
         ,filter)
     driver.quit()
+    print(filter,filter_tag,"checked.")
     # TODO CSV FILE CREATION
     
 def htmlFilesDownloader(urls_data,filter):

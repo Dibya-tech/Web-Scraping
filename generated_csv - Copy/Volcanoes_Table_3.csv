@@ -1,0 +1,820 @@
+Event_id,Episode,Radius,Population
+1000000,49,Radius,Population
+1000000,49,100 km,2.7 million people
+1000000,49,75 km,1.8 million people
+1000000,49,50 km,1.2 million people
+1000000,49,30 km,940000 people
+1000000,49,20 km,220000 people
+1000000,49,10 km,<1000 people
+1000000,49,5 km,<1000 people
+1000000,49,2 km,<1000 people
+1000002,1,Radius,Population
+1000002,1,100 km,8300 people
+1000002,1,75 km,4200 people
+1000002,1,50 km,2400 people
+1000002,1,30 km,<1000 people
+1000002,1,20 km,no people
+1000002,1,10 km,no people
+1000002,1,5 km,no people
+1000002,1,2 km,no people
+1000003,1,Radius,Population
+1000003,1,100 km,8.2 million people
+1000003,1,75 km,6.3 million people
+1000003,1,50 km,1.3 million people
+1000003,1,30 km,260000 people
+1000003,1,20 km,200000 people
+1000003,1,10 km,71000 people
+1000003,1,5 km,16000 people
+1000003,1,2 km,<1000 people
+1000004,6,Radius,Population
+1000004,6,100 km,24.4 million people
+1000004,6,75 km,18.6 million people
+1000004,6,50 km,10 million people
+1000004,6,30 km,4.4 million people
+1000004,6,20 km,1.4 million people
+1000004,6,10 km,240000 people
+1000004,6,5 km,45000 people
+1000004,6,2 km,2300 people
+1000005,1,Radius,Population
+1000005,1,100 km,37000 people
+1000005,1,75 km,34000 people
+1000005,1,50 km,33000 people
+1000005,1,30 km,33000 people
+1000005,1,20 km,24000 people
+1000005,1,10 km,7700 people
+1000005,1,5 km,3800 people
+1000005,1,2 km,<1000 people
+1000006,4,Radius,Population
+1000006,4,100 km,460000 people
+1000006,4,75 km,360000 people
+1000006,4,50 km,230000 people
+1000006,4,30 km,140000 people
+1000006,4,20 km,60000 people
+1000006,4,10 km,15000 people
+1000006,4,5 km,7300 people
+1000006,4,2 km,<1000 people
+1000007,1,Radius,Population
+1000007,1,100 km,19.7 million people
+1000007,1,75 km,10.4 million people
+1000007,1,50 km,5.7 million people
+1000007,1,30 km,870000 people
+1000007,1,20 km,150000 people
+1000007,1,10 km,9000 people
+1000007,1,5 km,1800 people
+1000007,1,2 km,<1000 people
+1000008,1,Radius,Population
+1000008,1,100 km,850000 people
+1000008,1,75 km,850000 people
+1000008,1,50 km,700000 people
+1000008,1,30 km,300000 people
+1000008,1,20 km,63000 people
+1000008,1,10 km,<1000 people
+1000008,1,5 km,no people
+1000008,1,2 km,no people
+1000009,1,Radius,Population
+1000009,1,100 km,190000 people
+1000009,1,75 km,100000 people
+1000009,1,50 km,91000 people
+1000009,1,30 km,3200 people
+1000009,1,20 km,1200 people
+1000009,1,10 km,<1000 people
+1000009,1,5 km,<1000 people
+1000009,1,2 km,<1000 people
+1000010,1,Radius,Population
+1000010,1,100 km,7.9 million people
+1000010,1,75 km,5.8 million people
+1000010,1,50 km,4.6 million people
+1000010,1,30 km,2.8 million people
+1000010,1,20 km,1.1 million people
+1000010,1,10 km,68000 people
+1000010,1,5 km,5200 people
+1000010,1,2 km,<1000 people
+1000011,1,Radius,Population
+1000011,1,100 km,8.7 million people
+1000011,1,75 km,6.7 million people
+1000011,1,50 km,4.7 million people
+1000011,1,30 km,1.2 million people
+1000011,1,20 km,340000 people
+1000011,1,10 km,65000 people
+1000011,1,5 km,1800 people
+1000011,1,2 km,<1000 people
+1000012,5,Radius,Population
+1000012,5,100 km,29.9 million people
+1000012,5,75 km,23.9 million people
+1000012,5,50 km,9.9 million people
+1000012,5,30 km,3.1 million people
+1000012,5,20 km,1 million people
+1000012,5,10 km,66000 people
+1000012,5,5 km,9600 people
+1000012,5,2 km,1400 people
+1000013,3,Radius,Population
+1000013,3,100 km,8.2 million people
+1000013,3,75 km,6.3 million people
+1000013,3,50 km,1.3 million people
+1000013,3,30 km,260000 people
+1000013,3,20 km,200000 people
+1000013,3,10 km,71000 people
+1000013,3,5 km,16000 people
+1000013,3,2 km,<1000 people
+1000014,5,Radius,Population
+1000014,5,100 km,7.9 million people
+1000014,5,75 km,5.8 million people
+1000014,5,50 km,4.6 million people
+1000014,5,30 km,2.8 million people
+1000014,5,20 km,1.1 million people
+1000014,5,10 km,68000 people
+1000014,5,5 km,5200 people
+1000014,5,2 km,<1000 people
+1000015,1,Radius,Population
+1000015,1,100 km,1.9 million people
+1000015,1,75 km,1.1 million people
+1000015,1,50 km,690000 people
+1000015,1,30 km,330000 people
+1000015,1,20 km,250000 people
+1000015,1,10 km,12000 people
+1000015,1,5 km,<1000 people
+1000015,1,2 km,<1000 people
+1000016,1,Radius,Population
+1000016,1,100 km,2.5 million people
+1000016,1,75 km,1.9 million people
+1000016,1,50 km,1.5 million people
+1000016,1,30 km,840000 people
+1000016,1,20 km,670000 people
+1000016,1,10 km,22000 people
+1000016,1,5 km,3100 people
+1000016,1,2 km,<1000 people
+1000017,1,Radius,Population
+1000017,1,100 km,1.5 million people
+1000017,1,75 km,700000 people
+1000017,1,50 km,240000 people
+1000017,1,30 km,19000 people
+1000017,1,20 km,7300 people
+1000017,1,10 km,<1000 people
+1000017,1,5 km,<1000 people
+1000017,1,2 km,<1000 people
+1000018,1,Radius,Population
+1000018,1,100 km,250000 people
+1000018,1,75 km,250000 people
+1000018,1,50 km,220000 people
+1000018,1,30 km,40000 people
+1000018,1,20 km,<1000 people
+1000018,1,10 km,<1000 people
+1000018,1,5 km,<1000 people
+1000018,1,2 km,<1000 people
+1000020,5,Radius,Population
+1000020,5,100 km,270000 people
+1000020,5,75 km,180000 people
+1000020,5,50 km,100000 people
+1000020,5,30 km,94000 people
+1000020,5,20 km,63000 people
+1000020,5,10 km,19000 people
+1000020,5,5 km,<1000 people
+1000020,5,2 km,<1000 people
+1000021,1,Radius,Population
+1000021,1,100 km,1000000 people
+1000021,1,75 km,260000 people
+1000021,1,50 km,14000 people
+1000021,1,30 km,3400 people
+1000021,1,20 km,2300 people
+1000021,1,10 km,2300 people
+1000021,1,5 km,2300 people
+1000021,1,2 km,<1000 people
+1000023,7,Radius,Population
+1000023,7,100 km,11.1 million people
+1000023,7,75 km,6.6 million people
+1000023,7,50 km,3.4 million people
+1000023,7,30 km,1.3 million people
+1000023,7,20 km,830000 people
+1000023,7,10 km,5400 people
+1000023,7,5 km,<1000 people
+1000023,7,2 km,<1000 people
+1000024,1,Radius,Population
+1000024,1,100 km,8.7 million people
+1000024,1,75 km,6.7 million people
+1000024,1,50 km,4.7 million people
+1000024,1,30 km,1.2 million people
+1000024,1,20 km,340000 people
+1000024,1,10 km,65000 people
+1000024,1,5 km,1800 people
+1000024,1,2 km,<1000 people
+1000025,1,Radius,Population
+1000025,1,100 km,<1000 people
+1000025,1,75 km,<1000 people
+1000025,1,50 km,no people
+1000025,1,30 km,no people
+1000025,1,20 km,no people
+1000025,1,10 km,no people
+1000025,1,5 km,no people
+1000025,1,2 km,no people
+1000026,1,Radius,Population
+1000026,1,100 km,8.7 million people
+1000026,1,75 km,6.7 million people
+1000026,1,50 km,4.7 million people
+1000026,1,30 km,1.2 million people
+1000026,1,20 km,340000 people
+1000026,1,10 km,65000 people
+1000026,1,5 km,1800 people
+1000026,1,2 km,<1000 people
+1000027,1,Radius,Population
+1000027,1,100 km,24.4 million people
+1000027,1,75 km,18.6 million people
+1000027,1,50 km,10 million people
+1000027,1,30 km,4.4 million people
+1000027,1,20 km,1.4 million people
+1000027,1,10 km,240000 people
+1000027,1,5 km,45000 people
+1000027,1,2 km,2300 people
+1000028,1,Radius,Population
+1000028,1,100 km,<1000 people
+1000028,1,75 km,<1000 people
+1000028,1,50 km,<1000 people
+1000028,1,30 km,<1000 people
+1000028,1,20 km,<1000 people
+1000028,1,10 km,<1000 people
+1000028,1,5 km,<1000 people
+1000028,1,2 km,no people
+1000029,1,Radius,Population
+1000029,1,100 km,8.2 million people
+1000029,1,75 km,6.3 million people
+1000029,1,50 km,1.3 million people
+1000029,1,30 km,260000 people
+1000029,1,20 km,200000 people
+1000029,1,10 km,71000 people
+1000029,1,5 km,16000 people
+1000029,1,2 km,<1000 people
+1000030,1,Radius,Population
+1000030,1,100 km,24.4 million people
+1000030,1,75 km,18.6 million people
+1000030,1,50 km,10 million people
+1000030,1,30 km,4.4 million people
+1000030,1,20 km,1.4 million people
+1000030,1,10 km,240000 people
+1000030,1,5 km,45000 people
+1000030,1,2 km,2300 people
+1000031,41,Radius,Population
+1000031,41,100 km,130000 people
+1000031,41,75 km,93000 people
+1000031,41,50 km,92000 people
+1000031,41,30 km,91000 people
+1000031,41,20 km,85000 people
+1000031,41,10 km,26000 people
+1000031,41,5 km,<1000 people
+1000031,41,2 km,<1000 people
+1000032,1,Radius,Population
+1000032,1,100 km,190000 people
+1000032,1,75 km,100000 people
+1000032,1,50 km,91000 people
+1000032,1,30 km,3200 people
+1000032,1,20 km,1200 people
+1000032,1,10 km,<1000 people
+1000032,1,5 km,<1000 people
+1000032,1,2 km,<1000 people
+1000033,4,Radius,Population
+1000033,4,100 km,200000 people
+1000033,4,75 km,140000 people
+1000033,4,50 km,90000 people
+1000033,4,30 km,31000 people
+1000033,4,20 km,4000 people
+1000033,4,10 km,3300 people
+1000033,4,5 km,1400 people
+1000033,4,2 km,no people
+1000034,1,Radius,Population
+1000034,1,100 km,1.8 million people
+1000034,1,75 km,720000 people
+1000034,1,50 km,250000 people
+1000034,1,30 km,36000 people
+1000034,1,20 km,8800 people
+1000034,1,10 km,6900 people
+1000034,1,5 km,<1000 people
+1000034,1,2 km,<1000 people
+1000035,5,Radius,Population
+1000035,5,100 km,19.7 million people
+1000035,5,75 km,10.4 million people
+1000035,5,50 km,5.7 million people
+1000035,5,30 km,870000 people
+1000035,5,20 km,150000 people
+1000035,5,10 km,9000 people
+1000035,5,5 km,1800 people
+1000035,5,2 km,<1000 people
+1000036,5,Radius,Population
+1000036,5,100 km,80000 people
+1000036,5,75 km,62000 people
+1000036,5,50 km,no people
+1000036,5,30 km,no people
+1000036,5,20 km,no people
+1000036,5,10 km,no people
+1000036,5,5 km,no people
+1000036,5,2 km,no people
+1000037,1,Radius,Population
+1000037,1,100 km,7.4 million people
+1000037,1,75 km,2.5 million people
+1000037,1,50 km,200000 people
+1000037,1,30 km,7200 people
+1000037,1,20 km,6300 people
+1000037,1,10 km,6300 people
+1000037,1,5 km,1600 people
+1000037,1,2 km,no people
+1000038,1,Radius,Population
+1000038,1,100 km,1.5 million people
+1000038,1,75 km,700000 people
+1000038,1,50 km,240000 people
+1000038,1,30 km,19000 people
+1000038,1,20 km,7300 people
+1000038,1,10 km,<1000 people
+1000038,1,5 km,<1000 people
+1000038,1,2 km,<1000 people
+1000039,1,Radius,Population
+1000039,1,100 km,24.4 million people
+1000039,1,75 km,18.6 million people
+1000039,1,50 km,10 million people
+1000039,1,30 km,4.4 million people
+1000039,1,20 km,1.4 million people
+1000039,1,10 km,240000 people
+1000039,1,5 km,45000 people
+1000039,1,2 km,2300 people
+1000040,1,Radius,Population
+1000040,1,100 km,19.7 million people
+1000040,1,75 km,10.4 million people
+1000040,1,50 km,5.7 million people
+1000040,1,30 km,870000 people
+1000040,1,20 km,150000 people
+1000040,1,10 km,9000 people
+1000040,1,5 km,1800 people
+1000040,1,2 km,<1000 people
+1000041,2,Radius,Population
+1000041,2,100 km,200000 people
+1000041,2,75 km,140000 people
+1000041,2,50 km,90000 people
+1000041,2,30 km,31000 people
+1000041,2,20 km,4000 people
+1000041,2,10 km,3300 people
+1000041,2,5 km,1400 people
+1000041,2,2 km,no people
+1000045,1,Radius,Population
+1000045,1,100 km,7.4 million people
+1000045,1,75 km,2.5 million people
+1000045,1,50 km,200000 people
+1000045,1,30 km,7200 people
+1000045,1,20 km,6300 people
+1000045,1,10 km,6300 people
+1000045,1,5 km,1600 people
+1000045,1,2 km,no people
+1000047,1,Radius,Population
+1000047,1,100 km,2.7 million people
+1000047,1,75 km,1.8 million people
+1000047,1,50 km,1.2 million people
+1000047,1,30 km,940000 people
+1000047,1,20 km,220000 people
+1000047,1,10 km,<1000 people
+1000047,1,5 km,<1000 people
+1000047,1,2 km,<1000 people
+1000053,2,Radius,Population
+1000053,2,100 km,1000000 people
+1000053,2,75 km,260000 people
+1000053,2,50 km,14000 people
+1000053,2,30 km,3400 people
+1000053,2,20 km,2300 people
+1000053,2,10 km,2300 people
+1000053,2,5 km,2300 people
+1000053,2,2 km,<1000 people
+1000054,1,Radius,Population
+1000054,1,100 km,3.1 million people
+1000054,1,75 km,1.8 million people
+1000054,1,50 km,1.2 million people
+1000054,1,30 km,680000 people
+1000054,1,20 km,420000 people
+1000054,1,10 km,61000 people
+1000054,1,5 km,1400 people
+1000054,1,2 km,no people
+1000055,2,Radius,Population
+1000055,2,100 km,190000 people
+1000055,2,75 km,190000 people
+1000055,2,50 km,50000 people
+1000055,2,30 km,<1000 people
+1000055,2,20 km,<1000 people
+1000055,2,10 km,<1000 people
+1000055,2,5 km,<1000 people
+1000055,2,2 km,no people
+1000056,1,Radius,Population
+1000056,1,100 km,4.4 million people
+1000056,1,75 km,3.5 million people
+1000056,1,50 km,1.6 million people
+1000056,1,30 km,140000 people
+1000056,1,20 km,26000 people
+1000056,1,10 km,5200 people
+1000056,1,5 km,<1000 people
+1000056,1,2 km,no people
+1000057,3,Radius,Population
+1000057,3,100 km,19.7 million people
+1000057,3,75 km,10.4 million people
+1000057,3,50 km,5.7 million people
+1000057,3,30 km,870000 people
+1000057,3,20 km,150000 people
+1000057,3,10 km,9000 people
+1000057,3,5 km,1800 people
+1000057,3,2 km,<1000 people
+1000058,1,Radius,Population
+1000058,1,100 km,6000 people
+1000058,1,75 km,4500 people
+1000058,1,50 km,1000 people
+1000058,1,30 km,<1000 people
+1000058,1,20 km,<1000 people
+1000058,1,10 km,<1000 people
+1000058,1,5 km,no people
+1000058,1,2 km,no people
+1000059,1,Radius,Population
+1000059,1,100 km,8.7 million people
+1000059,1,75 km,6.7 million people
+1000059,1,50 km,4.7 million people
+1000059,1,30 km,1.2 million people
+1000059,1,20 km,340000 people
+1000059,1,10 km,65000 people
+1000059,1,5 km,1800 people
+1000059,1,2 km,<1000 people
+1000060,1,Radius,Population
+1000060,1,100 km,4.4 million people
+1000060,1,75 km,3.5 million people
+1000060,1,50 km,1.6 million people
+1000060,1,30 km,140000 people
+1000060,1,20 km,26000 people
+1000060,1,10 km,5200 people
+1000060,1,5 km,<1000 people
+1000060,1,2 km,no people
+1000061,1,Radius,Population
+1000061,1,100 km,190000 people
+1000061,1,75 km,100000 people
+1000061,1,50 km,91000 people
+1000061,1,30 km,3200 people
+1000061,1,20 km,1200 people
+1000061,1,10 km,<1000 people
+1000061,1,5 km,<1000 people
+1000061,1,2 km,<1000 people
+1000062,1,Radius,Population
+1000062,1,100 km,24.4 million people
+1000062,1,75 km,18.6 million people
+1000062,1,50 km,10 million people
+1000062,1,30 km,4.4 million people
+1000062,1,20 km,1.4 million people
+1000062,1,10 km,240000 people
+1000062,1,5 km,45000 people
+1000062,1,2 km,2300 people
+1000063,1,Radius,Population
+1000063,1,100 km,10 million people
+1000063,1,75 km,6.4 million people
+1000063,1,50 km,3.2 million people
+1000063,1,30 km,810000 people
+1000063,1,20 km,68000 people
+1000063,1,10 km,1300 people
+1000063,1,5 km,<1000 people
+1000063,1,2 km,<1000 people
+1000064,1,Radius,Population
+1000064,1,100 km,7.4 million people
+1000064,1,75 km,2.5 million people
+1000064,1,50 km,200000 people
+1000064,1,30 km,7200 people
+1000064,1,20 km,6300 people
+1000064,1,10 km,6300 people
+1000064,1,5 km,1600 people
+1000064,1,2 km,no people
+1000065,1,Radius,Population
+1000065,1,100 km,4.4 million people
+1000065,1,75 km,3.3 million people
+1000065,1,50 km,1.5 million people
+1000065,1,30 km,510000 people
+1000065,1,20 km,68000 people
+1000065,1,10 km,21000 people
+1000065,1,5 km,3600 people
+1000065,1,2 km,<1000 people
+1000066,1,Radius,Population
+1000066,1,100 km,4700 people
+1000066,1,75 km,3900 people
+1000066,1,50 km,1400 people
+1000066,1,30 km,<1000 people
+1000066,1,20 km,<1000 people
+1000066,1,10 km,no people
+1000066,1,5 km,no people
+1000066,1,2 km,no people
+1000067,1,Radius,Population
+1000067,1,100 km,19.7 million people
+1000067,1,75 km,10.4 million people
+1000067,1,50 km,5.7 million people
+1000067,1,30 km,870000 people
+1000067,1,20 km,150000 people
+1000067,1,10 km,9000 people
+1000067,1,5 km,1800 people
+1000067,1,2 km,<1000 people
+1000068,1,Radius,Population
+1000068,1,100 km,1.5 million people
+1000068,1,75 km,700000 people
+1000068,1,50 km,240000 people
+1000068,1,30 km,19000 people
+1000068,1,20 km,7300 people
+1000068,1,10 km,<1000 people
+1000068,1,5 km,<1000 people
+1000068,1,2 km,<1000 people
+1000069,1,Radius,Population
+1000069,1,100 km,8.7 million people
+1000069,1,75 km,6.7 million people
+1000069,1,50 km,4.7 million people
+1000069,1,30 km,1.2 million people
+1000069,1,20 km,340000 people
+1000069,1,10 km,65000 people
+1000069,1,5 km,1800 people
+1000069,1,2 km,<1000 people
+1000070,2,Radius,Population
+1000070,2,100 km,28 million people
+1000070,2,75 km,17.9 million people
+1000070,2,50 km,5.1 million people
+1000070,2,30 km,640000 people
+1000070,2,20 km,190000 people
+1000070,2,10 km,2000 people
+1000070,2,5 km,<1000 people
+1000070,2,2 km,<1000 people
+1000071,1,Radius,Population
+1000071,1,100 km,2.7 million people
+1000071,1,75 km,1.8 million people
+1000071,1,50 km,1.2 million people
+1000071,1,30 km,940000 people
+1000071,1,20 km,220000 people
+1000071,1,10 km,<1000 people
+1000071,1,5 km,<1000 people
+1000071,1,2 km,<1000 people
+1000072,7,Radius,Population
+1000072,7,100 km,4.5 million people
+1000072,7,75 km,3.8 million people
+1000072,7,50 km,2.2 million people
+1000072,7,30 km,1.3 million people
+1000072,7,20 km,910000 people
+1000072,7,10 km,200000 people
+1000072,7,5 km,1800 people
+1000072,7,2 km,<1000 people
+1000073,1,Radius,Population
+1000073,1,100 km,1.1 million people
+1000073,1,75 km,980000 people
+1000073,1,50 km,44000 people
+1000073,1,30 km,15000 people
+1000073,1,20 km,5700 people
+1000073,1,10 km,1400 people
+1000073,1,5 km,<1000 people
+1000073,1,2 km,<1000 people
+1000074,1,Radius,Population
+1000074,1,100 km,24.4 million people
+1000074,1,75 km,18.6 million people
+1000074,1,50 km,10 million people
+1000074,1,30 km,4.4 million people
+1000074,1,20 km,1.4 million people
+1000074,1,10 km,240000 people
+1000074,1,5 km,45000 people
+1000074,1,2 km,2300 people
+1000075,1,Radius,Population
+1000075,1,100 km,160000 people
+1000075,1,75 km,120000 people
+1000075,1,50 km,78000 people
+1000075,1,30 km,14000 people
+1000075,1,20 km,3600 people
+1000075,1,10 km,<1000 people
+1000075,1,5 km,<1000 people
+1000075,1,2 km,<1000 people
+1000076,1,Radius,Population
+1000076,1,100 km,2.7 million people
+1000076,1,75 km,1.8 million people
+1000076,1,50 km,1.2 million people
+1000076,1,30 km,940000 people
+1000076,1,20 km,220000 people
+1000076,1,10 km,<1000 people
+1000076,1,5 km,<1000 people
+1000076,1,2 km,<1000 people
+1000077,1,Radius,Population
+1000077,1,100 km,300000 people
+1000077,1,75 km,180000 people
+1000077,1,50 km,100000 people
+1000077,1,30 km,43000 people
+1000077,1,20 km,26000 people
+1000077,1,10 km,<1000 people
+1000077,1,5 km,<1000 people
+1000077,1,2 km,<1000 people
+1000078,1,Radius,Population
+1000078,1,100 km,8300 people
+1000078,1,75 km,4500 people
+1000078,1,50 km,2800 people
+1000078,1,30 km,<1000 people
+1000078,1,20 km,no people
+1000078,1,10 km,no people
+1000078,1,5 km,no people
+1000078,1,2 km,no people
+1000080,10,Radius,Population
+1000080,10,100 km,290000 people
+1000080,10,75 km,270000 people
+1000080,10,50 km,77000 people
+1000080,10,30 km,30000 people
+1000080,10,20 km,7800 people
+1000080,10,10 km,<1000 people
+1000080,10,5 km,<1000 people
+1000080,10,2 km,<1000 people
+1000081,1,Radius,Population
+1000081,1,100 km,87000 people
+1000081,1,75 km,53000 people
+1000081,1,50 km,31000 people
+1000081,1,30 km,15000 people
+1000081,1,20 km,9000 people
+1000081,1,10 km,1800 people
+1000081,1,5 km,<1000 people
+1000081,1,2 km,<1000 people
+1000082,1,Radius,Population
+1000082,1,100 km,630000 people
+1000082,1,75 km,490000 people
+1000082,1,50 km,300000 people
+1000082,1,30 km,160000 people
+1000082,1,20 km,120000 people
+1000082,1,10 km,4900 people
+1000082,1,5 km,2300 people
+1000082,1,2 km,<1000 people
+1000083,1,Radius,Population
+1000083,1,100 km,7.4 million people
+1000083,1,75 km,2.5 million people
+1000083,1,50 km,200000 people
+1000083,1,30 km,7200 people
+1000083,1,20 km,6300 people
+1000083,1,10 km,6300 people
+1000083,1,5 km,1600 people
+1000083,1,2 km,no people
+1000084,3,Radius,Population
+1000084,3,100 km,4.5 million people
+1000084,3,75 km,3.8 million people
+1000084,3,50 km,2 million people
+1000084,3,30 km,1.2 million people
+1000084,3,20 km,780000 people
+1000084,3,10 km,130000 people
+1000084,3,5 km,<1000 people
+1000084,3,2 km,<1000 people
+1000085,2,Radius,Population
+1000085,2,100 km,740000 people
+1000085,2,75 km,640000 people
+1000085,2,50 km,250000 people
+1000085,2,30 km,84000 people
+1000085,2,20 km,41000 people
+1000085,2,10 km,18000 people
+1000085,2,5 km,<1000 people
+1000085,2,2 km,no people
+1000086,1,Radius,Population
+1000086,1,100 km,23.6 million people
+1000086,1,75 km,18.1 million people
+1000086,1,50 km,9.9 million people
+1000086,1,30 km,4.5 million people
+1000086,1,20 km,1.3 million people
+1000086,1,10 km,140000 people
+1000086,1,5 km,15000 people
+1000086,1,2 km,<1000 people
+1000087,1,Radius,Population
+1000087,1,100 km,26.8 million people
+1000087,1,75 km,17.8 million people
+1000087,1,50 km,5.2 million people
+1000087,1,30 km,720000 people
+1000087,1,20 km,230000 people
+1000087,1,10 km,<1000 people
+1000087,1,5 km,no people
+1000087,1,2 km,no people
+1000088,3,Radius,Population
+1000088,3,100 km,360000 people
+1000088,3,75 km,78000 people
+1000088,3,50 km,61000 people
+1000088,3,30 km,25000 people
+1000088,3,20 km,23000 people
+1000088,3,10 km,19000 people
+1000088,3,5 km,2500 people
+1000088,3,2 km,no people
+1000089,3,Radius,Population
+1000089,3,100 km,850000 people
+1000089,3,75 km,430000 people
+1000089,3,50 km,310000 people
+1000089,3,30 km,58000 people
+1000089,3,20 km,38000 people
+1000089,3,10 km,27000 people
+1000089,3,5 km,<1000 people
+1000089,3,2 km,no people
+1000090,2,Radius,Population
+1000090,2,100 km,290000 people
+1000090,2,75 km,270000 people
+1000090,2,50 km,77000 people
+1000090,2,30 km,30000 people
+1000090,2,20 km,7800 people
+1000090,2,10 km,<1000 people
+1000090,2,5 km,<1000 people
+1000090,2,2 km,<1000 people
+1000091,1,Radius,Population
+1000091,1,100 km,4.5 million people
+1000091,1,75 km,3.8 million people
+1000091,1,50 km,2 million people
+1000091,1,30 km,1.2 million people
+1000091,1,20 km,780000 people
+1000091,1,10 km,130000 people
+1000091,1,5 km,<1000 people
+1000091,1,2 km,<1000 people
+1000092,2,Radius,Population
+1000092,2,100 km,10.8 million people
+1000092,2,75 km,5.6 million people
+1000092,2,50 km,2.4 million people
+1000092,2,30 km,870000 people
+1000092,2,20 km,360000 people
+1000092,2,10 km,88000 people
+1000092,2,5 km,2700 people
+1000092,2,2 km,no people
+1000093,1,Radius,Population
+1000093,1,100 km,740000 people
+1000093,1,75 km,640000 people
+1000093,1,50 km,250000 people
+1000093,1,30 km,84000 people
+1000093,1,20 km,41000 people
+1000093,1,10 km,18000 people
+1000093,1,5 km,<1000 people
+1000093,1,2 km,no people
+1000094,2,Radius,Population
+1000094,2,100 km,1.2 million people
+1000094,2,75 km,470000 people
+1000094,2,50 km,13000 people
+1000094,2,30 km,<1000 people
+1000094,2,20 km,<1000 people
+1000094,2,10 km,<1000 people
+1000094,2,5 km,<1000 people
+1000094,2,2 km,<1000 people
+1000095,2,Radius,Population
+1000095,2,100 km,2.8 million people
+1000095,2,75 km,2.1 million people
+1000095,2,50 km,1.2 million people
+1000095,2,30 km,950000 people
+1000095,2,20 km,330000 people
+1000095,2,10 km,<1000 people
+1000095,2,5 km,<1000 people
+1000095,2,2 km,no people
+1000096,1,Radius,Population
+1000096,1,100 km,210000 people
+1000096,1,75 km,44000 people
+1000096,1,50 km,1200 people
+1000096,1,30 km,no people
+1000096,1,20 km,no people
+1000096,1,10 km,no people
+1000096,1,5 km,no people
+1000096,1,2 km,no people
+1000097,1,Radius,Population
+1000097,1,100 km,290000 people
+1000097,1,75 km,270000 people
+1000097,1,50 km,77000 people
+1000097,1,30 km,30000 people
+1000097,1,20 km,7800 people
+1000097,1,10 km,<1000 people
+1000097,1,5 km,<1000 people
+1000097,1,2 km,<1000 people
+1000098,1,Radius,Population
+1000098,1,100 km,10.8 million people
+1000098,1,75 km,5.6 million people
+1000098,1,50 km,2.4 million people
+1000098,1,30 km,870000 people
+1000098,1,20 km,360000 people
+1000098,1,10 km,88000 people
+1000098,1,5 km,2700 people
+1000098,1,2 km,no people
+1000099,1,Radius,Population
+1000099,1,100 km,740000 people
+1000099,1,75 km,640000 people
+1000099,1,50 km,250000 people
+1000099,1,30 km,84000 people
+1000099,1,20 km,41000 people
+1000099,1,10 km,18000 people
+1000099,1,5 km,<1000 people
+1000099,1,2 km,no people
+211060,11,Radius,Population
+211060,11,100 km,2.7 million people
+211060,11,75 km,1.8 million people
+211060,11,50 km,1.2 million people
+211060,11,30 km,940000 people
+211060,11,20 km,220000 people
+211060,11,10 km,<1000 people
+211060,11,5 km,<1000 people
+211060,11,2 km,<1000 people
+252010,1,Radius,Population
+252010,1,100 km,48000 people
+252010,1,75 km,36000 people
+252010,1,50 km,20000 people
+252010,1,30 km,11000 people
+252010,1,20 km,7400 people
+252010,1,10 km,2900 people
+252010,1,5 km,<1000 people
+252010,1,2 km,<1000 people
+261080,3,Radius,Population
+261080,3,100 km,8.2 million people
+261080,3,75 km,6.3 million people
+261080,3,50 km,1.3 million people
+261080,3,30 km,260000 people
+261080,3,20 km,200000 people
+261080,3,10 km,71000 people
+261080,3,5 km,16000 people
+261080,3,2 km,<1000 people
+352090,7,Radius,Population
+352090,7,100 km,1.5 million people
+352090,7,75 km,700000 people
+352090,7,50 km,240000 people
+352090,7,30 km,19000 people
+352090,7,20 km,7300 people
+352090,7,10 km,<1000 people
+352090,7,5 km,<1000 people
+352090,7,2 km,<1000 people

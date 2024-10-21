@@ -1,0 +1,27 @@
+{
+    "Table_1": {
+        "headers": ["Event_id", "Episode", "Deaths", "Displaced", "Region", "Countries", "From_To", "Event_summary"],
+        "xpath": "//*[@id='alert_summary_left']/table/tbody",
+        "col_limit": 6
+    },
+    "Table_2": {
+        "headers": ["Event_id", "Episode", "SendAI Indicator A", "N", "Country", "Location"],
+        "xpath": "//th[text()='SENDAI Indicator A']/ancestor::table/tbody",
+        "col_limit": 4
+    },
+    "Table_3": {
+        "headers": ["Event_id", "Episode", "SendAI Indicator B", "N", "Country", "Location"],
+        "xpath": "//th[text()='SENDAI Indicator B']/ancestor::table/tbody",
+        "col_limit": 4
+    },
+    "Table_4": {
+        "headers": ["Event_id", "Episode", "SendAI Indicator C", "N", "Country", "Location"],
+        "xpath": "//th[text()='SENDAI Indicator C']/ancestor::table/tbody",
+        "col_limit": 4
+    },
+    "Table_5": {
+        "headers": ["Event_id", "Episode", "ID", "Alert_Color", "Population_affected", "Start_date", "End_date", "Source"],
+        "xpath": "//th[text()='ID']/ancestor::table/tbody",
+        "col_limit": 6
+    }
+}

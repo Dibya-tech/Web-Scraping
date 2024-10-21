@@ -1,0 +1,134 @@
+Event_id,Episode,SendAI Indicator C,N,Country,Location
+1102678,30,houses,200,India,Itanagar
+1102678,30,houses,97,India,Arunachal Pradesh
+1102678,30,houses,22,India,Mizoram
+1102678,30,houses,2517,India,Manipur
+1102678,30,houses,200,India,Shahapur
+1102678,30,houses,500,India,Muzaffarpur District
+1102678,30,houses,1,India,Kullu
+1102678,30,houses,62,India,Gujarat
+1102678,30,houses,271,India,Gujarat
+1102678,30,houses destroyed,2,India,Shirur
+1102720,24,houses,50,Nigeria,Nangere
+1102720,24,houses,100,Nigeria,Lagos
+1102720,24,houses,1,Nigeria,Mushin
+1102720,24,houses,100,Nigeria,Gusau
+1102720,24,houses,300,Nigeria,Makurdi
+1102720,24,houses,100,Nigeria,Mainok
+1102720,24,houses,50,Nigeria,Gada
+1102720,24,houses,500,Nigeria,Buji
+1102720,24,houses,16,Nigeria,Plateau
+1102720,24,houses,1,Nigeria,ekosodin
+1102720,24,houses damaged,100,Nigeria,Trademore Market
+1102720,24,houses damaged,1820,Nigeria,Ilaje
+1102720,24,houses damaged,100,Nigeria,Kirfi
+1102720,24,houses damaged,300,Nigeria,Sokoto State
+1102720,24,houses destroyed,20,Nigeria,Dukku
+1102720,24,houses destroyed,113,Nigeria,Taraba State
+1102782,8,houses,100,China,Dongying
+1102783,14,houses,15,Indonesia,Palu City
+1102783,14,houses,154,Indonesia,Parigi Moutong
+1102783,14,houses,295,Indonesia,Medan City
+1102783,14,houses,30,Indonesia,-
+1102783,14,houses,50,Indonesia,Lombok Barat
+1102783,14,houses damaged,648,Indonesia,Melawi
+1102783,14,houses damaged,2000,Indonesia,"Sorong, Sorong Selatan"
+1102783,14,houses damaged,1252,Indonesia,Sulawesi
+1102783,14,houses damaged,1039,Indonesia,Gorontalo
+1102783,14,houses damaged,42,Indonesia,Halmahera Timur
+1102783,14,houses damaged,595,Indonesia,Penajam Paser Utara
+1102783,14,houses damaged,244,Indonesia,Tanah Laut
+1102783,14,houses damaged,3173,Indonesia,Wajo
+1102783,14,houses damaged,300,Indonesia,Morowali Nature Reserve
+1102783,14,houses damaged,717,Indonesia,Mamuju
+1102783,14,houses destroyed,1,Indonesia,Mamuju
+1102833,22,houses,10,Italy,Province of Pesaro and Urbino
+1102833,22,houses,1,Italy,Porto Sant Elpidio
+1102833,22,houses,10,Italy,Genoa
+1102833,22,houses,20,Italy,Gorizia
+1102833,22,houses,20,Italy,Seriate
+1102833,22,houses damaged,20,Italy,Bisceglie
+1102853,2,houses,45,Papua New Guinea,Mendi
+1102859,8,houses damaged,2,United States,Tuntutuliak
+1102859,8,houses damaged,10,United States,St. Charles Parish
+1102859,8,houses destroyed,1,United States,The Eye of Rodanthe
+1102865,2,houses,10,Democratic Republic of Congo,bagata
+1102865,2,houses,100,Democratic Republic of Congo,Beni
+1102866,1,houses,50,Guinea,Forecariah
+1102866,1,houses,200,Guinea,Manéah
+1102866,1,houses,20,Guinea,Dubreka
+1102866,1,houses,212,Guinea,Kindia
+1102866,1,houses,2,Guinea,Coyah
+1102869,1,houses,40,Morocco,Morocco
+1102870,3,houses,4312,Nigeria,Borno State
+1102870,3,houses,1601,Nigeria,Kogi State
+1102870,3,houses,7225,Nigeria,Niger State
+1102872,2,houses,30,France,Pyrénées-Atlantiques
+1102874,1,houses,1,Germany,Evangelisches Krankenhaus Oldenburg
+1102876,1,houses,200,Netherlands,Hellendoorn
+1102876,1,houses,1,Netherlands,Doetinchem
+1102877,2,houses damaged,66,Norway,Ringsaker
+1102879,2,houses,10,Spain,Sitges
+1102879,2,houses,20,Spain,Herrera de los Navarros
+1102879,2,houses,39,Spain,La Rioja
+1102880,1,houses,20,United Kingdom,Port Talbot
+1102880,1,houses,10,United Kingdom,Bridgend
+1102884,2,houses damaged,20,Guatemala,Siquinala
+1102884,2,houses damaged,1,Guatemala,Palencia
+1102884,2,houses damaged,59,Guatemala,Morazán
+1102884,2,houses damaged,40,Guatemala,San Juan Alotenango
+1102884,2,houses destroyed,1,Guatemala,Chisec
+1102885,7,houses,100,Mexico,San Fernando
+1102885,7,houses damaged,6,Mexico,Cihuatlán
+1102885,7,houses destroyed,8,Mexico,San Luis Ayucan
+1102888,1,houses damaged,5,Venezuela,Santa Lucía
+1102889,1,houses,47566,Vietnam,Vietnam
+1102894,1,houses,1,Bulgaria,Beloslav
+1102896,3,houses damaged,11,Türkiye,Seferihisar/Izmir
+1102906,1,houses,320,Senegal,Kaolack
+1102907,6,houses,1,Italy,Porto Sant Elpidio
+1102909,1,houses damaged,1,United Kingdom,Stafford
+1102913,1,houses destroyed,40,Democratic Republic of Congo,Tshilenge
+1102915,1,houses damaged,100,Albania,Shkodër County
+1102916,1,houses,10,Vietnam,Nghe An
+1102918,1,houses,10,Denmark,Esbjerg Municipality
+1102921,1,houses,4,Portugal,Gonça
+1102921,1,houses,1,Portugal,Caldas das Taipas
+1102921,1,houses,12,Portugal,Guimarães Municipality
+1102923,1,houses,322,Nepal,Nepal
+1102924,1,houses,38,Philippines,Philippines
+1102927,1,houses,8,Ecuador,Quito
+1102928,5,houses,1274,Indonesia,Aceh Utara
+1102928,5,houses,2,Indonesia,Padang Pariaman
+1102928,5,houses,1669,Indonesia,Padang Pariaman
+1102928,5,houses,2483,Indonesia,Tanjung Balai
+1102928,5,houses,39,Indonesia,-
+1102928,5,houses,30,Indonesia,Indragiri Hulu Regency
+1102928,5,houses,145,Indonesia,Rokan Hulu Regency
+1102928,5,houses damaged,748,Indonesia,Halmahera
+1102929,1,houses,17,Liberia,Buutuo
+1102929,1,houses,20,Liberia,Tapeta
+1102929,1,houses,100,Liberia,Ganta
+1102931,4,houses,20,France,Devecey
+1102931,4,houses,5,France,Tence
+1102931,4,houses,20,France,Sévérac-d Aveyron
+1102931,4,houses,10,France,Millau
+1102932,1,houses,60,New Zealand,Dunedin
+1102935,1,houses,30,Montenegro,Montenegro
+1102939,1,houses,20,Ireland,Bantry
+1102942,1,houses,1163,Cambodia,Cambodia
+1102943,2,houses,300,Burkina Faso,Burkina Faso
+1102945,5,houses,150,India,Karnataka
+1102948,1,houses,100,Peru,Puerto Maldonado
+1102949,1,houses,125,United States,Florida
+1102949,1,houses,2000000,United States,Florida
+1102950,1,houses,43,Senegal,Kanel
+1102954,1,houses,100,Togo,Lomé
+1102955,2,houses,20,Spain,Mairena del Aljarafe
+1102955,2,houses,25,Spain,Tamarite de Litera
+1102957,1,houses,344,Sri Lanka,Sri Lanka
+1102961,3,houses damaged,10,Italy,Senigallia
+1102962,2,houses,152,Vietnam,Ham Thuan Bac
+1102963,1,houses destroyed,1,Democratic Republic of Congo,Mongala
+1102964,1,houses damaged,120,Mexico,Monterrey
+1102965,1,houses,300,Azerbaijan,Hajigabul

@@ -1,0 +1,22 @@
+{
+    "Table_1": {
+        "headers": ["Event_id", "Episode", "Countries", "Start_date", "Duration", "Impact", "Event_summary"],
+        "xpath": "//*[@id='alert_summary_left']/table/tbody",
+        "col_limit": 5
+    },
+    "Table_2": {
+        "headers": ["Event_id", "Episode", "Id", "Alert", "Score", "Date", "Description_impact", "Source"],
+        "xpath": "//*[@id='ctl00_CPH_GridViewEpisodes']/tbody",
+        "col_limit": 6
+    },
+    "Table_3": {
+        "headers": ["Event_id", "Episode", "Country"],
+        "xpath": "//*[@id='countries']/table/tbody",
+        "col_limit": 1
+    },
+    "Table_4": {
+        "headers": ["Event_id", "Episode", "Agri", "Name", "Country"],
+        "xpath": "//*[@id='aru']/table/tbody",
+        "col_limit": 3
+    }
+}

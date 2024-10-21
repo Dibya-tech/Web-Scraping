@@ -1,0 +1,58 @@
+Event_id,Episode,Region_province,Country,Population
+1449230,1597953,Taiwan,Taiwan,160000 people
+1449263,1597993,Alaska,United States,no people
+1449314,1598055,Tarapaca,Chile,3700 people
+1449336,1598085,Kanto,Japan,2 million people
+1449346,1598095,Escuintla,Guatemala,190000 people
+1449346,1598095,Suchitepequez,Guatemala,4500 people
+1449347,1598114,Taiwan,Taiwan,6900 people
+1449348,1598099,Southern Mindanao,Philippines,140000 people
+1449354,1598106,San Salvador,El Salvador,1.6 million people
+1449354,1598106,Cuscatlan,El Salvador,260000 people
+1449354,1598106,La Paz,El Salvador,88000 people
+1449354,1598106,Cabanas,El Salvador,54000 people
+1449354,1598106,San Vicente,El Salvador,23000 people
+1449354,1598106,La Libertad,El Salvador,110000 people
+1449364,1598126,Jujuy,Argentina,4600 people
+1449364,1598126,Salta,Argentina,<1000 people
+1449369,1598127,Duarte,Dominican Republic,280000 people
+1449369,1598127,Maria Trinidad S,Dominican Republic,49000 people
+1449369,1598127,Sanchez Ramirez,Dominican Republic,63000 people
+1449369,1598127,La Vega,Dominican Republic,2600 people
+1449369,1598127,Salcedo,Dominican Republic,1100 people
+1449395,1598167,Irian Jaya,Indonesia,<1000 people
+1449518,1598322,Jujuy,Argentina,<1000 people
+1449518,1598322,Salta,Argentina,<1000 people
+1449518,1598322,Antofagasta,Chile,<1000 people
+1449552,1598707,West Sepik,Papua New Guinea,<1000 people
+1449552,1598707,East Sepik,Papua New Guinea,no people
+1449552,1598707,Southern Highlands,Papua New Guinea,no people
+1449585,1598401,Malatya,Türkiye,30000 people
+1449585,1598401,Elazig,Türkiye,7800 people
+1449585,1598401,Adiyaman,Türkiye,<1000 people
+1449591,1598413,Kanto,Japan,2.2 million people
+1449621,1598459,Taiwan,Taiwan,160000 people
+1449653,1598487,Badakhshan,Afghanistan,36000 people
+1449665,1598505,Harerge,Ethiopia,67000 people
+1449665,1598505,Shewa,Ethiopia,55000 people
+1449680,1598529,Xinjiang,China,24000 people
+1449736,1598610,Sivas,Türkiye,12000 people
+1449780,1598683,Santiago de Cuba,Cuba,<1000 people
+1449819,1598740,Vanuatu,Vanuatu,1000 people
+1449849,1598764,Northern Solomons,Papua New Guinea,<1000 people
+1449875,1598792,Solomon Is.,Solomon Islands,<1000 people
+1450039,1598994,Antofagasta,Chile,<1000 people
+1450039,1598994,Salta,Argentina,no people
+1450049,1599004,Morobe,Papua New Guinea,8100 people
+1450049,1599004,Madang,Papua New Guinea,7600 people
+1450050,1599008,Sulawesi Tengah,Indonesia,26000 people
+1450061,1599019,Atacama,Chile,<1000 people
+1450066,1599028,Hokkaido,Japan,no people
+1450091,1599062,Sulawesi Tengah,Indonesia,8700 people
+1450091,1599062,Sulawesi Utara,Indonesia,<1000 people
+1450096,1599067,Coquimbo,Chile,<1000 people
+1450096,1599067,Atacama,Chile,<1000 people
+1450141,1599134,Jujuy,Argentina,<1000 people
+1450160,1599148,Dushanbe,Tajikistan,<1000 people
+1450160,1599148,Xinjiang,China,<1000 people
+1450160,1599148,Osh,Kyrgyzstan,<1000 people

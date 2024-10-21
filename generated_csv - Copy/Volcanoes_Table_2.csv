@@ -1,0 +1,278 @@
+Event_id,Episode,ID,Alert,Date,Eruption_details,Source
+1000000,49,1,VO,26 Sep 2020 00:00,Eruption at 2020-09-26 14:13 UTC significant ash blw flight level 110 (3300m).,TOULOUSE
+1000000,49,4,VO,23 Oct 2020 00:00,Eruption at 2020-10-23 05:53 UTC significant ash emission ongoing.,TOULOUSE
+1000000,49,5,VO,14 Dec 2020 00:00,Eruption at 2020-12-13 22:15 UTC explosive activity ongoing.,TOULOUSE
+1000000,49,6,VO,15 Dec 2020 00:00,Eruption at 2020-12-13 22:15 UTC explosive activity ongoing.,TOULOUSE
+1000000,49,7,VO,21 Dec 2020 00:00,Eruption at 2020-12-21 09:09 UTC ongoing eruption.,TOULOUSE
+1000000,49,8,VO,22 Dec 2020 00:00,Eruption at 2020-12-22 02:00 UTC strong explosive activity is observed.,TOULOUSE
+1000000,49,9,VO,04 Jan 2021 00:00,,TOULOUSE
+1000000,49,10,VO,07 Jan 2021 00:00,,TOULOUSE
+1000000,49,11,VO,18 Jan 2021 00:00,Eruption at 2021-01-18 20:21 UTC sporadic ash emission still.,TOULOUSE
+1000000,49,12,VO,16 Feb 2021 00:00,Eruption at 2021-02-16 16:10 UTC eruption ash decreasing.,TOULOUSE
+1000000,49,13,VO,17 Feb 2021 00:00,Eruption at 2021-02-16 16:10 UTC eruption ash decreasing.,TOULOUSE
+1000000,49,14,VO,18 Feb 2021 00:00,Eruption at 2021-02-18 00:50 UTC strong ash emission ongoing.,TOULOUSE
+1000000,49,15,VO,19 Feb 2021 00:00,"Eruption at 2021-02-19 08:53 UTC has decreased, no more ash emission.",TOULOUSE
+1000000,49,16,VO,23 Feb 2021 00:00,Eruption at 2021-02-23 04:46 UTC strong stromb. Activity.,TOULOUSE
+1000000,49,17,VO,25 Feb 2021 00:00,Eruption at 2021-02-24 18:05 UTC strombolian eruption in progress.,TOULOUSE
+1000000,49,18,VO,28 Feb 2021 00:00,Eruption at 2021-02-28 08:11 UTC strombolian activity still observed.,TOULOUSE
+1000000,49,19,VO,02 Mar 2021 00:00,Eruption at 2021-03-02 13:15 UTC cloud height estimated at 35000ft.,TOULOUSE
+1000000,49,20,VO,04 Mar 2021 00:00,Eruption at 2021-03-04 08:17 UTC very strong ash emission ongoing.,TOULOUSE
+1000000,49,21,VO,07 Mar 2021 00:00,Eruption at 2021-03-07 06:24 UTC strong strombolian activity.,TOULOUSE
+1000000,49,22,VO,10 Mar 2021 00:00,Eruption at 2021-03-10 00:00 UTC activity has decreased.,TOULOUSE
+1000000,49,23,VO,12 Mar 2021 00:00,Eruption at 2021-03-12 06:15 UTC activity has decreased.,TOULOUSE
+1000000,49,24,VO,15 Mar 2021 00:00,Eruption at 2021-03-14 22:30 UTC activity has decreased.,TOULOUSE
+1000000,49,25,VO,17 Mar 2021 00:00,Eruption at 2021-03-17 02:20 UTC end of eruption at 05:51 UTC.,TOULOUSE
+1000000,49,26,VO,19 Mar 2021 00:00,Eruption at 2021-03-19 08:20 UTC ash emission has decreased.,TOULOUSE
+1000000,49,27,VO,24 Mar 2021 00:00,Eruption at 2021-03-24 02:45 UTC ongoing eruption with ash emission.,TOULOUSE
+1000000,49,28,VO,01 Apr 2021 00:00,Eruption at 2021-03-31 19:11 UTC with ash emission.,TOULOUSE
+1000000,49,29,VO,19 May 2021 00:00,Eruption at 2021-05-19 01:21 UTC eruption ongoing.,JRC
+1000000,49,30,VO,21 May 2021 00:00,Eruption at 2021-05-21 00:58 UTC lava fountain is observation at summit.,TOULOUSE
+1000000,49,31,VO,25 May 2021 00:00,Eruption at 2021-05-25 16:20 UTC eruption has decreased.,TOULOUSE
+1000000,49,32,VO,26 May 2021 00:00,Eruption at 2021-05-26 10:50 UTC renewed activity top of clouds flight level 250 (7500m).,TOULOUSE
+1000000,49,33,VO,31 May 2021 00:00,Eruption at 2021-05-30 04:00 UTC lava fountain at summit.,TOULOUSE
+1000000,49,34,VO,17 Jun 2021 00:00,Eruption at 2021-06-17 22:30 UTC explosive activity in progress.,TOULOUSE
+1000000,49,35,VO,18 Jun 2021 00:00,Eruption at 2021-06-17 22:40 UTC eruption over.,TOULOUSE
+1000000,49,36,VO,22 Jun 2021 00:00,"Eruption at 2021-06-22 03:05 UTC , still ongoing.",TOULOUSE
+1000000,49,37,VO,26 Jun 2021 00:00,Eruption at 2021-06-26 14:50 UTC no significant ash cloud produced.,TOULOUSE
+1000000,49,38,VO,02 Jul 2021 00:00,Eruption at 2021-07-01 22:40 UTC strombolian activity with ash emission.,TOULOUSE
+1000000,49,39,VO,07 Jul 2021 00:00,Eruption at 2021-07-06 22:00 UTC ash cloud toward se.,TOULOUSE
+1000000,49,40,VO,14 Jul 2021 00:00,Eruption at 2021-07-14 10:22 UTC lava fountain is observed.,TOULOUSE
+1000000,49,41,VO,20 Jul 2021 00:00,Eruption at 2021-07-20 03:39 UTC with strong ash emission.,TOULOUSE
+1000000,49,42,VO,01 Aug 2021 00:00,Eruption at 2021-07-31 18:00 UTC eruption has stopped.,TOULOUSE
+1000000,49,43,VO,04 Aug 2021 00:00,Eruption at 2021-08-04 13:10 UTC explosive activity ongoing.,TOULOUSE
+1000000,49,44,VO,09 Aug 2021 00:00,Eruption at 2021-08-08 22:30 UTC explosive activity over.,TOULOUSE
+1000000,49,45,VO,21 Sep 2021 00:00,Eruption at 2021-09-21 07:10 UTC eruption still ongoing.,TOULOUSE
+1000000,49,46,VO,23 Oct 2021 00:00,Eruption at 2021-10-23 08:15 UTC eruption still ongoing.,TOULOUSE
+1000000,49,47,VO,15 Dec 2021 00:00,Eruption at 2021-12-14 11:15 UTC ongoing eruption.,TOULOUSE
+1000000,49,48,VO,10 Feb 2022 19:17,Eruption at 2022-02-10 18:40 UTC weakening ash emission.,TOULOUSE
+1000000,49,49,VO,21 Feb 2022 11:27,Eruption at 2022-02-21 11:14 UTC weak ash emission ongoing.,TOULOUSE
+1000002,1,1,VO,22 Oct 2020 00:00,Residual volcanic ash from 2020-10-21 20:22 UTC eruption.,TOKYO
+1000003,1,1,VO,03 Nov 2020 00:00,Discrete volcanic ash eruption to flight level 120 (3600m) move e observation at 02 1710 UTC.,DARWIN
+1000004,6,1,VO,06 Nov 2020 00:00,,JRC
+1000004,6,2,VO,12 Nov 2020 00:00,,JRC
+1000004,6,3,VO,30 Nov 2020 00:00,,JRC
+1000004,6,4,VO,07 Jan 2021 00:00,Disctrete eruption to flight level 100 (3000m).,DARWIN
+1000004,6,5,VO,27 Jan 2021 00:00,Localised volcanic ash emission to flight level 120 (3600m).,DARWIN
+1000004,6,6,VO,28 Jan 2021 00:00,Localised volcanic ash emission to flight level 120 (3600m).,DARWIN
+1000005,1,1,VO,27 Nov 2020 00:00,,JRC
+1000006,4,1,VO,30 Nov 2020 00:00,Continuous volcanic ash emission to flight level 100 (3000m) last observation before a break in coverage at a manual station observation move ne at 30 0320 UTC.,DARWIN
+1000006,4,2,VO,03 Dec 2020 00:00,Volcanic ash emission to flight level 100 (3000m) last observation before a break in coverage at a manual station observation at 03 0030 UTC move w.,DARWIN
+1000006,4,3,VO,04 Dec 2020 00:00,Volcanic ash to flight level 100 (3000m) observation at 03 2310 UTC move w.,DARWIN
+1000006,4,4,VO,06 Dec 2020 00:00,Ongoing volcanic ash emissions to flight level 80 (2400m) move se.,DARWIN
+1000007,1,1,VO,01 Dec 2020 00:00,Continuous eruption to flight level 200 (6000m) move se.,DARWIN
+1000008,1,1,VO,07 Dec 2020 00:00,Eruption at 2020-12-07 00:40 UTC no ash cloud.,TOULOUSE
+1000009,1,1,VO,21 Dec 2020 00:00,,WASHINGTON
+1000010,1,1,VO,10 Feb 2021 00:00,,WASHINGTON
+1000011,1,1,VO,15 Feb 2021 00:00,,WASHINGTON
+1000012,5,1,VO,19 Feb 2021 00:00,,JRC
+1000012,5,2,VO,02 Jul 2021 00:00,Eruption flight level 20 (600m) reported at 2021-07-01 11:32 UTC.,TOKYO
+1000012,5,3,VO,06 Jul 2021 00:00,Eruption flight level 20 (600m) extend se reported at 2021-07-06 21:34 UTC.,TOKYO
+1000012,5,4,VO,07 Jul 2021 00:00,Eruption flight level 20 (600m) extend southwest reported at 2021-07-07 23:00 UTC.,TOKYO
+1000012,5,5,VO,08 Jul 2021 00:00,Eruption volcanic ash cloud reported at 2021-07-08 19:07 UTC.,TOKYO
+1000013,3,1,VO,02 Mar 2021 00:00,"Volcanic ash eruption to flight level 150 (4500m) move w, last observation before a break in coverage at a manual station observation 02 0910 UTC.",DARWIN
+1000013,3,2,VO,05 Mar 2021 00:00,Volcanic ash to flight level 100 (3000m) last observation before a break in coverage at a manual station observation at 05 0030 UTC move nw.,DARWIN
+1000013,3,3,VO,11 Mar 2021 00:00,Regular intermittent eruptions reported to flight level 100 (3000m).,DARWIN
+1000014,5,1,VO,04 Mar 2021 00:00,Volcanic ash emission has disp.,WASHINGTON
+1000014,5,2,VO,17 Mar 2021 00:00,Volcanic ash emission disp.,WASHINGTON
+1000014,5,3,VO,25 Mar 2021 00:00,Prev volcanic ash emission disp.,WASHINGTON
+1000014,5,4,VO,01 Apr 2021 00:00,"Continuous volcanic ash ems,.",WASHINGTON
+1000014,5,5,VO,23 Apr 2021 00:00,,JRC
+1000015,1,1,VO,11 Mar 2021 00:00,,JRC
+1000016,1,1,VO,12 Mar 2021 00:00,Exploded at 2021-03-12 04:18 UTC volcanic ash cloud.,TOKYO
+1000017,1,1,VO,12 Mar 2021 00:00,Volcanic ash em not dtctd.,WASHINGTON
+1000018,1,1,VO,20 Mar 2021 00:00,Krisuvik.,MONTREAL
+1000020,5,1,VO,09 Apr 2021 00:00,Continue explosive eruption.,WASHINGTON
+1000020,5,2,VO,12 Apr 2021 00:00,Eruption at 2021-04-09 19:00 UTC continue volcanic ash aloft.,TOULOUSE
+1000020,5,3,VO,15 Apr 2021 00:00,Remnant volcanic ash from earlier eruption.,WASHINGTON
+1000020,5,4,VO,19 Apr 2021 00:00,Prev volcanic ash emission disp.,WASHINGTON
+1000020,5,5,VO,23 Apr 2021 00:00,Reminent volcanic ash disp.,WASHINGTON
+1000021,1,1,VO,19 May 2021 00:00,Eruption at 2021-05-19 13:00 UTC feeble ash emission ongoing.,JRC
+1000023,7,1,VO,23 May 2021 00:00,Eruption at 2021-05-22 18:00 UTC no significant eruption detected.,TOULOUSE
+1000023,7,2,VO,24 May 2021 00:00,Eruption at 2021-05-22 18:00 UTC no significant eruption detected.,TOULOUSE
+1000023,7,3,VO,25 May 2021 00:00,Eruption at 2021-05-22 18:00 UTC no significant eruption detected.,TOULOUSE
+1000023,7,4,VO,26 May 2021 00:00,Eruption at 2021-05-22 16:30 UTC strong seismic activity.,TOULOUSE
+1000023,7,5,VO,27 May 2021 00:00,Eruption at 2021-05-22 16:30 UTC volcanic activity is decreasing.,TOULOUSE
+1000023,7,6,VO,31 May 2021 00:00,Eruption at 2021-05-22 16:30 UTC still ongoing.,TOULOUSE
+1000023,7,7,VO,04 Jun 2021 00:00,Eruption at 2021-05-22 16:30 UTC eruption still ongoing.,TOULOUSE
+1000024,1,1,VO,26 May 2021 00:00,Volcanic ash not observation.,WASHINGTON
+1000025,1,1,VO,26 May 2021 00:00,Volcano erupted at 05:04 UTC.,ANCHORAGE
+1000026,1,1,VO,21 Jun 2021 00:00,Continue volcanic ash emission.,WASHINGTON
+1000027,1,1,VO,21 Jun 2021 00:00,,JRC
+1000028,1,1,VO,24 Jun 2021 00:00,Exploded at 2021-06-24 21:07 UTC flight level 80 (2400m) extend north.,TOKYO
+1000029,1,1,VO,29 Jul 2021 00:00,Volcanic ash to flight level 150 (4500m) last observation before a break in coverage at a manual station observation 28 0820 UTC move s/se.,DARWIN
+1000030,1,1,VO,09 Aug 2021 00:00,Volcanic ash emission to flight level 100 (3000m) extend wnw observation at 09 2330 UTC.,DARWIN
+1000031,41,1,VO,19 Sep 2021 00:00,Eruption at 2021-09-19 14:10 UTC intense lava fountains ongoing.,JRC
+1000031,41,2,VO,21 Sep 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing intense lava fountains.,TOULOUSE
+1000031,41,3,VO,24 Sep 2021 00:00,Eruption at 2021-09-19 14:10 UTC with ash emission ongoing.,TOULOUSE
+1000031,41,4,VO,27 Sep 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission weakening.,TOULOUSE
+1000031,41,5,VO,28 Sep 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing eruption.,TOULOUSE
+1000031,41,6,VO,29 Sep 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,7,VO,30 Sep 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,8,VO,05 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing eruption.,TOULOUSE
+1000031,41,9,VO,07 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash eruption.,TOULOUSE
+1000031,41,10,VO,08 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash.,TOULOUSE
+1000031,41,11,VO,11 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,12,VO,12 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,13,VO,13 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,14,VO,14 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,15,VO,15 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,16,VO,19 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,17,VO,20 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,18,VO,21 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing eruption.,TOULOUSE
+1000031,41,19,VO,22 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,20,VO,25 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,21,VO,27 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,22,VO,29 Oct 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,23,VO,02 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,24,VO,03 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing strong ash emission.,TOULOUSE
+1000031,41,25,VO,04 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,26,VO,05 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,27,VO,08 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,28,VO,11 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,29,VO,12 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,30,VO,15 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,31,VO,19 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,32,VO,22 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,33,VO,25 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,34,VO,29 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,35,VO,30 Nov 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,36,VO,01 Dec 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,37,VO,02 Dec 2021 00:00,Eruption at 2021-09-19 14:10 UTC ongoing ash emission.,TOULOUSE
+1000031,41,38,VO,06 Dec 2021 00:00,Eruption at 2021-09-19 14:10 UTC low ash emission ongoing.,TOULOUSE
+1000031,41,39,VO,07 Dec 2021 00:00,Eruption at 2021-09-19 14:10 UTC low ash emission ongoing.,TOULOUSE
+1000031,41,40,VO,09 Dec 2021 00:00,Eruption at 2021-09-19 14:10 UTC ash emission ongoing.,TOULOUSE
+1000031,41,41,VO,15 Dec 2021 00:00,Eruption at 2021-09-19 14:10 UTC no ash emission.,TOULOUSE
+1000032,1,1,VO,30 Sep 2021 00:00,Possible volcanic ash emission.,WASHINGTON
+1000033,4,1,VO,20 Oct 2021 00:00,Volcanic ash to flight level 80 (2400m) move w.,DARWIN
+1000033,4,2,VO,21 Oct 2021 00:00,Volcanic ash to flight level 80 (2400m) move w last observation before a break in coverage at a manual station observation 22:23 UTC.,DARWIN
+1000033,4,3,VO,17 Dec 2021 00:00,Volcanic ash to flight level 100 (3000m) ext se last observation before a break in coverage at a manual station observation 17 1620 UTC.,DARWIN
+1000033,4,4,VO,23 Dec 2021 00:00,"Continuous volcanic ash emission to 160, last observation before a break in coverage at a manual station observation at 22 0400 UTC ext e.",DARWIN
+1000034,1,1,VO,22 Nov 2021 00:00,,JRC
+1000035,5,1,VO,04 Dec 2021 00:00,"Volcanic ash to flight level 500 (15000m) and flight level 300 (9000m) move sw, localised weak volcanic ash to flight level 150 (4500m) estimate volcanic ash dtg: 04 2100 UTC.",DARWIN
+1000035,5,2,VO,05 Dec 2021 00:00,"Volcanic ash to flight level 500 (15000m) and flight level 300 (9000m) move sw, localised weak volcanic ash to flight level 150 (4500m).",DARWIN
+1000035,5,3,VO,09 Dec 2021 00:00,,JRC
+1000035,5,4,VO,23 Dec 2021 00:00,Suspended volcanic ash to flight level 130 (3900m) move ssw observation at 22 1511 UTC.,DARWIN
+1000035,5,5,VO,03 Jan 2022 00:00,Volcanic ash reported to flight level 140 (4200m) at 03 2238 UTC.,DARWIN
+1000036,5,1,VO,20 Dec 2021 00:00,Steam.,WELLINGTON
+1000036,5,2,VO,23 Dec 2021 00:00,"Eruption at 2021-12-19 20:30 UTC ongoing, cyclic eruption with plume extending to flight level 340 (10200m).",WELLINGTON
+1000036,5,3,VO,14 Jan 2022 00:00,,WELLINGTON
+1000036,5,4,VO,16 Jan 2022 22:10,Large eruption observation volcanic ash dtg: 16 2130 UTC.,WELLINGTON
+1000036,5,5,VO,18 Jan 2022 00:00,High level volcanic ash 420/630 observation move w at 18/1800z.,DARWIN
+1000037,1,1,VO,04 Feb 2022 00:00,Continuous volcanic ash emissions to flight level 70 (2100m) ext e.,DARWIN
+1000038,1,1,VO,10 Mar 2022 07:47,,WASHINGTON
+1000039,1,1,VO,09 Mar 2022 17:17,Volcanic ash eruption to flight level 200 (6000m) move nnw observation at 09 1700 UTC.,DARWIN
+1000040,1,1,VO,14 Mar 2022 22:33,Vona state eruption to flight level 270 (8100m) at 14 2203 UTC.,DARWIN
+1000041,2,1,VO,16 Mar 2022 21:32,Volcanic ash to flight level 100 (3000m) observation at 16 2110 UTC move nw.,DARWIN
+1000041,2,2,VO,21 Mar 2022 21:30,Volcanic ash reported near summit at 21 2112 UTC.,DARWIN
+1000042,1,1,VO,28 Mar 2022 09:45,,TOKYO
+1000043,1,1,VO,04 Apr 2022 07:25,,WASHINGTON
+1000044,1,1,VO,20 Apr 2022 08:06,,DARWIN
+1000045,1,1,VO,25 Apr 2022 18:20,Continuous volcanic ash emission to flight level 100 (3000m) extension to ne.,DARWIN
+1000046,1,1,VO,03 Jun 2022 07:33,,JRC
+1000047,1,1,VO,02 Jun 2022 15:01,Eruption at 2022-06-01 17:46 UTC weak ash emission moving south.,TOULOUSE
+1000048,3,1,VO,06 Jun 2022 07:26,,TOKYO
+1000048,3,2,VO,10 Jun 2022 11:45,,JRC
+1000048,3,3,VO,13 Jun 2022 07:52,,DARWIN
+1000049,1,1,VO,07 Jul 2022 08:04,,JRC
+1000050,1,1,VO,25 Jul 2022 09:00,,TOKYO
+1000051,1,1,VO,03 Aug 2022 15:20,Effusive lava eruption.,LONDON
+1000052,1,1,VO,19 Sep 2022 04:27,Eruption at 2022-09-19 04:10 UTC strombolian eruption.,TOULOUSE
+1000053,2,1,VO,09 Oct 2022 07:22,,JRC
+1000053,2,2,VO,04 Dec 2022 16:10,Eruption at 2022-12-04 15:48 UTC feeble ash cloud produced.,TOULOUSE
+1000054,1,1,VO,22 Nov 2022 08:44,,WASHINGTON
+1000055,2,1,VO,28 Nov 2022 10:22,Volcanic ash emission observation.,WASHINGTON
+1000055,2,2,VO,04 Dec 2022 09:57,,JRC
+1000056,1,1,VO,30 Nov 2022 07:44,,WASHINGTON
+1000057,3,1,VO,04 Dec 2022 03:05,Discrete volcanic ash eruption to flight level 500 (15000m) observation 04 0230 UTC.,DARWIN
+1000057,3,2,VO,05 Dec 2022 07:05,Volcanic ash last observation before a break in coverage at a manual station observation on webcam to flight level 160 (4800m) at 05 0300 UTC.,DARWIN
+1000057,3,3,VO,07 Dec 2022 06:50,Volcanic ash to flight level 160 (4800m) last observation before a break in coverage at a manual station observation at 06 2259 UTC move nw.,DARWIN
+1000058,1,1,VO,12 Dec 2022 07:38,,BUENOS AIRES
+1000059,1,1,VO,13 Dec 2022 08:07,,WASHINGTON
+1000060,1,1,VO,21 Dec 2022 07:32,,WASHINGTON
+1000061,1,1,VO,06 Jan 2023 07:41,,JRC
+1000062,1,1,VO,12 Mar 2023 18:10,Eruption underway height.,DARWIN
+1000063,1,1,VO,14 Mar 2023 13:45,Eruption at 2023-03-13 16:00 UTC lava fountains.,TOULOUSE
+1000064,1,1,VO,31 Mar 2023 07:40,,JRC
+1000065,1,1,VO,05 Apr 2023 07:17,,WASHINGTON
+1000066,1,1,VO,12 Apr 2023 07:41,,ANCHORAGE
+1000067,1,1,VO,19 Apr 2023 20:00,Volcanic ash to flight level 150 (4500m) last observation before a break in coverage at a manual station observation 19 0130 UTC move southwest.,DARWIN
+1000068,1,1,VO,24 Apr 2023 08:43,,WASHINGTON
+1000069,1,1,VO,05 May 2023 07:33,,WASHINGTON
+1000070,2,1,VO,19 May 2023 07:23,,WASHINGTON
+1000070,2,2,VO,23 May 2023 08:48,,WASHINGTON
+1000071,1,1,VO,21 May 2023 23:51,Eruption at 2023-05-21 06:15 UTC volcanic ash emission has ceased.,TOULOUSE
+1000072,7,1,VO,09 Jun 2023 07:26,,TOKYO
+1000072,7,2,VO,13 Jun 2023 07:27,,TOKYO
+1000072,7,3,VO,15 Jun 2023 12:16,,TOKYO
+1000072,7,4,VO,20 Jun 2023 07:52,,TOKYO
+1000072,7,5,VO,27 Jun 2023 08:21,,TOKYO
+1000072,7,6,VO,03 Jul 2023 11:37,,TOKYO
+1000072,7,7,VO,01 Aug 2023 08:44,,JRC
+1000073,1,1,VO,03 Jul 2023 11:37,,BUENOS AIRES
+1000074,1,1,VO,05 Jul 2023 14:49,Volcanic ash observation from ground move southwest at 05 1405 UTC.,DARWIN
+1000075,1,1,VO,20 Jul 2023 07:40,,JRC
+1000076,1,1,VO,13 Aug 2023 21:12,Eruption at 2023-08-13 19:30 UTC strong explosive activity.,TOULOUSE
+1000077,1,1,VO,26 Sep 2023 10:03,,BUENOS AIRES
+1000078,1,1,VO,01 Nov 2023 22:10,Volcanic ash emissions continue.,TOKYO
+1000080,10,1,VO,12 Nov 2023 14:10,,JRC
+1000080,10,2,VO,15 Nov 2023 15:05,,JRC
+1000080,10,3,VO,21 Nov 2023 15:16,,JRC
+1000080,10,4,VO,27 Nov 2023 11:22,,JRC
+1000080,10,5,VO,19 Dec 2023 08:14,,JRC
+1000080,10,6,VO,20 Dec 2023 16:14,,LONDON
+1000080,10,7,VO,14 Jan 2024 18:53,Effusive eruption started.,LONDON
+1000080,10,8,VO,08 Feb 2024 10:04,Effusive eruption started.,LONDON
+1000080,10,9,VO,04 Mar 2024 08:59,,LONDON
+1000080,10,10,VO,18 Mar 2024 08:51,,JRC
+1000081,1,1,VO,20 Nov 2023 19:15,Volcanic ash observation to flight level 600 (18000m) extend se and to flight level 500 (15000m) extend w at 20 1840 UTC.,DARWIN
+1000082,1,1,VO,22 Nov 2023 23:00,"Continuous volcanic ash to 120, last observation before a break in coverage at a manual station observation move w at 22 2230 UTC.",DARWIN
+1000083,1,1,VO,27 Nov 2023 21:08,Volcanic ash to flight level 70 (2100m) observation from ground at 27 1700 UTC.,DARWIN
+1000084,3,1,VO,03 Dec 2023 08:42,High-level eruption to flight level 500 (15000m) move wsw.,DARWIN
+1000084,3,2,VO,15 Jan 2024 00:00,Volcanic ash to flight level 140 (4200m) last observation before a break in coverage at a manual station observation at 15 0120 UTC.,DARWIN
+1000084,3,3,VO,29 Feb 2024 22:30,Volcanic ash to flight level 150 (4500m) last observation before a break in coverage at a manual station observation at 29 1920 UTC move southwest.,DARWIN
+1000085,2,1,VO,02 Jan 2024 23:51,Continuous volcanic ash to flight level 90 (2700m) move wnw last observation before a break in coverage at a manual station observation at 02 2330 UTC.,DARWIN
+1000085,2,2,VO,11 Jan 2024 19:00,Volcanic ash to flight level 80 (2400m) move ese observation from ground at 11 1036 UTC.,DARWIN
+1000086,1,1,VO,23 Jan 2024 08:31,,DARWIN
+1000087,1,1,VO,28 Feb 2024 07:23,,WASHINGTON
+1000088,3,1,VO,16 Apr 2024 23:13,High level eruption to flight level 450 (13500m) observation move w/nw of summit at 16 2250 UTC.,DARWIN
+1000088,3,2,VO,21 Apr 2024 00:45,Volcanic ash to flight level 70 (2100m) observation at 21 0030 UTC move southwest.,DARWIN
+1000088,3,3,VO,29 Apr 2024 23:40,High level eruption to flight level 630 (18900m) move w.,DARWIN
+1000089,3,1,VO,14 May 2024 03:40,Volcanic ash to flight level 210 (6300m) move south last observation before a break in coverage at a manual station observation at 13 0320 UTC.,DARWIN
+1000089,3,2,VO,20 May 2024 12:33,Volcanic ash to flight level 200 (6000m) last observation before a break in coverage at a manual station observation move southwest at 20 1000 UTC.,DARWIN
+1000089,3,3,VO,30 May 2024 23:30,Volcanic ash observation to flight level 180 (5400m) at 29 0710 UTC.,DARWIN
+1000090,2,1,VO,29 May 2024 17:26,Ongoing effusive eruption with small ash explosion.,LONDON
+1000090,2,2,VO,09 Jun 2024 13:14,,LONDON
+1000091,1,1,VO,30 May 2024 18:54,Volcanic ash to flight level 200 (6000m) last observation before a break in coverage at a manual station observation at 30 0640 UTC move nw.,DARWIN
+1000092,2,1,VO,04 Jun 2024 08:57,,DARWIN
+1000092,2,2,VO,09 Jun 2024 22:20,,DARWIN
+1000093,1,1,VO,18 Jun 2024 21:50,Intermittent discrete volcanic ash to flight level 100 (3000m) move w.,DARWIN
+1000094,2,1,VO,04 Jul 2024 21:01,Eruption at 2024-07-04 15:43 UTC estimated cloud heigt at 2000m.,TOULOUSE
+1000094,2,2,VO,11 Jul 2024 18:52,Eruption at 2024-07-11 12:30 UTC explosive activity still in progress.,TOULOUSE
+1000095,2,1,VO,05 Jul 2024 00:00,Eruption at 2024-07-04 15:30 UTC is weakening.,TOULOUSE
+1000095,2,2,VO,23 Jul 2024 07:54,Eruption at 2024-07-22 20:44 UTC strong ash emission ongoing.,TOULOUSE
+1000096,1,1,VO,22 Aug 2024 00:33,Eruption at 2024-08-12 13:20 UTC continuous low level eruption.,WELLINGTON
+1000097,1,1,VO,22 Aug 2024 21:43,Ongoing in the sundhnukar crater.,LONDON
+1000098,1,1,VO,13 Sep 2024 08:21,,JRC
+1000099,1,1,VO,14 Oct 2024 18:40,Volcanic ash to flight level 80 (2400m) reported at 14 1230 UTC move w.,DARWIN
+211060,11,1,VO,19 Jul 2019 00:00,,TOULOUSE
+211060,11,2,VO,01 Oct 2019 00:00,,TOULOUSE
+211060,11,3,VO,07 Oct 2019 00:00,,TOULOUSE
+211060,11,4,VO,11 Oct 2019 00:00,,TOULOUSE
+211060,11,5,VO,17 Oct 2019 00:00,,TOULOUSE
+211060,11,6,VO,03 Dec 2019 00:00,,TOULOUSE
+211060,11,7,VO,19 Apr 2020 00:00,,TOULOUSE
+211060,11,8,VO,09 May 2020 00:00,,TOULOUSE
+211060,11,9,VO,22 May 2020 00:00,,TOULOUSE
+211060,11,10,VO,14 Aug 2020 00:00,,TOULOUSE
+211060,11,11,VO,28 Aug 2020 00:00,,TOULOUSE
+252010,1,1,VO,03 Aug 2020 00:00,,DARWIN
+261080,3,1,VO,11 Jun 2019 00:00,,JRC
+261080,3,2,VO,10 Aug 2020 00:00,,DARWIN
+261080,3,3,VO,14 Aug 2020 00:00,,DARWIN
+352090,7,1,VO,21 Nov 2019 00:00,,WASHINGTON
+352090,7,2,VO,20 Dec 2019 00:00,,WASHINGTON
+352090,7,3,VO,10 Jun 2020 00:00,,WASHINGTON
+352090,7,4,VO,21 Sep 2020 00:00,,WASHINGTON
+352090,7,5,VO,30 Sep 2020 00:00,,WASHINGTON
+352090,7,6,VO,01 Oct 2020 00:00,,WASHINGTON
+352090,7,7,VO,06 Oct 2020 00:00,,WASHINGTON
