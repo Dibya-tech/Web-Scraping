@@ -5,7 +5,7 @@
         "col_limit": 8
     },
     "Table_2": {
-        "headers": ["Event_id", "Episode", "ID", "Alert", "Score", "Date", "Mag,Depth", "MMI", "Population", "Tsunami Risk", "Delay", "Source"],
+        "headers": ["Event_id", "Episode", "ID", "Alert", "Score", "Date", "Mag,Depth", "MMI", "Population", "Tsunami_Risk", "Delay", "Source"],
         "xpath": "//*[@id='ctl00_CPH_GridViewEpisodes']/tbody",
         "col_limit": 10
     },

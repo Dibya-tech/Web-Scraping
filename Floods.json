@@ -5,17 +5,17 @@
         "col_limit": 6
     },
     "Table_2": {
-        "headers": ["Event_id", "Episode", "SendAI Indicator A", "N", "Country", "Location"],
+        "headers": ["Event_id", "Episode", "SendAI_Indicator_A", "N", "Country", "Location"],
         "xpath": "//th[text()='SENDAI Indicator A']/ancestor::table/tbody",
         "col_limit": 4
     },
     "Table_3": {
-        "headers": ["Event_id", "Episode", "SendAI Indicator B", "N", "Country", "Location"],
+        "headers": ["Event_id", "Episode", "SendAI_Indicator_B", "N", "Country", "Location"],
         "xpath": "//th[text()='SENDAI Indicator B']/ancestor::table/tbody",
         "col_limit": 4
     },
     "Table_4": {
-        "headers": ["Event_id", "Episode", "SendAI Indicator C", "N", "Country", "Location"],
+        "headers": ["Event_id", "Episode", "SendAI_Indicator_C", "N", "Country", "Location"],
         "xpath": "//th[text()='SENDAI Indicator C']/ancestor::table/tbody",
         "col_limit": 4
     },

@@ -529,7 +529,7 @@ GO
  
 -- import the file
 BULK INSERT [cyclone].[impact]
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Cyclones_Table_3.csv'
+FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Cyclones_Table_2.csv'
 WITH
 (
         FORMAT='CSV',
@@ -777,93 +777,6 @@ WITH
 )
 GO
 
--- import the file
-BULK INSERT volcano.summary
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_1.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-GO
--- import the file
-BULK INSERT volcano.timeline
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_2.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-GO
-
--- import the file
-BULK INSERT volcano.impact
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_3.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-GO
-
--- import the file
-BULK INSERT volcano.provinces
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_4.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-GO
-
--- import the file
-BULK INSERT volcano.cities
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_5.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-GO
-BULK INSERT volcano.airports
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_6.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-GO
-BULK INSERT volcano.[ports]
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_7.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-GO
-BULK INSERT volcano.dams
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_8.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-GO
-BULK INSERT volcano.nuclear_plants
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_9.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
-
-BULK INSERT volcano.affected_areas
-FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_10.csv'
-WITH
-(
-        FORMAT='CSV',
-        FIRSTROW=2
-)
 -- import the file
 BULK INSERT volcano.summary
 FROM 'D:\Web Scraping\Web-Scraping\generated_csv - Copy\Volcanoes_Table_1.csv'
